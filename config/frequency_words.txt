@@ -1,19 +1,59 @@
-DeepSeek
-梁文锋
+iPhone
+华为
+三星
+OPPO
+VIVO
+小米
+苹果
+!水果
+
+macOS
+ios
+
+AI
+大模型
 
 谷歌
 google
 gemini
+nano
 
 chatgpt
 openai
+gpt
+codex
+
+Claude
+Claude-code
+
+grok
+马斯克
+
+Kimi
+
+智谱AI
+GLM
+
+豆包
+
+可灵
+
+DeepSeek
+
+通义千问
+
+Agent
+
+A股
+上证
+深证
++涨跌
+!预测
 
 金价
 
 黄金
 +价格
-
-美债
 
 美股
 
@@ -22,4 +62,4 @@ openai
 
 特朗普
 
-伊朗
+基金
