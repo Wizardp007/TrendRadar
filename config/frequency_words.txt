@@ -41,6 +41,7 @@ GLM
 DeepSeek
 
 通义千问
+qwen
 
 Agent
 
