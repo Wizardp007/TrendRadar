@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T20:43:50.822397+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2025-10-20T22:20:51.938181+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
         {
           "title": "释疑｜普京向特朗普提新要求，顿巴斯因何成兵家必争？",
@@ -34,6 +34,20 @@
           "time_info": "[00时24分 ~ 09时46分]"
         },
         {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时45分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普对华服软,关税讹诈玩不转",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
           "source": "贴吧",
@@ -43,11 +57,12 @@
             17,
             19,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 22时20分]"
         },
         {
           "title": "特朗普：对华征收100%关税对美经济“不能持久”",
@@ -59,20 +74,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 14时33分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            15,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时45分 ~ 20时43分]"
         },
         {
           "title": "特朗普访韩期间，有机会与金正恩会面吗？",
@@ -106,6 +107,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时30分 ~ 20时43分]"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 22时20分]"
         },
         {
           "title": "特朗普泽连斯基再度激烈争吵：全程脏话、扔地图、训斥",
@@ -154,18 +167,6 @@
           "time_info": "[09时46分 ~ 11时22分]"
         },
         {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 20时43分]"
-        },
-        {
           "title": "泽连斯基：愿参加特朗普与普京的会晤",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
           "source": "百度热搜",
@@ -177,6 +178,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时45分 ~ 12时29分]"
+        },
+        {
+          "title": "特朗普对中国列出三大问题，中方表态",
+          "url": "https://news.ifeng.com/c/8nbema1wupK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
@@ -191,6 +203,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 06时26分]"
+        },
+        {
+          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
+          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时20分]"
         },
         {
           "title": "特朗普证实美国不会向加沙地带派遣地面部队",
@@ -213,7 +237,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -243,6 +267,17 @@
           "time_info": "[00时24分 ~ 06时26分]"
         },
         {
+          "title": "特朗普称顿巴斯78%地区已被俄控制",
+          "url": "https://www.toutiao.com/trending/7563092838465241151/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美媒爆特朗普疑似险遭暗杀",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E4%BC%BC%E9%99%A9%E9%81%AD%E6%9A%97%E6%9D%80%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26realpos%3D4%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25BE%258E%25E5%25AA%2592%25E7%2588%2586%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2596%2591%25E4%25BC%25BC%25E9%2599%25A9%25E9%2581%25AD%25E6%259A%2597%25E6%259D%2580%2523%26dgr%3D0%26pos%3D4%26flag%3D1%26band_rank%3D4%26display_time%3D1760941985%26pre_seqid%3D176094198517403621230156",
           "source": "微博",
@@ -264,17 +299,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 12时29分]"
-        },
-        {
-          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
-          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "美17州检察长起诉特朗普政府说明啥",
@@ -385,6 +409,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "内塔尼亚胡：我相信我们将与特朗普一起与该地区国家达成更多和平协议。",
+          "url": "https://flash.jin10.com/detail/20251020220324777800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "特朗普称俄乌应按当前战线“割裂”顿巴斯地区",
           "url": "https://wallstreetcn.com/livenews/2990457",
           "source": "华尔街见闻-快讯",
@@ -394,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "泽连斯基与特朗普对骂",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D10%26stream_entry_id%3D31%26q%3D%2523%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E9%25AA%2582%2523%26flag%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26pos%3D11%26realpos%3D10%26display_time%3D1760970023%26pre_seqid%3D17609700234530315998891",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "比特币涨超2.2%，试探11万美元。 美国参议院Lindsey Graham称，总统特朗普表态要针对哥伦比亚宣布关税（威胁）。 预计将在纽约时间10月19-29日宣布。 特朗普称他要“打击哥伦比亚”。 此前，特朗普掐断了美国对哥伦比亚的援助。",
@@ -431,6 +477,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时23分 ~ 20时43分]"
+        },
+        {
+          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+          "url": "https://www.zhihu.com/question/1963528380650614990",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
+          "url": "https://www.cls.cn/detail/2174574",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时20分]"
         },
         {
           "title": "特朗普：如果哈马斯不做他们应该做的事，我们会替他们做。",
@@ -592,17 +662,6 @@
           "time_info": "[00时24分 ~ 02时28分]"
         },
         {
-          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
-          "url": "https://www.cls.cn/detail/2174574",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "泽连斯基：愿意参加特朗普与普京在匈牙利的会晤",
           "url": "https://wallstreetcn.com/livenews/2990227",
           "source": "华尔街见闻-快讯",
@@ -664,18 +723,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
-          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-          "url": "https://www.zhihu.com/question/1963528380650614990",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -686,7 +734,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -741,9 +789,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
+          "url": "https://wallstreetcn.com/livenews/2990704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "特朗普：将“派兵”旧金山让它“再次伟大” 加州州长：没人让你来",
@@ -752,7 +811,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -771,7 +830,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -839,17 +898,29 @@
           "time_info": "[00时24分 ~ 14时33分]"
         },
         {
+          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
+          "url": "https://wallstreetcn.com/articles/3757473",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 22时20分]"
+        },
+        {
           "title": "BLG无畏契约官宣bail离队",
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
           "source": "bilibili 热搜",
           "ranks": [
             2,
             3,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 22时20分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
@@ -868,33 +939,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时43分]"
-        },
-        {
-          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
-          "url": "https://wallstreetcn.com/articles/3757473",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时43分]"
-        },
-        {
-          "title": "JKAI锐评王力宏单依纯爱错",
-          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -907,6 +957,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 09时46分]"
+        },
+        {
+          "title": "Adobe（奥多比）推出企业级生成式人工智能（AI）模型。",
+          "url": "https://wallstreetcn.com/livenews/2990732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
@@ -940,6 +1001,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "JKAI锐评王力宏单依纯爱错",
+          "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时20分]"
         },
         {
           "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
@@ -983,7 +1056,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -994,7 +1067,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1016,9 +1089,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "“今年双11 我的AI比我还忙”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "宇树王兴兴：AI和软件能力越来越强，对硬件的要求是越来越低的",
@@ -1068,7 +1152,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -1079,11 +1163,12 @@
             3,
             4,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 22时20分]"
         },
         {
           "title": "iPhone17 播放《孤勇者》闪退什么原因？",
@@ -1091,11 +1176,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 22时20分]"
         },
         {
           "title": "苹果打出翻身仗！新iPhone引爆近年来最强换机潮",
@@ -1108,8 +1194,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 22时20分]"
         },
         {
           "title": "iPhone17pro天猫官旗首次降价",
@@ -1136,6 +1222,17 @@
           "time_info": "[09时45分 ~ 09时46分]"
         },
         {
+          "title": "贸易局势、美信贷恐慌缓解，美股盘初三大指数集体上涨，苹果股价新高，现货黄金突破4320美元/盎司，比特币涨超2%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "Evercore ISI：将苹果股票纳入战术性跑赢大盘名单。",
           "url": "https://wallstreetcn.com/livenews/2990597",
           "source": "华尔街见闻-快讯",
@@ -1160,15 +1257,15 @@
           "time_info": "[02时28分 ~ 06时26分]"
         },
         {
-          "title": "iPhone 17系列首次降价",
-          "url": "https://www.toutiao.com/trending/7562660033126072363/",
-          "source": "今日头条",
+          "title": "苹果股价创历史新高，报259.87美元，现涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/2990736",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时43分"
+          "time_info": "22时20分"
         },
         {
           "title": "根据Counterpoint Research的数据，iPhone 17系列在美国和中国的销量，在其上市的头10天内，比iPhone 16系列高出14%。",
@@ -1181,6 +1278,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 12时29分]"
+        },
+        {
+          "title": "iPhone 17系列首次降价",
+          "url": "https://www.toutiao.com/trending/7562660033126072363/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时20分]"
         },
         {
           "title": "华为将发布鸿蒙操作系统6 鸿蒙生态链有望站上风口",
@@ -1207,15 +1316,37 @@
           "time_info": "[16时30分 ~ 18时23分]"
         },
         {
+          "title": "美股三大股指高开，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。苹果上涨1.8%，Loop将其评级上调至买入；美光科技涨超5%，巴克莱将公司目标价从195美元上调至240美元；AMD、博通涨超1%；稀土概念股USA Rare Earth涨超7%；加密货币概念股上涨，Coinbase上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2990727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "骑手取走苹果17Promax后失联",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C17Promax%E5%90%8E%E5%A4%B1%E8%81%94%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26flag%3D0%26realpos%3D12%26stream_entry_id%3D31%26pos%3D12%26lcate%3D5001%26band_rank%3D12%26q%3D%2523%25E9%25AA%2591%25E6%2589%258B%25E5%258F%2596%25E8%25B5%25B0%25E8%258B%25B9%25E6%259E%259C17Promax%25E5%2590%258E%25E5%25A4%25B1%25E8%2581%2594%2523%26display_time%3D1760964036%26pre_seqid%3D17609640365330147410934",
           "source": "微博",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "苹果(AAPL.O)股价触及历史新高，最高报259.87美元，涨幅达3%。",
+          "url": "https://flash.jin10.com/detail/20251020220140282800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "小米汽车回应雷军“免费送”视频",
@@ -1224,7 +1355,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1254,7 +1385,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -1279,8 +1410,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 22时20分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -1292,6 +1423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2174932",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美股三大股指期货普涨，标普500指数期货上涨0.43%，纳斯达克100指数期货上涨0.54%，道指期货上涨0.35%。",
@@ -1316,6 +1458,17 @@
           "time_info": "18时23分"
         },
         {
+          "title": "美股持续走高，纳斯达克综合指数上涨1%，费城半导体指数触及历史新高，现涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/2990731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "波音(BA.N)美股盘前上涨1.4%，此前美国联邦航空管理局（FAA）表示，波音公司可将737 MAX的月产量提升至42架。",
           "url": "https://flash.jin10.com/detail/20251020180758113800",
           "source": "金十数据",
@@ -1338,6 +1491,17 @@
           "time_info": "16时30分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2990719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "亚马逊美股盘前转跌，现跌0.21%。",
           "url": "https://wallstreetcn.com/livenews/2990560",
           "source": "华尔街见闻-快讯",
@@ -1347,6 +1511,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251020214255792800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克转发浏阳无人机烟花秀",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "马斯克的第三代猛禽发动机真的那么牛吗？",
+          "url": "https://www.zhihu.com/question/663800779",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "马斯克 SPACEX 的星链卫星在轨数量超 10000 颗，对此，你有何评价和想法？",
+          "url": "https://www.zhihu.com/question/1963524355679056543",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "第二家代理顾问敦促否决 马斯克万亿美元薪酬方案再遇阻",
+          "url": "https://flash.jin10.com/detail/20251020215224699800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -1416,34 +1641,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 02时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克的第三代猛禽发动机真的那么牛吗？",
-          "url": "https://www.zhihu.com/question/663800779",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "马斯克 SPACEX 的星链卫星在轨数量超 10000 颗，对此，你有何评价和想法？",
-          "url": "https://www.zhihu.com/question/1963524355679056543",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         }
       ]
     },
