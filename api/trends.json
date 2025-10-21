@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T20:45:02.492120+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2025-10-21T22:20:51.064029+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普开飞机泼粪,美国再次味大",
@@ -20,8 +20,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 22时20分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于明年访华",
+          "url": "https://www.toutiao.com/trending/7563338600507768851/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 22时20分]"
         },
         {
           "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
@@ -36,19 +49,6 @@
           "time_info": "[09时41分 ~ 18时24分]"
         },
         {
-          "title": "外交部回应特朗普称将于明年访华",
-          "url": "https://www.toutiao.com/trending/7563338600507768851/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 20时45分]"
-        },
-        {
           "title": "曝特朗普与泽连斯基会晤多次对骂",
           "url": "https://www.toutiao.com/trending/7563305611689987627/",
           "source": "今日头条",
@@ -59,6 +59,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普：很快将访问日本",
+          "url": "https://news.ifeng.com/c/8ndC4A073jf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 22时20分]"
         },
         {
           "title": "中方回应特朗普称明年将访华",
@@ -93,11 +105,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 20时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时39分 ~ 22时20分]"
         },
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -109,6 +122,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普称将于明年初访华，外交部回应",
+          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 22时20分]"
         },
         {
           "title": "泽连斯基与特朗普对骂",
@@ -124,16 +148,29 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "特朗普：很快将访问日本",
-          "url": "https://news.ifeng.com/c/8ndC4A073jf",
-          "source": "凤凰网",
+          "title": "特朗普称将于明年初访问中国 外交部回应",
+          "url": "https://www.cls.cn/detail/2175678",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            5,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时33分 ~ 20时45分]"
+          "time_info": "[16时40分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普又改口：从未说过乌克兰会赢",
+          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 22时20分]"
         },
         {
           "title": "特朗普被印度气坏了：莫迪向我保证过",
@@ -147,17 +184,6 @@
           "time_info": "[09时41分 ~ 12时27分]"
         },
         {
-          "title": "特朗普称将于明年初访华，外交部回应",
-          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 20时45分]"
-        },
-        {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
           "url": "https://www.cls.cn/detail/2174574",
           "source": "财联社热门",
@@ -168,18 +194,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普又改口：从未说过乌克兰会赢",
-          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 20时45分]"
         },
         {
           "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
@@ -202,18 +216,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普称将于明年初访问中国 外交部回应",
-          "url": "https://www.cls.cn/detail/2175678",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 20时45分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -274,11 +276,12 @@
             18,
             16,
             14,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 20时45分]"
+          "appearance_count": 7,
+          "time_info": "[11时10分 ~ 22时20分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -349,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)基金会主席：与特朗普政府的谈判正在进行中，涉及他们对美国价格的要求。",
+          "url": "https://flash.jin10.com/detail/20251021220159619800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美国总统特朗普：若未能达成结束乌克兰战争的协议，代价将极其高昂。",
@@ -596,11 +610,12 @@
           "url": "https://www.toutiao.com/trending/7563610173114158601/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时20分]"
         },
         {
           "title": "特朗普为何放低身段寻求与普京对话",
@@ -779,6 +794,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普：哈马斯若违反协议将面临“残酷”回应",
+          "url": "https://wallstreetcn.com/livenews/2991293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "特朗普：（谈及俄乌冲突）我认为我们会成功。",
           "url": "https://flash.jin10.com/detail/20251021000007478800",
           "source": "金十数据",
@@ -944,6 +970,17 @@
           "time_info": "18时24分"
         },
         {
+          "title": "日本首相高市早苗：没有政治稳定，就无法实现强劲的经济。 已指示内阁制定一揽子措施，以缓解生活成本上升带来的冲击。 将全力以赴缓解美国加征关税对日本经济带来的冲击。 决心通过外交与安全手段捍卫日本国家利益。 希望通过与特朗普总统的会晤，将日美关系提升到新高度。",
+          "url": "https://wallstreetcn.com/livenews/2991274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "克里姆林宫：（就普京-特朗普峰会）美俄双方均称，此次峰会需要精心准备，而这需要时间。",
           "url": "https://flash.jin10.com/detail/20251021173620827800",
           "source": "金十数据",
@@ -958,7 +995,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -969,8 +1006,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 22时20分]"
         },
         {
           "title": "媒体炮轰雷军,小米口碑崩塌",
@@ -987,8 +1024,22 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 20时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 22时20分]"
+        },
+        {
+          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
+          "url": "https://wallstreetcn.com/articles/3757523",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 22时20分]"
         },
         {
           "title": "【早报】密集发布！多家行业龙头公司三季报出炉；苹果股价暴涨创新高",
@@ -1012,19 +1063,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时41分 ~ 14时33分]"
-        },
-        {
-          "title": "苹果股价今年首创新高！iPhone 17热卖引爆换机潮",
-          "url": "https://wallstreetcn.com/articles/3757523",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 20时45分]"
         },
         {
           "title": "苹果股价站上新高 iPhone17“技术普惠”点燃换机潮 这些公司“实锤”进入供应链",
@@ -1124,6 +1162,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "苹果生态真的让用户离不开吗？",
+          "url": "https://www.zhihu.com/question/1962119480399331830",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "华为Mate70Air曝光",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E4%B8%BAMate70Air%E6%9B%9D%E5%85%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%258D%258E%25E4%25B8%25BAMate70Air%25E6%259B%259D%25E5%2585%2589%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D5%26lcate%3D5001%26cate%3D5001%26flag%3D1%26band_rank%3D5%26pos%3D5%26stream_entry_id%3D31%26display_time%3D1761041213%26pre_seqid%3D176104121374703119501101",
           "source": "微博",
@@ -1147,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "iPhone频繁打错字不是你手残",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone%E9%A2%91%E7%B9%81%E6%89%93%E9%94%99%E5%AD%97%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%89%8B%E6%AE%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D0%26band_rank%3D10%26cate%3D5001%26lcate%3D5001%26realpos%3D10%26stream_entry_id%3D31%26q%3D%2523iPhone%25E9%25A2%2591%25E7%25B9%2581%25E6%2589%2593%25E9%2594%2599%25E5%25AD%2597%25E4%25B8%258D%25E6%2598%25AF%25E4%25BD%25A0%25E6%2589%258B%25E6%25AE%258B%2523%26display_time%3D1761056328%26pre_seqid%3D17610563279800230731397",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "给iPhone17Pro纹了个身",
@@ -1174,6 +1234,18 @@
           "time_info": "[09时41分 ~ 12时27分]"
         },
         {
+          "title": "苹果翻大车,iOS26离谱Bug频出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时20分]"
+        },
+        {
           "title": "iPhone频繁打错字不是你手残",
           "url": "https://www.baidu.com/s?wd=iPhone%E9%A2%91%E7%B9%81%E6%89%93%E9%94%99%E5%AD%97%E4%B8%8D%E6%98%AF%E4%BD%A0%E6%89%8B%E6%AE%8B",
           "source": "百度热搜",
@@ -1183,18 +1255,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时45分]"
-        },
-        {
-          "title": "苹果翻大车,iOS26离谱Bug频出",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346029&amp;topic_name=%E8%8B%B9%E6%9E%9C%E7%BF%BB%E5%A4%A7%E8%BD%A6%2CiOS26%E7%A6%BB%E8%B0%B1Bug%E9%A2%91%E5%87%BA",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[18时24分 ~ 20时45分]"
         },
         {
@@ -1242,6 +1302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "苹果(AAPL.O)股价上涨0.8%，创下盘中历史新高，此前富国银行将其目标价从从245美元上调至290美元。",
+          "url": "https://flash.jin10.com/detail/20251021215425072800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超3.9%，和谷歌A创收盘历史新高",
@@ -1302,7 +1373,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
@@ -1335,6 +1406,21 @@
           "time_info": "[00时26分 ~ 18时24分]"
         },
         {
+          "title": "AI时代需要什么样的程序员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 22时20分]"
+        },
+        {
           "title": "JKAI锐评王力宏单依纯爱错",
           "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
           "source": "bilibili 热搜",
@@ -1364,21 +1450,6 @@
           "time_info": "[09时41分 ~ 14时33分]"
         },
         {
-          "title": "AI时代需要什么样的程序员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 20时45分]"
-        },
-        {
           "title": "科大讯飞Q3净利润1.7亿元，同比增长202.40%，大模型订单领跑行业| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3757501",
           "source": "华尔街见闻",
@@ -1400,6 +1471,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "Cohere Inc.首席执行官（CEO）Aidan Gomez称：很快将IPO。",
+          "url": "https://wallstreetcn.com/livenews/2991310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "特朗普发辣眼AI视频引争议",
@@ -1449,6 +1531,18 @@
           "time_info": "06时21分"
         },
         {
+          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时20分]"
+        },
+        {
           "title": "“今年双11 我的AI比我还忙”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
           "source": "百度热搜",
@@ -1472,17 +1566,6 @@
           "time_info": "[16时39分 ~ 16时40分]"
         },
         {
-          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
           "url": "https://www.cls.cn/detail/2174661",
           "source": "财联社热门",
@@ -1492,6 +1575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "报道：英伟达讨论为OpenAI提供贷款担保",
@@ -1530,7 +1624,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
@@ -1557,6 +1651,17 @@
           "time_info": "[00时26分 ~ 09时41分]"
         },
         {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251021040644917800",
           "source": "金十数据",
@@ -1566,6 +1671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 22时20分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -1585,7 +1701,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1613,24 +1729,13 @@
           "time_info": "[04时27分 ~ 06时21分]"
         },
         {
-          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
-          "url": "https://wallstreetcn.com/articles/3757528",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "通用汽车美股盘前涨幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/2991252",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1644,6 +1749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数走低，黄金ETF跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2991295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
@@ -1663,7 +1779,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1679,6 +1795,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2991288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "Zions三季度调整后NII（净利息收入）为6.83亿美元，分析师预期6.76亿美元。 三季度总体存款748.8亿美元，分析师预期743亿美元。 三季度贷款损失计提0.49亿美元，分析师预期0.264亿美元。 三季度总体贷款和租赁603亿美元，分析师预期612.5亿美元。 锡安银行（ZION）美股盘后涨2.9%。",
           "url": "https://wallstreetcn.com/livenews/2990828",
           "source": "华尔街见闻-快讯",
@@ -1688,6 +1815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "Beyond Meat美股盘前大涨逾60%，公司将在全美2000多家沃尔玛门店扩展分销。",
+          "url": "https://wallstreetcn.com/livenews/2991282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美股黄金概念股盘前下跌，科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、泛美白银(PAAS.O)下跌4%，纽曼矿业跌2.9%。",
@@ -1704,7 +1842,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -1740,11 +1878,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时20分]"
+        },
+        {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "22时20分"
         },
         {
           "title": "金价银价大反攻",
@@ -1777,11 +1927,12 @@
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时20分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
@@ -1815,6 +1966,177 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D28%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D0%26band_rank%3D28%26cate%3D5001%26lcate%3D5001%26realpos%3D28%26stream_entry_id%3D31%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26display_time%3D1761056328%26pre_seqid%3D17610563279800230731397",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "诺和诺德(NVO.N)基金会主席：无法透露有关降价谈判的具体进展，但可以确认谈判很可能会导致美国药品价格下降。",
+          "url": "https://flash.jin10.com/detail/20251021220249579800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)基金会主席：我认为新董事会中至少有一些人拥有更直接的制药公司运营经验。",
+          "url": "https://flash.jin10.com/detail/20251021220127426800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)基金会主席：裁员如此之多将造成巨大破坏。",
+          "url": "https://flash.jin10.com/detail/20251021220053872800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（10月20日）担保隔夜融资利率（SOFR）报4.16%，之前一天报4.18%。 上个交易日有效的联邦基金利率报4.11%，之前一天报4.11%。",
+          "url": "https://wallstreetcn.com/livenews/2991305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)基金会主席：相信新董事会成员拥有运营制药公司的直接经验，将成为管理层的良好陪练伙伴。",
+          "url": "https://flash.jin10.com/detail/20251021220027599800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "白宫：澳洲养老基金对美投资未来十年将增约1万亿美元",
+          "url": "https://flash.jin10.com/detail/20251021012837216800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)基金会主席：大规模员工扩充是巨大的失败。",
+          "url": "https://flash.jin10.com/detail/20251021215953870800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "深圳证监局对深圳市前海睿麟基金管理有限公司采取出具警示函措施",
+          "url": "https://wallstreetcn.com/livenews/2991137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 18时24分]"
+        },
+        {
+          "title": "诺和诺德(NVO.N)基金会主席：基金会认为管理层对市场根本性变化的认识太慢。",
+          "url": "https://flash.jin10.com/detail/20251021215926278800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 22时20分]"
+        },
+        {
+          "title": "马斯克转发浏阳无人机烟花秀",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            16,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "马斯克：（谈及亚马逊创始人贝佐斯的蓝色起源）它从未将有效载荷送入轨道，更不用说月球了。",
+          "url": "https://flash.jin10.com/detail/20251021010604960800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "马斯克转发浏阳无人机烟花秀新闻",
+          "url": "https://www.toutiao.com/trending/7563531261148168255/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -1847,8 +2169,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时09分 ~ 20时45分]"
+          "appearance_count": 9,
+          "time_info": "[11时09分 ~ 22时20分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -1875,6 +2197,47 @@
       ]
     },
     {
+      "keyword_group": "macOS ios",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据AXIOS网站：纽约时报拟在其应用中推出类似TikTok的全新“Watch”（观看）标签页。",
+          "url": "https://flash.jin10.com/detail/20251021220507537800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "iOS26液态玻璃效果能关了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iOS26%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C%E8%83%BD%E5%85%B3%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D16%26flag%3D1%26lcate%3D5001%26q%3D%2523iOS26%25E6%25B6%25B2%25E6%2580%2581%25E7%258E%25BB%25E7%2592%2583%25E6%2595%2588%25E6%259E%259C%25E8%2583%25BD%25E5%2585%25B3%25E4%25BA%2586%2523%26realpos%3D15%26filter_type%3Drealtimehot%26band_rank%3D15%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761010847%26pre_seqid%3D17610108471280229682602",
+          "source": "微博",
+          "ranks": [
+            15,
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 12时27分]"
+        },
+        {
+          "title": "据AXIOS网站：两名以色列官员和一名美国官员透露，以色列总理内塔尼亚胡任命Michael Eisenberg担任其驻美指挥中心代表，该中心负责监督加沙协议的执行。",
+          "url": "https://flash.jin10.com/detail/20251021034146086800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini nano",
       "match_count": 3,
       "titles": [
@@ -1888,8 +2251,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 20时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 22时20分]"
         },
         {
           "title": "为什么 Gemini 2.5pro 回答问题的时候 latex 格式总渲染不出数学公式的样子？",
@@ -1912,49 +2275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 20时45分]"
-        },
-        {
-          "title": "马斯克转发浏阳无人机烟花秀",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            16,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "马斯克：（谈及亚马逊创始人贝佐斯的蓝色起源）它从未将有效载荷送入轨道，更不用说月球了。",
-          "url": "https://flash.jin10.com/detail/20251021010604960800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
         }
       ]
     },
@@ -1998,36 +2318,6 @@
       ]
     },
     {
-      "keyword_group": "macOS ios",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "iOS26液态玻璃效果能关了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iOS26%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C%E8%83%BD%E5%85%B3%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D16%26flag%3D1%26lcate%3D5001%26q%3D%2523iOS26%25E6%25B6%25B2%25E6%2580%2581%25E7%258E%25BB%25E7%2592%2583%25E6%2595%2588%25E6%259E%259C%25E8%2583%25BD%25E5%2585%25B3%25E4%25BA%2586%2523%26realpos%3D15%26filter_type%3Drealtimehot%26band_rank%3D15%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761010847%26pre_seqid%3D17610108471280229682602",
-          "source": "微博",
-          "ranks": [
-            15,
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 12时27分]"
-        },
-        {
-          "title": "据AXIOS网站：两名以色列官员和一名美国官员透露，以色列总理内塔尼亚胡任命Michael Eisenberg担任其驻美指挥中心代表，该中心负责监督加沙协议的执行。",
-          "url": "https://flash.jin10.com/detail/20251021034146086800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai gpt codex",
       "match_count": 2,
       "titles": [
@@ -2056,31 +2346,30 @@
       ]
     },
     {
-      "keyword_group": "基金",
+      "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
         {
-          "title": "白宫：澳洲养老基金对美投资未来十年将增约1万亿美元",
-          "url": "https://flash.jin10.com/detail/20251021012837216800",
+          "title": "现货黄金周二盘初走高，价格突破4370美元/盎司，日内涨0.32%。",
+          "url": "https://flash.jin10.com/detail/20251021060348633800",
           "source": "金十数据",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "06时21分"
         },
         {
-          "title": "深圳证监局对深圳市前海睿麟基金管理有限公司采取出具警示函措施",
-          "url": "https://wallstreetcn.com/livenews/2991137",
-          "source": "华尔街见闻-快讯",
+          "title": "现货金银价格深度回调，美股黄金概念股普遍下挫，科尔黛伦矿业(CDE.N)跌16.5%，金罗斯黄金(KGC.N)、哈莫尼黄金(HMY.N)跌约10%，金田(GFI.N)跌超9%，纽蒙特矿业(NEM.N)跌8.3%。",
+          "url": "https://flash.jin10.com/detail/20251021215932334800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            26
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 18时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -2098,23 +2387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金周二盘初走高，价格突破4370美元/盎司，日内涨0.32%。",
-          "url": "https://flash.jin10.com/detail/20251021060348633800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         }
       ]
     }
