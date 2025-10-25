@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T00:24:14.286170+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-26T02:29:24.049681+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1964947995440190309",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "特朗普：愿在亚洲行期间会见金正恩",
@@ -25,9 +26,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "韩国民众举行反特朗普示威",
@@ -36,9 +37,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "关键判决前夕，伯南克、耶伦带头，近50名经济学家呼吁美最高法推翻特朗普关税",
@@ -47,9 +48,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "特朗普与日本首相高市早苗通电话。（共同社）",
@@ -58,20 +59,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
           "url": "https://www.cls.cn/detail/2180450",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
@@ -80,9 +82,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
@@ -91,9 +93,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -102,9 +104,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -113,9 +115,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
@@ -124,9 +126,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
@@ -135,9 +137,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         }
       ]
     },
@@ -150,11 +152,12 @@
           "url": "https://wallstreetcn.com/articles/3757811",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "买车送惊喜,小米宠粉有一手",
@@ -163,20 +166,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "华为疑似自曝Mate80系列",
           "url": "https://www.toutiao.com/trending/7564791281038753835/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "多名用户反映“红米K50”屏幕现“绿线”，小米：是否免费维修视情而定",
@@ -185,9 +189,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         }
       ]
     },
@@ -200,11 +204,12 @@
           "url": "https://www.toutiao.com/trending/7565151497953611306/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
@@ -213,7 +218,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
         },
@@ -224,9 +229,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -235,9 +240,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         }
       ]
     },
@@ -246,37 +251,39 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美股为何一直在上涨",
-          "url": "https://www.toutiao.com/trending/7564074588235317290/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
-        },
-        {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
           "url": "https://www.cls.cn/detail/2180462",
           "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965195615022587967",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 00时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时29分]"
+        },
+        {
+          "title": "美股为何一直在上涨",
+          "url": "https://www.toutiao.com/trending/7564074588235317290/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时29分]"
         }
       ]
     },
@@ -291,9 +298,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "中国宋庆龄基金会原理事、中国民间保钓联合会会长童增逝世，享年69岁",
@@ -302,9 +309,26 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 02时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克盛赞朱雀三号",
+          "url": "https://www.toutiao.com/trending/7564811051637522470/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "02时29分"
         }
       ]
     }
