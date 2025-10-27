@@ -1,33 +1,23 @@
 {
-  "generated_at": "2025-10-28T04:23:27.905666+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-10-28T06:21:34.332973+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
           "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
-        },
-        {
-          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
-          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
@@ -35,7 +25,19 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
+        },
+        {
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -64,6 +66,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
+          "url": "https://flash.jin10.com/detail/20251028054741724800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
           "title": "特朗普谈美军机南海坠毁原因",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26cate%3D5001%26pos%3D5%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25B0%2588%25E7%25BE%258E%25E5%2586%259B%25E6%259C%25BA%25E5%258D%2597%25E6%25B5%25B7%25E5%259D%25A0%25E6%25AF%2581%25E5%258E%259F%25E5%259B%25A0%2523%26band_rank%3D6%26dgr%3D0%26flag%3D0%26display_time%3D1761581410%26pre_seqid%3D17615814104640124409031",
           "source": "微博",
@@ -73,6 +86,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            10,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
+          "url": "https://news.ifeng.com/c/8nnpTggasmR",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "委内瑞拉副总统兼石油部长Delcy Rodriguez表示，Petroleos de Venezuela董事会要求总统马杜罗撤销与Trinidad（特立尼达拉岛）和Tabago（多巴哥岛）的能源协议，因为这地支持美国特朗普政府“侵犯”委内瑞拉。",
@@ -87,30 +125,18 @@
           "time_info": "[02时32分 ~ 04时23分]"
         },
         {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
-        },
-        {
           "title": "特朗普：很长时间内不想和加总理见面",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E9%95%BF%E6%97%B6%E9%97%B4%E5%86%85%E4%B8%8D%E6%83%B3%E5%92%8C%E5%8A%A0%E6%80%BB%E7%90%86%E8%A7%81%E9%9D%A2",
           "source": "百度热搜",
           "ranks": [
             27,
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -172,7 +198,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -183,19 +209,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
-        },
-        {
-          "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
-          "url": "https://flash.jin10.com/detail/20251028034031282800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
@@ -229,8 +244,31 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
+        },
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
+          "url": "https://flash.jin10.com/detail/20251028034031282800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 06时21分]"
         },
         {
           "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
@@ -239,7 +277,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -253,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
+          "url": "https://wallstreetcn.com/livenews/2994535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
@@ -280,7 +329,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "iPhone 18发布或推迟",
@@ -291,8 +340,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "为什么 OPPO 、 vivo 要取字母名字?",
@@ -304,8 +353,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "标普500指数初步收涨1.2%，电信板块涨约2.4%，科技板块涨2%，可选消费板块涨1.6%，能源板块涨0.3%。 纳斯达克100指数初步收涨1.8%，成分股中，高通初步收涨约11%，KDP涨7.7%，拉美电商MercadoLibre涨5.5%，迈威尔科技、Arm控股、特斯拉、安森美半导体、Applovin、拉姆研究、谷歌A至少涨约3.5%，Diamondback Energy则收跌1.1%，贝克休斯跌1.2%，Workday和ORLY跌1.6%，Roper Technologies跌3.5%。 英伟达收涨大约2.7%，苹果涨2.3%，微软和IBM涨约1.5%，领跑道指成分股，耐克与沃尔玛则至少跌约0.9%。",
@@ -314,7 +363,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
         },
@@ -328,8 +377,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "贵州茅台：董事长张德芹辞职 贵州省人民政府推荐陈华为公司董事长人选",
@@ -340,8 +389,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "明年或将出最便宜iPhone",
@@ -349,11 +398,23 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 06时21分]"
+        },
+        {
+          "title": "据报道，美国法官驳回了针对苹果公司因iPhone应用程序反垄断市场控制而提起的集体诉讼。",
+          "url": "https://flash.jin10.com/detail/20251028043751753800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "报道：苹果因iPhone营销问题被法国罚款4800万欧元",
@@ -365,12 +426,128 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
+          "url": "https://flash.jin10.com/detail/20251028040154573800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
+          "url": "https://wallstreetcn.com/livenews/2994531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
+        },
+        {
+          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
+          "url": "https://wallstreetcn.com/livenews/2994556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
+          "url": "https://wallstreetcn.com/livenews/2994554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20251028000829704800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040602720800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003902797800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003030671800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
@@ -416,56 +593,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 04时23分]"
+        },
+        {
+          "title": "NextEra Energy（公告确认）与谷歌公司在核能领域合作。",
+          "url": "https://wallstreetcn.com/livenews/2994532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
+          "title": "周一（10月27日）纽约尾盘，ICE美元指数跌0.13%，报98.826点，日内交投区间为98.999-98.729点。 彭博美元指数跌0.13%，报1211.59点，日内交投区间为1213.35-1210.52点。",
+          "url": "https://wallstreetcn.com/livenews/2994510",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
-        },
-        {
-          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
-          "url": "https://flash.jin10.com/detail/20251028000829704800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "04时23分"
         },
         {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003902797800",
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20251028042623888800",
           "source": "金十数据",
           "ranks": [
-            26
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003030671800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "06时21分"
         }
       ]
     },
@@ -496,11 +662,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时21分]"
         }
       ]
     },
@@ -518,23 +685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（10月27日）纽约尾盘，ICE美元指数跌0.13%，报98.826点，日内交投区间为98.999-98.729点。 彭博美元指数跌0.13%，报1211.59点，日内交投区间为1213.35-1210.52点。",
-          "url": "https://wallstreetcn.com/livenews/2994510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时23分"
         }
       ]
     },
