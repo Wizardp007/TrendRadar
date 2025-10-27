@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T20:46:25.492910+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-10-27T22:39:38.422530+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 67,
       "titles": [
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -42,6 +42,30 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 22时39分]"
+        },
+        {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时39分]"
+        },
+        {
           "title": "特朗普拆建白宫为何招非议",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -68,16 +92,16 @@
           "time_info": "[09时47分 ~ 12时31分]"
         },
         {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 22时39分]"
         },
         {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
@@ -89,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
@@ -135,17 +170,6 @@
           "time_info": "14时37分"
         },
         {
-          "title": "特朗普访问日本",
-          "url": "https://www.douyin.com/hot/2285103",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965770697927300097",
           "source": "知乎",
@@ -168,18 +192,6 @@
           "time_info": "12时31分"
         },
         {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时46分]"
-        },
-        {
           "title": "美国财长贝森特：美联储主席候选人名单缩减至五人，希望感恩节后向特朗普提交一份好名单。",
           "url": "https://flash.jin10.com/detail/20251027142654141800",
           "source": "金十数据",
@@ -189,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国总统特朗普：停火是基于哈以双方的义务。我们也希望哈马斯加快归还人质尸体，目前我们还有13名人质，包括两名美国人。我们不认为（以色列的行动）构成对停火的违反。",
@@ -232,7 +255,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -350,6 +373,18 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时39分]"
+        },
+        {
           "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
           "url": "https://www.cls.cn/detail/2181112",
           "source": "财联社热门",
@@ -384,6 +419,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 09时47分]"
+        },
+        {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时39分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -486,15 +533,15 @@
           "time_info": "14时37分"
         },
         {
-          "title": "特朗普：俄试射核动力巡航导弹不合适",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
-          "source": "百度热搜",
+          "title": "特朗普到底薅了全世界多少钱",
+          "url": "https://www.toutiao.com/trending/7565875834884460086/",
+          "source": "今日头条",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "22时39分"
         },
         {
           "title": "美国总统特朗普：我曾反对让韩国工人离开佐治亚州。",
@@ -541,17 +588,6 @@
           "time_info": "12时31分"
         },
         {
-          "title": "评论员：特朗普在马来西亚双喜临门",
-          "url": "https://www.toutiao.com/trending/7565834902130658870/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
           "url": "https://flash.jin10.com/detail/20251027113517357800",
           "source": "金十数据",
@@ -580,7 +616,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -651,6 +687,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
           "url": "https://wallstreetcn.com/livenews/2994077",
           "source": "华尔街见闻-快讯",
@@ -695,6 +742,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "特朗普欲购买阿根廷牛肉 共和党人罕见发声反对",
+          "url": "https://flash.jin10.com/detail/20251027213930146800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国总统特朗普：加拿大长期以来一直在剥削我们，他们不会再这样做了。",
           "url": "https://flash.jin10.com/detail/20251027140045061800",
           "source": "金十数据",
@@ -709,7 +767,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -739,6 +797,22 @@
           "time_info": "[00时25分 ~ 12时31分]"
         },
         {
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            19,
+            16,
+            9,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时21分 ~ 22时39分]"
+        },
+        {
           "title": "网民用AI编造3儿子不养老人被罚",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E7%94%A8AI%E7%BC%96%E9%80%A03%E5%84%BF%E5%AD%90%E4%B8%8D%E5%85%BB%E8%80%81%E4%BA%BA%E8%A2%AB%E7%BD%9A",
           "source": "百度热搜",
@@ -764,19 +838,16 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            19,
-            16,
-            9,
-            18
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 20时46分]"
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时39分]"
         },
         {
           "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
@@ -805,6 +876,17 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "高通（QCOM）股价短线拉升，日内整体涨幅迅速扩大至将近7%。高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位。",
+          "url": "https://wallstreetcn.com/livenews/2994414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
           "url": "https://www.cls.cn/detail/2182013",
           "source": "财联社热门",
@@ -817,15 +899,15 @@
           "time_info": "[18时26分 ~ 20时46分]"
         },
         {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位",
+          "url": "https://wallstreetcn.com/livenews/2994412",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "22时39分"
         },
         {
           "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
@@ -837,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "高通(QCOM.O)涨幅扩大至7%，此前推出人工智能芯片AI200和AI250，在数据中心市场与英伟达展开竞争。",
+          "url": "https://flash.jin10.com/detail/20251027220754914800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "王鹤棣帅成AI了",
@@ -870,6 +963,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "高通(QCOM.O)：推出基于AI200和AI250芯片的数据中心加速卡和机架。高通AI200和AI250预计分别于2026年和2027年实现商用。",
+          "url": "https://flash.jin10.com/detail/20251027220033794800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "巨量引擎首次披露AI广告治理自研大模型，审核效率提升75%",
@@ -917,11 +1021,12 @@
           "ranks": [
             7,
             3,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 20时46分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 22时39分]"
         },
         {
           "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
@@ -937,6 +1042,19 @@
           "time_info": "[16时30分 ~ 20时46分]"
         },
         {
+          "title": "为什么 OPPO 、 vivo 要取字母名字?",
+          "url": "https://www.zhihu.com/question/1961506401928062450",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 22时39分]"
+        },
+        {
           "title": "三星重工股价上涨16%，至28,750韩元。",
           "url": "https://flash.jin10.com/detail/20251027103605980800",
           "source": "金十数据",
@@ -946,18 +1064,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "为什么 OPPO 、 vivo 要取字母名字?",
-          "url": "https://www.zhihu.com/question/1961506401928062450",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时46分]"
         },
         {
           "title": "买车送惊喜,小米宠粉有一手",
@@ -970,6 +1076,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "iPhone 18发布或推迟",
+          "url": "https://www.douyin.com/hot/2284876",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时39分]"
+        },
+        {
+          "title": "明年或将出最便宜iPhone",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E6%88%96%E5%B0%86%E5%87%BA%E6%9C%80%E4%BE%BF%E5%AE%9CiPhone",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时39分]"
         },
         {
           "title": "德国外长访华为何“黄了”",
@@ -994,35 +1122,13 @@
           "time_info": "14时37分"
         },
         {
-          "title": "iPhone 18发布或推迟",
-          "url": "https://www.douyin.com/hot/2284876",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "明年或将出最便宜iPhone",
-          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E6%88%96%E5%B0%86%E5%87%BA%E6%9C%80%E4%BE%BF%E5%AE%9CiPhone",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "【贵州茅台：因工作调整 董事长张德芹辞职】据贵州茅台公告，公司董事长张德芹因工作调整，申请辞去公司董事长、董事职务及董事会下设专门委员会相应职务，辞职自辞职报告送达董事会时生效。张德芹在任职期间为公司发展作出积极贡献，公司将尽快召开会议选举新董事长。根据贵州省人民政府相关文件，推荐陈华为贵州茅台酒股份有限公司董事、董事长人选，建议张德芹不再担任公司董事长、董事职务。",
           "url": "https://wallstreetcn.com/livenews/2994311",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1074,7 +1180,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -1098,6 +1204,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 09时47分]"
+        },
+        {
+          "title": "市场分析：贸易紧张局势缓解，金价下跌",
+          "url": "https://flash.jin10.com/detail/20251027221438797800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "现货黄金下跌至4000美元整数位心理关口，为10月10日以来首次，日内当前跌幅大约2.7%。 10月20日，金价还曾涨至4381.52美元创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2994415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "业内：金价急跌套牢Z世代",
@@ -1181,7 +1309,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -1206,6 +1334,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时26分 ~ 20时46分]"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -1239,62 +1378,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案",
-          "url": "https://flash.jin10.com/detail/20251027203231598800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
-          "title": "特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉可能面临失去首席执行官马斯克的风险。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/2994338",
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "据CNBC：特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉(TSLA.O)可能面临失去首席执行官马斯克的风险。",
-          "url": "https://flash.jin10.com/detail/20251027201010562800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
-          "url": "https://flash.jin10.com/detail/20251027141650104800",
-          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "22时39分"
+        },
+        {
+          "title": "美股三大股指高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251027214435879800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "养老基金Q3重仓股曝光！新进20只个股前十大流通股东榜，鼎通科技获增持家数最多",
@@ -1327,9 +1460,81 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "证监会：对主权基金等配置型外资准入实行“绿色通道”",
+          "url": "https://wallstreetcn.com/livenews/2994372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "证监会：明确外资公募基金短线交易适用规则",
+          "url": "https://wallstreetcn.com/livenews/2994368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案",
+          "url": "https://flash.jin10.com/detail/20251027203231598800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉可能面临失去首席执行官马斯克的风险。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2994338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "据CNBC：特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉(TSLA.O)可能面临失去首席执行官马斯克的风险。",
+          "url": "https://flash.jin10.com/detail/20251027201010562800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
+          "url": "https://flash.jin10.com/detail/20251027141650104800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     },
