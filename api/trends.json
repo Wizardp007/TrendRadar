@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T18:26:07.784399+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2025-10-27T20:46:25.492910+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -68,6 +68,18 @@
           "time_info": "[09时47分 ~ 12时31分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
           "url": "https://news.ifeng.com/c/8nn0csPCPJl",
           "source": "凤凰网",
@@ -123,6 +135,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965770697927300097",
           "source": "知乎",
@@ -145,6 +168,18 @@
           "time_info": "12时31分"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时46分]"
+        },
+        {
           "title": "美国财长贝森特：美联储主席候选人名单缩减至五人，希望感恩节后向特朗普提交一份好名单。",
           "url": "https://flash.jin10.com/detail/20251027142654141800",
           "source": "金十数据",
@@ -154,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "美国总统特朗普：停火是基于哈以双方的义务。我们也希望哈马斯加快归还人质尸体，目前我们还有13名人质，包括两名美国人。我们不认为（以色列的行动）构成对停火的违反。",
@@ -200,6 +224,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时28分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普首见高市早苗会聊什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%A7%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%81%8A%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国总统特朗普：也许到今年年底，我们会就美联储做出相关决定。",
@@ -244,17 +279,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "特朗普：和卢拉的会面很愉快，我们看看会发生什么。",
@@ -446,7 +470,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -460,6 +484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国总统特朗普：我曾反对让韩国工人离开佐治亚州。",
@@ -506,6 +541,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
           "url": "https://flash.jin10.com/detail/20251027113517357800",
           "source": "金十数据",
@@ -526,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "日本天皇亲自在门外接送特朗普",
+          "url": "https://www.toutiao.com/trending/7565133400080797190/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -652,7 +709,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -714,11 +771,12 @@
             15,
             19,
             16,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 18时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 20时46分]"
         },
         {
           "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
@@ -747,6 +805,29 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时46分]"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
           "url": "https://wallstreetcn.com/articles/3757943",
           "source": "华尔街见闻",
@@ -756,17 +837,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "王鹤棣帅成AI了",
@@ -838,7 +908,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "如何看待一网友称买小米 YU7 提车时发现工厂维修单，疑似是维修过的车辆当成新车卖？",
@@ -846,11 +916,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 20时46分]"
         },
         {
           "title": "十年新能源免购置税政策谢幕前夜：超10家车企“自掏腰包”稳订单 小米投入或超20亿元",
@@ -858,11 +929,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 20时46分]"
         },
         {
           "title": "三星重工股价上涨16%，至28,750韩元。",
@@ -876,6 +948,18 @@
           "time_info": "11时21分"
         },
         {
+          "title": "为什么 OPPO 、 vivo 要取字母名字?",
+          "url": "https://www.zhihu.com/question/1961506401928062450",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 20时46分]"
+        },
+        {
           "title": "买车送惊喜,小米宠粉有一手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346213&amp;topic_name=%E4%B9%B0%E8%BD%A6%E9%80%81%E6%83%8A%E5%96%9C%2C%E5%B0%8F%E7%B1%B3%E5%AE%A0%E7%B2%89%E6%9C%89%E4%B8%80%E6%89%8B",
           "source": "贴吧",
@@ -886,17 +970,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "为什么 OPPO 、 vivo 要取字母名字?",
-          "url": "https://www.zhihu.com/question/1961506401928062450",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "德国外长访华为何“黄了”",
@@ -921,6 +994,39 @@
           "time_info": "14时37分"
         },
         {
+          "title": "iPhone 18发布或推迟",
+          "url": "https://www.douyin.com/hot/2284876",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "明年或将出最便宜iPhone",
+          "url": "https://www.baidu.com/s?wd=%E6%98%8E%E5%B9%B4%E6%88%96%E5%B0%86%E5%87%BA%E6%9C%80%E4%BE%BF%E5%AE%9CiPhone",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "【贵州茅台：因工作调整 董事长张德芹辞职】据贵州茅台公告，公司董事长张德芹因工作调整，申请辞去公司董事长、董事职务及董事会下设专门委员会相应职务，辞职自辞职报告送达董事会时生效。张德芹在任职期间为公司发展作出积极贡献，公司将尽快召开会议选举新董事长。根据贵州省人民政府相关文件，推荐陈华为贵州茅台酒股份有限公司董事、董事长人选，建议张德芹不再担任公司董事长、董事职务。",
+          "url": "https://wallstreetcn.com/livenews/2994311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "iPhone芯片全家桶深度解析",
           "url": "https://search.bilibili.com/all?keyword=iPhone%E8%8A%AF%E7%89%87%E5%85%A8%E5%AE%B6%E6%A1%B6%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -938,7 +1044,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1034,7 +1140,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1097,9 +1203,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 20时46分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -1137,8 +1243,58 @@
       ]
     },
     {
+      "keyword_group": "grok 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特斯拉董事会主席呼吁股东支持马斯克万亿美元薪酬方案",
+          "url": "https://flash.jin10.com/detail/20251027203231598800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉可能面临失去首席执行官马斯克的风险。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2994338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "据CNBC：特斯拉董事会主席表示，如果不批准价值1万亿美元的薪酬方案，特斯拉(TSLA.O)可能面临失去首席执行官马斯克的风险。",
+          "url": "https://flash.jin10.com/detail/20251027201010562800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
+          "url": "https://flash.jin10.com/detail/20251027141650104800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "基金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "养老基金Q3重仓股曝光！新进20只个股前十大流通股东榜，鼎通科技获增持家数最多",
@@ -1163,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "市场消息：高盛(GS.N)力争从科威特获得100亿美元，推动私募基金业务。",
+          "url": "https://flash.jin10.com/detail/20251027194536319800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         }
       ]
     },
@@ -1181,23 +1348,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
-          "url": "https://flash.jin10.com/detail/20251027141650104800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         }
       ]
     }
