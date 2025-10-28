@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T16:29:49.106774+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2025-10-28T18:24:51.354013+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
@@ -87,9 +87,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            5,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 18时24分]"
         },
         {
           "title": "高市早苗会见特朗普 多次伸手笑容满面",
@@ -115,24 +129,13 @@
           "time_info": "00时28分"
         },
         {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "美国总统特朗普：丰田将在美国建造价值高达100亿美元的工厂。",
           "url": "https://flash.jin10.com/detail/20251028155533375800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -174,6 +177,28 @@
           "time_info": "[00时28分 ~ 09时38分]"
         },
         {
+          "title": "特朗普自顾自检阅 高市早苗原地愣住",
+          "url": "https://www.toutiao.com/trending/7565434042020007460/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "美军航母摔飞机事大了！特朗普亲自解释靠谱吗？",
+          "url": "https://news.ifeng.com/c/8np6B3JJJNc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
           "url": "https://flash.jin10.com/detail/20251028054741724800",
           "source": "金十数据",
@@ -191,22 +216,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
-        },
-        {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：期待与日本首相高市早苗携手合作，共促国家发展。",
@@ -242,6 +254,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国总统特朗普：这将是一段比以往任何时候都更加牢固的关系。",
           "url": "https://flash.jin10.com/detail/20251028090338913800",
           "source": "金十数据",
@@ -270,7 +293,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -317,6 +340,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 18时24分]"
         },
         {
           "title": "特朗普：米莱赢了美国赚了很多，但我们不是为了钱",
@@ -488,7 +523,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -548,6 +583,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D19%26cate%3D5001%26realpos%3D19%26stream_entry_id%3D31%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26dgr%3D0%26c_type%3D31%26band_rank%3D19%26filter_type%3Drealtimehot%26lcate%3D5001%26flag%3D0%26display_time%3D1761646804%26pre_seqid%3D176164680462303459312143",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "特朗普回应美军机南海坠毁",
           "url": "https://www.douyin.com/hot/2285427",
           "source": "抖音",
@@ -576,7 +622,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -614,13 +660,24 @@
           "time_info": "11时09分"
         },
         {
+          "title": "特朗普与高市早苗一同乘机登上美航母",
+          "url": "https://www.toutiao.com/trending/7565775120976429082/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国总统特朗普：美日联盟是“整个世界上最卓越的关系之一”。",
           "url": "https://flash.jin10.com/detail/20251028152443500800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -664,7 +721,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -675,7 +732,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -683,7 +740,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -710,8 +767,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -798,17 +855,6 @@
           "time_info": "[09时38分 ~ 14时34分]"
         },
         {
-          "title": "AI大战冠军教练竞猜S15",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
           "url": "https://www.cls.cn/detail/2182582",
           "source": "财联社热门",
@@ -842,6 +888,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 06时21分]"
+        },
+        {
+          "title": "AI大战冠军教练竞猜S15",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 18时24分]"
         },
         {
           "title": "唐国强到访武侯祠把AI当成旅游搭子",
@@ -897,6 +955,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普将在东京举行CEO晚餐会 OpenAI、Salesforce等公司的高管将出席",
+          "url": "https://wallstreetcn.com/livenews/2995041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
@@ -1068,6 +1137,18 @@
           "time_info": "[14时33分 ~ 16时29分]"
         },
         {
+          "title": "小米自研自产家电你会买吗",
+          "url": "https://www.toutiao.com/trending/7566103520548225065/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 18时24分]"
+        },
+        {
           "title": "陈伟霆 传新iPhone要一天多",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%99%88%E4%BC%9F%E9%9C%86+%E4%BC%A0%E6%96%B0iPhone%E8%A6%81%E4%B8%80%E5%A4%A9%E5%A4%9A&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26lcate%3D5001%26pos%3D21%26q%3D%25E9%2599%2588%25E4%25BC%259F%25E9%259C%2586%2520%25E4%25BC%25A0%25E6%2596%25B0iPhone%25E8%25A6%2581%25E4%25B8%2580%25E5%25A4%25A9%25E5%25A4%259A%26dgr%3D0%26c_type%3D31%26band_rank%3D21%26cate%3D5001%26realpos%3D21%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26display_time%3D1761632905%26pre_seqid%3D176163290520902770160103",
           "source": "微博",
@@ -1112,17 +1193,6 @@
           "time_info": "09时38分"
         },
         {
-          "title": "小米自研自产家电你会买吗",
-          "url": "https://www.toutiao.com/trending/7566103520548225065/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "早盘收盘，国内期货主力合约涨跌互现。苹果涨超3%，玻璃涨超2%，铁矿石、多晶硅、PTA、豆粕、短纤涨超1%。跌幅方面，沪银、沪金跌近3%，红枣、丁二烯橡胶、棕榈油、甲醇跌超1%。",
           "url": "https://flash.jin10.com/detail/20251028113043349800",
           "source": "金十数据",
@@ -1151,7 +1221,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1181,7 +1251,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1192,8 +1262,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时38分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时38分 ~ 18时24分]"
         },
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -1229,6 +1299,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/2995038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
           "url": "https://flash.jin10.com/detail/20251028000829704800",
           "source": "金十数据",
@@ -1246,7 +1327,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1261,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时38分 ~ 11时09分]"
+        },
+        {
+          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/2995018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -1310,7 +1402,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -1329,11 +1421,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 18时24分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）上海金早盘价为914.25元/克，较国际金价(913.54元/克)，高0.71元/克",
@@ -1345,6 +1438,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 18时24分]"
         },
         {
           "title": "金价",
@@ -1369,17 +1485,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "金价突然杀跌原因何在",
-          "url": "https://www.toutiao.com/trending/7565674495126847531/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "金价是由什么决定的",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%98%AF%E7%94%B1%E4%BB%80%E4%B9%88%E5%86%B3%E5%AE%9A%E7%9A%84",
           "source": "bilibili 热搜",
@@ -1389,6 +1494,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "小摩1.5万亿基金首投揭晓 落子锑矿商锁定“战争金属”供应",
+          "url": "https://www.cls.cn/detail/2182657",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 14时34分]"
+        },
+        {
+          "title": "挪威主权财富基金CEO：人工智能终结气候领域招聘需求",
+          "url": "https://wallstreetcn.com/livenews/2994809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "Samruk Kazyna基金负责人：哈萨克斯坦当局正与顾问就如何处理俄罗斯卢克石油公司在相关项目中的股权问题进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251028133959416800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "华泰柏瑞基金官宣崔春任总经理",
+          "url": "https://wallstreetcn.com/livenews/2994896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "日本首席贸易谈判代表赤泽亮正：汽车项目可能纳入5500亿美元基金项目。汽车对经济安全也很重要。",
+          "url": "https://flash.jin10.com/detail/20251028174933132800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（10月24日）担保隔夜融资利率（SOFR）报4.24%，之前一天报4.24%。 上个交易日有效的联邦基金利率报4.11%，之前一天报4.11%。",
+          "url": "https://wallstreetcn.com/livenews/2994419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     },
@@ -1455,69 +1634,6 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "小摩1.5万亿基金首投揭晓 落子锑矿商锁定“战争金属”供应",
-          "url": "https://www.cls.cn/detail/2182657",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 14时34分]"
-        },
-        {
-          "title": "挪威主权财富基金CEO：人工智能终结气候领域招聘需求",
-          "url": "https://wallstreetcn.com/livenews/2994809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "Samruk Kazyna基金负责人：哈萨克斯坦当局正与顾问就如何处理俄罗斯卢克石油公司在相关项目中的股权问题进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251028133959416800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "华泰柏瑞基金官宣崔春任总经理",
-          "url": "https://wallstreetcn.com/livenews/2994896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（10月24日）担保隔夜融资利率（SOFR）报4.24%，之前一天报4.24%。 上个交易日有效的联邦基金利率报4.11%，之前一天报4.11%。",
-          "url": "https://wallstreetcn.com/livenews/2994419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1542,6 +1658,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "macOS ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS网站：耶鲁大学研究发现，马斯克的政治冒险可能导致特斯拉(TSLA.O)在美国损失超过100万辆汽车销量。",
+          "url": "https://flash.jin10.com/detail/20251028175208321800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
