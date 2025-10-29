@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T20:45:34.086520+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2025-10-29T22:22:52.483125+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 93,
       "titles": [
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -37,8 +37,100 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 22时22分]"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 22时22分]"
+        },
+        {
+          "title": "习近平将同特朗普举行会晤",
+          "url": "https://www.toutiao.com/trending/7566236462364082195/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时33分 ~ 20时45分]"
+          "time_info": "[16时29分 ~ 22时22分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时22分]"
+        },
+        {
+          "title": "习近平将同特朗普举行会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时22分]"
+        },
+        {
+          "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
+          "url": "https://news.ifeng.com/c/8nqaruILXu7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时22分]"
+        },
+        {
+          "title": "习近平将同特朗普举行会晤",
+          "url": "https://www.douyin.com/hot/2287259",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时22分]"
+        },
+        {
+          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
+          "url": "https://news.ifeng.com/c/8nqc7tZlYVp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时22分]"
+        },
+        {
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758164",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时22分]"
         },
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -53,77 +145,20 @@
           "time_info": "[00时29分 ~ 06时21分]"
         },
         {
-          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "title": "习近平将同美国总统特朗普举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 20时45分]"
-        },
-        {
-          "title": "习近平将同特朗普举行会晤",
-          "url": "https://www.toutiao.com/trending/7566236462364082195/",
-          "source": "今日头条",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时45分]"
-        },
-        {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时45分]"
-        },
-        {
-          "title": "习近平将同特朗普举行会晤",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时45分]"
+          "time_info": "[18时25分 ~ 22时22分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
           "url": "https://www.cls.cn/detail/2184598",
           "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时45分]"
-        },
-        {
-          "title": "特朗普称对中美元首会晤持乐观态度，外交部回应",
-          "url": "https://news.ifeng.com/c/8nqaruILXu7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时45分]"
-        },
-        {
-          "title": "习近平将同特朗普举行会晤",
-          "url": "https://www.douyin.com/hot/2287259",
-          "source": "抖音",
           "ranks": [
             1
           ],
@@ -143,17 +178,6 @@
           "time_info": "[00时29分 ~ 06时21分]"
         },
         {
-          "title": "特朗普欲降低关税换取中方遏制芬太尼出口，中方回应",
-          "url": "https://news.ifeng.com/c/8nqc7tZlYVp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时45分]"
-        },
-        {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
           "url": "https://news.ifeng.com/c/8np198dmCFI",
           "source": "凤凰网",
@@ -163,19 +187,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758164",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时45分]"
         },
         {
           "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
@@ -200,15 +211,26 @@
           "time_info": "[12时29分 ~ 16时29分]"
         },
         {
-          "title": "习近平将同美国总统特朗普举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851071",
-          "source": "澎湃新闻",
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时22分]"
+        },
+        {
+          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
+          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时22分]"
         },
         {
           "title": "特朗普欲降低关税换取中方遏制芬太尼出口，外交部：美方应为合作创造必要条件",
@@ -217,17 +239,6 @@
           "ranks": [
             6,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
-        },
-        {
-          "title": "特朗普：未能协调好与金正恩会晤时间",
-          "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -256,15 +267,15 @@
           "time_info": "12时29分"
         },
         {
-          "title": "李在明向特朗普赠送金色王冠和大勋章，特朗普：我现在就想戴",
-          "url": "https://v.ifeng.com/c/8nqcHK4xyyI",
-          "source": "凤凰网",
+          "title": "美加贸易谈判中止后 特朗普与卡尼首次会面",
+          "url": "https://wallstreetcn.com/livenews/2996053",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普在美航母上讲话时用手拍导弹",
@@ -328,7 +339,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -360,11 +371,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时22分]"
         },
         {
           "title": "美国总统特朗普：到目前为止，旅途非常愉快。",
@@ -444,6 +456,18 @@
           "time_info": "02时33分"
         },
         {
+          "title": "特朗普：未能协调好与金正恩会晤时间",
+          "url": "https://www.toutiao.com/trending/7566454857181396998/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时22分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
           "url": "https://wallstreetcn.com/livenews/2995354",
           "source": "华尔街见闻-快讯",
@@ -462,7 +486,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -527,6 +551,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时46分 ~ 11时19分]"
+        },
+        {
+          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时22分]"
         },
         {
           "title": "特朗普抵韩 落地后专属BGM响起",
@@ -595,6 +631,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "在美国总统特朗普表示已与韩国达成贸易协议后，iShares MSCI韩国ETF股价上涨2.8%。",
+          "url": "https://flash.jin10.com/detail/20251029215807650800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "特朗普：我们来韩国不是为了见加拿大。",
           "url": "https://wallstreetcn.com/livenews/2995573",
           "source": "华尔街见闻-快讯",
@@ -615,17 +662,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
-        },
-        {
-          "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
@@ -777,7 +813,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -859,6 +895,17 @@
           "time_info": "18时25分"
         },
         {
+          "title": "大V：日韩在较劲谁能讨特朗普欢心",
+          "url": "https://www.toutiao.com/trending/7566597956187459108/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "韩国股市维持涨势，此前特朗普称美国与韩国有着“特殊纽带”关系，对双边贸易协议持乐观态度",
           "url": "https://wallstreetcn.com/livenews/2995627",
           "source": "华尔街见闻-快讯",
@@ -901,17 +948,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        },
-        {
-          "title": "特朗普：未能协调好与金正恩会晤时间",
-          "url": "https://www.toutiao.com/trending/7566454857181396998/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
@@ -997,7 +1033,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1016,7 +1052,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -1101,11 +1137,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时22分]"
         },
         {
           "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
@@ -1221,6 +1258,18 @@
           "time_info": "[14时33分 ~ 16时29分]"
         },
         {
+          "title": "中方回应黄仁勋称美AI芯片需出口中国",
+          "url": "https://www.toutiao.com/trending/7566339492316024361/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时22分]"
+        },
+        {
           "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
           "url": "https://wallstreetcn.com/livenews/2995385",
           "source": "华尔街见闻-快讯",
@@ -1243,16 +1292,15 @@
           "time_info": "00时29分"
         },
         {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
+          "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
+          "url": "https://wallstreetcn.com/articles/3758110",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            9
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "拿什么管住狂奔的AI？ “十五五”规划下，AI安全千亿级市场正在开启",
@@ -1272,9 +1320,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时22分]"
         },
         {
           "title": "英伟达官宣拟10亿美元入股诺基亚 携手加速AI-RAN与6G革命",
@@ -1404,7 +1452,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1429,6 +1477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "证监会：探索开展“AI+资本市场”金融科技创新专项试点",
+          "url": "https://wallstreetcn.com/livenews/2996021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -1456,7 +1515,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "今年三季报，基金经理“小作文”谁最出圈？",
@@ -1476,11 +1535,24 @@
           "url": "https://www.cls.cn/detail/2185058",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时22分]"
+        },
+        {
+          "title": "央企战略性新兴产业发展专项基金启动 首期规模达510亿元",
+          "url": "https://www.cls.cn/detail/2184972",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时22分]"
         },
         {
           "title": "韩国央行周三公布的数据显示，由于企业贸易结算和养老基金的海外投资增加，韩国9月份的外币存款有所下降。",
@@ -1500,7 +1572,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1549,26 +1621,49 @@
           "time_info": "18时25分"
         },
         {
-          "title": "央企战略性新兴产业发展专项基金启动 首期规模达510亿元",
-          "url": "https://www.cls.cn/detail/2184972",
-          "source": "财联社热门",
+          "title": "沙特公共主权财富基金概述了新投资战略的六个重点领域。",
+          "url": "https://flash.jin10.com/detail/20251029215844009800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "22时22分"
         },
         {
           "title": "透视基金三季报，一图看懂哪些个股最受公募追捧",
           "url": "https://www.cls.cn/detail/2184887",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时22分]"
+        },
+        {
+          "title": "沙特公共主权财富基金总裁：我们希望在2030年代成为一个与国家目标一致的投资者和资产优化者。我们现在正致力于国家建设。",
+          "url": "https://flash.jin10.com/detail/20251029215741819800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时45分"
+          "time_info": "22时22分"
+        },
+        {
+          "title": "沙特公共主权财富基金总裁：我们正处于新战略审批的最后阶段，这是一段漫长的旅程。这将从2026年至2030年进行。",
+          "url": "https://flash.jin10.com/detail/20251029215557325800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "中国联通：下属公司参与出资央企战新基金",
@@ -1580,6 +1675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "沙特公共主权财富基金总裁：我们的下一步战略有望很快公布。",
+          "url": "https://flash.jin10.com/detail/20251029215451360800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "欧盟欲设基金支持本土关键技术企业发展",
@@ -1610,9 +1716,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "沙特公共主权财富基金总裁：今天我们的员工已超过3000人。",
+          "url": "https://flash.jin10.com/detail/20251029215324946800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "沙特公共主权财富基金总裁：我们正努力实现2030年愿景。",
+          "url": "https://flash.jin10.com/detail/20251029215234632800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "央企战略性新兴产业发展基金公司登记成立，注册资本510亿",
@@ -1628,8 +1756,195 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 09时46分]"
+        },
+        {
+          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
+          "url": "https://www.cls.cn/detail/2184098",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 14时33分]"
+        },
+        {
+          "title": "美股盘前，半导体股普涨，英伟达涨约3%，美光科技涨约2%，AMD涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/2995734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "Fiserv美股盘前大跌35%，指引和业绩均大幅低于预期",
+          "url": "https://wallstreetcn.com/livenews/2995988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/2995384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
+          "url": "https://flash.jin10.com/detail/20251029040108535800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美股三大股指续创新高 英伟达涨近5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 11时19分]"
+        },
+        {
+          "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
+          "url": "https://wallstreetcn.com/livenews/2995368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股盘初：半导体股普涨，英伟达成为史上首家市值站上5万亿美元的公司",
+          "url": "https://wallstreetcn.com/livenews/2996031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
+          "url": "https://flash.jin10.com/detail/20251029030928567800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251029215338456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "全球科技股指数ETF收涨将近1.4%，领跑美股行业ETF，标普房地产板块跌超2.2%",
+          "url": "https://wallstreetcn.com/livenews/2995363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251029040619024800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251029040615964800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "Fiserv美股盘前大跌27%，此前下调财年调整后每股收益指引。",
+          "url": "https://wallstreetcn.com/livenews/2995936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "小米自研自产家电你会买吗",
@@ -1654,11 +1969,12 @@
             8,
             10,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 20时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 22时22分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -1671,6 +1987,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 06时21分]"
+        },
+        {
+          "title": "小米高管回应“巨省电”是产品名",
+          "url": "https://www.toutiao.com/trending/7565540045223264262/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，新东方跌2.9%，百胜中国、美团、百度、阿里巴巴、腾讯、理想、小米跌超1%，台积电和小鹏涨超1%，文远知行涨5.1%，小马智行涨11%。 ETF中，KWEB初步收跌0.8%，CQQQ涨0.1%。",
@@ -1689,11 +2016,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时22分]"
         },
         {
           "title": "看檀健次请保持苹果肌扁平",
@@ -1780,7 +2108,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1794,171 +2122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 09时46分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时21分 ~ 14时33分]"
-        },
-        {
-          "title": "美股盘前，半导体股普涨，英伟达涨约3%，美光科技涨约2%，AMD涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/2995734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "Fiserv美股盘前大跌35%，指引和业绩均大幅低于预期",
-          "url": "https://wallstreetcn.com/livenews/2995988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/2995384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
-          "url": "https://flash.jin10.com/detail/20251029040108535800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时21分]"
-        },
-        {
-          "title": "美股三大股指续创新高 英伟达涨近5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时19分]"
-        },
-        {
-          "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
-          "url": "https://wallstreetcn.com/livenews/2995368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
-          "url": "https://flash.jin10.com/detail/20251029030928567800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "全球科技股指数ETF收涨将近1.4%，领跑美股行业ETF，标普房地产板块跌超2.2%",
-          "url": "https://wallstreetcn.com/livenews/2995363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251029040619024800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251029040615964800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "Fiserv美股盘前大跌27%，此前下调财年调整后每股收益指引。",
-          "url": "https://wallstreetcn.com/livenews/2995936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         }
       ]
     },
@@ -2030,6 +2193,17 @@
           "time_info": "[02时33分 ~ 04时27分]"
         },
         {
+          "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
+          "url": "https://www.zhihu.com/question/1966579524385903459",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时22分]"
+        },
+        {
           "title": "金价下跌备婚人买三金纠结症犯了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A4%87%E5%A9%9A%E4%BA%BA%E4%B9%B0%E4%B8%89%E9%87%91%E7%BA%A0%E7%BB%93%E7%97%87%E7%8A%AF%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D13%26flag%3D1%26band_rank%3D12%26c_type%3D31%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%25A4%2587%25E5%25A9%259A%25E4%25BA%25BA%25E4%25B9%25B0%25E4%25B8%2589%25E9%2587%2591%25E7%25BA%25A0%25E7%25BB%2593%25E7%2597%2587%25E7%258A%25AF%25E4%25BA%2586%2523%26filter_type%3Drealtimehot%26realpos%3D12%26display_time%3D1761732798%26pre_seqid%3D1761732798739028255333",
           "source": "微博",
@@ -2039,17 +2213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
-        },
-        {
-          "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
-          "url": "https://www.zhihu.com/question/1966579524385903459",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "隔夜金价一度跌破3900美元，投行纷纷下调黄金价格预期；特朗普又向鲍威尔“开炮”，称其不是无能就是坏；在政府停摆、数据缺失的背景下，万众瞩目的美联储决议将于明日凌晨公布，当前黄金空头占优，白银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -2202,7 +2365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
