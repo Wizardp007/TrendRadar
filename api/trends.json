@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T20:43:26.971633+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-10-31T22:24:09.031786+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 16时28分]"
+        },
+        {
+          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
+          "url": "https://www.zhihu.com/question/1967494414290084753",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时13分 ~ 22时24分]"
         },
         {
           "title": "特朗普给中美会晤打12分",
@@ -34,17 +47,19 @@
           "time_info": "[00时27分 ~ 14时34分]"
         },
         {
-          "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
-          "url": "https://www.zhihu.com/question/1967494414290084753",
-          "source": "知乎",
+          "title": "美参议院通过终止特朗普全面关税政策决议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
+            9,
+            6,
+            4,
             2,
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 22时24分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -58,22 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 20时43分]"
-        },
-        {
-          "title": "美参议院通过终止特朗普全面关税政策决议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 22时24分]"
         },
         {
           "title": "习近平与特朗普会晤 完整视频",
@@ -284,6 +285,18 @@
           "time_info": "[09时40分 ~ 14时34分]"
         },
         {
+          "title": "特朗普称将重启核武试验，俄表示会效仿",
+          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普的亚洲行，从东盟和韩日等经济体获得了多少现实利益，美国又为此付出了什么，对其经济有何影响？",
           "url": "https://www.zhihu.com/question/1966966107974931991",
           "source": "知乎",
@@ -329,18 +342,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普称将重启核武试验，俄表示会效仿",
-          "url": "https://news.ifeng.com/c/8ntsDucQYrq",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时43分]"
         },
         {
           "title": "特朗普全面关税被参议院批准终止",
@@ -566,7 +567,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -602,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "土耳其外交部长：与美国总统特朗普在纽约会晤讨论加沙问题的各国外交部长将于下周一召开会议，商讨加沙停火事宜。",
+          "url": "https://flash.jin10.com/detail/20251031214220761800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "市场消息：美国参议院已获得足够票数通过旨在终止特朗普为实施全球关税而宣布的国家紧急状态的决议。",
@@ -640,7 +652,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -651,8 +663,24 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 22时24分]"
+        },
+        {
+          "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3758368",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时40分 ~ 20时43分]"
+          "time_info": "[11时14分 ~ 22时24分]"
         },
         {
           "title": "华为余承东称「车速跑到 120km/h，风阻消耗的能量可占总能耗 70% 以上」，有这么夸张吗？",
@@ -669,22 +697,6 @@
           "time_info": "[00时27分 ~ 09时40分]"
         },
         {
-          "title": "服务力挺苹果上季营收创同期新高，在华收入意外下滑，iPhone淡季销售逊色，但料本季两位数大增 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3758368",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 20时43分]"
-        },
-        {
           "title": "女子退订小米汽车,损五千块换杯具",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
           "source": "贴吧",
@@ -692,8 +704,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 22时24分]"
         },
         {
           "title": "入侵遭骂,小米广告狂轰音响吧",
@@ -707,6 +719,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 12时26分]"
+        },
+        {
+          "title": "网友称iPhone半夜自动拨号给陌生人",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0iPhone%E5%8D%8A%E5%A4%9C%E8%87%AA%E5%8A%A8%E6%8B%A8%E5%8F%B7%E7%BB%99%E9%99%8C%E7%94%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时24分]"
         },
         {
           "title": "纳指期货亚太盘初涨1.2%，业绩报告发布后，亚马逊涨超13%，苹果涨3%",
@@ -796,17 +820,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "网友称iPhone半夜自动拨号给陌生人",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0iPhone%E5%8D%8A%E5%A4%9C%E8%87%AA%E5%8A%A8%E6%8B%A8%E5%8F%B7%E7%BB%99%E9%99%8C%E7%94%9F%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：目前几款iPhone 17型号的供应受到限制。",
@@ -899,6 +912,17 @@
           "time_info": "[16时28分 ~ 18时24分]"
         },
         {
+          "title": "必会的iPhone截图技巧",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%BF%85%E4%BC%9A%E7%9A%84iPhone%E6%88%AA%E5%9B%BE%E6%8A%80%E5%B7%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D26%26pos%3D27%26dgr%3D0%26realpos%3D26%26filter_type%3Drealtimehot%26flag%3D1%26cate%3D5001%26c_type%3D31%26lcate%3D5001%26q%3D%25E5%25BF%2585%25E4%25BC%259A%25E7%259A%2584iPhone%25E6%2588%25AA%25E5%259B%25BE%25E6%258A%2580%25E5%25B7%25A7%26stream_entry_id%3D31%26display_time%3D1761919374%26pre_seqid%3D176191937486203434537118&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
           "title": "苹果(AAPL.O)：公司会计高级总监兼首席会计师Chris Kondo将于2026年1月1日起卸任。",
           "url": "https://flash.jin10.com/detail/20251031181016111800",
           "source": "金十数据",
@@ -908,6 +932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)开盘触及历史新高后短暂下跌0.8%，最新涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20251031215035971800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "苹果(AAPL.O)CFO：预计12月当季的毛利率将在47%至48%之间。",
@@ -971,9 +1006,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
+          "url": "https://wallstreetcn.com/livenews/2997765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "韦德布什：将苹果(AAPL.O)目标股价从310美元上调至320美元。",
@@ -1059,7 +1105,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1103,7 +1149,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1125,7 +1171,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1144,7 +1190,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -1183,8 +1229,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 22时24分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -1198,6 +1244,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时40分 ~ 16时28分]"
+        },
+        {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时24分]"
         },
         {
           "title": "据知情人士透露，英特尔初步洽谈收购人工智能（AI）初创公司SambaNova Systems Inc.。（彭博）",
@@ -1222,6 +1280,17 @@
           "time_info": "12时26分"
         },
         {
+          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
+          "url": "https://wallstreetcn.com/articles/3758381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时24分]"
+        },
+        {
           "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
           "url": "https://wallstreetcn.com/livenews/2997155",
           "source": "华尔街见闻-快讯",
@@ -1231,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "毕马威绩效考核新标准：会用AI成员工必修课",
+          "url": "https://wallstreetcn.com/livenews/2997776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
@@ -1243,17 +1323,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时31分 ~ 11时14分]"
-        },
-        {
-          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
-          "url": "https://wallstreetcn.com/articles/3758417",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
@@ -1310,17 +1379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
-          "url": "https://wallstreetcn.com/articles/3758381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
@@ -1527,7 +1585,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "鲍威尔意外鹰派，美股盘中转跌，英伟达支撑纳指最终收涨，美债黄金比特币跌，美元拉升",
@@ -1632,6 +1690,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美股收盘：三大股指齐跌 Meta跌超11%",
           "url": "https://flash.jin10.com/detail/20251031040124209800",
           "source": "金十数据",
@@ -1649,9 +1718,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美股收盘：三大指数集体下跌",
@@ -1663,6 +1743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251031214235711800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "小马智行美股盘前涨超5%。",
@@ -1685,13 +1776,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2997747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "据美国纽约联储数据，上个交易日（10月30日）担保隔夜融资利率（SOFR）报4.04%，之前一天报4.27%。 上个交易日有效的联邦基金利率报3.87%，之前一天报4.12%。",
+          "url": "https://wallstreetcn.com/livenews/2997781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
         {
           "title": "公募基金业绩“参照系”拟全面升级",
           "url": "https://wallstreetcn.com/livenews/2997647",
@@ -1713,6 +1826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "大基金三期再度出手 投了光刻工艺核心原材料",
+          "url": "https://www.cls.cn/detail/2188283",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "停止缩表的时机透露信号：联邦基金利率仍是美联储优选工具",
@@ -1773,7 +1897,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
@@ -1794,8 +1918,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 20时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 22时24分]"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
@@ -1819,6 +1943,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 06时20分]"
+        },
+        {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "据华尔街日报：谷歌推出首支完全由人工智能生成的广告片，将于今日起在电视上播出。",
@@ -1912,8 +2047,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 20时43分]"
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 22时24分]"
         },
         {
           "title": "GlobalStar（GSAT）上涨12%，随后触发盘中临时停牌。 彭博援引知情人士报道称，该公司在出售过程中吸引到马斯克旗下太空探索公司SpaceX的兴趣。 该公司与顾问合作，研究潜在的竞购方。",
