@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T14:31:16.400672+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2025-11-01T16:25:23.119196+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -19,6 +19,30 @@
           "time_info": "[00时27分 ~ 09时45分]"
         },
         {
+          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
+          "url": "https://www.cls.cn/detail/2188509",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
+        },
+        {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
+        },
+        {
           "title": "美参议院通过终止特朗普全面关税政策决议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31858474",
           "source": "澎湃新闻",
@@ -28,18 +52,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
-          "url": "https://www.cls.cn/detail/2188509",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时31分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议",
@@ -53,15 +65,15 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时31分]"
+          "time_info": "[11时14分 ~ 16时25分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -78,15 +90,15 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
-          "title": "特朗普：加总理道歉了，没用",
-          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
           "source": "凤凰网",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时14分 ~ 14时31分]"
+          "time_info": "[12时24分 ~ 16时25分]"
         },
         {
           "title": "美国总统特朗普：始终愿意与民主党人会面。民主党人所要做的就是开放政府。",
@@ -144,17 +156,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
-          "url": "https://flash.jin10.com/detail/20251101135652852800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
           "title": "美元兑加元略微走高，日内涨幅重新扩大至约0.2%。 加拿大股指转跌，失守30180点，北京时间22:00还曾涨至30314.63点刷新日高。 美国总统特朗普称，不会与加拿大恢复贸易磋商。 非常喜欢（加拿大总理）卡尼，（但）加拿大过去做错了。 卡尼为（安大略省在美国针对特朗普关税投放的）关税商业广告道歉。",
           "url": "https://wallstreetcn.com/livenews/2997816",
           "source": "华尔街见闻-快讯",
@@ -164,28 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
-          "url": "https://wallstreetcn.com/livenews/2997972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
-          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时31分]"
         },
         {
           "title": "美国总统特朗普：加拿大总理卡尼为关税广告道歉。",
@@ -221,6 +200,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
+          "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "美国总统特朗普：我很喜欢加拿大总理卡尼，但加拿大所做的事情是错误的。",
           "url": "https://flash.jin10.com/detail/20251031235806226800",
           "source": "金十数据",
@@ -230,6 +220,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
         },
         {
           "title": "美国总统特朗普：（被问及美国是否将恢复地下核爆试验）你们很快就会知道了。",
@@ -252,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
+          "url": "https://news.ifeng.com/c/8nvVRAkK6ND",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美国总统特朗普：（被问及核试验）我们将进行一些试验。",
@@ -311,17 +326,28 @@
           "time_info": "04时24分"
         },
         {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
+          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://flash.jin10.com/detail/20251101135652852800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            16,
-            12
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时31分]"
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 16时25分]"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://wallstreetcn.com/livenews/2997972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 16时25分]"
         },
         {
           "title": "美国劳工部进一步召回250名员工，恢复更多服务以应对特朗普政府停摆",
@@ -359,6 +385,17 @@
           "time_info": "[09时45分 ~ 11时14分]"
         },
         {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 16时25分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
           "url": "https://flash.jin10.com/detail/20251101031047264800",
           "source": "金十数据",
@@ -369,17 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 06时22分]"
-        },
-        {
-          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
-          "url": "https://news.ifeng.com/c/8nvMEROArvE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         },
         {
           "title": "据CNN：美国国防部批准向乌克兰提供战斧导弹，最终决策权移交美国总统特朗普。",
@@ -517,7 +543,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "女子退订小米汽车,损五千块换杯具",
@@ -528,11 +554,12 @@
             9,
             11,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 16时25分]"
         },
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -585,15 +612,15 @@
           "time_info": "[04时23分 ~ 12时24分]"
         },
         {
-          "title": "iPhone17的使用感如何",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
+          "title": "iPhone18Pro前瞻",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhone18Pro%E5%89%8D%E7%9E%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D2%26c_type%3D31%26cate%3D5001%26q%3D%2523iPhone18Pro%25E5%2589%258D%25E7%259E%25BB%2523%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26dgr%3D0%26lcate%3D5001%26band_rank%3D1%26realpos%3D1%26pos%3D0%26display_time%3D1761984866%26pre_seqid%3D17619848662700342817816&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.5%，10月份累跌约4%。 热门中概股里，小马智行初步收跌约5.7%，腾讯、阿里跌超2%，小米、京东、百度跌超1%，网易则涨0.7%，理想涨1.6%，小鹏涨2.2%，蔚来涨3.3%。",
@@ -629,6 +656,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 09时45分]"
+        },
+        {
+          "title": "iPhone17的使用感如何",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17%E7%9A%84%E4%BD%BF%E7%94%A8%E6%84%9F%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 16时25分]"
         },
         {
           "title": "小米公司宣布，截至2025年10月31日23:59:59，小米双11全渠道累计支付金额破182亿。",
@@ -685,7 +724,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -707,6 +746,17 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
+        },
+        {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
           "url": "https://www.cls.cn/detail/2188280",
           "source": "财联社热门",
@@ -722,28 +772,18 @@
           "time_info": "[00时27分 ~ 14时31分]"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时31分]"
-        },
-        {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -845,7 +885,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -856,8 +896,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 16时25分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -867,8 +907,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
         },
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -894,6 +934,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美银策略师：黄金与中国股票成为AI热潮下的最佳对冲工具",
@@ -953,11 +1004,12 @@
             6,
             5,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 16时25分]"
         },
         {
           "title": "如何看待国际奥委会宣布终止与沙特电竞基金会合作，首届奥林匹克电竞运动会将胎死腹中？",
@@ -969,8 +1021,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 16时25分]"
         },
         {
           "title": "加拿大增长基金与力拓(RIO.N)宣布达成交易，以推动加拿大生产重要的关键矿物钪。",
@@ -1029,11 +1081,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
         },
         {
           "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
