@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T09:48:53.486843+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2025-11-02T11:17:21.913619+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时17分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -26,11 +26,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时17分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -68,6 +69,29 @@
           "time_info": "[00时24分 ~ 06时20分]"
         },
         {
+          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
+          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时17分]"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时17分]"
+        },
+        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -79,35 +103,13 @@
           "time_info": "00时24分"
         },
         {
-          "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
-          "url": "https://news.ifeng.com/c/8nvnXJwNw8a",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
-          "url": "https://www.zhihu.com/question/1967205319198372105",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "美国考虑制作特朗普纪念币",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%88%B6%E4%BD%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%AA%E5%BF%B5%E5%B8%81",
           "source": "bilibili 热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -126,8 +128,34 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时17分]"
+        },
+        {
+          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
+          "url": "https://wallstreetcn.com/articles/3758471",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时17分]"
+        },
+        {
+          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
+          "url": "https://wallstreetcn.com/articles/3758475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "time_info": "[02时27分 ~ 11时17分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -136,35 +164,12 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时20分 ~ 09时48分]"
-        },
-        {
-          "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
-          "url": "https://wallstreetcn.com/articles/3758471",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时48分]"
-        },
-        {
-          "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
-          "url": "https://wallstreetcn.com/articles/3758475",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 09时48分]"
+          "appearance_count": 6,
+          "time_info": "[04时20分 ~ 11时17分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -187,71 +192,29 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://www.toutiao.com/trending/7567154802250088494/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 09时48分]"
-        },
-        {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 09时48分]"
-        },
-        {
-          "title": "马斯克称5年后不再有手机和App",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D0%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E7%25A7%25B05%25E5%25B9%25B4%25E5%2590%258E%25E4%25B8%258D%25E5%2586%258D%25E6%259C%2589%25E6%2589%258B%25E6%259C%25BA%25E5%2592%258CApp%2523%26flag%3D1%26stream_entry_id%3D31%26realpos%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762047655%26pre_seqid%3D176204765587901698044145&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
-          "url": "https://www.cls.cn/detail/2188470",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时48分]"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "女子退订小米汽车,损五千块换杯具",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时17分]"
+        },
         {
           "title": "金十整理：造车新势力“银十”成绩单——小米、蔚来月交付量破4万，比亚迪单月销量创年内新高",
           "url": "https://flash.jin10.com/detail/20251101221419283800",
@@ -265,16 +228,15 @@
           "time_info": "[00时24分 ~ 09时48分]"
         },
         {
-          "title": "女子退订小米汽车,损五千块换杯具",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346536&amp;topic_name=%E5%A5%B3%E5%AD%90%E9%80%80%E8%AE%A2%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%2C%E6%8D%9F%E4%BA%94%E5%8D%83%E5%9D%97%E6%8D%A2%E6%9D%AF%E5%85%B7",
-          "source": "贴吧",
+          "title": "10月新能源车企成绩单：零跑交付首破7万、小鹏、蔚来齐创纪录，小米交付站稳4万",
+          "url": "https://wallstreetcn.com/articles/3758477",
+          "source": "华尔街见闻",
           "ranks": [
-            21,
-            22
+            9
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "伯克希尔哈撒韦三季度前五大持仓公司为美国运通、苹果、美国银行、可口可乐以及雪佛龙",
@@ -286,6 +248,73 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 06时20分]"
+        },
+        {
+          "title": "温氏股份与华为签署战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/2998059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 11时17分]"
+        },
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://www.toutiao.com/trending/7567154802250088494/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 11时17分]"
+        },
+        {
+          "title": "马斯克称5年后不再有手机和App",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B05%E5%B9%B4%E5%90%8E%E4%B8%8D%E5%86%8D%E6%9C%89%E6%89%8B%E6%9C%BA%E5%92%8CApp%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D0%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E7%25A7%25B05%25E5%25B9%25B4%25E5%2590%258E%25E4%25B8%258D%25E5%2586%258D%25E6%259C%2589%25E6%2589%258B%25E6%259C%25BA%25E5%2592%258CApp%2523%26flag%3D1%26stream_entry_id%3D31%26realpos%3D1%26cate%3D5001%26dgr%3D0%26band_rank%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1762047655%26pre_seqid%3D176204765587901698044145&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时17分]"
+        },
+        {
+          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
+          "url": "https://www.cls.cn/detail/2188470",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 09时48分]"
         }
       ]
     },
@@ -326,11 +355,40 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中上协：避险情绪升温推动金价走高，前三季度贵金属行业上市公司净利润增长55.96%",
+          "url": "https://wallstreetcn.com/livenews/2998074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "黄金税收公告发布是否会影响金价",
+          "url": "https://www.toutiao.com/trending/7567904081340010011/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -343,11 +401,12 @@
           "url": "https://wallstreetcn.com/livenews/2998052",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时17分]"
         },
         {
           "title": "江苏社保科创基金签约，规模500亿元",
@@ -359,23 +418,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 06时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金税收公告发布是否会影响金价",
-          "url": "https://www.toutiao.com/trending/7567904081340010011/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
         }
       ]
     }
