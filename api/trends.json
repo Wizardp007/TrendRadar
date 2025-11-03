@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T09:45:31.194657+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2025-11-03T11:20:04.046000+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -20,17 +20,6 @@
           "time_info": "[00时23分 ~ 09时45分]"
         },
         {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 06时20分]"
-        },
-        {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
           "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
           "source": "澎湃新闻",
@@ -40,8 +29,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 11时20分]"
+        },
+        {
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "奥巴马又怼特朗普政府：无法无天！",
@@ -66,6 +66,17 @@
           "time_info": "[00时23分 ~ 06时20分]"
         },
         {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时20分]"
+        },
+        {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
           "url": "https://wallstreetcn.com/livenews/2998163",
           "source": "华尔街见闻-快讯",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 06时20分]"
-        },
-        {
-          "title": "特朗普：道歉没用，不谈！",
-          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
         },
         {
           "title": "特朗普威胁对尼日利亚动武",
@@ -103,13 +103,24 @@
           "time_info": "[00时23分 ~ 06时20分]"
         },
         {
+          "title": "特朗普：或向尼日利亚部署美军，以阻止基督徒被屠杀",
+          "url": "https://news.ifeng.com/c/8nyVPcqOvoH",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "美国总统特朗普：我们将进行核试验，因为我不希望我们成为唯一不这样做的国家。",
           "url": "https://flash.jin10.com/detail/20251103092312071800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -120,7 +131,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -131,7 +142,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -142,7 +153,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -218,24 +229,61 @@
           "time_info": "[04时21分 ~ 06时20分]"
         },
         {
-          "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
-          "url": "https://wallstreetcn.com/livenews/2998242",
-          "source": "华尔街见闻-快讯",
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            11
+            28,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时20分]"
         },
         {
           "title": "如何看特朗普说台海政策是秘密",
           "url": "https://www.toutiao.com/trending/7568264436717194788/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            18
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时20分]"
+        },
+        {
+          "title": "奥巴马怼特朗普政府“无法无天”",
+          "url": "https://www.toutiao.com/trending/7567655390914199593/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时20分]"
+        },
+        {
+          "title": "学者：特朗普抛G2概念是霸权算计",
+          "url": "https://www.toutiao.com/trending/7568286962377821723/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 11时20分]"
+        },
+        {
+          "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
+          "url": "https://wallstreetcn.com/livenews/2998242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -246,18 +294,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "奥巴马怼特朗普政府“无法无天”",
-          "url": "https://www.toutiao.com/trending/7567655390914199593/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -268,7 +305,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -279,18 +316,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "学者：特朗普抛G2概念是霸权算计",
-          "url": "https://www.toutiao.com/trending/7568286962377821723/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -301,7 +327,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -312,18 +338,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         },
@@ -334,7 +349,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
@@ -342,7 +357,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI医疗为何引发巨头押注",
@@ -354,19 +369,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 09时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 11时20分]"
         },
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
           "url": "https://wallstreetcn.com/articles/3758489",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 11时20分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -377,8 +393,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时27分 ~ 09时45分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 11时20分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -406,15 +422,81 @@
           "time_info": "[00时23分 ~ 06时20分]"
         },
         {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "中信证券：建议继续关注热度较高的科技方向，端侧AI预计成为新的催化线索",
           "url": "https://wallstreetcn.com/livenews/2998233",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周末要闻汇总：公募基金业绩比较基准指引征求意见稿发布，寒武纪遭原CTO起诉索赔近43亿元",
+          "url": "https://www.cls.cn/detail/2188845",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 11时20分]"
+        },
+        {
+          "title": "“国家大基金”持仓路径曝光 三季度重仓股名单来了",
+          "url": "https://www.cls.cn/detail/2188656",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
+          "url": "https://www.cls.cn/detail/2188963",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时20分]"
+        },
+        {
+          "title": "Q3最受机构青睐科创板公司名单出炉！930家机构持股寒武纪 大基金成沪硅产业、拓荆科技第一大流通股东",
+          "url": "https://www.cls.cn/detail/2188905",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -427,11 +509,12 @@
           "url": "https://wallstreetcn.com/articles/3758497",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 11时20分]"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决，马斯克与咨询公司展开骂战",
@@ -452,49 +535,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "“国家大基金”持仓路径曝光 三季度重仓股名单来了",
-          "url": "https://www.cls.cn/detail/2188656",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时45分]"
-        },
-        {
-          "title": "周末要闻汇总：公募基金业绩比较基准指引征求意见稿发布，寒武纪遭原CTO起诉索赔近43亿元",
-          "url": "https://www.cls.cn/detail/2188845",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 09时45分]"
-        },
-        {
-          "title": "【早报】公募基金业绩比较基准指引征求意见稿发布，两部门发布黄金有关税收政策的公告",
-          "url": "https://www.cls.cn/detail/2188963",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时45分"
         }
@@ -524,9 +565,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D2%26pos%3D21%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26cate%3D5001%26band_rank%3D21%26realpos%3D21%26dgr%3D0%26display_time%3D1762139263%26pre_seqid%3D17621392632130252667673&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         }
       ]
     },
@@ -545,6 +603,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 04时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上周多名美联储官员公开表态反对美联储12月降息，美元指数一路走高，在三个月高点附近徘徊；欧佩克+八国决定下月继续增产，明年一季度暂停增产，油价今日亚盘跳空高开，当前美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251103103249533800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     }
