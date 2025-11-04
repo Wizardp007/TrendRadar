@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:54:28.995845+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-11-04T22:22:52.602312+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
@@ -120,6 +120,18 @@
           "time_info": "[12时25分 ~ 16时32分]"
         },
         {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 22时22分]"
+        },
+        {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
           "url": "https://news.ifeng.com/c/8o00YT3c5ib",
           "source": "凤凰网",
@@ -129,17 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 14时34分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时54分]"
         },
         {
           "title": "美国总统特朗普：将要求我们的交通部长考虑取消纽约市拥堵收费。",
@@ -198,6 +199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时32分 ~ 18时26分]"
+        },
+        {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "据悉特朗普指示向更多议员通报委内瑞拉禁毒策略",
@@ -259,6 +271,17 @@
           "time_info": "[00时25分 ~ 06时22分]"
         },
         {
+          "title": "特朗普再向中国示好背后原因是什么",
+          "url": "https://www.toutiao.com/trending/7568843465572748827/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "特朗普称对中国与其打压不如合作",
           "url": "https://www.toutiao.com/trending/7568736208902324287/",
           "source": "今日头条",
@@ -269,6 +292,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时25分 ~ 20时54分]"
+        },
+        {
+          "title": "美国交通部：特朗普政府已延长宾夕法尼亚州交通局完成轨道车辆安全检查的最后期限，此前曾发生火灾。",
+          "url": "https://flash.jin10.com/detail/20251104220338521800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
+          "url": "https://wallstreetcn.com/livenews/2999237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "奥巴马抨击特朗普释放了什么信号",
@@ -292,6 +337,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时22分]"
         },
         {
           "title": "中方回应特朗普威胁对尼日利亚动武",
@@ -404,17 +461,6 @@
           "time_info": "04时24分"
         },
         {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "美国大约24个州起诉特朗普政府限制“公共服务贷款豁免”的做法",
           "url": "https://wallstreetcn.com/livenews/2998683",
           "source": "华尔街见闻-快讯",
@@ -506,7 +552,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -531,8 +577,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时22分 ~ 20时54分]"
+          "appearance_count": 9,
+          "time_info": "[06时22分 ~ 22时22分]"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -559,11 +605,12 @@
             11,
             12,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时41分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[09时41分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -612,6 +659,17 @@
           "time_info": "[00时26分 ~ 06时22分]"
         },
         {
+          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
+          "url": "https://wallstreetcn.com/articles/3758630",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 22时22分]"
+        },
+        {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
           "url": "https://www.cls.cn/detail/2189658",
           "source": "财联社热门",
@@ -634,6 +692,22 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时25分 ~ 18时26分]"
+        },
+        {
+          "title": "AI养老的真正任务：让老人不必退场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            19,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 22时22分]"
         },
         {
           "title": "道指盘中转跌，AI交易火爆、纳指逼近纪录，加密货币盘中跳水、以太坊跌近9%",
@@ -672,32 +746,6 @@
           "time_info": "[00时26分 ~ 04时24分]"
         },
         {
-          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
-          "url": "https://wallstreetcn.com/articles/3758630",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时54分]"
-        },
-        {
-          "title": "AI养老的真正任务：让老人不必退场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            19,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 20时54分]"
-        },
-        {
           "title": "马斯克：体力劳动更难被AI取代",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
           "source": "百度热搜",
@@ -733,6 +781,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时26分 ~ 20时54分]"
+        },
+        {
+          "title": "原神AI重制短片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9EAI%E9%87%8D%E5%88%B6%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "阿里巴巴发布国内科技企业首份《AI向善行动报告》",
@@ -779,17 +838,6 @@
           "time_info": "11时12分"
         },
         {
-          "title": "美ICU宰客19万,AI揭底秒修复",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "如何看待王垠对 Cursor 等 AI 编程的评价「不懂计算机科学的人用好 AI 编程是妄想」？",
           "url": "https://www.zhihu.com/question/1923534024288236685",
           "source": "知乎",
@@ -800,6 +848,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时33分 ~ 16时32分]"
+        },
+        {
+          "title": "美ICU宰客19万,AI揭底秒修复",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时22分]"
+        },
+        {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "AI投资大赛落下帷幕，阿里千问Qwen夺冠，DeepSeek亚军",
@@ -852,15 +923,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "Shopify(SHOP.N)高管：仅在第三季度，就有超过75万家Shopify店铺首次使用了AI助手Sidekick。",
+          "url": "https://flash.jin10.com/detail/20251104214100932800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -870,8 +952,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 22时22分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -886,26 +968,50 @@
           "time_info": "[09时41分 ~ 12时25分]"
         },
         {
+          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/2999262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
           "url": "https://wallstreetcn.com/livenews/2999213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时22分]"
         },
         {
           "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
           "url": "https://wallstreetcn.com/livenews/2999210",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时22分]"
         },
         {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.75%，道指期货跌0.4%。",
@@ -1013,7 +1119,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1068,7 +1174,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1082,6 +1188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-04）",
+          "url": "https://flash.jin10.com/detail/20251104214109676800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
@@ -1131,7 +1248,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "用iPhone前vs用iPhone后",
@@ -1179,6 +1296,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "京东双11手机榜：苹果登顶销冠，小米摘国产第一",
+          "url": "https://wallstreetcn.com/livenews/2999228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "三星电子跌幅扩大至3%。",
           "url": "https://flash.jin10.com/detail/20251104102911479800",
           "source": "金十数据",
@@ -1215,7 +1343,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克：我承诺在播客节目公布“外星人证据”",
@@ -1229,15 +1357,15 @@
           "time_info": "[00时26分 ~ 06时22分]"
         },
         {
-          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/2999214",
-          "source": "华尔街见闻-快讯",
+          "title": "美财长回应与马斯克在白宫打架",
+          "url": "https://www.toutiao.com/trending/7568305525287436294/",
+          "source": "今日头条",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "22时22分"
         },
         {
           "title": "马斯克称若发现外星人证据就公开",
@@ -1251,6 +1379,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 06时22分]"
+        },
+        {
+          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
+          "url": "https://wallstreetcn.com/livenews/2999214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时22分]"
         },
         {
           "title": "马斯克：若掌握外星人证据将公开",
@@ -1342,6 +1482,56 @@
       ]
     },
     {
+      "keyword_group": "基金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据美国纽约联储数据，上个交易日（11月3日）担保隔夜融资利率（SOFR）报4.13%，之前一天报4.22%。 上个交易日有效的联邦基金利率报3.87%，之前一天报3.86%。",
+          "url": "https://wallstreetcn.com/livenews/2999255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "公募基金发行回暖 周新发数环比增近30%",
+          "url": "https://wallstreetcn.com/livenews/2999007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "内蒙古培育重点产业引导基金成立",
+          "url": "https://wallstreetcn.com/livenews/2998949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "巴西财长Haddad：利率需要下降。 这么高的利率是不可持续的。 我不知道什么时候会开始降息。 高利率影响了巴西的生产。 我一直遵守财政目标。 2026年将是为可持续基金筹集资金的好时机。 巴西的表现好于分析人士的预期。 CPI的预期开始向目标靠拢。",
+          "url": "https://wallstreetcn.com/livenews/2999224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "macOS ios",
       "match_count": 2,
       "titles": [
@@ -1356,8 +1546,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时25分 ~ 20时54分]"
+          "appearance_count": 9,
+          "time_info": "[12时25分 ~ 22时22分]"
         },
         {
           "title": "iOS 26.1正式版来了",
@@ -1370,8 +1560,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[14时33分 ~ 22时22分]"
         }
       ]
     },
@@ -1428,34 +1618,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "公募基金发行回暖 周新发数环比增近30%",
-          "url": "https://wallstreetcn.com/livenews/2999007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "内蒙古培育重点产业引导基金成立",
-          "url": "https://wallstreetcn.com/livenews/2998949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
         }
       ]
     },
