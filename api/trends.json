@@ -1,12 +1,465 @@
 {
-  "generated_at": "2025-11-05T14:32:53.509859+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-11-05T16:30:31.340960+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 34,
+      "keyword_group": "AI 大模型",
+      "match_count": 37,
       "titles": [
+        {
+          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
+          "url": "https://wallstreetcn.com/articles/3758630",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 14时32分]"
+        },
+        {
+          "title": "原神AI重制短片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9EAI%E9%87%8D%E5%88%B6%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19,
+            6,
+            24,
+            16,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 16时30分]"
+        },
+        {
+          "title": "美ICU宰客19万,AI揭底秒修复",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            17,
+            18,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 16时30分]"
+        },
+        {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 11时13分]"
+        },
+        {
+          "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
+          "url": "https://www.cls.cn/detail/2191195",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时32分]"
+        },
+        {
+          "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
+          "url": "https://www.cls.cn/detail/2190917",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 16时30分]"
+        },
+        {
+          "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物。",
+          "url": "https://wallstreetcn.com/livenews/2999349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
+          "url": "https://wallstreetcn.com/livenews/2999380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "澳大利亚10月AIG建筑业表现指数 -7.1，前值12.3。",
+          "url": "https://flash.jin10.com/detail/20251105060002452800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2999672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "全球芯片制造商市值暴跌逾5000亿美元 AI泡沫与高估值引发抛售潮",
+          "url": "https://flash.jin10.com/detail/20251105103729526800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "北京：支持医疗卫生机构联合大模型企业挂牌AI实体医院",
+          "url": "https://wallstreetcn.com/livenews/2999668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "澳大利亚10月AIG/PWC制造业表现指数 -22，前值-13.2。",
+          "url": "https://flash.jin10.com/detail/20251105060002206800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/2999584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时26分]"
+        },
+        {
+          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
+          "url": "https://www.cls.cn/detail/2191698",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "韩媒：李在明施政演说强调“开启AI时代”",
+          "url": "https://news.ifeng.com/c/8o1TZKF9xGX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
+          "url": "https://flash.jin10.com/detail/20251105000406065800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "AI养老的真正任务：让老人不必退场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "AI还原福建舰电磁弹射全过程",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时13分 ~ 12时26分]"
+        },
+        {
+          "title": "软银：预计与OpenAI的合资企业将在日本独家推广Crystal Intelligence，计划于2026年上市。",
+          "url": "https://flash.jin10.com/detail/20251105140720098800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "鸿海10月营收增长11.3% 受益于AI服务器需求强劲",
+          "url": "https://flash.jin10.com/detail/20251105161549630800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
+          "url": "https://wallstreetcn.com/livenews/2999372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "软银：和OpenAI共同推出合资企业“SB OAI Japan”。",
+          "url": "https://flash.jin10.com/detail/20251105140621043800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
+          "url": "https://flash.jin10.com/detail/20251105031420233800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：AI6芯片将采用相同的晶圆厂，但性能将提升约2倍。",
+          "url": "https://flash.jin10.com/detail/20251105031111963800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "小鹏第二代VLA大模型将上线“小路NGP”，大众成为首发客户",
+          "url": "https://wallstreetcn.com/livenews/2999735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "美国民主党人ABIGAIL SPANBERGER在弗吉尼亚州州长竞选中获胜。",
+          "url": "https://flash.jin10.com/detail/20251105085817452800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "李在明施政演说强调“开启AI时代”",
+          "url": "https://www.toutiao.com/trending/7568434164790837275/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "美国民主党人Abigail Spanberger在弗吉尼亚州州长竞选中获胜。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/2999499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "宇树科技王兴兴：具身智能大模型技术进步比预想慢，但临界点将至",
+          "url": "https://wallstreetcn.com/livenews/2999726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "香港财政司司长陈茂波：将以双引擎战略发展AI",
+          "url": "https://wallstreetcn.com/livenews/2999628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "山姆会员吐槽花680不是来看AI图的",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B1%B1%E5%A7%86%E4%BC%9A%E5%91%98%E5%90%90%E6%A7%BD%E8%8A%B1680%E4%B8%8D%E6%98%AF%E6%9D%A5%E7%9C%8BAI%E5%9B%BE%E7%9A%84%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D28%26c_type%3D31%26cate%3D5001%26band_rank%3D28%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E5%25B1%25B1%25E5%25A7%2586%25E4%25BC%259A%25E5%2591%2598%25E5%2590%2590%25E6%25A7%25BD%25E8%258A%25B1680%25E4%25B8%258D%25E6%2598%25AF%25E6%259D%25A5%25E7%259C%258BAI%25E5%259B%25BE%25E7%259A%2584%2523%26flag%3D0%26realpos%3D28%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1762293229%26pre_seqid%3D17622932290320341169755&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物",
+          "url": "https://wallstreetcn.com/livenews/2999349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "纳指科技指数收跌超2.5%，半导体指数跌4%，投资者重新估值AI",
+          "url": "https://wallstreetcn.com/livenews/2999393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时13分 ~ 16时30分]"
+        },
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
           "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
@@ -19,18 +472,6 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 14时32分]"
-        },
-        {
           "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
           "url": "https://wallstreetcn.com/articles/3758648",
           "source": "华尔街见闻",
@@ -39,8 +480,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 16时30分]"
         },
         {
           "title": "美国总统特朗普：一旦政府结束关门事件，就会发放联邦食品救济项目“补充营养援助计划”（SNAP）。",
@@ -120,6 +561,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "美国众议长约翰逊：如果参议院（针对总统特朗普的政府关门事件相关的融资立法草案）批准一些东西，众议院就会重返谈判桌。",
@@ -285,7 +737,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -391,402 +843,8 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
-          "url": "https://wallstreetcn.com/articles/3758630",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 14时32分]"
-        },
-        {
-          "title": "原神AI重制短片",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9EAI%E9%87%8D%E5%88%B6%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            19,
-            6,
-            24,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 14时32分]"
-        },
-        {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 11时13分]"
-        },
-        {
-          "title": "美ICU宰客19万,AI揭底秒修复",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 14时32分]"
-        },
-        {
-          "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
-          "url": "https://www.cls.cn/detail/2191195",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 14时32分]"
-        },
-        {
-          "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
-          "url": "https://www.cls.cn/detail/2190917",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物。",
-          "url": "https://wallstreetcn.com/livenews/2999349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时13分 ~ 14时32分]"
-        },
-        {
-          "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
-          "url": "https://wallstreetcn.com/livenews/2999380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "澳大利亚10月AIG建筑业表现指数 -7.1，前值12.3。",
-          "url": "https://flash.jin10.com/detail/20251105060002452800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2999672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "全球芯片制造商市值暴跌逾5000亿美元 AI泡沫与高估值引发抛售潮",
-          "url": "https://flash.jin10.com/detail/20251105103729526800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "北京：支持医疗卫生机构联合大模型企业挂牌AI实体医院",
-          "url": "https://wallstreetcn.com/livenews/2999668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "澳大利亚10月AIG/PWC制造业表现指数 -22，前值-13.2。",
-          "url": "https://flash.jin10.com/detail/20251105060002206800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2999584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时26分]"
-        },
-        {
-          "title": "韩媒：李在明施政演说强调“开启AI时代”",
-          "url": "https://news.ifeng.com/c/8o1TZKF9xGX",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
-          "url": "https://flash.jin10.com/detail/20251105000406065800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "AI养老的真正任务：让老人不必退场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "AI还原福建舰电磁弹射全过程",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            18,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时26分]"
-        },
-        {
-          "title": "软银：预计与OpenAI的合资企业将在日本独家推广Crystal Intelligence，计划于2026年上市。",
-          "url": "https://flash.jin10.com/detail/20251105140720098800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
-          "url": "https://wallstreetcn.com/livenews/2999372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "软银：和OpenAI共同推出合资企业“SB OAI Japan”。",
-          "url": "https://flash.jin10.com/detail/20251105140621043800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
-          "url": "https://flash.jin10.com/detail/20251105031420233800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "特斯拉CEO马斯克：AI6芯片将采用相同的晶圆厂，但性能将提升约2倍。",
-          "url": "https://flash.jin10.com/detail/20251105031111963800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国民主党人ABIGAIL SPANBERGER在弗吉尼亚州州长竞选中获胜。",
-          "url": "https://flash.jin10.com/detail/20251105085817452800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "李在明施政演说强调“开启AI时代”",
-          "url": "https://www.toutiao.com/trending/7568434164790837275/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "美国民主党人Abigail Spanberger在弗吉尼亚州州长竞选中获胜。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/2999499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "香港财政司司长陈茂波：将以双引擎战略发展AI",
-          "url": "https://wallstreetcn.com/livenews/2999628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "山姆会员吐槽花680不是来看AI图的",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%B1%B1%E5%A7%86%E4%BC%9A%E5%91%98%E5%90%90%E6%A7%BD%E8%8A%B1680%E4%B8%8D%E6%98%AF%E6%9D%A5%E7%9C%8BAI%E5%9B%BE%E7%9A%84%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D28%26c_type%3D31%26cate%3D5001%26band_rank%3D28%26stream_entry_id%3D31%26dgr%3D0%26q%3D%2523%25E5%25B1%25B1%25E5%25A7%2586%25E4%25BC%259A%25E5%2591%2598%25E5%2590%2590%25E6%25A7%25BD%25E8%258A%25B1680%25E4%25B8%258D%25E6%2598%25AF%25E6%259D%25A5%25E7%259C%258BAI%25E5%259B%25BE%25E7%259A%2584%2523%26flag%3D0%26realpos%3D28%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1762293229%26pre_seqid%3D17622932290320341169755&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物",
-          "url": "https://wallstreetcn.com/livenews/2999349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "纳指科技指数收跌超2.5%，半导体指数跌4%，投资者重新估值AI",
-          "url": "https://wallstreetcn.com/livenews/2999393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -796,8 +854,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 16时30分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -935,6 +993,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美股散户“黑色星期二”有多惨",
+          "url": "https://www.toutiao.com/trending/7569095245124603438/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "半导体ETF收跌超3.6%，与航空业ETF领跌美股行业ETF，标普科技板块跌约2.3%",
           "url": "https://wallstreetcn.com/livenews/2999413",
           "source": "华尔街见闻-快讯",
@@ -1037,7 +1106,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "苹果中国区收紧渠道：严禁线下经销商线上售产品，防止打乱价格体系",
@@ -1054,6 +1123,18 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
+          "title": "第一财经再出手,痛击小米销量惨淡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 16时30分]"
+        },
+        {
           "title": "苹果被曝准备进军低价笔记本领域 抢攻学生与入门级市场",
           "url": "https://www.cls.cn/detail/2191189",
           "source": "财联社热门",
@@ -1066,15 +1147,15 @@
           "time_info": "[09时43分 ~ 14时32分]"
         },
         {
-          "title": "第一财经再出手,痛击小米销量惨淡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346754&amp;topic_name=%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F%E5%86%8D%E5%87%BA%E6%89%8B%2C%E7%97%9B%E5%87%BB%E5%B0%8F%E7%B1%B3%E9%94%80%E9%87%8F%E6%83%A8%E6%B7%A1",
-          "source": "贴吧",
+          "title": "iPhone面容解锁不需要摄像头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E9%9C%80%E8%A6%81%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D4%26pos%3D4%26c_type%3D31%26q%3DiPhone%25E9%259D%25A2%25E5%25AE%25B9%25E8%25A7%25A3%25E9%2594%2581%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26flag%3D1%26cate%3D5001%26dgr%3D0%26realpos%3D4%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26display_time%3D1762331271%26pre_seqid%3D176233127191803418892119&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "16时30分"
         },
         {
           "title": "纳指跌幅扩大至2%，标普500指数跌1.2%——科技板块跌2.2%，可选消费、电信、工业板块至多跌1.89%，半导体指数跌3.3%。特斯拉跌4.7%，苹果目前涨0.48%。 纳斯达克100指数的成分股中，Palantir跌9.4%，CDW跌8.6%，汤森路透跌6.3%，美光科技跌6.2%，新思科技和MSTR跌6.1%，英特尔跌5.6%，特斯拉跌4.9%，英伟达跌3.8%，安森美半导体跌3.6%，Linde则涨1.7%，VRSK涨2%，万豪国际涨3.7%。",
@@ -1179,9 +1260,83 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D20%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D21%26band_rank%3D21%26flag%3D1%26display_time%3D1762273383%26pre_seqid%3D176227338372007156503&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 09时43分]"
+        },
+        {
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
+          "url": "https://flash.jin10.com/detail/20251105101740650800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968706446079299701",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "美元走强金价又跌了",
+          "url": "https://www.douyin.com/hot/2295060",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini nano",
       "match_count": 4,
       "titles": [
+        {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 16时30分]"
+        },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
           "url": "https://flash.jin10.com/detail/20251105011112408800",
@@ -1203,17 +1358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 14时32分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布“捕光者”项目（Project Suncatcher），这是我们一项全新的研究型登月项目，旨在有朝一日实现机器学习在太空中的规模化应用。",
@@ -1275,57 +1419,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D20%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D21%26band_rank%3D21%26flag%3D1%26display_time%3D1762273383%26pre_seqid%3D176227338372007156503&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 09时43分]"
-        },
-        {
-          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
-          "url": "https://wallstreetcn.com/livenews/2999422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
-          "url": "https://flash.jin10.com/detail/20251105101740650800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968706446079299701",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
         }
       ]
     },
@@ -1413,7 +1506,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
