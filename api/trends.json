@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T02:32:46.516471+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-11-07T04:26:32.980544+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "特朗普为什么总是针对南非？",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普政府表示，美国COVE资本将与哈萨克斯坦国有矿业公司TAAU - KEN SAMRUK共同开发哈萨克斯坦的大型钨矿，项目的成本预计为11亿美元；美国进出口银行已发出意向函，拟提供9亿美元资金支持。",
+          "url": "https://flash.jin10.com/detail/20251107041030974800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
@@ -36,29 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
-          "url": "https://wallstreetcn.com/livenews/3000699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
-          "url": "https://wallstreetcn.com/livenews/3000696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -85,6 +74,30 @@
           "time_info": "00时29分"
         },
         {
+          "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
+          "url": "https://wallstreetcn.com/livenews/3000699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
+          "url": "https://wallstreetcn.com/livenews/3000696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
           "title": "特朗普重申不会出席G20峰会",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
           "source": "百度热搜",
@@ -92,8 +105,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普会否成为“跛脚总统”",
+          "url": "https://www.toutiao.com/trending/7569576151731932699/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "time_info": "[02时32分 ~ 04时26分]"
         },
         {
           "title": "尼日利亚财政部长Wale Edun宣布该国欧元债发行取得成功，投资者认购倍数超过五倍。 意味着投资者看淡美国总统特朗普近期发出的军事威胁，更关注该国的经济改革和政治稳定性。",
@@ -118,6 +143,39 @@
           "time_info": "00时29分"
         },
         {
+          "title": "美国总统特朗普：不担心航空旅行安全。",
+          "url": "https://flash.jin10.com/detail/20251107030453698800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普：共和党因为经济承受问题而在民主党占优势的地区败选。",
+          "url": "https://wallstreetcn.com/livenews/3000712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普：新的空中交通管制系统正在竞标中，未来六周将发布相关合同。",
+          "url": "https://flash.jin10.com/detail/20251107030442496800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "美国众议长约翰逊：我可不会对（总统特朗普的政府关门期间的）医疗保健补贴问题作出投票承诺。",
           "url": "https://wallstreetcn.com/livenews/3000647",
           "source": "华尔街见闻-快讯",
@@ -129,13 +187,35 @@
           "time_info": "00时29分"
         },
         {
+          "title": "特朗普赞莫迪减购俄油，称可能明年前往印度",
+          "url": "https://wallstreetcn.com/livenews/3000711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国总统特朗普：我们会安排好去印度的行程，可能是明年。",
+          "url": "https://flash.jin10.com/detail/20251107030006844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
           "url": "https://flash.jin10.com/detail/20251107013741993800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -146,7 +226,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -157,9 +237,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：印度总理莫迪很棒，他们已经基本停止购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251107025935125800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "特朗普政府与礼来、诺和诺德达成减肥药降价协议",
@@ -168,9 +259,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：与印度的会谈进展顺利。我们会敲定印度之行。",
+          "url": "https://flash.jin10.com/detail/20251107025853685800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
@@ -179,7 +281,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -190,9 +292,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：我们会把牛肉价格降下来，哪怕不得不向他们提供援助。",
+          "url": "https://flash.jin10.com/detail/20251107025737098800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：当前的利率环境“几乎不存在限制性”。 并没有明显的证据表明，应该在2025年继续采取货币政策行动。 通胀是更加迫切的担忧。 预计2026年更快的经济增速将利好就业。 （由于总统特朗普政府关门影响到经济的缘故）预计失业率将在未来数月上升。",
@@ -201,7 +314,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -212,20 +325,114 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
         {
-          "title": "特朗普会否成为“跛脚总统”",
-          "url": "https://www.toutiao.com/trending/7569576151731932699/",
-          "source": "今日头条",
+          "title": "特朗普：最高法院审理关税案期间不会宣布新关税",
+          "url": "https://flash.jin10.com/detail/20251107024330534800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
+          "url": "https://flash.jin10.com/detail/20251107023254631800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 大模型",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
+          "url": "https://wallstreetcn.com/articles/3758820",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
+        },
+        {
+          "title": "高通(QCOM.O)CEO：汽车是（本公司业务中）当前增速最快的领域。对个人AI设备的前景“非常乐观”。",
+          "url": "https://flash.jin10.com/detail/20251107001704444800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3000659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
+          "url": "https://wallstreetcn.com/livenews/3000723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
+          "url": "https://flash.jin10.com/detail/20251107032640209800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
+          "url": "https://flash.jin10.com/detail/20251107032614746800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：预计今年的年化收入将达到200亿美元以上，到2030年预计将增长至数千亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107032458905800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
@@ -242,8 +449,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -254,19 +461,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2193483",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
@@ -286,7 +494,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -297,7 +505,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -323,11 +531,12 @@
           "url": "https://www.zhihu.com/question/1969525122005164073",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
@@ -336,9 +545,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -348,8 +557,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "苹果喊话iPhone13和14用户换新机",
@@ -360,19 +569,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "小米通话将于12月3日停止服务",
           "url": "https://www.douyin.com/hot/2296138",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         },
         {
           "title": "第一财经再出手,痛击小米销量惨淡",
@@ -382,104 +592,37 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 大模型",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
-          "url": "https://wallstreetcn.com/articles/3758820",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
-        },
-        {
-          "title": "高通(QCOM.O)CEO：汽车是（本公司业务中）当前增速最快的领域。对个人AI设备的前景“非常乐观”。",
-          "url": "https://flash.jin10.com/detail/20251107001704444800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "高通CEO Cristiano Amon：汽车是（本公司业务中）当前增速最快的领域。 对个人AI设备的前景“非常乐观”。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3000659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "消息人士称，城堡公司全球股票基金10月份上涨2.3%，截至10月份年内涨幅为10.4%。",
+          "url": "https://flash.jin10.com/detail/20251107041957582800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.53万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107041459433800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
         {
           "title": "瑞银集团将清算与美国汽车零部件供应商First Brands重大风险敞口相关的那些基金。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3000661",
@@ -498,7 +641,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -509,9 +652,101 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "据知情人士透露透露，挪威将对巴西的旗舰倡议TFFF（Tropical Forest Forever Facility，热带森林永续基金/热带森林长久机制）做出十年期内投资30亿美元的承诺。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3000697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
+          "url": "https://wallstreetcn.com/livenews/3000717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
+          "url": "https://wallstreetcn.com/livenews/3000693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
         }
       ]
     },
@@ -526,24 +761,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
-          "url": "https://wallstreetcn.com/livenews/3000693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
@@ -559,11 +777,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         }
       ]
     },
@@ -576,11 +795,12 @@
           "url": "https://www.cls.cn/detail/2193135",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 04时26分]"
         }
       ]
     }
