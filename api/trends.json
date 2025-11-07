@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T04:22:37.392699+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-11-08T06:21:37.053793+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3001419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
@@ -149,8 +160,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 06时21分]"
         },
         {
           "title": "美国总统特朗普：认为欧盟应尊重匈牙利。",
@@ -162,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        },
+        {
+          "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
+          "url": "https://wallstreetcn.com/livenews/3001408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "市场消息：美国总统特朗普将于下月拍卖整个墨西哥湾的石油和天然气开采权。",
@@ -225,9 +258,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
+          "url": "https://wallstreetcn.com/livenews/3001393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
@@ -252,24 +296,13 @@
           "time_info": "00时24分"
         },
         {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时30分"
-        },
-        {
           "title": "美国财长贝森特：波音公司10月份向总统特朗普颁发年度销售员奖。 该公司CEO出现在总统办公室。",
           "url": "https://wallstreetcn.com/livenews/3001358",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -309,8 +342,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -320,8 +353,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 06时21分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -344,8 +377,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
@@ -405,8 +438,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -416,8 +449,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
@@ -428,8 +461,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
@@ -440,19 +473,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
           "url": "https://wallstreetcn.com/articles/3758924",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -461,11 +495,12 @@
           "ranks": [
             13,
             12,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "马斯克或成万亿富豪凸显美贫富分化",
@@ -473,17 +508,18 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            25
+            25,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 06时21分]"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "iPhone18系列10大升级",
@@ -492,11 +528,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时21分]"
         },
         {
           "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
@@ -508,8 +545,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "iPhone 18 Pro或缩小灵动岛",
@@ -533,13 +570,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时24分]"
+        },
+        {
+          "title": "三星与巴克莱洽谈年底之前于美国市场推出信用卡。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3001394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
           "url": "https://wallstreetcn.com/articles/3758853",
@@ -553,26 +612,65 @@
           "time_info": "[00时24分 ~ 04时22分]"
         },
         {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
-        },
-        {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
           "url": "https://flash.jin10.com/detail/20251108035138524800",
           "source": "金十数据",
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时21分]"
+        },
+        {
+          "title": "Salesforce签署排他性协议，将收购Spindle AI。",
+          "url": "https://wallstreetcn.com/livenews/3001411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时22分"
+          "time_info": "06时21分"
+        },
+        {
+          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3001303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "美元指数本周跌超0.2%，冲高至100点整数位心理关口上方之后转跌",
+          "url": "https://wallstreetcn.com/livenews/3001387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -597,23 +695,6 @@
           "source": "金十数据",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3001303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
