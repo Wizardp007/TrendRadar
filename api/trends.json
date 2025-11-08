@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T16:27:32.647859+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2025-11-08T18:22:40.891145+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "死对头要走了，特朗普开心坏了",
@@ -101,15 +101,27 @@
           "time_info": "02时30分"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://flash.jin10.com/detail/20251108154641553800",
-          "source": "金十数据",
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 18时22分]"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "18时22分"
         },
         {
           "title": "美国总统特朗普：希望继续在布达佩斯与俄罗斯总统普京会晤。",
@@ -220,15 +232,16 @@
           "time_info": "[11时04分 ~ 14时31分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://flash.jin10.com/detail/20251108154641553800",
+          "source": "金十数据",
           "ranks": [
-            10
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 18时22分]"
         },
         {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
@@ -367,6 +380,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "为关键矿产特朗普再向中亚发力，美国能否缓解“稀土困局”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31917706",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "特朗普称佩洛西在股市“非法敛财”",
           "url": "https://flash.jin10.com/detail/20251107234753828800",
           "source": "金十数据",
@@ -491,19 +515,8 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "“六小龙”乌镇对话思考AI和未来",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 16时27分]"
-        },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
           "url": "https://www.cls.cn/detail/2193939",
@@ -514,8 +527,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 18时22分]"
+        },
+        {
+          "title": "“六小龙”乌镇对话思考AI和未来",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时04分 ~ 16时27分]"
+          "time_info": "[12时24分 ~ 16时27分]"
         },
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -559,9 +583,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 18时22分]"
+        },
+        {
+          "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
+          "url": "https://wallstreetcn.com/livenews/3001548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "18时22分"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -576,6 +611,17 @@
           "time_info": "[04时22分 ~ 09时28分]"
         },
         {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "Salesforce签署排他性协议，将收购Spindle AI。",
           "url": "https://wallstreetcn.com/livenews/3001411",
           "source": "华尔街见闻-快讯",
@@ -585,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3758961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "全球电力设备巨头上调财年订单指引 整合业务回应AI炒作期待",
@@ -679,19 +736,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时28分 ~ 16时27分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时28分 ~ 18时22分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -703,8 +749,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 16时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 18时22分]"
+        },
+        {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -844,164 +901,8 @@
       ]
     },
     {
-      "keyword_group": "grok 马斯克",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 16时27分]"
-        },
-        {
-          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
-          "url": "https://wallstreetcn.com/articles/3758924",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 16时27分]"
-        },
-        {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时04分]"
-        },
-        {
-          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
-          "url": "https://www.zhihu.com/question/1970064184793334914",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 06时21分]"
-        },
-        {
-          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
-          "url": "https://wallstreetcn.com/articles/3758856",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
-        },
-        {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.toutiao.com/trending/7569429277528145970/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 16时27分]"
-        },
-        {
-          "title": "马斯克点赞小鹏机器人",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时28分 ~ 12时25分]"
-        },
-        {
-          "title": "马斯克万亿薪酬方案获批准",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 06时21分]"
-        },
-        {
-          "title": "马斯克或成万亿富豪凸显美贫富分化",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 06时21分]"
-        },
-        {
-          "title": "马斯克评价小鹏人形机器人身材不错",
-          "url": "https://www.toutiao.com/trending/7569236906177937449/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时25分]"
-        },
-        {
-          "title": "何小鹏回应马斯克点赞小鹏机器人",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 12时25分]"
-        },
-        {
-          "title": "马斯克可能真觉得造车没意思了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%AF%E8%83%BD%E7%9C%9F%E8%A7%89%E5%BE%97%E9%80%A0%E8%BD%A6%E6%B2%A1%E6%84%8F%E6%80%9D%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E8%25A7%2589%25E5%25BE%2597%25E9%2580%25A0%25E8%25BD%25A6%25E6%25B2%25A1%25E6%2584%258F%25E6%2580%259D%25E4%25BA%2586%2523%26pos%3D28%26band_rank%3D27%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762565324%26pre_seqid%3D17625653241660244658567&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
@@ -1015,8 +916,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 16时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 18时22分]"
         },
         {
           "title": "iPhone18系列10大升级",
@@ -1039,9 +940,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
+        },
+        {
+          "title": "华为将发布新款手表 售价6499元起",
+          "url": "https://www.toutiao.com/trending/7569866088482144298/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "英伟达CEO黄仁勋：三星、SK海力士和美光已扩大产能以支持我们。",
@@ -1141,6 +1053,163 @@
       ]
     },
     {
+      "keyword_group": "grok 马斯克",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 16时27分]"
+        },
+        {
+          "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
+          "url": "https://wallstreetcn.com/articles/3758924",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 16时27分]"
+        },
+        {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时04分]"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.toutiao.com/trending/7569429277528145970/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 18时22分]"
+        },
+        {
+          "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
+          "url": "https://www.zhihu.com/question/1970064184793334914",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时21分]"
+        },
+        {
+          "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
+          "url": "https://wallstreetcn.com/articles/3758856",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 12时25分]"
+        },
+        {
+          "title": "马斯克万亿薪酬方案获批准",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时21分]"
+        },
+        {
+          "title": "马斯克或成万亿富豪凸显美贫富分化",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 06时21分]"
+        },
+        {
+          "title": "马斯克评价小鹏人形机器人身材不错",
+          "url": "https://www.toutiao.com/trending/7569236906177937449/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时25分]"
+        },
+        {
+          "title": "何小鹏回应马斯克点赞小鹏机器人",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%95%E5%B0%8F%E9%B9%8F%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时25分]"
+        },
+        {
+          "title": "马斯克可能真觉得造车没意思了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%AF%E8%83%BD%E7%9C%9F%E8%A7%89%E5%BE%97%E9%80%A0%E8%BD%A6%E6%B2%A1%E6%84%8F%E6%80%9D%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E8%25A7%2589%25E5%25BE%2597%25E9%2580%25A0%25E8%25BD%25A6%25E6%25B2%25A1%25E6%2584%258F%25E6%2580%259D%25E4%25BA%2586%2523%26pos%3D28%26band_rank%3D27%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762565324%26pre_seqid%3D17625653241660244658567&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Kimi",
       "match_count": 6,
       "titles": [
@@ -1220,6 +1289,67 @@
       ]
     },
     {
+      "keyword_group": "基金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "联想上海基金签约成立，首期规模10亿元",
+          "url": "https://wallstreetcn.com/livenews/3001541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "联合国人口基金驻华代表：中国银发市场潜力巨大",
+          "url": "https://wallstreetcn.com/livenews/3001534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "马英九基金会执行长：深耕两岸交流",
+          "url": "https://www.toutiao.com/trending/7570273052538355722/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "盖茨基金会表示，投资将帮助撒哈拉以南非洲和亚洲的农民获得技术，以增强抵御能力。",
+          "url": "https://flash.jin10.com/detail/20251107234553159800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "盖茨基金会表示，未来四年将投资14亿美元，帮助农民适应极端天气。",
+          "url": "https://flash.jin10.com/detail/20251107234542778800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai gpt codex",
       "match_count": 3,
       "titles": [
@@ -1288,34 +1418,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "盖茨基金会表示，投资将帮助撒哈拉以南非洲和亚洲的农民获得技术，以增强抵御能力。",
-          "url": "https://flash.jin10.com/detail/20251107234553159800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "盖茨基金会表示，未来四年将投资14亿美元，帮助农民适应极端天气。",
-          "url": "https://flash.jin10.com/detail/20251107234542778800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
         }
       ]
     },
