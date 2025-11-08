@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T06:21:37.053793+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2025-11-08T09:28:58.684524+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普痛骂佩洛西",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 09时28分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -42,6 +42,17 @@
           "time_info": "[00时24分 ~ 06时21分]"
         },
         {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
           "url": "https://flash.jin10.com/detail/20251108021224420800",
           "source": "金十数据",
@@ -53,6 +64,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
+          "url": "https://flash.jin10.com/detail/20251108090128912800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国总统特朗普：通胀处于一个完美的水平。",
           "url": "https://flash.jin10.com/detail/20251108021030096800",
           "source": "金十数据",
@@ -62,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
-        },
-        {
-          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
-          "url": "https://wallstreetcn.com/livenews/3001419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
@@ -97,6 +108,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
+          "url": "https://flash.jin10.com/detail/20251108084855810800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国政府：总统特朗普将于12月10日拍卖大约8000万英亩的墨西哥湾石油与天然气开采权益。",
           "url": "https://wallstreetcn.com/livenews/3001316",
           "source": "华尔街见闻-快讯",
@@ -106,6 +128,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 09时28分]"
         },
         {
           "title": "美国总统特朗普：与俄罗斯的根本分歧在于，他们不愿停止俄乌冲突。",
@@ -130,6 +164,18 @@
           "time_info": "02时30分"
         },
         {
+          "title": "美国总统特朗普：期待2026年在美国迈阿密轮值主办二十国集团（G20）峰会。",
+          "url": "https://wallstreetcn.com/livenews/3001419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 09时28分]"
+        },
+        {
           "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
           "url": "https://wallstreetcn.com/livenews/3001347",
           "source": "华尔街见闻-快讯",
@@ -151,17 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 04时22分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -192,7 +227,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -252,6 +287,17 @@
           "time_info": "02时30分"
         },
         {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "特朗普称希望继续在布达佩斯与普京会晤",
           "url": "https://wallstreetcn.com/livenews/3001364",
           "source": "华尔街见闻-快讯",
@@ -263,13 +309,24 @@
           "time_info": "04时22分"
         },
         {
+          "title": "美国上诉法院批准法官“强迫特朗普政府在关门期间全额发放‘补充营养援助计划’（SNAP）资金”的命令。",
+          "url": "https://wallstreetcn.com/livenews/3001433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
           "url": "https://wallstreetcn.com/livenews/3001393",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -307,6 +364,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
+          "url": "https://wallstreetcn.com/livenews/3001426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
           "url": "https://wallstreetcn.com/livenews/3001287",
           "source": "华尔街见闻-快讯",
@@ -332,7 +400,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -357,15 +425,15 @@
           "time_info": "[02时30分 ~ 06时21分]"
         },
         {
-          "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
           "ranks": [
-            8
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时24分"
+          "time_info": "09时28分"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -377,8 +445,63 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 09时28分]"
+        },
+        {
+          "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080807908800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080805463800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "美股周线结束三连涨，纳指本周累跌3%",
+          "url": "https://flash.jin10.com/detail/20251108080758770800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
+          "url": "https://wallstreetcn.com/livenews/3001428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
@@ -427,9 +550,152 @@
       ]
     },
     {
-      "keyword_group": "grok 马斯克",
-      "match_count": 7,
+      "keyword_group": "AI 大模型",
+      "match_count": 10,
       "titles": [
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 04时22分]"
+        },
+        {
+          "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
+          "url": "https://flash.jin10.com/detail/20251108035138524800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 09时28分]"
+        },
+        {
+          "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
+          "url": "https://wallstreetcn.com/articles/3758895",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "Salesforce签署排他性协议，将收购Spindle AI。",
+          "url": "https://wallstreetcn.com/livenews/3001411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
+          "url": "https://wallstreetcn.com/livenews/3001443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "如何评价 AI 教父辛顿「科技巨头需要裁员才能从 AI 中获利」的观点？",
+          "url": "https://www.zhihu.com/question/1968998396342792423",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "科技日报谈AI主播扎堆“上岗”：不能只为炫技",
+          "url": "https://wallstreetcn.com/livenews/3001439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "谷歌母公司Alphabet：11月5日，公司CEO Sundar Pichai按每股278.52-286.03美元卖出32,500股C类股。",
+          "url": "https://wallstreetcn.com/livenews/3001422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 09时28分]"
+        },
+        {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 09时28分]"
+        },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
           "url": "https://www.zhihu.com/question/1970064184793334914",
@@ -453,40 +719,28 @@
           "time_info": "[00时24分 ~ 06时21分]"
         },
         {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
-        },
-        {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
-        },
-        {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
           "url": "https://wallstreetcn.com/articles/3758924",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 09时28分]"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "马斯克万亿薪酬方案获批准",
@@ -514,12 +768,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时30分 ~ 06时21分]"
+        },
+        {
+          "title": "马斯克可能真觉得造车没意思了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%AF%E8%83%BD%E7%9C%9F%E8%A7%89%E5%BE%97%E9%80%A0%E8%BD%A6%E6%B2%A1%E6%84%8F%E6%80%9D%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E5%258F%25AF%25E8%2583%25BD%25E7%259C%259F%25E8%25A7%2589%25E5%25BE%2597%25E9%2580%25A0%25E8%25BD%25A6%25E6%25B2%25A1%25E6%2584%258F%25E6%2580%259D%25E4%25BA%2586%2523%26pos%3D28%26band_rank%3D27%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762565324%26pre_seqid%3D17625653241660244658567&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "iPhone18系列10大升级",
@@ -532,8 +797,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 09时28分]"
         },
         {
           "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
@@ -545,8 +810,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 09时28分]"
+        },
+        {
+          "title": "后乔布斯时代的苹果风格",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%B9%94%E5%B8%83%E6%96%AF%E6%97%B6%E4%BB%A3%E7%9A%84%E8%8B%B9%E6%9E%9C%E9%A3%8E%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "iPhone 18 Pro或缩小灵动岛",
@@ -578,69 +854,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 大模型",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时21分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时22分]"
-        },
-        {
-          "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
-          "url": "https://flash.jin10.com/detail/20251108035138524800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时21分]"
-        },
-        {
-          "title": "Salesforce签署排他性协议，将收购Spindle AI。",
-          "url": "https://wallstreetcn.com/livenews/3001411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3001405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -668,7 +882,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -699,6 +913,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周大福、周大生足金价格均为1268元/克，涨幅约0.71%",
+          "url": "https://wallstreetcn.com/livenews/3001457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     }
