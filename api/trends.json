@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T11:16:59.307703+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2025-11-09T12:24:32.002124+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 12时24分]"
         },
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 12时24分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
@@ -69,8 +69,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 11时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 12时24分]"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -93,9 +93,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时24分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
@@ -104,11 +104,12 @@
           "ranks": [
             5,
             15,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[06时18分 ~ 12时24分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
@@ -119,8 +120,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时24分]"
         },
         {
           "title": "14岁男生回应作文被质疑借助AI",
@@ -161,19 +162,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
-          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时16分]"
-        },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
           "url": "https://wallstreetcn.com/articles/3758973",
@@ -182,11 +172,23 @@
             10,
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 12时24分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 12时24分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -216,6 +218,17 @@
           "time_info": "[00时24分 ~ 09时45分]"
         },
         {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 12时24分]"
+        },
+        {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
           "url": "https://wallstreetcn.com/articles/3758942",
           "source": "华尔街见闻",
@@ -227,17 +240,6 @@
           "time_info": "[00时24分 ~ 04时21分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时16分]"
-        },
-        {
           "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
           "url": "https://wallstreetcn.com/articles/3758966",
           "source": "华尔街见闻",
@@ -247,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -277,6 +290,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
+          "url": "https://www.cls.cn/detail/2194780",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 12时24分]"
+        },
+        {
           "title": "华为将发布新款手表 售价6499元起",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E6%89%8B%E8%A1%A8+%E5%94%AE%E4%BB%B76499%E5%85%83%E8%B5%B7",
           "source": "百度热搜",
@@ -287,19 +313,6 @@
             8,
             18,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时16分]"
-        },
-        {
-          "title": "半导体进博会“百花齐放”：ASML、AMD、高通、美光 、三星、SK海力士等全球巨头都来了",
-          "url": "https://www.cls.cn/detail/2194780",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -378,8 +391,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 12时24分]"
         }
       ]
     },
@@ -393,11 +406,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 12时24分]"
         }
       ]
     }
