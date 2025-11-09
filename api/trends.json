@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T14:30:14.323671+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2025-11-09T16:25:57.669701+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -61,6 +61,31 @@
           "time_info": "[00时24分 ~ 09时45分]"
         },
         {
+          "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%8B%86%E5%8C%97%E7%BA%A6%E8%BD%B0%E7%82%B8%E9%81%97%E5%9D%80%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E9%85%92%E5%BA%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D2%26lcate%3D5001%26realpos%3D2%26flag%3D0%26pos%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25A1%259E%25E5%25B0%2594%25E7%25BB%25B4%25E4%25BA%259A%25E6%258B%2586%25E5%258C%2597%25E7%25BA%25A6%25E8%25BD%25B0%25E7%2582%25B8%25E9%2581%2597%25E5%259D%2580%25E5%25BB%25BA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2585%2592%25E5%25BA%2597%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762669549%26pre_seqid%3D176266954896601592198143&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时25分]"
+        },
+        {
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 16时25分]"
+        },
+        {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
           "url": "https://flash.jin10.com/detail/20251108220636044800",
           "source": "金十数据",
@@ -71,17 +96,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 09时45分]"
-        },
-        {
-          "title": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E6%8B%86%E5%8C%97%E7%BA%A6%E8%BD%B0%E7%82%B8%E9%81%97%E5%9D%80%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E9%85%92%E5%BA%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D2%26lcate%3D5001%26realpos%3D2%26flag%3D0%26pos%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25A1%259E%25E5%25B0%2594%25E7%25BB%25B4%25E4%25BA%259A%25E6%258B%2586%25E5%258C%2597%25E7%25BA%25A6%25E8%25BD%25B0%25E7%2582%25B8%25E9%2581%2597%25E5%259D%2580%25E5%25BB%25BA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2585%2592%25E5%25BA%2597%2523%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26display_time%3D1762669549%26pre_seqid%3D176266954896601592198143&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -95,27 +109,26 @@
           "time_info": "[00时24分 ~ 04时21分]"
         },
         {
-          "title": "拜登狠批特朗普",
-          "url": "https://flash.jin10.com/detail/20251109135556039800",
-          "source": "金十数据",
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.toutiao.com/trending/7569666407429324863/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时30分"
+          "time_info": "16时25分"
         },
         {
-          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
-          "url": "https://wallstreetcn.com/articles/3758981",
-          "source": "华尔街见闻",
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
           "ranks": [
-            10,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "若特朗普关税政策被推翻市场如何反应",
@@ -135,7 +148,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时30分"
         },
@@ -151,15 +164,16 @@
           "time_info": "09时45分"
         },
         {
-          "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
-          "url": "https://flash.jin10.com/detail/20251109125212911800",
+          "title": "拜登狠批特朗普",
+          "url": "https://flash.jin10.com/detail/20251109135556039800",
           "source": "金十数据",
           "ranks": [
-            9
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 16时25分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -171,6 +185,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 06时18分]"
+        },
+        {
+          "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
+          "url": "https://flash.jin10.com/detail/20251109125212911800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 16时25分]"
+        },
+        {
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "特朗普开始调整“话术”以争取选民",
@@ -187,7 +224,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
@@ -198,8 +235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时21分 ~ 14时30分]"
+          "appearance_count": 8,
+          "time_info": "[04时21分 ~ 16时25分]"
         },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
@@ -209,11 +246,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 16时25分]"
         },
         {
           "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
@@ -263,8 +301,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 14时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 16时25分]"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
@@ -296,15 +334,27 @@
           "time_info": "[00时24分 ~ 06时18分]"
         },
         {
+          "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
+          "url": "https://flash.jin10.com/detail/20251109154126817800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
           "url": "https://wallstreetcn.com/articles/3758983",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 16时25分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
@@ -313,23 +363,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时30分]"
-        },
-        {
-          "title": "14岁男生回应作文被质疑借助AI",
-          "url": "https://www.toutiao.com/trending/7570134993897422890/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -338,6 +377,18 @@
           "ranks": [
             24,
             27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 16时25分]"
+        },
+        {
+          "title": "14岁男生回应作文被质疑借助AI",
+          "url": "https://www.toutiao.com/trending/7570134993897422890/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -471,11 +522,12 @@
             3,
             4,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 14时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 16时25分]"
         }
       ]
     },
@@ -491,11 +543,12 @@
             6,
             13,
             14,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时30分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时25分]"
         }
       ]
     }
