@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T20:45:16.330482+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-11-12T22:23:08.355548+08:00",
+  "total_titles_processed": 1638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -129,6 +129,17 @@
           "time_info": "[18时25分 ~ 20时45分]"
         },
         {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
           "url": "https://flash.jin10.com/detail/20251112035805783800",
           "source": "金十数据",
@@ -173,13 +184,24 @@
           "time_info": "00时29分"
         },
         {
+          "title": "据CBS：Citadel首席执行官肯·格里芬和软银集团创办人孙正义受邀参加特朗普与高管的晚宴。财长贝森特和商务部长卢特尼克也将出席。",
+          "url": "https://flash.jin10.com/detail/20251112221633642800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
           "url": "https://wallstreetcn.com/livenews/3003428",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -248,7 +270,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -273,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "瑞银：特朗普提出的50年期抵押贷款将使整个贷款期的利息成本翻倍",
@@ -314,7 +347,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -328,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "美国财长贝森特：关税分红有很多选择。 关税分红正在讨论中，尚未做出决定。 特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税。 希望引进熟练技术工进行3-7年的培训。 海外工作者可以培训美国人，然后回国。",
+          "url": "https://wallstreetcn.com/livenews/3003465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
@@ -394,6 +438,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "美国财长：特朗普很快会采取降低咖啡和香蕉价格的重大措施",
+          "url": "https://wallstreetcn.com/livenews/3003461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美国加州州长：特朗普的海上钻油计划是“死路一条”",
@@ -519,8 +574,437 @@
       ]
     },
     {
+      "keyword_group": "AI 大模型",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 16时30分]"
+        },
+        {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 22时23分]"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 12时27分]"
+        },
+        {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时34分 ~ 22时23分]"
+        },
+        {
+          "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
+          "url": "https://www.cls.cn/detail/2197694",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "硅谷AI“地震”：从债券市场开始？",
+          "url": "https://www.cls.cn/detail/2197841",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 16时30分]"
+        },
+        {
+          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
+          "url": "https://wallstreetcn.com/articles/3759111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 12时27分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "硬刚真Air标准!联想官方遭怒喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 11时14分]"
+        },
+        {
+          "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
+          "url": "https://flash.jin10.com/detail/20251112060435250800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://flash.jin10.com/detail/20251112020238925800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
+          "url": "https://flash.jin10.com/detail/20251112054804540800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "鸿海第三季度净利润576.7亿元台币，市场预估509.5亿元台币。 第三季度营业利润705.4亿元台币，市场预估630.1亿元台币。 第三季度营收2.06万亿元台币，市场预估2.06万亿元台币。 第三季度每股收益4.15元台币，市场预估3.69元台币。 前9个月营业利润1,736.3亿元台币，净利润1,441.4亿元台币。 前9个月营收5.50万亿元台币，每股收益10.38元台币。 预计第四季度AI服务器营收环比增长。",
+          "url": "https://wallstreetcn.com/livenews/3003214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "芯片初创公司D-Matrix融资2.75亿美元 拟扩大AI推理芯片生产和分销",
+          "url": "https://flash.jin10.com/detail/20251112180638505800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "OpenAI：继续提出上诉请求。",
+          "url": "https://flash.jin10.com/detail/20251112221354413800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
+          "url": "https://wallstreetcn.com/livenews/3003282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
+          "url": "https://www.cls.cn/detail/2198526",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "OpenAI：需求并未影响ChatGPT企业客户。",
+          "url": "https://flash.jin10.com/detail/20251112221303685800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
+          "url": "https://wallstreetcn.com/livenews/3002989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "AMD CEO苏姿丰：客户的AI投资并没有“趋于稳定”。 AI计算基础设施的需求得不到满足。 AI加速器并没有造成CPU市场下滑。 公司预计，数据中心/AI电脑芯片总市场规模（TAM）到2030年将增长至1万亿美元。 最新TAM目标包括CPU、加速器、网络。",
+          "url": "https://wallstreetcn.com/livenews/3002938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 04时24分]"
+        },
+        {
+          "title": "OpenAI：纽约时报要求移交对话内容侵犯了隐私。",
+          "url": "https://flash.jin10.com/detail/20251112221138478800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "上海将促进餐饮业智能化布局：推广AI明厨亮灶、引入AI营养分析师",
+          "url": "https://wallstreetcn.com/livenews/3003081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时42分 ~ 11时14分]"
+        },
+        {
+          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
+          "url": "https://wallstreetcn.com/livenews/3002934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 04时24分]"
+        },
+        {
+          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
+          "url": "https://www.cls.cn/detail/2197833",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 16时30分]"
+        },
+        {
+          "title": "软银清仓英伟达，孙正义套现 415 亿元，为何在此时清仓，AI 泡沫一旦破裂后，金融市场将有哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/1971863649787319599",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "重估中美AI不同路线",
+          "url": "https://www.toutiao.com/trending/7571825253601513003/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
+          "url": "https://wallstreetcn.com/livenews/3002943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2198795",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "鸿海：我们将于下周发布与OpenAI相关的公告。",
+          "url": "https://flash.jin10.com/detail/20251112154841373800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
+          "url": "https://wallstreetcn.com/livenews/3003320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "Meta 首席 AI 科学家 LeCun 被曝将离职创业，具体情况如何？他的离职会给公司带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1971881827078726660",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "鸿海：我们当然会与OpenAI合作。",
+          "url": "https://flash.jin10.com/detail/20251112154635082800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
+          "url": "https://flash.jin10.com/detail/20251112024020124800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "孙燕姿两年前就预言了AI",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%AD%99%E7%87%95%E5%A7%BF%E4%B8%A4%E5%B9%B4%E5%89%8D%E5%B0%B1%E9%A2%84%E8%A8%80%E4%BA%86AI&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D29%26pos%3D30%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D0%26cate%3D5001%26q%3D%25E5%25AD%2599%25E7%2587%2595%25E5%25A7%25BF%25E4%25B8%25A4%25E5%25B9%25B4%25E5%2589%258D%25E5%25B0%25B1%25E9%25A2%2584%25E8%25A8%2580%25E4%25BA%2586AI%26band_rank%3D29%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762929246%26pre_seqid%3D176292924599902452083&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "国产AI芯片会全面替代英伟达吗",
+          "url": "https://www.toutiao.com/trending/7571711060802014762/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -533,8 +1017,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 20时45分]"
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 22时23分]"
         },
         {
           "title": "软银CFO回应为何清仓英伟达 iPhone销量火爆得到验证 | 今夜看点",
@@ -584,6 +1068,18 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
+          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
+          "url": "https://www.cls.cn/detail/2198372",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时23分]"
+        },
+        {
           "title": "华为发布“十大发明”评选结果",
           "url": "https://www.cls.cn/detail/2198080",
           "source": "财联社热门",
@@ -619,6 +1115,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
           "title": "iPhonePocket发布",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhonePocket%E5%8F%91%E5%B8%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26band_rank%3D17%26lcate%3D5001%26filter_type%3Drealtimehot%26cate%3D5001%26realpos%3D17%26c_type%3D31%26q%3D%2523iPhonePocket%25E5%258F%2591%25E5%25B8%2583%2523%26dgr%3D0%26pos%3D18%26display_time%3D1762878246%26pre_seqid%3D176287824648503042033&launchid=10000360-page_H5",
           "source": "微博",
@@ -636,22 +1143,12 @@
           "url": "https://www.toutiao.com/trending/7571416741918752810/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
-          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
-          "url": "https://www.cls.cn/detail/2198372",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 22时23分]"
         },
         {
           "title": "iPhone可以检测针孔摄像头",
@@ -676,17 +1173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "车圈打击黑公关,小米KOL被团灭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -714,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 14时34分]"
+        },
+        {
+          "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31947522",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "雷军回应小米双11战绩",
@@ -762,6 +1259,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时14分 ~ 12时27分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时23分]"
         },
         {
           "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
@@ -885,17 +1394,6 @@
           "time_info": "18时25分"
         },
         {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.toutiao.com/trending/7571465266493702187/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "苹果新配件iPhone Pocket1299元起售",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%96%B0%E9%85%8D%E4%BB%B6iPhone+Pocket1299%E5%85%83%E8%B5%B7%E5%94%AE",
           "source": "百度热搜",
@@ -920,358 +1418,8 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 16时30分]"
-        },
-        {
-          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
-          "url": "https://wallstreetcn.com/articles/3759159",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 20时45分]"
-        },
-        {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 12时27分]"
-        },
-        {
-          "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
-          "url": "https://www.cls.cn/detail/2197694",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 14时34分]"
-        },
-        {
-          "title": "硅谷AI“地震”：从债券市场开始？",
-          "url": "https://www.cls.cn/detail/2197841",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 16时30分]"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 20时45分]"
-        },
-        {
-          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
-          "url": "https://wallstreetcn.com/articles/3759111",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 12时27分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 14时34分]"
-        },
-        {
-          "title": "硬刚真Air标准!联想官方遭怒喷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 11时14分]"
-        },
-        {
-          "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
-          "url": "https://flash.jin10.com/detail/20251112060435250800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://flash.jin10.com/detail/20251112020238925800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
-          "url": "https://flash.jin10.com/detail/20251112054804540800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "鸿海第三季度净利润576.7亿元台币，市场预估509.5亿元台币。 第三季度营业利润705.4亿元台币，市场预估630.1亿元台币。 第三季度营收2.06万亿元台币，市场预估2.06万亿元台币。 第三季度每股收益4.15元台币，市场预估3.69元台币。 前9个月营业利润1,736.3亿元台币，净利润1,441.4亿元台币。 前9个月营收5.50万亿元台币，每股收益10.38元台币。 预计第四季度AI服务器营收环比增长。",
-          "url": "https://wallstreetcn.com/livenews/3003214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "芯片初创公司D-Matrix融资2.75亿美元 拟扩大AI推理芯片生产和分销",
-          "url": "https://flash.jin10.com/detail/20251112180638505800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
-          "url": "https://wallstreetcn.com/livenews/3003282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
-          "url": "https://wallstreetcn.com/livenews/3002989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "AMD CEO苏姿丰：客户的AI投资并没有“趋于稳定”。 AI计算基础设施的需求得不到满足。 AI加速器并没有造成CPU市场下滑。 公司预计，数据中心/AI电脑芯片总市场规模（TAM）到2030年将增长至1万亿美元。 最新TAM目标包括CPU、加速器、网络。",
-          "url": "https://wallstreetcn.com/livenews/3002938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 04时24分]"
-        },
-        {
-          "title": "上海将促进餐饮业智能化布局：推广AI明厨亮灶、引入AI营养分析师",
-          "url": "https://wallstreetcn.com/livenews/3003081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时42分 ~ 11时14分]"
-        },
-        {
-          "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
-          "url": "https://wallstreetcn.com/livenews/3002934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 04时24分]"
-        },
-        {
-          "title": "“AI牛市”靠不靠谱？华尔街现在找到了新的看涨动力！",
-          "url": "https://www.cls.cn/detail/2197833",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 16时30分]"
-        },
-        {
-          "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
-          "url": "https://wallstreetcn.com/livenews/3002943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3002880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "鸿海：我们将于下周发布与OpenAI相关的公告。",
-          "url": "https://flash.jin10.com/detail/20251112154841373800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
-          "url": "https://wallstreetcn.com/livenews/3003320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "Meta 首席 AI 科学家 LeCun 被曝将离职创业，具体情况如何？他的离职会给公司带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1971881827078726660",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "鸿海：我们当然会与OpenAI合作。",
-          "url": "https://flash.jin10.com/detail/20251112154635082800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "AMD(AMD.O)：数据中心的增长目标是数据中心的AI芯片。",
-          "url": "https://flash.jin10.com/detail/20251112024020124800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "孙燕姿两年前就预言了AI",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%AD%99%E7%87%95%E5%A7%BF%E4%B8%A4%E5%B9%B4%E5%89%8D%E5%B0%B1%E9%A2%84%E8%A8%80%E4%BA%86AI&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D29%26pos%3D30%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D0%26cate%3D5001%26q%3D%25E5%25AD%2599%25E7%2587%2595%25E5%25A7%25BF%25E4%25B8%25A4%25E5%25B9%25B4%25E5%2589%258D%25E5%25B0%25B1%25E9%25A2%2584%25E8%25A8%2580%25E4%25BA%2586AI%26band_rank%3D29%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762929246%26pre_seqid%3D176292924599902452083&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "国产AI芯片会全面替代英伟达吗",
-          "url": "https://www.toutiao.com/trending/7571711060802014762/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基金",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "香农芯创：11月11日，无锡高新区新动能产业发展基金（有限合伙）通过集中竞价累计减持54.92万股。",
@@ -1313,9 +1461,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（11月10日，债市11日休市）担保隔夜融资利率（SOFR）报3.95%，之前一天报3.93%。 上个交易日有效的联邦基金利率报3.87%，之前一天报3.87%。",
+          "url": "https://wallstreetcn.com/livenews/3003476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "据华尔街日报：知情人士透露，白宫正在研究新的措施，以遏制代理咨询顾问和指数基金经理的影响力。据悉官员们已讨论禁止或限制代理顾问向股东提供建议的可能性，还探讨了限制指数基金经理的投票方式等问题。",
@@ -1421,7 +1580,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -1442,7 +1601,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1453,9 +1612,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美股释放“不祥之兆” 标普500中创新低股票数量持续增加",
@@ -1464,7 +1634,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
