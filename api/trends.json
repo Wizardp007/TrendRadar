@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T06:21:10.468810+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2025-11-12T09:42:58.831455+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -88,6 +88,17 @@
           "time_info": "[00时29分 ~ 06时21分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
           "url": "https://flash.jin10.com/detail/20251112035805783800",
           "source": "金十数据",
@@ -99,6 +110,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普政府计划数十年来首次开放加州海岸进行石油钻探",
+          "url": "https://flash.jin10.com/detail/20251112091940520800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
           "url": "https://wallstreetcn.com/livenews/3002897",
           "source": "华尔街见闻-快讯",
@@ -108,6 +130,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 09时42分]"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
@@ -143,18 +178,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 06时21分]"
-        },
-        {
-          "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940821",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 06时21分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -197,7 +220,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -208,7 +231,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -241,7 +264,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -255,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
+          "url": "https://wallstreetcn.com/livenews/3003054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美国加州州长：特朗普的海上钻油计划是“死路一条”",
@@ -285,9 +319,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普：美国需要一些有才华的外国工人。",
+          "url": "https://wallstreetcn.com/livenews/3003050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
@@ -299,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "特朗普：将降低部分咖啡关税。",
+          "url": "https://wallstreetcn.com/livenews/3003047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "特朗普：美国众议院议长约翰逊与美国参议院共和党领袖图恩在临时开支草案协议上“取得重大胜利”。",
@@ -318,7 +374,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -326,7 +382,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "欧盟考虑排除华为中兴设备？中方回应",
@@ -338,6 +394,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "软银CFO回应为何清仓英伟达 iPhone销量火爆得到验证 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2197583",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 09时42分]"
         },
         {
           "title": "iPhone 18 系列十大升级曝光，将使用 2nm 工艺芯片，首次采用钢壳电池，还有哪些看点？",
@@ -352,18 +420,6 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
-          "title": "软银CFO回应为何清仓英伟达 iPhone销量火爆得到验证 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2197583",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
           "title": "外媒称欧盟正研究强制成员国移除华为中兴设备，外交部回应",
           "url": "https://www.cls.cn/detail/2197114",
           "source": "财联社热门",
@@ -373,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "【早报】事关货币政策等，央行释放新信号；欧盟正研究强制成员国移除华为中兴设备，外交部回应",
+          "url": "https://www.cls.cn/detail/2197758",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "小米双十一销售额突破290亿元人民币。",
@@ -399,6 +466,17 @@
           "time_info": "[00时28分 ~ 04时24分]"
         },
         {
+          "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
+          "url": "https://www.zhihu.com/question/1971675577204306494",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
           "url": "https://wallstreetcn.com/livenews/3002949",
           "source": "华尔街见闻-快讯",
@@ -421,6 +499,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31940812",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 09时42分]"
         },
         {
           "title": "iPhone18Pro升级工艺",
@@ -467,15 +557,37 @@
           "time_info": "[02时32分 ~ 02时33分]"
         },
         {
-          "title": "欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31940812",
-          "source": "澎湃新闻",
+          "title": "消息称三星电子为晶圆代工业务设立2027年目标：重返盈利、市占达20%",
+          "url": "https://flash.jin10.com/detail/20251112084814090800",
+          "source": "金十数据",
           "ranks": [
-            19
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "09时42分"
+        },
+        {
+          "title": "苹果 ID 盗刷事件时隔七年再次集中爆发，行骗手段从木马链接变成电商伪装，如何避坑？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1969152536956109880",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "报道称三星电子为晶圆代工业务设立2027年目标：重返盈利、市占达20%",
+          "url": "https://wallstreetcn.com/livenews/3003055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "小米双十一销售额突破290亿元人民币",
@@ -492,18 +604,32 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 09时42分]"
+        },
+        {
+          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 09时42分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -512,7 +638,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -528,15 +654,71 @@
           "time_info": "02时33分"
         },
         {
+          "title": "上海将促进餐饮业智能化布局：推广AI明厨亮灶、引入AI营养分析师",
+          "url": "https://wallstreetcn.com/livenews/3003081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
           "url": "https://flash.jin10.com/detail/20251112054804540800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "硬刚真Air标准!联想官方遭怒喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 09时42分]"
+        },
+        {
+          "title": "大空头伯里再度开炮：AI巨头涉嫌靠会计手法“虚增”利润",
+          "url": "https://www.cls.cn/detail/2197694",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
+          "url": "https://wallstreetcn.com/articles/3759159",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
+          "url": "https://wallstreetcn.com/articles/3759111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
@@ -545,7 +727,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -574,27 +756,15 @@
           "time_info": "[02时33分 ~ 04时24分]"
         },
         {
-          "title": "李飞飞发表长文：空间智能是AI下一个前沿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31939684",
-          "source": "澎湃新闻",
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            11
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
-          "title": "硬刚真Air标准!联想官方遭怒喷",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346966&amp;topic_name=%E7%A1%AC%E5%88%9A%E7%9C%9FAir%E6%A0%87%E5%87%86%21%E8%81%94%E6%83%B3%E5%AE%98%E6%96%B9%E9%81%AD%E6%80%92%E5%96%B7",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "AMD：预计2027年与数据中心相关的AI芯片业务收入将为“数百亿美元”。 服务器CPU的市场份额超过50%。 PC（个人电脑）市场的份额超过40%。 预计未来3-5年CAGR（复合年均增长率）年度收入增幅为35%。 预计整体数据中心增速将比CAGR市场多出60%。",
@@ -633,8 +803,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
           "url": "https://wallstreetcn.com/livenews/3002988",
@@ -642,7 +823,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -653,7 +834,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -686,7 +867,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -697,7 +878,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -708,7 +889,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -719,7 +900,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -727,8 +908,30 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "白宫拟出台新行政令 剑指代理咨询公司与指数基金巨头",
+          "url": "https://flash.jin10.com/detail/20251112091514317800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "据华尔街日报：知情人士透露，白宫正在研究新的措施，以遏制代理咨询顾问和指数基金经理的影响力。据悉官员们已讨论禁止或限制代理顾问向股东提供建议的可能性，还探讨了限制指数基金经理的投票方式等问题。",
+          "url": "https://flash.jin10.com/detail/20251112090118120800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
         {
           "title": "挪威：暂停主权财富基金道德准则使其免于抛售2300亿美元科技股",
           "url": "https://wallstreetcn.com/livenews/3002930",
@@ -740,6 +943,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 04时24分]"
+        },
+        {
+          "title": "美国白宫官员正在讨论采取行政命令，限制代理顾问（proxy advisers）和指数基金巨头的影响力。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3003065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "欧盟委员会：在移民压力下，希腊、塞浦路斯、西班牙和意大利有资格加入欧盟团结基金。欧盟委员会将启动一项价值2.5亿欧元的招标，支持无人机及反无人机装备的采购。",
@@ -759,7 +973,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -770,7 +984,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -826,7 +1040,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -854,7 +1068,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -865,7 +1079,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
