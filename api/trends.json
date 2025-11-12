@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T18:25:23.784992+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-11-12T20:45:16.330482+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -117,6 +117,18 @@
           "time_info": "[00时29分 ~ 06时21分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普请求最高法院批准在伊利诺伊州部署国民警卫队",
           "url": "https://flash.jin10.com/detail/20251112035805783800",
           "source": "金十数据",
@@ -161,15 +173,15 @@
           "time_info": "00时29分"
         },
         {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
+          "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
+          "url": "https://wallstreetcn.com/livenews/3003428",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "20时45分"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jeffries：如果方案中缺少ACA补贴条款，将反对（用于结束特朗普政府关门事件的）临时开支立法草案。",
@@ -230,6 +242,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "英国自由民主党领袖戴维：特朗普正试图摧毁BBC。",
+          "url": "https://flash.jin10.com/detail/20251112201608816800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "美国加利福利亚州长Newsom：总统特朗普的海上石油计划将让加州环保环境“到达时已死亡”（DOA）。",
           "url": "https://wallstreetcn.com/livenews/3002928",
           "source": "华尔街见闻-快讯",
@@ -285,13 +308,24 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普将于11月13日签署“培育未来”行政令。",
+          "url": "https://wallstreetcn.com/livenews/3003417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-12）",
           "url": "https://flash.jin10.com/detail/20251112175252982800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -423,7 +457,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -486,7 +520,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "苹果新配件 iPhone Pocket 亮相，灵感源自「一块布」，1299 元起售，如何评价？你会买吗？",
@@ -499,8 +533,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 18时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 20时45分]"
         },
         {
           "title": "软银CFO回应为何清仓英伟达 iPhone销量火爆得到验证 | 今夜看点",
@@ -550,6 +584,19 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
+          "title": "华为发布“十大发明”评选结果",
+          "url": "https://www.cls.cn/detail/2198080",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 20时45分]"
+        },
+        {
           "title": "外媒称欧盟正研究强制成员国移除华为中兴设备，外交部回应",
           "url": "https://www.cls.cn/detail/2197114",
           "source": "财联社热门",
@@ -585,16 +632,39 @@
           "time_info": "[00时28分 ~ 04时24分]"
         },
         {
-          "title": "华为发布“十大发明”评选结果",
-          "url": "https://www.cls.cn/detail/2198080",
-          "source": "财联社热门",
+          "title": "大哥路边卖苹果摆得整整齐齐",
+          "url": "https://www.toutiao.com/trending/7571416741918752810/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时30分 ~ 18时25分]"
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
+          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
+          "url": "https://www.cls.cn/detail/2198372",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时45分]"
+        },
+        {
+          "title": "iPhone可以检测针孔摄像头",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%8F%AF%E4%BB%A5%E6%A3%80%E6%B5%8B%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D2%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26flag%3D1%26pos%3D1%26cate%3D5001%26q%3DiPhone%25E5%258F%25AF%25E4%25BB%25A5%25E6%25A3%2580%25E6%25B5%258B%25E9%2592%2588%25E5%25AD%2594%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26display_time%3D1762936146%26pre_seqid%3D17629361460970113706581&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            2,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 20时45分]"
         },
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
@@ -606,6 +676,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "车圈打击黑公关,小米KOL被团灭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347059&amp;topic_name=%E8%BD%A6%E5%9C%88%E6%89%93%E5%87%BB%E9%BB%91%E5%85%AC%E5%85%B3%2C%E5%B0%8F%E7%B1%B3KOL%E8%A2%AB%E5%9B%A2%E7%81%AD",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 20时45分]"
         },
         {
           "title": "欧委会要求欧盟成员排除中兴、华为设备，外交部：损人不利己",
@@ -620,29 +714,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 14时34分]"
-        },
-        {
-          "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
-          "url": "https://www.cls.cn/detail/2198372",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "iPhone可以检测针孔摄像头",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%8F%AF%E4%BB%A5%E6%A3%80%E6%B5%8B%E9%92%88%E5%AD%94%E6%91%84%E5%83%8F%E5%A4%B4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D2%26stream_entry_id%3D31%26realpos%3D2%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26flag%3D1%26pos%3D1%26cate%3D5001%26q%3DiPhone%25E5%258F%25AF%25E4%25BB%25A5%25E6%25A3%2580%25E6%25B5%258B%25E9%2592%2588%25E5%25AD%2594%25E6%2591%2584%25E5%2583%258F%25E5%25A4%25B4%26display_time%3D1762936146%26pre_seqid%3D17629361460970113706581&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 18时25分]"
         },
         {
           "title": "雷军回应小米双11战绩",
@@ -679,18 +750,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 18时25分]"
         },
         {
           "title": "iPhone Pocket被吐槽像保温水瓶套",
@@ -821,7 +880,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -832,7 +891,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -890,8 +949,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 20时45分]"
         },
         {
           "title": "李飞飞发表长文：空间智能是AI下一个前沿",
@@ -935,6 +994,17 @@
           "time_info": "[11时14分 ~ 16时30分]"
         },
         {
+          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
+          "url": "https://wallstreetcn.com/articles/3759168",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 20时45分]"
+        },
+        {
           "title": "英伟达财报前，花旗高喊：买入！AI需求远超供应，泡沫之说站不住脚",
           "url": "https://wallstreetcn.com/articles/3759111",
           "source": "华尔街见闻",
@@ -946,17 +1016,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时42分 ~ 12时27分]"
-        },
-        {
-          "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
-          "url": "https://wallstreetcn.com/articles/3759168",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 18时25分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -1035,7 +1094,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1149,7 +1208,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1204,7 +1263,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -1212,7 +1271,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "香农芯创：11月11日，无锡高新区新动能产业发展基金（有限合伙）通过集中竞价累计减持54.92万股。",
@@ -1221,7 +1280,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1232,7 +1291,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1246,6 +1305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "路透调查显示，105位经济学家中有52位认为，美联储将在2026年第一季度将基金利率下调至3.25%-3.50%。",
+          "url": "https://flash.jin10.com/detail/20251112202236553800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "据华尔街日报：知情人士透露，白宫正在研究新的措施，以遏制代理咨询顾问和指数基金经理的影响力。据悉官员们已讨论禁止或限制代理顾问向股东提供建议的可能性，还探讨了限制指数基金经理的投票方式等问题。",
@@ -1351,7 +1421,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -1364,6 +1434,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "美银：机构投资者在美股回调时买入",
+          "url": "https://flash.jin10.com/detail/20251112203854090800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
+          "url": "https://wallstreetcn.com/livenews/3003429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "美股释放“不祥之兆” 标普500中创新低股票数量持续增加",
+          "url": "https://flash.jin10.com/detail/20251112201822781800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -1466,7 +1569,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1518,7 +1621,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2025年11月12日（周三）上海金午盘价为943.52元/克，较国际金价(942.06元/克)，高1.46元/克",
@@ -1555,6 +1658,17 @@
           "time_info": "[11时14分 ~ 12时27分]"
         },
         {
+          "title": "第一批金价下跌卖出的人后悔了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D24%26flag%3D0%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26lcate%3D5001%26band_rank%3D24%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D24%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1762951030%26pre_seqid%3D176295103016301137930131&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 20时45分]"
+        },
+        {
           "title": "金价跌穿4100美元",
           "url": "https://wallstreetcn.com/livenews/3002885",
           "source": "华尔街见闻-快讯",
@@ -1578,7 +1692,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1634,7 +1748,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
