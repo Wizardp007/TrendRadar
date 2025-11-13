@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T06:22:58.366927+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2025-11-13T09:43:45.423598+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时30分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时30分 ~ 09时43分]"
         },
         {
           "title": "特朗普的50年期房贷构想遇冷，房管局长改提“可转移抵押贷款”方案",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普罕见为中国留学生辩护",
+          "url": "https://news.ifeng.com/c/8oF0y6tBlDl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
@@ -153,6 +165,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "特朗普拟定数小时后正式结束政府停摆",
+          "url": "https://flash.jin10.com/detail/20251113083457271800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普不会有第三季。",
           "url": "https://wallstreetcn.com/livenews/3003588",
           "source": "华尔街见闻-快讯",
@@ -214,7 +237,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -233,7 +256,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -260,27 +283,50 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
+          "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2198795",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时43分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://flash.jin10.com/detail/20251113060235382800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
         {
-          "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2198795",
-          "source": "财联社热门",
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
           "ranks": [
-            11,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -289,9 +335,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "AI教母”李飞飞发布首款商用世界模型",
+          "url": "https://wallstreetcn.com/livenews/3003769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
@@ -338,6 +395,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
+          "url": "https://www.zhihu.com/question/1970221380470568183",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
           "url": "https://wallstreetcn.com/livenews/3003592",
           "source": "华尔街见闻-快讯",
@@ -355,7 +423,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -366,7 +434,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -377,7 +445,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -396,7 +464,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -404,11 +472,12 @@
           "source": "澎湃新闻",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时43分]"
         },
         {
           "title": "车圈打击黑公关,小米KOL被团灭",
@@ -416,11 +485,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时43分]"
         },
         {
           "title": "NAND全面涨价潮来了？三星、SK海力士、铠侠拟集体减产提价 涨幅或达30%",
@@ -457,6 +527,29 @@
           "time_info": "[00时31分 ~ 04时25分]"
         },
         {
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时43分]"
+        },
+        {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "存储芯片涨价风暴前所未有！大摩上调三星、SK海力士目标价",
           "url": "https://www.cls.cn/detail/2198461",
           "source": "财联社热门",
@@ -474,17 +567,6 @@
           "source": "知乎",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -539,7 +621,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -560,7 +642,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -571,7 +653,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -582,9 +664,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3003743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
@@ -599,7 +692,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -610,7 +703,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -621,7 +714,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
@@ -655,7 +748,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
