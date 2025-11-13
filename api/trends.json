@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T12:27:33.181264+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-13T14:33:25.581989+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -18,8 +18,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时30分 ~ 12时27分]"
+          "appearance_count": 7,
+          "time_info": "[02时30分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
+          "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
+          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 14时33分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -33,28 +55,6 @@
           "time_info": "[09时43分 ~ 11时17分]"
         },
         {
-          "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
-          "url": "https://news.ifeng.com/c/8oFCuwr7cLg",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普：政府停摆危机已造成1.5万亿美元损失",
-          "url": "https://news.ifeng.com/c/8oFFvtrgZHA",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "特朗普的50年期房贷构想遇冷，房管局长改提“可转移抵押贷款”方案",
           "url": "https://wallstreetcn.com/livenews/3003536",
           "source": "华尔街见闻-快讯",
@@ -66,17 +66,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "特朗普致信以总统求赦免内塔尼亚胡",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
           "url": "https://flash.jin10.com/detail/20251113032506975800",
           "source": "金十数据",
@@ -86,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "特朗普签署临时拨款法案 美政府结束“停摆”",
+          "url": "https://www.cls.cn/detail/2199299",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "特朗普签署法案 美国政府停摆宣告结束",
@@ -108,6 +108,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普致信以总统求赦免内塔尼亚胡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 14时33分]"
+        },
+        {
+          "title": "特朗普送叙政权领导人自产香水",
+          "url": "https://www.toutiao.com/trending/7572030694445272627/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 14时33分]"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：我非常尊重美联储主席鲍威尔。 我认同美国总统特朗普关于“利率可以更低”的看法。 如果特朗普提出要求，我会担任下一任美联储主席。",
@@ -193,7 +217,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -215,7 +239,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -226,7 +250,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -240,17 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "特朗普送叙政权领导人自产香水",
-          "url": "https://www.toutiao.com/trending/7572030694445272627/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "特朗普拟定数小时后正式结束政府停摆",
@@ -270,7 +283,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -292,7 +305,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -314,7 +327,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -336,7 +349,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -347,9 +360,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "特朗普：美国政府“停摆”损失了1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3003872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：相比美国总统特朗普的第一任期，现在的白宫“更有效率”。",
@@ -399,7 +423,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -414,6 +438,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 12时27分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -438,17 +473,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
-          "url": "https://www.cls.cn/detail/2198992",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时27分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -495,6 +519,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 06时22分]"
+        },
+        {
+          "title": "阿里巴巴准备对其旗舰AI应用进行改版，使其更像ChatGPT。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3003903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "五年五芯，百度宣布打造最硬AI云",
@@ -572,7 +607,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -627,7 +662,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -688,11 +723,12 @@
           "ranks": [
             2,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 14时33分]"
         },
         {
           "title": "车圈打击黑公关,小米KOL被团灭",
@@ -702,11 +738,12 @@
             7,
             8,
             9,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 14时33分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -745,6 +782,18 @@
           "time_info": "00时31分"
         },
         {
+          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
+          "url": "https://wallstreetcn.com/articles/3759220",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 14时33分]"
+        },
+        {
           "title": "双十一iPhone 17为何又赢了",
           "url": "https://www.toutiao.com/trending/7571835638589165110/",
           "source": "今日头条",
@@ -755,17 +804,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 04时25分]"
-        },
-        {
-          "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
-          "url": "https://wallstreetcn.com/articles/3759220",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
         },
         {
           "title": "存储芯片涨价风暴前所未有！大摩上调三星、SK海力士目标价",
@@ -831,7 +869,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -842,7 +880,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
