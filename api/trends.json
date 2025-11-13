@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T20:46:22.674353+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2025-11-13T22:21:46.645871+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时30分 ~ 20时46分]"
+          "appearance_count": 11,
+          "time_info": "[02时30分 ~ 22时21分]"
         },
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -508,7 +508,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -573,15 +573,37 @@
           "time_info": "[09时43分 ~ 12时27分]"
         },
         {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时21分]"
+        },
+        {
           "title": "新加坡金管局提案 金融机构需明确AI风险管理责任",
           "url": "https://flash.jin10.com/detail/20251113204011304800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时21分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -593,17 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -637,17 +648,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "新加坡考虑明确金融机构高管对AI风险负责",
@@ -730,15 +730,37 @@
           "time_info": "[16时29分 ~ 16时30分]"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时21分]"
+        },
+        {
           "title": "AI编程初创公司Cursor融资23亿美元，估值达293亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3004181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
+        },
+        {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
@@ -805,17 +827,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
         },
         {
           "title": "思科(CSCO.O)CEO：预计到2026财年下半年，思科在主权、新型云计算和企业客户领域的AI机遇将加速增长。",
@@ -926,12 +937,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "腾讯刘炽平：未来微信或推出AI智能体，帮助用户在微信内部利用AI完成任务",
+          "url": "https://wallstreetcn.com/livenews/3004211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "车圈打击黑公关,小米KOL被团灭",
@@ -946,8 +968,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 22时21分]"
         },
         {
           "title": "段永平最新访谈：聊巴菲特、苹果、茅台、拼多多、特斯拉，永远要算你的机会成本（附2万字实录）",
@@ -968,11 +990,12 @@
           "url": "https://www.douyin.com/hot/2304052",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时29分 ~ 20时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时29分 ~ 22时21分]"
         },
         {
           "title": "段永平：不懂企业最好别投，A股我只买了茅台，苹果未来翻1-3倍存在可能，只是现在不便宜，还有一个赚钱方法是它",
@@ -1012,6 +1035,17 @@
           "time_info": "[00时31分 ~ 02时30分]"
         },
         {
+          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
+          "url": "https://wallstreetcn.com/articles/3759322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时21分]"
+        },
+        {
           "title": "苹果(AAPL.O)：开发者费用削减未惠及欧盟用户。",
           "url": "https://flash.jin10.com/detail/20251113000411182800",
           "source": "金十数据",
@@ -1035,15 +1069,15 @@
           "time_info": "[00时31分 ~ 04时25分]"
         },
         {
-          "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
-          "url": "https://wallstreetcn.com/articles/3759322",
-          "source": "华尔街见闻",
+          "title": "苹果(AAPL.O)拒绝就英国法庭对应用商店佣金的裁决提起上诉。",
+          "url": "https://flash.jin10.com/detail/20251113220846207800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "22时21分"
         },
         {
           "title": "存储芯片涨价风暴前所未有！大摩上调三星、SK海力士目标价",
@@ -1147,6 +1181,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "腾讯回应与苹果达成小程序游戏支付协议：在某个时间点，可能会有官方的公告",
+          "url": "https://wallstreetcn.com/livenews/3004217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "iPhone可检测针孔摄像头？客服回应",
           "url": "https://www.toutiao.com/trending/7571748571801272329/",
           "source": "今日头条",
@@ -1164,7 +1209,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
@@ -1172,7 +1217,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -1215,7 +1260,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1251,6 +1296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
@@ -1299,9 +1355,84 @@
       ]
     },
     {
+      "keyword_group": "基金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "港股基金规模超万亿元，科技板块成聚集地",
+          "url": "https://wallstreetcn.com/livenews/3003649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "“大空头”宣布关闭基金并披露做空英伟达、Palantir细节",
+          "url": "https://www.cls.cn/detail/2199634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时21分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（11月12日）担保隔夜融资利率（SOFR）报3.98%，之前一天报3.95%。 上个交易日有效的联邦基金利率报3.87%，之前一天报3.87%。",
+          "url": "https://wallstreetcn.com/livenews/3004238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "国研中心原副主任王一鸣：畅通创投基金退出渠道 大力发展并购市场",
+          "url": "https://wallstreetcn.com/livenews/3003828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 12时27分]"
+        },
+        {
+          "title": "已有三家央企创投基金落地深圳",
+          "url": "https://wallstreetcn.com/livenews/3004226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai gpt codex",
       "match_count": 4,
       "titles": [
+        {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时21分]"
+        },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
@@ -1315,17 +1446,6 @@
           "time_info": "[16时30分 ~ 18时25分]"
         },
         {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
           "url": "https://www.cls.cn/detail/2199601",
           "source": "财联社热门",
@@ -1334,8 +1454,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时21分]"
         },
         {
           "title": "LMArena排行榜：Claude、GPT-5、智谱GLM-4.6排名并列全球第一",
@@ -1344,7 +1464,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
@@ -1429,47 +1549,6 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "港股基金规模超万亿元，科技板块成聚集地",
-          "url": "https://wallstreetcn.com/livenews/3003649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "国研中心原副主任王一鸣：畅通创投基金退出渠道 大力发展并购市场",
-          "url": "https://wallstreetcn.com/livenews/3003828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 12时27分]"
-        },
-        {
-          "title": "“大空头”宣布关闭基金并披露做空英伟达、Palantir细节",
-          "url": "https://www.cls.cn/detail/2199634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时46分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini nano",
       "match_count": 2,
       "titles": [
@@ -1491,7 +1570,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
