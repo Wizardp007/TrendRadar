@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T12:27:00.385191+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-11-14T14:33:03.626963+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时33分]"
         },
         {
           "title": "韩国方面表示，特朗普为事实清单做出了理性的决定。",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 14时33分]"
         },
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
@@ -73,17 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "市场消息：特朗普签署行政令以扩大寄养服务。",
@@ -203,7 +204,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -217,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "外媒：受特朗普关税影响 加拿大将改变木材出口路线",
+          "url": "https://flash.jin10.com/detail/20251114133112275800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         },
         {
           "title": "美国加州民主党参议员亚当·希夫(Adam Schiff)正在试图通过一项新法案阻止特朗普从司法部获得款项。此前有报道称，特朗普要求司法部支付约2.3亿美元的赔偿金，以了结司法部对他进行的调查。",
@@ -300,8 +312,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时33分]"
         },
         {
           "title": "国际货币基金组织：近期市场状况的改善为阿根廷加快储备积累提供了一个机遇。",
@@ -537,6 +549,261 @@
       ]
     },
     {
+      "keyword_group": "AI 大模型",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "AI造世界的时代来了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 14时33分]"
+        },
+        {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时33分]"
+        },
+        {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时33分]"
+        },
+        {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 11时15分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            14,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时33分]"
+        },
+        {
+          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
+          "url": "https://www.cls.cn/detail/2200326",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时33分]"
+        },
+        {
+          "title": "马斯克：媒体关于xAI融资的报道“不实”。",
+          "url": "https://wallstreetcn.com/livenews/3004285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "新西兰联储货币政策委员会（MPC）成员Prasanna Gai：提高（联储主席人事）透明度，构建信任。 面临不确定性之际，主管的干预给问题带来澄清。",
+          "url": "https://wallstreetcn.com/livenews/3004362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
+          "url": "https://flash.jin10.com/detail/20251114115801982800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
+          "url": "https://flash.jin10.com/detail/20251114091237375800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
+          "url": "https://wallstreetcn.com/livenews/3004275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "微软CEO：祝OpenAI甲骨文好运",
+          "url": "https://www.toutiao.com/trending/7572366525785443903/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "AI会如何改编游戏行业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
+          "url": "https://www.cls.cn/detail/2200129",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "甲骨文AI豪赌令投资者大感不安 成科技抛售潮的最大受害者",
+          "url": "https://flash.jin10.com/detail/20251114134034298800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "特朗普用AI生成逮捕奥巴马视频",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%A8AI%E7%94%9F%E6%88%90%E9%80%AE%E6%8D%95%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%A7%86%E9%A2%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D14%26flag%3D1%26pos%3D13%26band_rank%3D14%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2594%25A8AI%25E7%2594%259F%25E6%2588%2590%25E9%2580%25AE%25E6%258D%2595%25E5%25A5%25A5%25E5%25B7%25B4%25E9%25A9%25AC%25E8%25A7%2586%25E9%25A2%2591%2523%26dgr%3D0%26display_time%3D1763089915%26pre_seqid%3D17630899152230114689251&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "机构：百度AI新模型未能提振市场信心，股价单日重挫近10%",
+          "url": "https://flash.jin10.com/detail/20251114132125584800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
+          "url": "https://wallstreetcn.com/livenews/3004338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3004476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3004252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "Mira Murati旗下AI初创公司Thinking Machines Lab洽谈按500亿美元估值融资。",
+          "url": "https://wallstreetcn.com/livenews/3004372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
       "match_count": 19,
       "titles": [
@@ -549,8 +816,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时33分]"
         },
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -573,11 +840,12 @@
           "ranks": [
             9,
             10,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时33分]"
         },
         {
           "title": "iPhonePocket正式开售",
@@ -666,11 +934,24 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时33分]"
+        },
+        {
+          "title": "iPhone Pocket开箱",
+          "url": "https://www.douyin.com/hot/2305449",
+          "source": "抖音",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 14时33分]"
         },
         {
           "title": "苹果AppleStore全新图标上线",
@@ -683,17 +964,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时43分 ~ 11时15分]"
-        },
-        {
-          "title": "iPhone Pocket开箱",
-          "url": "https://www.douyin.com/hot/2305449",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "华为Mate系列手机变迁一览",
@@ -724,7 +994,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -764,241 +1034,22 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "AI造世界的时代来了",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 12时27分]"
-        },
-        {
-          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
-          "url": "https://wallstreetcn.com/articles/3759330",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时27分]"
-        },
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时27分]"
-        },
-        {
-          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2200065",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 11时15分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时27分]"
-        },
-        {
-          "title": "马斯克：媒体关于xAI融资的报道“不实”。",
-          "url": "https://wallstreetcn.com/livenews/3004285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "新西兰联储货币政策委员会（MPC）成员Prasanna Gai：提高（联储主席人事）透明度，构建信任。 面临不确定性之际，主管的干预给问题带来澄清。",
-          "url": "https://wallstreetcn.com/livenews/3004362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
-          "url": "https://www.cls.cn/detail/2200326",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时27分]"
-        },
-        {
-          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
-          "url": "https://flash.jin10.com/detail/20251114115801982800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
-          "url": "https://flash.jin10.com/detail/20251114091237375800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
-          "url": "https://wallstreetcn.com/livenews/3004275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "微软CEO：祝OpenAI甲骨文好运",
-          "url": "https://www.toutiao.com/trending/7572366525785443903/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
-          "title": "AI会如何改编游戏行业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%A6%82%E4%BD%95%E6%94%B9%E7%BC%96%E6%B8%B8%E6%88%8F%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "经济学家：AI正处于“理性泡沫”中 或令部分投资者蒙受损失",
-          "url": "https://www.cls.cn/detail/2200129",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "特朗普用AI生成逮捕奥巴马视频",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%94%A8AI%E7%94%9F%E6%88%90%E9%80%AE%E6%8D%95%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%A7%86%E9%A2%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D14%26flag%3D1%26pos%3D13%26band_rank%3D14%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2594%25A8AI%25E7%2594%259F%25E6%2588%2590%25E9%2580%25AE%25E6%258D%2595%25E5%25A5%25A5%25E5%25B7%25B4%25E9%25A9%25AC%25E8%25A7%2586%25E9%25A2%2591%2523%26dgr%3D0%26display_time%3D1763089915%26pre_seqid%3D17630899152230114689251&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
-          "url": "https://wallstreetcn.com/livenews/3004338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3004476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3004252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "Mira Murati旗下AI初创公司Thinking Machines Lab洽谈按500亿美元估值融资。",
-          "url": "https://wallstreetcn.com/livenews/3004372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 14时33分]"
+        },
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
           "url": "https://wallstreetcn.com/articles/3759298",
@@ -1011,18 +1062,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 12时27分]"
         },
         {
           "title": "美股全线下挫 特斯拉跌超6%",
@@ -1151,8 +1190,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌向欧盟提交整改方案，回应反垄断罚款但拒绝拆分相关业务",
+          "url": "https://flash.jin10.com/detail/20251114141801666800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
+          "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
+          "url": "https://flash.jin10.com/detail/20251114140157691800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
         {
           "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
           "url": "https://wallstreetcn.com/livenews/3004398",
@@ -1182,20 +1243,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "全面解析GPT-5.1",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90GPT-5.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 12时27分]"
-        },
-        {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -1204,8 +1251,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时33分]"
+        },
+        {
+          "title": "全面解析GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            10,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 14时33分]"
         }
       ]
     },
