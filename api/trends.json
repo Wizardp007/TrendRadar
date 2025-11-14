@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T06:21:40.550558+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2025-11-14T09:43:31.170724+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "基金",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "悄悄关闭旗下基金，大空头Burry辟谣9亿美元做空英伟达和Palantir：一共才花了920万",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时43分]"
         },
         {
           "title": "国际货币基金组织：近期市场状况的改善为阿根廷加快储备积累提供了一个机遇。",
@@ -174,6 +175,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "韩国政府将与养老基金和出口商讨论汇市稳定措施",
+          "url": "https://flash.jin10.com/detail/20251114085554895800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "国际货币基金组织：数据不足使IMF难以评估美国经济状况。",
           "url": "https://flash.jin10.com/detail/20251114000116509800",
           "source": "金十数据",
@@ -183,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "社保基金会理事长刘昆会见法国东方汇理资产管理公司首席执行官瓦莱丽·博德松女士一行",
+          "url": "https://wallstreetcn.com/livenews/3004477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "国际货币基金组织：美国移民流入放缓、关税以及更广泛的政策不确定性一直在拖累经济活动。",
@@ -232,8 +255,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "韩国方面表示，特朗普为事实清单做出了理性的决定。",
+          "url": "https://flash.jin10.com/detail/20251114092336752800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
           "url": "https://flash.jin10.com/detail/20251114035500120800",
@@ -285,7 +319,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -346,6 +380,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "美国总统夫人梅拉尼娅：特朗普总统将签署一项行政命令，旨在改善医疗保健、粮食安全和其他社会福利。",
           "url": "https://flash.jin10.com/detail/20251114032003225800",
           "source": "金十数据",
@@ -374,7 +419,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -396,7 +441,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -418,7 +463,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -429,7 +474,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -437,7 +482,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "淄博卖苹果大哥是J人吧",
@@ -446,11 +491,12 @@
           "ranks": [
             7,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 09时43分]"
         },
         {
           "title": "报道：苹果与腾讯达成小程序游戏支付协议，将收取15%佣金",
@@ -461,8 +507,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时43分]"
         },
         {
           "title": "车圈打击黑公关,小米KOL被团灭",
@@ -473,8 +519,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时43分]"
         },
         {
           "title": "懂车帝对话起诉小米汽车车主",
@@ -506,9 +552,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "iPhonePocket正式开售",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhonePocket%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26pos%3D4%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D4%26filter_type%3Drealtimehot%26q%3D%2523iPhonePocket%25E6%25AD%25A3%25E5%25BC%258F%25E5%25BC%2580%25E5%2594%25AE%2523%26dgr%3D0%26c_type%3D31%26realpos%3D4%26cate%3D5001%26display_time%3D1763084515%26pre_seqid%3D17630845152390113702876&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "苹果推出小程序合作伙伴计划：抽成降至15%",
@@ -528,7 +585,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -555,13 +612,35 @@
           "time_info": "[02时30分 ~ 02时31分]"
         },
         {
+          "title": "对微信游戏等小程序抽佣15%！苹果推出“小程序合作伙伴计划”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31959387",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "苹果AppleStore全新图标上线",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B9%E6%9E%9CAppleStore%E5%85%A8%E6%96%B0%E5%9B%BE%E6%A0%87%E4%B8%8A%E7%BA%BF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D18%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D17%26filter_type%3Drealtimehot%26q%3D%2523%25E8%258B%25B9%25E6%259E%259CAppleStore%25E5%2585%25A8%25E6%2596%25B0%25E5%259B%25BE%25E6%25A0%2587%25E4%25B8%258A%25E7%25BA%25BF%2523%26dgr%3D0%26c_type%3D31%26realpos%3D17%26cate%3D5001%26display_time%3D1763084515%26pre_seqid%3D17630845152390113702876&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "苹果(AAPL.O)：所有美国职业足球大联盟比赛将向Apple TV订阅用户免费提供流媒体服务，无需额外付费。",
           "url": "https://flash.jin10.com/detail/20251114053244385800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -575,12 +654,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "王自如不相信超薄手机安卓比苹果好",
+          "url": "https://www.toutiao.com/trending/7572111992778145855/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI造世界的时代来了",
@@ -590,8 +680,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 09时43分]"
         },
         {
           "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
@@ -599,11 +689,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时43分]"
         },
         {
           "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
@@ -611,11 +702,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时43分]"
         },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
@@ -627,8 +719,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时43分]"
         },
         {
           "title": "马斯克：媒体关于xAI融资的报道“不实”。",
@@ -653,6 +745,31 @@
           "time_info": "04时25分"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时43分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT 的群聊功能目前已在日本、新西兰、韩国和中国台湾地区面向Free、Go、Plus 和Pro用户推出，支持移动端和网页端。",
+          "url": "https://flash.jin10.com/detail/20251114091237375800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "特斯拉AI负责人警告员工：2026年将是“人生中最艰难的一年”",
           "url": "https://wallstreetcn.com/livenews/3004275",
           "source": "华尔街见闻-快讯",
@@ -662,19 +779,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "AI会如何改编游戏行业",
@@ -689,6 +793,17 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "华尔街警告声愈发强烈！专家：AI泡沫终将带来损失，信贷“蟑螂”比比皆是！",
+          "url": "https://www.cls.cn/detail/2200326",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "美国圣路易联储主席Musalem（2025年FOMC票委）：AI似乎支持生产力。 对“已经宣布的大部分裁员都与AI相关”保持怀疑态度，更有可能解释了自动化。",
           "url": "https://wallstreetcn.com/livenews/3004338",
           "source": "华尔街见闻-快讯",
@@ -698,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "网信部门从严整治利用AI仿冒公众人物开展直播营销问题乱象：已处置仿冒公众人物账号1.1万余个。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3004476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
@@ -717,7 +843,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -725,7 +851,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -741,24 +867,24 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
+          "title": "美股全线下挫 特斯拉跌超6%",
+          "url": "https://www.toutiao.com/trending/7571618548569735174/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3004404",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
-          "url": "https://wallstreetcn.com/livenews/3004400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -767,9 +893,21 @@
           "url": "https://www.cls.cn/detail/2200254",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            1
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 09时43分]"
+        },
+        {
+          "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
+          "url": "https://wallstreetcn.com/livenews/3004400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -780,7 +918,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -791,9 +929,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
@@ -813,7 +962,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -852,7 +1001,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -878,11 +1027,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90GPT-5.1",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 09时43分]"
         },
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -893,8 +1043,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时43分]"
         }
       ]
     },
@@ -909,7 +1059,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -920,7 +1070,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
