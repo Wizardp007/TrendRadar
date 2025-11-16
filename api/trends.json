@@ -1,22 +1,35 @@
 {
-  "generated_at": "2025-11-16T09:47:39.981175+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2025-11-16T11:20:20.178710+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
           "url": "https://www.cls.cn/detail/2201480",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
+        },
+        {
+          "title": "【早报】国常会重磅部署！事关两重”建设、促消费；三星部分内存芯片提价60%",
+          "url": "https://www.cls.cn/detail/2201445",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
         },
         {
           "title": "苹果与腾讯达成协议，对微信游戏等小程序支付加征 15%「苹果税」，会对用户和开发者有哪些影响？",
@@ -30,17 +43,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "【早报】国常会重磅部署！事关两重”建设、促消费；三星部分内存芯片提价60%",
-          "url": "https://www.cls.cn/detail/2201445",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -67,6 +69,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时23分 ~ 09时47分]"
+        },
+        {
+          "title": "苹果加紧CEO继任规划，库克或最早明年卸任",
+          "url": "https://wallstreetcn.com/articles/3759458",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "东风与华为合作的汽车品牌将于11月20日发布",
@@ -96,11 +109,12 @@
           "url": "https://www.zhihu.com/question/1972963239005483999",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 11时20分]"
         }
       ]
     },
@@ -116,11 +130,12 @@
             10,
             9,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
         },
         {
           "title": "特朗普：对委内瑞拉“差不多下定决心”",
@@ -139,22 +154,24 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%97%AE%E9%A2%98%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 11时20分]"
         },
         {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
@@ -204,7 +221,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
@@ -224,11 +241,23 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
+        },
+        {
+          "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
+          "url": "https://wallstreetcn.com/livenews/3005235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -267,8 +296,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -280,8 +309,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -292,8 +321,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -353,19 +382,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 11时20分]"
         },
         {
           "title": "对冲基金Q3如何看中概？橡树资本调仓，David Tepper“小幅减仓”但整体重仓，桥水则已远离",
           "url": "https://wallstreetcn.com/articles/3759455",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 11时20分]"
         }
       ]
     }
