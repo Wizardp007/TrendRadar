@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T09:44:01.899117+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2025-11-17T11:18:24.254575+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -25,9 +25,20 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时18分]"
+        },
+        {
+          "title": "特朗普不到两个月内完成超175笔投资",
+          "url": "https://www.toutiao.com/trending/7573491698903289386/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "11时18分"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -58,22 +69,24 @@
           "url": "https://www.toutiao.com/trending/7573470510160399923/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 11时18分]"
         },
         {
           "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
           "url": "https://www.cls.cn/detail/2201676",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时18分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -82,7 +95,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -93,7 +106,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -104,7 +117,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -115,9 +128,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "美国总统特朗普：众议院共和党人应投票公布爱泼斯坦文件，因为我们没有什么可隐瞒的。",
+          "url": "https://flash.jin10.com/detail/20251117101957938800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "博主：特朗普正走向众叛亲离",
@@ -133,8 +157,117 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
+          "url": "https://www.cls.cn/detail/2201789",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 11时18分]"
+        },
+        {
+          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
+          "url": "https://www.zhihu.com/question/1973043161929577003",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时28分 ~ 09时44分]"
+        },
+        {
+          "title": "余承东官宣华为Mate80发布会",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E5%8D%8E%E4%B8%BAMate80%E5%8F%91%E5%B8%83%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BD%2599%25E6%2589%25BF%25E4%25B8%259C%25E5%25AE%2598%25E5%25AE%25A3%25E5%258D%258E%25E4%25B8%25BAMate80%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26realpos%3D7%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D7%26lcate%3D5001%26pos%3D7%26flag%3D1%26display_time%3D1763343778%26pre_seqid%3D176334377864103305412152&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 11时18分]"
+        },
+        {
+          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
+          "url": "https://www.cls.cn/detail/2201935",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 11时18分]"
+        },
+        {
+          "title": "华为，AI突破将发布",
+          "url": "https://wallstreetcn.com/articles/3759477",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "iPhone内存你可能一直清理错了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%86%85%E5%AD%98%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%80%E7%9B%B4%E6%B8%85%E7%90%86%E9%94%99%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3DiPhone%25E5%2586%2585%25E5%25AD%2598%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%2580%25E7%259B%25B4%25E6%25B8%2585%25E7%2590%2586%25E9%2594%2599%25E4%25BA%2586%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26realpos%3D24%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D24%26lcate%3D5001%26pos%3D24%26flag%3D1%26display_time%3D1763343778%26pre_seqid%3D176334377864103305412152&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "苹果CEO库克被曝最早于明年卸任，公司董事会和高层正加紧为交接做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31979684",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "曝华为Mate 80系列新机拥抱磁吸生态",
+          "url": "https://www.toutiao.com/trending/7572828365003718692/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "华为算力概念爆发",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%8E%E4%B8%BA%E7%AE%97%E5%8A%9B%E6%A6%82%E5%BF%B5%E7%88%86%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%258D%258E%25E4%25B8%25BA%25E7%25AE%2597%25E5%258A%259B%25E6%25A6%2582%25E5%25BF%25B5%25E7%2588%2586%25E5%258F%2591%2523%26dgr%3D0%26flag%3D1%26pos%3D27%26cate%3D5001%26band_rank%3D26%26stream_entry_id%3D31%26realpos%3D26%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1763349418%26pre_seqid%3D176334941890102005584141&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -166,11 +299,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 09时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 11时18分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -178,11 +312,23 @@
           "source": "贴吧",
           "ranks": [
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 09时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 11时18分]"
+        },
+        {
+          "title": "阿里巴巴旗下夸克宣布上线千问助手，“使用阿里Qwen最强大模型”。",
+          "url": "https://wallstreetcn.com/livenews/3005525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -221,70 +367,46 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
+          "url": "https://wallstreetcn.com/livenews/3005491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     },
     {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 5,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
-          "url": "https://www.cls.cn/detail/2201789",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 09时44分]"
-        },
-        {
-          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
-          "url": "https://www.zhihu.com/question/1973043161929577003",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 09时44分]"
-        },
-        {
-          "title": "【早报】多部门提醒！近期避免前往日本；华为将发布AI突破性技术，对标英伟达",
-          "url": "https://www.cls.cn/detail/2201935",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "余承东官宣华为Mate80发布会",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%99%E6%89%BF%E4%B8%9C%E5%AE%98%E5%AE%A3%E5%8D%8E%E4%B8%BAMate80%E5%8F%91%E5%B8%83%E4%BC%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25BD%2599%25E6%2589%25BF%25E4%25B8%259C%25E5%25AE%2598%25E5%25AE%25A3%25E5%258D%258E%25E4%25B8%25BAMate80%25E5%258F%2591%25E5%25B8%2583%25E4%25BC%259A%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26realpos%3D7%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D7%26lcate%3D5001%26pos%3D7%26flag%3D1%26display_time%3D1763343778%26pre_seqid%3D176334377864103305412152&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "阿里巴巴美股夜盘一度上涨5%，此前宣布“千问”项目",
+          "url": "https://wallstreetcn.com/livenews/3005519",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         },
         {
-          "title": "iPhone内存你可能一直清理错了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiPhone%E5%86%85%E5%AD%98%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%80%E7%9B%B4%E6%B8%85%E7%90%86%E9%94%99%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3DiPhone%25E5%2586%2585%25E5%25AD%2598%25E4%25BD%25A0%25E5%258F%25AF%25E8%2583%25BD%25E4%25B8%2580%25E7%259B%25B4%25E6%25B8%2585%25E7%2590%2586%25E9%2594%2599%25E4%25BA%2586%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26realpos%3D24%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D24%26lcate%3D5001%26pos%3D24%26flag%3D1%26display_time%3D1763343778%26pre_seqid%3D176334377864103305412152&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
           "ranks": [
-            24
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     },
@@ -346,11 +468,29 @@
           "ranks": [
             8,
             5,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 09时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 11时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai gpt codex",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
+          "url": "https://flash.jin10.com/detail/20251117103913637800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     },
@@ -364,11 +504,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 09时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 11时18分]"
         }
       ]
     },
@@ -384,26 +525,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 09时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 11时18分]"
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
-          "url": "https://www.cls.cn/detail/2201578",
-          "source": "财联社热门",
+          "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
+          "url": "https://flash.jin10.com/detail/20251117110119026800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            13
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时18分"
         }
       ]
     }
