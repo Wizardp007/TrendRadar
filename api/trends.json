@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T02:32:44.286199+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-11-19T04:26:20.464826+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -14,20 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
-          "url": "https://wallstreetcn.com/livenews/3006688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
         },
         {
           "title": "墨西哥比索兑美元重新涨超0.2%，该国总统辛鲍姆认为，美国总统特朗普通过军事手段打击其境内毒贩的暗示“不会发生”。",
@@ -47,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -58,18 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "特朗普：我想我已经知道我的美联储主席人选了",
-          "url": "https://wallstreetcn.com/livenews/3006686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -80,18 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
-          "url": "https://wallstreetcn.com/livenews/3006685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -102,7 +69,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -113,20 +80,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
         {
-          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3006680",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普支持率跌至低点 生活成本与爱泼斯坦案引发不满",
+          "url": "https://flash.jin10.com/detail/20251119035446963800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：人们都在阻止我解雇鲍威尔。",
@@ -135,9 +102,79 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "据路透社/益普索民调：26%的美国人认可特朗普处理生活成本问题的方式。",
+          "url": "https://flash.jin10.com/detail/20251119035025343800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
+          "url": "https://wallstreetcn.com/livenews/3006688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普称他“与家族业务没有任何关系”",
+          "url": "https://wallstreetcn.com/livenews/3006707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普：我想我已经知道我的美联储主席人选了",
+          "url": "https://wallstreetcn.com/livenews/3006686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
+          "title": "微软与德国思爱普Sap签署协议，将在（美国总统特朗普命令）引发“危机”的情况下支持欧洲云。",
+          "url": "https://wallstreetcn.com/livenews/3006685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
+          "title": "美国总统特朗普：对与伊朗达成协议完全持开放态度。",
+          "url": "https://wallstreetcn.com/livenews/3006680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
         },
         {
           "title": "美国总统特朗普：我们有一些出人意料和一些意料之中的美联储主席人选。",
@@ -146,9 +183,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "据路透社/益普索民调：特朗普的支持率跌至38%，是自重返白宫以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20251119035012121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -157,7 +205,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -168,7 +216,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -179,9 +227,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普政府：正采取行动来瓦解美国教育部。",
+          "url": "https://wallstreetcn.com/livenews/3006702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：我希望鲍威尔现在就下台，我想我已经知道新任美联储主席的人选了。",
@@ -190,7 +249,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -201,9 +260,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普再次呼吁吊销ABC执照 并否认与爱泼斯坦有任何关系",
+          "url": "https://flash.jin10.com/detail/20251119031700998800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
+          "url": "https://wallstreetcn.com/livenews/3006706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
@@ -212,9 +293,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普推进教育部解散计划 将多个办公室转移至其他机构",
+          "url": "https://flash.jin10.com/detail/20251119025758341800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "被质疑为何不直接公开爱泼斯坦档案，特朗普发出威胁：吊销ABC电视台牌照",
+          "url": "https://wallstreetcn.com/livenews/3006687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：沙特将购买F-35战机。",
@@ -223,7 +326,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -245,7 +348,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -256,7 +359,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -267,7 +370,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
@@ -275,7 +378,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -285,8 +388,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -294,11 +397,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -308,8 +412,53 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2204220",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
+          "url": "https://www.cls.cn/detail/2203836",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
+          "url": "https://wallstreetcn.com/articles/3759559",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "法国总统马克龙：德国和法国支持推后一年再出台高风险AI制度。",
@@ -323,15 +472,15 @@
           "time_info": "00时30分"
         },
         {
-          "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2204220",
-          "source": "财联社热门",
+          "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
+          "url": "https://flash.jin10.com/detail/20251119040743481800",
+          "source": "金十数据",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "市场消息：瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。",
@@ -351,9 +500,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "知情人士：沙特获准采购大量美国AI芯片",
+          "url": "https://flash.jin10.com/detail/20251119040550958800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "瑞典AI编程初创公司Lovable接近按60亿美元估值完成最新一轮融资，年化持续收入达到2亿美元。（彭博）",
@@ -365,39 +525,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
-          "url": "https://www.cls.cn/detail/2203836",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "白宫经济顾问哈塞特：AI提升生产率或致就业市场“平静期”，美联储是时候真正“以数据为驱动”",
-          "url": "https://wallstreetcn.com/articles/3759559",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
@@ -422,6 +549,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "美国计划批准向沙特AI公司Humain出售芯片。",
+          "url": "https://wallstreetcn.com/livenews/3006708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
           "url": "https://www.cls.cn/detail/2204017",
           "source": "财联社热门",
@@ -430,8 +568,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
@@ -439,11 +577,23 @@
           "source": "抖音",
           "ranks": [
             23,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "市场消息：美国计划批准向沙特阿拉伯人工智能企业Humain出售芯片。",
+          "url": "https://flash.jin10.com/detail/20251119034535713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "Meta旗下Vibes AI至11月9日的日活用户数Wie200万。（Business Insider）",
@@ -452,7 +602,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -500,11 +650,12 @@
           "url": "https://www.zhihu.com/question/1974042951152793272",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "iPhone中国销量强势增长！10月销量同比增长37% 市占高达25%",
@@ -514,8 +665,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "高管养水军?小米舆论战炸锅全网",
@@ -525,8 +676,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "小米电话会：小米汽车本周将提前完成全年交付目标，预计明年毛利率有所下降，手机业务可能通过涨价应对存储成本上升",
@@ -536,8 +687,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "华为 Mate X7 正式官宣，如何看待华为即将推出的新品，你对华为 Mate X7 有哪些期待？",
@@ -555,11 +706,12 @@
           "url": "https://www.toutiao.com/trending/7573972245656387610/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "为什么 iPhone 的屏幕看起来更通透？",
@@ -579,7 +731,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -598,7 +750,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华纳兄弟探索公司(WBD.O)涨5.4%，此前派拉蒙天空舞娱乐公司正与三家阿拉伯主权财富基金联手，准备以710亿美元竞购该公司。",
@@ -607,9 +759,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "美银调查：全球基金看好明年中国经济提速和恒指跑赢",
+          "url": "https://wallstreetcn.com/livenews/3006713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "96%产品正收益，主动权益基金排位战硝烟渐浓，前排基金看什么？",
@@ -618,9 +781,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
         },
         {
           "title": "对冲基金潘兴广场的比尔·阿克曼：现在还不是抛售美国两房（房利美+房地美）的好时机。",
@@ -640,46 +803,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌正式发布Gemini3",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
-          "url": "https://flash.jin10.com/detail/20251119000857307800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
-          "url": "https://wallstreetcn.com/livenews/3006669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
@@ -687,7 +811,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克：Grok 4.1版本是一次重要更新。",
@@ -717,17 +841,29 @@
           "source": "今日头条",
           "ranks": [
             16,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
+        },
+        {
+          "title": "马斯克基金会2024年捐赠额创新高 大笔资金流入其控制实体",
+          "url": "https://flash.jin10.com/detail/20251119033129293800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
@@ -737,8 +873,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -748,8 +884,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "房地美股价触及盘中高点，上涨2.2%。",
@@ -761,6 +897,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌正式发布Gemini3",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时32分 ~ 04时26分]"
+        },
+        {
+          "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
+          "url": "https://flash.jin10.com/detail/20251119000857307800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
+          "url": "https://wallstreetcn.com/livenews/3006669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     },
@@ -776,8 +962,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 04时26分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（11月18日），南非富时/JSE非洲领先40可交易指数收跌1.71%，报10.3万点。 南非股市在低开后逐步微幅收复失地——整体呈现出长尾L形走势，金价日内的“低位反弹”行情没能给矿业股带来提振。 因帕拉白金控股（IMP.SJ）收跌4.37%，跌幅第二大，英美公司跌3.68%、Sibanye Stillwater跌3%紧随其后。",
@@ -786,7 +972,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
