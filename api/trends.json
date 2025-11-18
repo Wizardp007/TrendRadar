@@ -1,7 +1,19 @@
 {
-  "generated_at": "2025-11-18T18:26:00.438289+08:00",
-  "total_titles_processed": 1398,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T20:47:01.662475+08:00",
+  "total_titles_processed": 1438,
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
@@ -411,7 +423,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "曝iPhone17 Pro Max被湿巾擦掉色",
@@ -460,6 +472,21 @@
           "time_info": "[00时30分 ~ 06时21分]"
         },
         {
+          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
+          "url": "https://www.zhihu.com/question/1974027806913553776",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            3,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 20时47分]"
+        },
+        {
           "title": "清仓英伟达！“白宫背后的科技大佬”Peter Thiel三季度大幅降仓，新买入微软和苹果",
           "url": "https://wallstreetcn.com/articles/3759501",
           "source": "华尔街见闻",
@@ -469,20 +496,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时30分 ~ 09时41分]"
-        },
-        {
-          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
-          "url": "https://www.zhihu.com/question/1974027806913553776",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 18时26分]"
         },
         {
           "title": "华为命名翻车,被喷史上最low!",
@@ -518,11 +531,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 20时47分]"
         },
         {
           "title": "苹果哥最后的清闲时光",
@@ -544,7 +558,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -566,9 +580,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "华为 Mate X7 正式官宣，如何看待华为即将推出的新品，你对华为 Mate X7 有哪些期待？",
+          "url": "https://www.zhihu.com/question/1974053509059084429",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
@@ -670,7 +695,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -703,7 +728,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -714,7 +739,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -725,7 +750,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -747,7 +772,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -758,7 +783,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -780,7 +805,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -821,7 +846,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
@@ -862,6 +887,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时41分 ~ 18时26分]"
+        },
+        {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 20时47分]"
         },
         {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
@@ -918,17 +955,6 @@
           "time_info": "[09时41分 ~ 18时26分]"
         },
         {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时26分]"
-        },
-        {
           "title": "成龙去世照片系AI生成",
           "url": "https://www.douyin.com/hot/2309157",
           "source": "抖音",
@@ -972,7 +998,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1005,7 +1031,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1019,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "OpenAI状态页面：部分用户无法访问ChatGPT和平台官网。",
+          "url": "https://flash.jin10.com/detail/20251118202012120800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "CoreWeave史上最糟糕的一周，表明AI交易员正变得挑三拣四",
@@ -1038,7 +1075,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1202,7 +1239,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1232,7 +1269,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "陈茂波：香港金管局和沙特公共投资基金将设立10亿美元基金",
@@ -1245,6 +1282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 14时32分]"
+        },
+        {
+          "title": "非洲专家小组：二十国集团、国际货币基金组织和世界银行应为贫困国家推出一项债务再融资倡议。",
+          "url": "https://flash.jin10.com/detail/20251118203105370800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "晨壹基金计划为其首只美元基金募资10亿美元。（路透）",
@@ -1381,7 +1429,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -1504,6 +1552,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai gpt codex",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网络安全公司Cloudflare发生故障 ChatGPT、X等网站访问受阻",
+          "url": "https://flash.jin10.com/detail/20251118203407775800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
+        },
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时32分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1545,24 +1622,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai gpt codex",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 14时32分]"
         }
       ]
     }
