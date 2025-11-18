@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T16:30:32.148401+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2025-11-18T18:26:00.438289+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
@@ -411,7 +411,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "曝iPhone17 Pro Max被湿巾擦掉色",
@@ -471,6 +471,20 @@
           "time_info": "[00时30分 ~ 09时41分]"
         },
         {
+          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
+          "url": "https://www.zhihu.com/question/1974027806913553776",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 18时26分]"
+        },
+        {
           "title": "华为命名翻车,被喷史上最low!",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347193&amp;topic_name=%E5%8D%8E%E4%B8%BA%E5%91%BD%E5%90%8D%E7%BF%BB%E8%BD%A6%2C%E8%A2%AB%E5%96%B7%E5%8F%B2%E4%B8%8A%E6%9C%80low%21",
           "source": "贴吧",
@@ -486,29 +500,29 @@
           "time_info": "[00时30分 ~ 16时30分]"
         },
         {
-          "title": "网友曝 iPhone 17 Pro 被湿巾擦掉色，什么情况？苹果这款手机漆面真的这么脆弱吗？",
-          "url": "https://www.zhihu.com/question/1974027806913553776",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 16时30分]"
-        },
-        {
           "title": "华为Mate80系列发布在即 新款麒麟芯片或将亮相",
           "url": "https://www.cls.cn/detail/2203399",
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 18时26分]"
+        },
+        {
+          "title": "11.11 元秒杀到小米冰箱无法发货，小米回应「系统配置错误，补偿 30 元」，这一处置合理吗？",
+          "url": "https://www.zhihu.com/question/1974042951152793272",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时27分 ~ 16时30分]"
+          "time_info": "[16时30分 ~ 18时26分]"
         },
         {
           "title": "苹果哥最后的清闲时光",
@@ -524,15 +538,37 @@
           "time_info": "[00时30分 ~ 09时41分]"
         },
         {
+          "title": "卢伟冰：小米汽车预计将于本周提前完成全年交付目标",
+          "url": "https://wallstreetcn.com/livenews/3006444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "港股收盘：恒生指数收跌1.72%，恒生科技指数收跌1.93%，科技股、汽车股均走低，小鹏汽车跌超10%，百度跌近2%，小米跌超2.8%。",
           "url": "https://wallstreetcn.com/livenews/3006370",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "高管养水军?小米舆论战炸锅全网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347235&amp;topic_name=%E9%AB%98%E7%AE%A1%E5%85%BB%E6%B0%B4%E5%86%9B%3F%E5%B0%8F%E7%B1%B3%E8%88%86%E8%AE%BA%E6%88%98%E7%82%B8%E9%94%85%E5%85%A8%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "淄博苹果哥火了，因摆放整整齐齐「强迫症」看了表示很舒适，各地商贩纷纷模仿，如何看待此事？",
@@ -556,17 +592,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "11.11 元秒杀到小米冰箱无法发货，小米回应「系统配置错误，补偿 30 元」，这一处置合理吗？",
-          "url": "https://www.zhihu.com/question/1974042951152793272",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
         },
         {
           "title": "华为Mate X7搭载全新折叠玄武架构",
@@ -639,6 +664,17 @@
           "time_info": "[12时26分 ~ 12时27分]"
         },
         {
+          "title": "西门子与三星物产携手合作，推动下一代基础设施项目。",
+          "url": "https://flash.jin10.com/detail/20251118180000177800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
           "url": "https://wallstreetcn.com/livenews/3006074",
           "source": "华尔街见闻-快讯",
@@ -661,6 +697,39 @@
           "time_info": "12时27分"
         },
         {
+          "title": "小米集团：第三季度汽车交付总量108796辆",
+          "url": "https://wallstreetcn.com/livenews/3006423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：2025年前三季度，累计资本开支达人民币约130亿元",
+          "url": "https://wallstreetcn.com/livenews/3006422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：2025年第三季度研发开支达到人民币91亿元，同比增长52.1%",
+          "url": "https://wallstreetcn.com/livenews/3006421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "新一代iPhone带动苹果10月份在华手机销量激增 当月市场份额达到25%",
           "url": "https://wallstreetcn.com/livenews/3006258",
           "source": "华尔街见闻-快讯",
@@ -670,6 +739,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "小米集团：2025年第三季度手机×AIoT分部收入同比增长1.6%",
+          "url": "https://wallstreetcn.com/livenews/3006420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "小米集团：2025年Q3智能电动汽车及AI等创新业务分部首次实现单季度经营盈利",
+          "url": "https://wallstreetcn.com/livenews/3006418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "华为乾崑x东风全新品牌即将发布",
@@ -683,13 +774,24 @@
           "time_info": "14时32分"
         },
         {
+          "title": "小米集团第三季度营收1,131.2亿元人民币，预估1,125亿元人民币。 第三季度营业利润151.1亿元人民币，预估107.2亿元人民币。 第三季度净利润122.7亿元人民币，预估96.2亿元人民币。 第三季度调整后净利润113.1亿元人民币，预估100.5亿元人民币。 第三季度毛利率22.9％，预估22.7％。",
+          "url": "https://wallstreetcn.com/livenews/3006413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "华为Mate 80 RS非凡大师版外观公布",
           "url": "https://www.toutiao.com/trending/7573885829375492150/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -719,7 +821,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "为什么现在画师几乎要被 ai 替代，而程序员行业不仅没被替代，反而看起来更繁荣了？",
@@ -758,8 +860,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时26分]"
         },
         {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
@@ -785,6 +887,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 06时21分]"
+        },
+        {
+          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
+          "url": "https://www.cls.cn/detail/2203555",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 18时26分]"
+        },
+        {
+          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            14,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时26分]"
+        },
+        {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 18时26分]"
         },
         {
           "title": "成龙去世照片系AI生成",
@@ -824,42 +966,15 @@
           "time_info": "[00时30分 ~ 04时26分]"
         },
         {
-          "title": "英伟达周四清晨再临“大考”：面对AI泡沫担忧情绪 黄仁勋能否交出满分答卷？",
-          "url": "https://www.cls.cn/detail/2203555",
-          "source": "财联社热门",
+          "title": "摩根大通副董事长警告 AI估值可能迎来“修正”",
+          "url": "https://flash.jin10.com/detail/20251118180714384800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 16时30分]"
-        },
-        {
-          "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31984369",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时30分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时30分"
+          "time_info": "18时26分"
         },
         {
           "title": "蚂蚁推出全模态通用AI助手“灵光”",
@@ -879,9 +994,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        },
+        {
+          "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
+          "url": "https://wallstreetcn.com/articles/3759594",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "11月18日午间收评：北证50指数半日跌超2%，AI应用方向逆势大涨",
@@ -906,6 +1032,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "百度发布Q3财报：AI业务收入增速超50%，AI云同比增33%",
+          "url": "https://wallstreetcn.com/livenews/3006401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "中信证券：看好具备出海储能解决方案能力的头部厂家切入AIDC配电解决方案",
           "url": "https://wallstreetcn.com/livenews/3006131",
           "source": "华尔街见闻-快讯",
@@ -920,26 +1057,27 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时30分]"
-        },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
           "url": "https://wallstreetcn.com/articles/3759576",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时26分]"
+        },
+        {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -955,8 +1093,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时26分]"
         },
         {
           "title": "金十图示：2025年11月17日（周一）美股热门股票行情一览（美股盘中）",
@@ -1020,7 +1158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -1056,6 +1194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "微博第三季度调整后每股收益0.42美元，上年同期0.53美元，预估0.41美元。 第三季度月活跃用户5.8亿，同比下降1.5%，预估5.9亿。 第三季度净营收4.423亿美元，同比下降4.8%，预估4.409亿美元。 第三季度广告和营销营收3.754亿美元，同比下降5.8%，预估3.757亿美元。 微博美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3006403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "美股锂矿股集体上涨，投资者关注需求增长迹象",
@@ -1104,7 +1253,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -1115,7 +1264,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -1126,7 +1275,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -1148,7 +1297,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -1159,7 +1308,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -1170,9 +1319,82 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时26分]"
+        },
+        {
+          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 02时31分]"
+        },
+        {
+          "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时21分]"
+        },
+        {
+          "title": "金十图示：2025年11月18日（周二）上海金早盘价为921.22元/克，较国际金价(917.98元/克)，高3.24元/克",
+          "url": "https://flash.jin10.com/detail/20251118110222619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
+          "url": "https://wallstreetcn.com/livenews/3006029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
@@ -1241,67 +1463,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时30分]"
-        },
-        {
-          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时31分]"
-        },
-        {
-          "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时21分]"
-        },
-        {
-          "title": "金十图示：2025年11月18日（周二）上海金早盘价为921.22元/克，较国际金价(917.98元/克)，高3.24元/克",
-          "url": "https://flash.jin10.com/detail/20251118110222619800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
-        },
-        {
-          "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
-          "url": "https://wallstreetcn.com/livenews/3006029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "grok 马斯克",
       "match_count": 3,
       "titles": [
@@ -1336,7 +1497,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         }
@@ -1364,7 +1525,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         }
