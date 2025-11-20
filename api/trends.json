@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T20:43:49.004019+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2025-11-20T22:22:20.945734+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "Gemini3是目前最强AI吗",
@@ -33,8 +33,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 20时43分]"
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 22时22分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -51,8 +51,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 22时22分]"
         },
         {
           "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
@@ -167,13 +167,27 @@
           "time_info": "06时21分"
         },
         {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            26,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时32分 ~ 22时22分]"
+        },
+        {
           "title": "NVIDIA大涨是AI泡沫吗",
           "url": "https://search.bilibili.com/all?keyword=Nvidia%E5%A4%A7%E6%B6%A8%E6%98%AFAI%E6%B3%A1%E6%B2%AB%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -302,6 +316,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "NORM AI宣布获得黑石集团5000万美元投资，并推出全新原生人工智能律师事务所NORM LAW。",
+          "url": "https://flash.jin10.com/detail/20251120220815549800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "英伟达：Agentic AI激增。",
           "url": "https://wallstreetcn.com/livenews/3007437",
           "source": "华尔街见闻-快讯",
@@ -358,20 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 04时21分]"
-        },
-        {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            26,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 20时43分]"
         },
         {
           "title": "AI应用关键一环！工信部助推这一行业发展 提出三个“下功夫”",
@@ -497,6 +508,28 @@
           "time_info": "04时21分"
         },
         {
+          "title": "OpenAI数据中心工厂将于2026年第一季度尽快开业。（The Information）",
+          "url": "https://flash.jin10.com/detail/20251120220406915800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "软银将向OpenAI数据中心工厂投资高达30亿美元。",
+          "url": "https://flash.jin10.com/detail/20251120220240882800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "AI视频初创公司Luma AI按40亿美元估值融资9亿美元，沙特Humain领投。",
           "url": "https://wallstreetcn.com/livenews/3007352",
           "source": "华尔街见闻-快讯",
@@ -541,11 +574,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 22时22分]"
         },
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -1007,8 +1041,204 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
+          "url": "https://wallstreetcn.com/articles/3759713",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时32分 ~ 18时24分]"
+        },
+        {
+          "title": "我国再次成功发射一箭三星",
+          "url": "https://www.douyin.com/hot/2311719",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 11时11分]"
+        },
+        {
+          "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
+          "url": "https://www.zhihu.com/question/1973698606189008394",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            3,
+            1,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 22时22分]"
+        },
+        {
+          "title": "高管养水军?小米舆论战炸锅全网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347235&amp;topic_name=%E9%AB%98%E7%AE%A1%E5%85%BB%E6%B0%B4%E5%86%9B%3F%E5%B0%8F%E7%B1%B3%E8%88%86%E8%AE%BA%E6%88%98%E7%82%B8%E9%94%85%E5%85%A8%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 14时32分]"
+        },
+        {
+          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
+          "url": "https://www.zhihu.com/question/1972270226642044065",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "小米CEO雷军：最新预估小米汽车2025年全年预计交付将超过40万辆。",
+          "url": "https://wallstreetcn.com/livenews/3007644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "华为乾崑APP正式发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91APP%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
+          "title": "华为乾崑第一境启境登场",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E7%AC%AC%E4%B8%80%E5%A2%83%E5%90%AF%E5%A2%83%E7%99%BB%E5%9C%BA%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
+          "title": "华为乾崑有境界",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%9C%89%E5%A2%83%E7%95%8C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
+          "title": "雷军：小米汽车到了一个新的规模化阶段",
+          "url": "https://wallstreetcn.com/livenews/3007642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "小米汽车第50万辆整车正式下产线 雷军最新回应",
+          "url": "https://www.cls.cn/detail/2205893",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "华为完成IMT-2020（5G）推进组5G-A核心网通感融合与多源融合感知关键技术验证",
+          "url": "https://wallstreetcn.com/livenews/3007683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。LU燃油、焦煤跌超2%，玻璃、纸浆、纯碱跌近2%。涨幅方面，碳酸锂涨超3%，纯苯涨超2%，苯乙烯、沪银、苹果涨超1%。",
+          "url": "https://flash.jin10.com/detail/20251120113032951800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "华为乾崑智驾ADS累计辅助驾驶里程突破58亿公里",
+          "url": "https://wallstreetcn.com/livenews/3008000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "三星电子涨幅扩大至5.5%。",
+          "url": "https://flash.jin10.com/detail/20251120111035095800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3007668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -1019,8 +1249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 22时22分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1059,6 +1289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3008013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "英伟达(NVDA.O)涨势带动美股芯片股盘后行情，AMD(AMD.O)、台积电(TSM.N)和美光科技(MU.O)均涨于3%一线。",
@@ -1149,6 +1390,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120215241633800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251120050529182800",
           "source": "金十数据",
@@ -1162,159 +1414,8 @@
       ]
     },
     {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
-          "url": "https://wallstreetcn.com/articles/3759713",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时32分 ~ 18时24分]"
-        },
-        {
-          "title": "我国再次成功发射一箭三星",
-          "url": "https://www.douyin.com/hot/2311719",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 11时11分]"
-        },
-        {
-          "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
-          "url": "https://www.zhihu.com/question/1973698606189008394",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 20时43分]"
-        },
-        {
-          "title": "高管养水军?小米舆论战炸锅全网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347235&amp;topic_name=%E9%AB%98%E7%AE%A1%E5%85%BB%E6%B0%B4%E5%86%9B%3F%E5%B0%8F%E7%B1%B3%E8%88%86%E8%AE%BA%E6%88%98%E7%82%B8%E9%94%85%E5%85%A8%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 14时32分]"
-        },
-        {
-          "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
-          "url": "https://www.zhihu.com/question/1972270226642044065",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 06时21分]"
-        },
-        {
-          "title": "小米CEO雷军：最新预估小米汽车2025年全年预计交付将超过40万辆。",
-          "url": "https://wallstreetcn.com/livenews/3007644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "雷军：小米汽车到了一个新的规模化阶段",
-          "url": "https://wallstreetcn.com/livenews/3007642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "小米汽车第50万辆整车正式下产线 雷军最新回应",
-          "url": "https://www.cls.cn/detail/2205893",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "华为完成IMT-2020（5G）推进组5G-A核心网通感融合与多源融合感知关键技术验证",
-          "url": "https://wallstreetcn.com/livenews/3007683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。LU燃油、焦煤跌超2%，玻璃、纸浆、纯碱跌近2%。涨幅方面，碳酸锂涨超3%，纯苯涨超2%，苯乙烯、沪银、苹果涨超1%。",
-          "url": "https://flash.jin10.com/detail/20251120113032951800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "三星电子涨幅扩大至5.5%。",
-          "url": "https://flash.jin10.com/detail/20251120111035095800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3007668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "Gemini3有哪些新功能",
@@ -1344,6 +1445,17 @@
           "time_info": "[00时29分 ~ 06时21分]"
         },
         {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
           "title": "谷歌：在中国台北启用新的硬件工程中心。",
           "url": "https://wallstreetcn.com/livenews/3007704",
           "source": "华尔街见闻-快讯",
@@ -1353,6 +1465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3008020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
@@ -1389,13 +1512,24 @@
           "time_info": "11时11分"
         },
         {
+          "title": "谷歌：西屋公司与谷歌云合作，利用双方的专用模型开发定制的人工智能平台。",
+          "url": "https://flash.jin10.com/detail/20251120220558855800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "Gemini3有哪些新鲜玩法",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1425,7 +1559,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "马斯克C罗现身白宫参加晚宴",
@@ -1498,6 +1632,17 @@
           "time_info": "[09时40分 ~ 09时41分]"
         },
         {
+          "title": "马斯克黄仁勋同台对话",
+          "url": "https://www.toutiao.com/trending/7574768353705725494/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
           "title": "美国总统特朗普：（面对马斯克）我支持你。",
           "url": "https://flash.jin10.com/detail/20251120014920265800",
           "source": "金十数据",
@@ -1533,8 +1678,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时22分]"
         },
         {
           "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
@@ -1573,7 +1718,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
@@ -1598,6 +1743,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国经济数据公布后，美元指数短线走低",
+          "url": "https://wallstreetcn.com/livenews/3008002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3007293",
           "source": "华尔街见闻-快讯",
@@ -1612,7 +1768,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "资金入市热情持续升温，今年以来新备案私募基金破万只",
@@ -1624,6 +1780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：家庭财务状况良好。 对对冲基金和寿险公司的杠杆水平偏高表示关注。 目前银行资本充足。 金融体系状况良好。 稳定币和私人信贷值得关注。 目前金融环境“相当宽松”。 现在降息可能会扭曲市场定价水平。 降息有可能导致高通胀持续。 以风险管理为目的的降息可能会增加金融稳定性风险。 现在放松货币政策可能会鼓励金融风险偏好。",
+          "url": "https://wallstreetcn.com/livenews/3008008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "德国财政部长克林贝伊尔：新加坡对德国投资基金表现出浓厚兴趣。",
@@ -1643,7 +1810,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
@@ -1677,7 +1844,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
