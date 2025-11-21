@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T14:34:12.627720+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-11-21T16:30:51.220812+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             1,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 16时30分]"
         },
         {
           "title": "英伟达业绩打脸AI泡沫论？分析师：该担心的不是英伟达，而是用债务堆起来的数据中心",
@@ -28,11 +29,12 @@
             9,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[06时20分 ~ 16时30分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -91,11 +93,12 @@
           "url": "https://wallstreetcn.com/articles/3759838",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 16时30分]"
         },
         {
           "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司（UNited Airlines）的飞机在36000英尺高空被物体击中，飞行员被玻璃碎片溅到。",
@@ -153,6 +156,17 @@
           "time_info": "[00时29分 ~ 09时41分]"
         },
         {
+          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
+          "url": "https://wallstreetcn.com/articles/3759864",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "AI泡沫担忧继续冲击美股走势 英伟达高开低走",
           "url": "https://flash.jin10.com/detail/20251121020447251800",
           "source": "金十数据",
@@ -205,7 +219,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -216,7 +230,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -227,7 +241,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -238,7 +252,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -260,9 +274,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "荣威M7 DMH搭载豆包深度思考大模型",
+          "url": "https://wallstreetcn.com/livenews/3008524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
@@ -337,7 +362,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -345,7 +370,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -413,7 +438,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -447,8 +472,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时30分]"
         },
         {
           "title": "研究结果显示：特朗普“大漂亮法案”将提振增长，但美联储维持高利率恐令效果打折",
@@ -482,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "特朗普政府宣布油气开发新动作 多州强烈反对",
+          "url": "https://wallstreetcn.com/livenews/3008527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "特朗普修改对巴西商品关税范围",
@@ -652,30 +688,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "美股为何巨震暴跌",
-          "url": "https://www.toutiao.com/trending/7574979338739650091/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 14时34分]"
-        },
-        {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
-        },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
           "url": "https://www.cls.cn/detail/2206823",
@@ -684,8 +698,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时30分]"
+        },
+        {
+          "title": "美股为何巨震暴跌",
+          "url": "https://www.toutiao.com/trending/7574979338739650091/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时25分 ~ 16时30分]"
+        },
+        {
+          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时30分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -697,8 +735,36 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时30分]"
+        },
+        {
+          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
+          "url": "https://wallstreetcn.com/articles/3759847",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时30分]"
+        },
+        {
+          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
+          "url": "https://www.cls.cn/detail/2206908",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
+          "time_info": "[11时12分 ~ 16时30分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -714,21 +780,8 @@
           "time_info": "[00时29分 ~ 06时20分]"
         },
         {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
-        },
-        {
-          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
-          "url": "https://www.cls.cn/detail/2206908",
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
           "source": "财联社热门",
           "ranks": [
             5,
@@ -737,7 +790,7 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时12分 ~ 14时34分]"
+          "time_info": "[12时26分 ~ 16时30分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -764,16 +817,16 @@
           "time_info": "[00时29分 ~ 02时32分]"
         },
         {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时26分 ~ 14时34分]"
+          "time_info": "[14时34分 ~ 16时30分]"
         },
         {
           "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
@@ -785,17 +838,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
         },
         {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
@@ -836,11 +878,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%B7%A8%E9%9C%87%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时30分]"
         },
         {
           "title": "周四（11月20日）纽约尾盘，现货黄金持平，报4077.91美元/盎司，北京时间08:01涨至4110.15美元刷新日高，10:00前后出现一波跳水行情，16:23刷新日低至4038.97美元，美股开盘前后出现一波冲高回落行情。 COMEX黄金期货跌0.16%，报4076.40美元/盎司。",
@@ -852,6 +895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "美股大跌 英伟达跌超3%",
@@ -945,7 +999,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "余承东首秀华为 Mate80 系列真机，双圆环设计亮眼，还有哪些设计值得关注？",
@@ -1019,6 +1073,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "小米汽车：现阶段辅助驾驶依然还是一个辅助功能，不要相信“怎么开都撞不了”的夸大宣传",
+          "url": "https://wallstreetcn.com/livenews/3008520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
           "url": "https://wallstreetcn.com/livenews/3008098",
           "source": "华尔街见闻-快讯",
@@ -1036,9 +1101,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "华为乾崑智驾开启多城L3内测",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%99%BA%E9%A9%BE%E5%BC%80%E5%90%AF%E5%A4%9A%E5%9F%8EL3%E5%86%85%E6%B5%8B%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
         },
         {
           "title": "小米汽车长沙一门店中央空调现明火",
@@ -1114,8 +1190,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 16时30分]"
         },
         {
           "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
