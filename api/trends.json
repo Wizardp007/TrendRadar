@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T18:20:55.297074+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-11-22T20:38:41.520367+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -15,11 +15,12 @@
             16,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 18时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 20时38分]"
         },
         {
           "title": "特朗普喊话泽连斯基：必须接受，因为你无牌可打",
@@ -41,8 +42,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 20时38分]"
+        },
+        {
+          "title": "加拿大政府：双方均对美国总统特朗普的领导及其旨在结束加沙战争的全面和平计划表示欢迎。",
+          "url": "https://flash.jin10.com/detail/20251122202749920800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -81,17 +93,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        },
-        {
-          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
-          "url": "https://flash.jin10.com/detail/20251122180507453800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "特朗普见“社会主义者”马姆达尼，两人竟“化干戈为玉帛”",
@@ -186,6 +187,18 @@
           "time_info": "[11时06分 ~ 14时29分]"
         },
         {
+          "title": "据俄新社：俄罗斯总统普京与美国总统特朗普再次会晤已提上议程，一切皆有可能。",
+          "url": "https://flash.jin10.com/detail/20251122180507453800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 20时38分]"
+        },
+        {
           "title": "美法官叫停特朗普政府削减对多地的联邦拨款",
           "url": "https://flash.jin10.com/detail/20251122100232879800",
           "source": "金十数据",
@@ -209,6 +222,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 02时29分]"
+        },
+        {
+          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 20时38分]"
         },
         {
           "title": "美国总统特朗普：我将立即终止对明尼苏达州索马里人的临时保护身份。",
@@ -245,17 +270,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时29分 ~ 16时27分]"
-        },
-        {
-          "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32018623",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 18时20分]"
         },
         {
           "title": "特朗普警告泽连斯基",
@@ -328,6 +342,17 @@
           "time_info": "[04时25分 ~ 06时21分]"
         },
         {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "美国总统特朗普：伊朗想要达成协议，我们很可能会达成一个。",
           "url": "https://flash.jin10.com/detail/20251121234321355800",
           "source": "金十数据",
@@ -378,7 +403,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -425,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-22）",
+          "url": "https://flash.jin10.com/detail/20251122182640033800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "特朗普社媒帖子引发连锁威胁 民主党议员要求警察调查总统",
@@ -485,7 +521,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
@@ -497,6 +533,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 14时29分]"
+        },
+        {
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 20时38分]"
         },
         {
           "title": "硬科技再获增量资金加持！涉及AI、芯片等16只硬科技主题基金火速获批",
@@ -513,20 +563,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 16时27分]"
-        },
-        {
-          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
-          "url": "https://wallstreetcn.com/articles/3759889",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 18时20分]"
         },
         {
           "title": "AH股深度调整，创业板跌超3%，恒科指下跌1.8%，锂矿股领跌，AI应用逆势上涨，碳酸锂期货跌停",
@@ -624,6 +660,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 06时21分]"
+        },
+        {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
@@ -740,6 +787,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "诺基亚计划在美国进行40亿美元AI投资",
           "url": "https://wallstreetcn.com/livenews/3008795",
           "source": "华尔街见闻-快讯",
@@ -830,8 +888,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 18时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 20时38分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -903,6 +961,17 @@
           "time_info": "[00时28分 ~ 09时38分]"
         },
         {
+          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
+          "url": "https://wallstreetcn.com/articles/3759920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 20时38分]"
+        },
+        {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3008935",
           "source": "华尔街见闻-快讯",
@@ -915,17 +984,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时38分 ~ 14时29分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -1057,7 +1115,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "小米公关部总经理王化确认转岗武汉区域总部，徐洁云“回归”接任",
@@ -1094,8 +1152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时38分 ~ 18时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时38分 ~ 20时38分]"
         },
         {
           "title": "姚安娜回应华为超4000员工开阿维塔",
@@ -1148,7 +1206,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -1162,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "南京一律师质疑小米潜水手表虚假宣传，已向法院提交起诉书",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017489",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
@@ -1261,7 +1330,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Nano Banana Pro有哪些升级",
@@ -1287,6 +1356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "Gemini3玩法大全",
@@ -1318,11 +1398,12 @@
           "url": "https://www.douyin.com/hot/2314319",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 20时38分]"
         }
       ]
     },
