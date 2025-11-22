@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T04:22:53.180011+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-11-23T06:20:26.927647+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普：泽连斯基必须同意美国支持的和平计划",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
@@ -50,8 +50,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -65,19 +78,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
-        },
-        {
           "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009010",
           "source": "华尔街见闻-快讯",
@@ -85,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -96,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 06时20分]"
         },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -133,11 +133,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
@@ -149,19 +150,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BA%A7%E4%B8%9A%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E7%83%A7%E9%92%B1%E7%AB%9E%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 06时20分]"
         }
       ]
     },
@@ -178,8 +180,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -187,11 +189,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 04时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 06时20分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -199,11 +202,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 06时20分]"
         }
       ]
     },
@@ -219,8 +223,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "曝苹果将推出多款廉价产品",
@@ -248,8 +252,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -259,8 +263,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     },
@@ -276,8 +280,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     },
@@ -293,8 +297,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时20分]"
         }
       ]
     }
