@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T16:26:46.477717+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2025-11-23T18:21:11.182767+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,31 @@
           "time_info": "[00时25分 ~ 11时38分]"
         },
         {
+          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
+          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 18时21分]"
+        },
+        {
           "title": "特朗普暗示“28点”计划方案有调整空间",
           "url": "https://flash.jin10.com/detail/20251123114108204800",
           "source": "金十数据",
@@ -127,17 +152,6 @@
           "time_info": "00时25分"
         },
         {
-          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
-          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
           "url": "https://flash.jin10.com/detail/20251123100826752800",
           "source": "金十数据",
@@ -149,19 +163,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时38分 ~ 14时31分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 16时26分]"
         },
         {
           "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
@@ -189,6 +190,17 @@
           "time_info": "[14时31分 ~ 16时26分]"
         },
         {
+          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
+          "url": "https://www.zhihu.com/question/1975522293208876150",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
           "url": "https://flash.jin10.com/detail/20251123082037157800",
           "source": "金十数据",
@@ -199,17 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 11时38分]"
-        },
-        {
-          "title": "美乌将在瑞士举行会谈，此前特朗普给泽连斯基设最后期限，提出 28 点和平计划，局势或将如何进展？",
-          "url": "https://www.zhihu.com/question/1975522293208876150",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限",
@@ -229,7 +230,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         }
@@ -237,7 +238,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【早报】华为AI新技术揭晓；两家A股公司被证监会立案调查",
@@ -247,8 +248,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 18时21分]"
         },
         {
           "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
@@ -258,8 +259,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 18时21分]"
+        },
+        {
+          "title": "小米汽车每辆赚6.65万",
+          "url": "https://www.toutiao.com/trending/7574824643694477339/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -280,22 +293,37 @@
           "ranks": [
             3,
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[11时38分 ~ 18时21分]"
         },
         {
-          "title": "小米汽车每辆赚6.65万",
-          "url": "https://www.toutiao.com/trending/7574824643694477339/",
-          "source": "今日头条",
+          "title": "小米加码“安全课”",
+          "url": "https://wallstreetcn.com/articles/3759939",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 18时21分]"
         },
         {
           "title": "网传小米汽车工厂内电池产线起火，小米官方发文澄清。",
@@ -323,17 +351,6 @@
           "time_info": "[11时37分 ~ 12时34分]"
         },
         {
-          "title": "小米加码“安全课”",
-          "url": "https://wallstreetcn.com/articles/3759939",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "小米汽车被判返还双倍定金",
           "url": "https://www.toutiao.com/trending/7575759081214840329/",
           "source": "今日头条",
@@ -346,16 +363,15 @@
           "time_info": "[14时31分 ~ 16时26分]"
         },
         {
-          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
-          "source": "澎湃新闻",
+          "title": "如果苹果把 MacOS 开源，能不能让 GNU/Linux 的桌面系统消失？",
+          "url": "https://www.zhihu.com/question/1973990805782943063",
+          "source": "知乎",
           "ranks": [
-            19,
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时31分 ~ 16时26分]"
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "小米汽车开始赚钱了 但雷军还有点烦",
@@ -376,7 +392,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -406,8 +422,24 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9,
+            7,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 18时21分]"
+        },
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
           "url": "https://wallstreetcn.com/articles/3759931",
@@ -423,21 +455,6 @@
           "time_info": "[00时25分 ~ 14时31分]"
         },
         {
-          "title": "明查｜国外航司推出飞机“站票”？网传视频又是AI的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32022315",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 16时26分]"
-        },
-        {
           "title": "如何看待胡彦斌承认与易梦玲恋情，称「接吻视频不是 AI」？你有哪些祝福？",
           "url": "https://www.zhihu.com/question/1975471032841232421",
           "source": "知乎",
@@ -445,11 +462,12 @@
             6,
             8,
             17,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 16时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 18时21分]"
         },
         {
           "title": "第一批AI公司，已经开始破产了",
@@ -463,8 +481,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 18时21分]"
         },
         {
           "title": "AI又团灭一个行业",
@@ -485,11 +503,24 @@
           "url": "https://flash.jin10.com/detail/20251123155316784800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
+          "url": "https://wallstreetcn.com/articles/3759951",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
         },
         {
           "title": "林园：明年投资还是这两个方向，目前不投AI，不确定性高",
@@ -504,28 +535,6 @@
           "time_info": "[12时34分 ~ 14时31分]"
         },
         {
-          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
-          "url": "https://wallstreetcn.com/livenews/3009047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
-          "url": "https://wallstreetcn.com/articles/3759951",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "AI大神Karpathy：LLM渴望的不是生存，而是你的点赞",
           "url": "https://wallstreetcn.com/articles/3759924",
           "source": "华尔街见闻",
@@ -535,6 +544,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
+          "url": "https://wallstreetcn.com/articles/3759948",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "马斯克：AI5芯片即将完成流片，已启动AI6芯片研发工作。",
+          "url": "https://wallstreetcn.com/livenews/3009047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 18时21分]"
+        },
+        {
+          "title": "AI+ 时代，碳硅共生会如何带来生产力的跃迁？",
+          "url": "https://www.zhihu.com/question/1974446156558910121",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "AI产业为何成为烧钱竞赛",
@@ -552,7 +595,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -599,6 +642,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时28分 ~ 12时34分]"
+        },
+        {
+          "title": "Gemini3.0炸裂玩法合集",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         }
       ]
     },
@@ -616,8 +670,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 18时21分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -675,7 +729,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "16只硬科技主题基金同日获批，包括首批7只科创创业人工智能ETF",
@@ -686,11 +740,23 @@
             6,
             10,
             11,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 18时21分]"
+        },
+        {
+          "title": "大跌之下，766亿资金借ETF“越跌越买”，基金公司火线解读",
+          "url": "https://www.cls.cn/detail/2208153",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     }
