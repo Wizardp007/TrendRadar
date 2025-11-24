@@ -1,22 +1,276 @@
 {
-  "generated_at": "2025-11-25T04:26:01.869301+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2025-11-25T06:21:05.184986+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7576299047473397779/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.douyin.com/hot/2316851",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3760029",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
+          "url": "https://wallstreetcn.com/articles/3760011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "美对委“炮舰外交”或现缓和信号 特朗普计划与马杜罗直接对话",
+          "url": "https://flash.jin10.com/detail/20251125061314901800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署行政命令，以推动人工智能加速创新，并指示构建人工智能平台，以利用联邦科学数据集。",
+          "url": "https://flash.jin10.com/detail/20251125060430409800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署了与人工智能研究相关的行政命令。",
+          "url": "https://flash.jin10.com/detail/20251125055922632800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美乌和谈现突破后压力传至莫斯科 俄方拒接方案或再遭特朗普指责",
+          "url": "https://flash.jin10.com/detail/20251125055012060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
+          "url": "https://wallstreetcn.com/livenews/3009712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 04时26分]"
+        },
+        {
+          "title": "泽连斯基发文感谢特朗普",
+          "url": "https://www.douyin.com/hot/2316213",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
+          "url": "https://flash.jin10.com/detail/20251125015856912800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "美国白宫：特朗普启动程序，将部分穆斯林兄弟会分支机构列为外国恐怖主义组织和特别指定的全球恐怖分子。",
+          "url": "https://flash.jin10.com/detail/20251125051834696800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普将于北京时间今天凌晨五点左右在椭圆形办公室签署一项行政命令。",
+          "url": "https://flash.jin10.com/detail/20251125031849084800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普一直在对俄罗斯总统普京和乌克兰总统泽连斯基施加压力。",
+          "url": "https://wallstreetcn.com/livenews/3009755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国白宫发言人：特朗普在俄乌冲突中偏袒一方的说法不属实。",
+          "url": "https://flash.jin10.com/detail/20251125044304075800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国与乌克兰在上周末进行了富有成效的会谈。 美国总统特朗普仍然对达成俄乌和平协议的可能性持乐观态度。 在乌克兰（和平协议）问题上，只剩下几点分歧了。 美国向北约出售成吨的武器，不能永远那样做。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3009752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美国白宫发言人：特朗普对打击“贩毒恐怖分子”的行动感到满意。",
+          "url": "https://flash.jin10.com/detail/20251125043457425800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -26,8 +280,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -37,8 +291,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "网店用AI生成模特试穿视频画面诡异",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%BA%97%E7%94%A8AI%E7%94%9F%E6%88%90%E6%A8%A1%E7%89%B9%E8%AF%95%E7%A9%BF%E8%A7%86%E9%A2%91%E7%94%BB%E9%9D%A2%E8%AF%A1%E5%BC%82",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13,
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "OpenAI推出ChatGPT购物调研工具 为假期购物做准备",
@@ -52,17 +320,28 @@
           "time_info": "02时33分"
         },
         {
-          "title": "网店用AI生成模特试穿视频画面诡异",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%BA%97%E7%94%A8AI%E7%94%9F%E6%88%90%E6%A8%A1%E7%89%B9%E8%AF%95%E7%A9%BF%E8%A7%86%E9%A2%91%E7%94%BB%E9%9D%A2%E8%AF%A1%E5%BC%82",
-          "source": "百度热搜",
+          "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
+          "url": "https://www.zhihu.com/question/1962093650352771598",
+          "source": "知乎",
           "ranks": [
-            18,
-            13,
-            22
+            12,
+            15,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
+          "time_info": "[02时33分 ~ 06时21分]"
+        },
+        {
+          "title": "美国白宫披露关于科学超算研究领域的AI命令。",
+          "url": "https://wallstreetcn.com/livenews/3009778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "亚马逊向美国政府部门的AI和超算基建追加至多500亿美元投资",
@@ -96,20 +375,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
-        },
-        {
-          "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
-          "url": "https://www.zhihu.com/question/1962093650352771598",
-          "source": "知乎",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "英伟达AI爆雷!334亿账款收不回",
@@ -119,8 +386,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
@@ -130,8 +397,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "周一（11月24日），美股人工智能（AI）赢家指数涨4.06%，报275.03点。 AI 100指数涨3.39%。 AI电力指数涨3.33%，AI风险指数跌0.56%，AI风险敞口半导体指数涨5.59%。",
+          "url": "https://wallstreetcn.com/livenews/3009770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "06时21分"
         },
         {
           "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
@@ -140,7 +418,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -154,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "美国钢铁协会（AISI）：截至11月22日当周美国钢铁产能利用率为76.9%。",
+          "url": "https://flash.jin10.com/detail/20251125050538543800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
@@ -191,280 +480,31 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7576299047473397779/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
-        },
-        {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.douyin.com/hot/2316851",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
-        },
-        {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
-        },
-        {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3760029",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
-        },
-        {
-          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
-        },
-        {
-          "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
-          "url": "https://wallstreetcn.com/articles/3760011",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
-          "url": "https://wallstreetcn.com/livenews/3009712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 04时26分]"
-        },
-        {
-          "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
-          "url": "https://flash.jin10.com/detail/20251125015856912800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "美国总统特朗普将于北京时间今天凌晨五点左右在椭圆形办公室签署一项行政命令。",
-          "url": "https://flash.jin10.com/detail/20251125031849084800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "华为Mate80ProMax配置曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80ProMax%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
-        },
-        {
-          "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
-          "url": "https://www.zhihu.com/question/1972673210345608850",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
-        },
-        {
-          "title": "雷军增持小米260万股",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时26分]"
-        },
-        {
-          "title": "如何看待华为将非线性理论引入产品设计，如鸿蒙使用的「统筹法」和「系统论」等优化与控制理论？",
-          "url": "https://www.zhihu.com/question/1975948844836602348",
-          "source": "知乎",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 04时26分]"
-        },
-        {
-          "title": "报道：苹果公司罕见地裁减，涉及销售部门",
-          "url": "https://wallstreetcn.com/livenews/3009747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "狂蹭小米博流量,造谣者慌了!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
-        },
-        {
-          "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上，如何评价？",
-          "url": "https://www.zhihu.com/question/1975947279090340231",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "1亿增持和8亿回购还是托不住小米股价",
-          "url": "https://www.toutiao.com/trending/7576258091109322259/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
-        },
-        {
-          "title": "苹果罕见裁员 数十个销售部门岗位被裁",
-          "url": "https://flash.jin10.com/detail/20251125034456145800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
-          "url": "https://flash.jin10.com/detail/20251125034040133800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
           "url": "https://wallstreetcn.com/articles/3759998",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -475,8 +515,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3009775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "半导体ETF收涨将近4%，领跑美股行业ETF，标普电信板块涨超3.9%",
+          "url": "https://wallstreetcn.com/livenews/3009774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股盘中）",
@@ -488,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050629924800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "美股三大股指维持涨势，短线波动暂不大，道指现涨0.5%，标普500指数涨1.5%，纳指涨近2.6%。",
@@ -510,6 +583,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251125050520330800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股收盘：三大股指齐升 金龙指数涨近3%",
+          "url": "https://flash.jin10.com/detail/20251125050102306800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
@@ -536,6 +631,135 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "华为Mate80ProMax配置曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80ProMax%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
+          "url": "https://www.zhihu.com/question/1972673210345608850",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "雷军增持小米260万股",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "如何看待华为将非线性理论引入产品设计，如鸿蒙使用的「统筹法」和「系统论」等优化与控制理论？",
+          "url": "https://www.zhihu.com/question/1975948844836602348",
+          "source": "知乎",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时33分 ~ 04时26分]"
+        },
+        {
+          "title": "报道：苹果公司罕见地裁减，涉及销售部门",
+          "url": "https://wallstreetcn.com/livenews/3009747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "狂蹭小米博流量,造谣者慌了!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上，如何评价？",
+          "url": "https://www.zhihu.com/question/1975947279090340231",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "华为总部早高峰通勤路变“野生”车展",
+          "url": "https://www.toutiao.com/trending/7575380769527873590/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时20分 ~ 06时21分]"
+        },
+        {
+          "title": "1亿增持和8亿回购还是托不住小米股价",
+          "url": "https://www.toutiao.com/trending/7576258091109322259/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "苹果罕见裁员 数十个销售部门岗位被裁",
+          "url": "https://flash.jin10.com/detail/20251125034456145800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
+          "url": "https://flash.jin10.com/detail/20251125034040133800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude Claude-code",
       "match_count": 4,
       "titles": [
@@ -546,7 +770,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -557,7 +781,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -568,7 +792,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         },
@@ -579,9 +803,87 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
+          "url": "https://flash.jin10.com/detail/20251125052238827800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘中涨超6%。",
+          "url": "https://flash.jin10.com/detail/20251124231115068800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普政府力阻马斯克为“解散美国国际开发署”案出庭作证",
+          "url": "https://flash.jin10.com/detail/20251125055653747800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
+          "url": "https://wallstreetcn.com/articles/3759972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "专家：马斯克撕破西方的假仁假义",
+          "url": "https://www.toutiao.com/trending/7576240890289606163/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
         }
       ]
     },
@@ -626,47 +928,58 @@
       ]
     },
     {
-      "keyword_group": "grok 马斯克",
+      "keyword_group": "macOS ios",
       "match_count": 2,
       "titles": [
         {
-          "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
-          "url": "https://wallstreetcn.com/articles/3759972",
-          "source": "华尔街见闻",
+          "title": "据AXIOS网站：美国总统特朗普已告知其顾问，他正计划直接与委内瑞拉总统马杜罗对话。",
+          "url": "https://flash.jin10.com/detail/20251125060154130800",
+          "source": "金十数据",
           "ranks": [
-            10
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "06时21分"
         },
         {
-          "title": "专家：马斯克撕破西方的假仁假义",
-          "url": "https://www.toutiao.com/trending/7576240890289606163/",
-          "source": "今日头条",
+          "title": "美国总统特朗普告诉他的顾问们，他打算与委内瑞拉总统马杜罗通电话。 相关计划仍然处于“筹备阶段”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3009781",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "06时21分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini nano",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌母公司Alphabet盘中涨超6%。",
-          "url": "https://flash.jin10.com/detail/20251124231115068800",
+          "title": "美元指数24日下跌",
+          "url": "https://flash.jin10.com/detail/20251125043627852800",
           "source": "金十数据",
           "ranks": [
-            20
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时25分"
+          "time_info": "06时21分"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，ICE美元指数跌0.03%，报100.150点，日内交投区间为100.297-100.011点。 彭博美元指数涨0.02%，报1226.64点，日内交投区间为1225.27-1227.98点。",
+          "url": "https://wallstreetcn.com/livenews/3009750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -698,7 +1011,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
         }
