@@ -1,1104 +1,298 @@
 {
-  "generated_at": "2025-11-24T22:22:55.669182+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-11-25T00:25:17.178726+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
-          "url": "https://wallstreetcn.com/articles/3759963",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 22时22分]"
-        },
-        {
-          "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
-          "url": "https://news.ifeng.com/c/8oWeN8vWETi",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 22时22分]"
-        },
-        {
-          "title": "泽连斯基：感谢美国，感谢特朗普",
-          "url": "https://news.ifeng.com/c/8oXC4wZBeGO",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普28条能让俄乌停战吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE28%E6%9D%A1%E8%83%BD%E8%AE%A9%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "特朗普抨击乌克兰领导层",
-          "url": "https://wallstreetcn.com/livenews/3009162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "据知情人士透露，美国与乌克兰讨论本周将乌总统泽连斯基带到美国。 特朗普政府希望，在感恩节（11月27日）之前达成协议。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3009188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 16时31分]"
-        },
-        {
-          "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
-          "url": "https://flash.jin10.com/detail/20251123222329110800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时23分]"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
-          "url": "https://flash.jin10.com/detail/20251123221720269800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时23分]"
-        },
-        {
-          "title": "特朗普顾问哈塞特：新的美联储领导层可能会降息",
-          "url": "https://wallstreetcn.com/livenews/3009151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
-          "url": "https://flash.jin10.com/detail/20251124040847744800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 06时20分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：最后期限是我们希望尽快完成此事（俄乌28点计划），最好能在周四前完成。美国总统特朗普与乌克兰总统泽连斯基之间有可能通话；我们拭目以待。",
-          "url": "https://flash.jin10.com/detail/20251124040841575800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 06时20分]"
-        },
-        {
-          "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
-          "url": "https://flash.jin10.com/detail/20251123221310746800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 04时23分]"
-        },
-        {
-          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 22时22分]"
-        },
-        {
-          "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
-          "url": "https://flash.jin10.com/detail/20251123214049380800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时29分]"
-        },
-        {
-          "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3009125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时29分]"
-        },
-        {
-          "title": "特朗普抱怨乌克兰“毫无感激之心”",
-          "url": "https://www.toutiao.com/trending/7576058791771524646/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
-        },
-        {
-          "title": "德国总理默茨：我不确定未来几天我们能否找到美国总统特朗普所期望的解决方案。",
-          "url": "https://flash.jin10.com/detail/20251123204843492800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时29分]"
-        },
-        {
-          "title": "特朗普：“囤货”现象即将结束 关税收入将激增",
-          "url": "https://flash.jin10.com/detail/20251124131919141800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：特朗普对我们今天向他提供的会谈报告感到满意。",
-          "url": "https://flash.jin10.com/detail/20251124041441751800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国工会提起诉讼 要求特朗普政府为CFPB提供资金",
-          "url": "https://flash.jin10.com/detail/20251124104858513800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025122",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "特朗普：期待最高法院对关税问题的裁决。",
-          "url": "https://wallstreetcn.com/livenews/3009368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰“领导层”对我们的努力毫无感激之情，而欧洲却继续从俄罗斯购买石油。",
-          "url": "https://wallstreetcn.com/livenews/3009128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
-          "url": "https://wallstreetcn.com/livenews/3009128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "特朗普：关税的全部收益还没算出来。",
-          "url": "https://wallstreetcn.com/livenews/3009563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "特朗普暗示乌克兰谈判可能在取得进展",
-          "url": "https://wallstreetcn.com/livenews/3009561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
-          "url": "https://wallstreetcn.com/livenews/3009492",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI 大模型",
-      "match_count": 24,
+      "match_count": 10,
       "titles": [
         {
-          "title": "英伟达财报背后的未来AI密码",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%83%8C%E5%90%8E%E7%9A%84%E6%9C%AA%E6%9D%A5AI%E5%AF%86%E7%A0%81",
-          "source": "bilibili 热搜",
+          "title": "亚马逊向美国政府部门的AI和超算基建追加至多500亿美元投资",
+          "url": "https://wallstreetcn.com/livenews/3009693",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            7,
-            4,
-            9,
-            19,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 16时31分]"
-        },
-        {
-          "title": "AI投资风向变了！市场现在要求少“画饼”多“变现”",
-          "url": "https://wallstreetcn.com/articles/3759951",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 12时35分]"
-        },
-        {
-          "title": "英伟达AI爆雷!334亿账款收不回",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9,
-            11,
-            14,
-            16,
-            22,
-            24,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 22时22分]"
-        },
-        {
-          "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
-          "url": "https://wallstreetcn.com/articles/3759948",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时25分]"
-        },
-        {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 22时22分]"
-        },
-        {
-          "title": "【早报】泽连斯基就日内瓦会谈发表声明：收到美方积极信号；涉及AI、芯片等，16只硬科技主题基金获批",
-          "url": "https://www.cls.cn/detail/2208386",
-          "source": "财联社热门",
-          "ranks": [
-            2,
             1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 14时34分]"
-        },
-        {
-          "title": "英伟达救不了AI股，市场想看到什么？",
-          "url": "https://wallstreetcn.com/articles/3759961",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 20时46分]"
-        },
-        {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 22时22分]"
-        },
-        {
-          "title": "需要AI给答案",
-          "url": "https://wallstreetcn.com/articles/3759957",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 18时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
           "url": "https://www.cls.cn/detail/2208933",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 22时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
-          "url": "https://wallstreetcn.com/articles/3759964",
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 22时22分]"
-        },
-        {
-          "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
-          "url": "https://wallstreetcn.com/livenews/3009181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 06时20分]"
-        },
-        {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 18时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
           "source": "贴吧",
           "ranks": [
-            30,
-            6,
-            7
+            8
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 22时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3009336",
-          "source": "华尔街见闻-快讯",
+          "title": "网店用AI生成模特试穿视频画面诡异",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%BA%97%E7%94%A8AI%E7%94%9F%E6%88%90%E6%A8%A1%E7%89%B9%E8%AF%95%E7%A9%BF%E8%A7%86%E9%A2%91%E7%94%BB%E9%9D%A2%E8%AF%A1%E5%BC%82",
+          "source": "百度热搜",
           "ranks": [
-            7
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "上海市网信办开展“AI滥用”专项执法工作",
-          "url": "https://wallstreetcn.com/livenews/3009453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "A股三大指数翻红，创业板涨近1%，AI应用领涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
-          "url": "https://wallstreetcn.com/livenews/3009381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
           "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
           "ranks": [
-            12,
             11
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 22时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
-          "url": "https://www.cls.cn/detail/2208396",
+          "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
+          "url": "https://www.cls.cn/detail/2209112",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "00时25分"
         },
         {
-          "title": "美国科技巨头纷纷涌入债市，AI支出引发的不安情绪或将加剧",
-          "url": "https://flash.jin10.com/detail/20251124161125760800",
-          "source": "金十数据",
+          "title": "新一轮AI超级周期正在开启，汇丰预计OpenAI到2030年或需高达2070亿美元新融资",
+          "url": "https://wallstreetcn.com/livenews/3009672",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "如何看待 AI 绘画？",
-          "url": "https://www.zhihu.com/question/571629564",
-          "source": "知乎",
-          "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "00时25分"
         },
         {
-          "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3009370",
+          "title": "欧洲央行行长拉加德警告：欧盟在AI领域错失良机，未来面临风险",
+          "url": "https://wallstreetcn.com/livenews/3009659",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时34分"
+          "time_info": "00时25分"
         },
         {
-          "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
-          "url": "https://wallstreetcn.com/livenews/3009237",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达AI爆雷!334亿账款收不回",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347412&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BEAI%E7%88%86%E9%9B%B7%21334%E4%BA%BF%E8%B4%A6%E6%AC%BE%E6%94%B6%E4%B8%8D%E5%9B%9E",
+          "source": "贴吧",
           "ranks": [
-            24
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7576299047473397779/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.douyin.com/hot/2316851",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
+          "url": "https://wallstreetcn.com/articles/3759963",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3760029",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
+          "url": "https://wallstreetcn.com/articles/3760011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 22,
+      "match_count": 6,
       "titles": [
         {
-          "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32025210",
-          "source": "澎湃新闻",
+          "title": "华为Mate80ProMax配置曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80ProMax%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            1,
-            4,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时25分]"
-        },
-        {
-          "title": "雷军缺席广州车展！两大新主角联袂登场，“处处都有华为的身影”",
-          "url": "https://wallstreetcn.com/articles/3759949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 12时35分]"
-        },
-        {
-          "title": "小米汽车「未交车催收尾款」案一审宣判，相关公司返还消费者双倍定金，怎样解读？这一判罚具有哪些意义？",
-          "url": "https://www.zhihu.com/question/1975169768370766690",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "消息称苹果已基本放弃 Mac Pro，Pro 一度是苹果最受追捧的 Mac 机型，这背后有哪些原因？",
-          "url": "https://www.zhihu.com/question/1974221875245782073",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 14时34分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
           "url": "https://www.zhihu.com/question/1972673210345608850",
           "source": "知乎",
           "ranks": [
-            15,
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 22时22分]"
-        },
-        {
-          "title": "雷军增持小米260万股",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时22分]"
-        },
-        {
-          "title": "法巴天星保险获批开业：法国巴黎保险集团持股49%、小米旗下公司持股33%",
-          "url": "https://www.cls.cn/detail/2208647",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 18时26分]"
-        },
-        {
-          "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
-          "url": "https://www.cls.cn/detail/2208142",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时49分]"
-        },
-        {
-          "title": "狂蹭小米博流量,造谣者慌了!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 22时22分]"
-        },
-        {
-          "title": "樊振东任小米一日店长",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%BB%BB%E5%B0%8F%E7%B1%B3%E4%B8%80%E6%97%A5%E5%BA%97%E9%95%BF%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时35分]"
-        },
-        {
-          "title": "樊振东来深圳当小米一日店长了",
-          "url": "https://www.douyin.com/hot/2316307",
-          "source": "抖音",
-          "ranks": [
-            30,
-            24,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时34分 ~ 20时46分]"
-        },
-        {
-          "title": "狂蹭小米博流量,后续代价咋承担?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E5%90%8E%E7%BB%AD%E4%BB%A3%E4%BB%B7%E5%92%8B%E6%89%BF%E6%8B%85%3F",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "两辆华为鸿蒙智行车遥控泊车相撞",
-          "url": "https://www.toutiao.com/trending/7575749822515642431/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "三星电子股价上涨4.1%，至98,700韩元。",
-          "url": "https://flash.jin10.com/detail/20251124091237246800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上，如何评价？",
           "url": "https://www.zhihu.com/question/1975947279090340231",
           "source": "知乎",
           "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时45分 ~ 22时22分]"
-        },
-        {
-          "title": "印度尼西亚国家石油公司：燃油零售商VIVO已同意从Pertamina购买10万桶汽油。",
-          "url": "https://flash.jin10.com/detail/20251124110413151800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时35分]"
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "史上最薄iPhone初期销量远逊预期",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%96%84iPhone%E5%88%9D%E6%9C%9F%E9%94%80%E9%87%8F%E8%BF%9C%E9%80%8A%E9%A2%84%E6%9C%9F",
+          "title": "1亿增持和8亿回购还是托不住小米股价",
+          "url": "https://www.toutiao.com/trending/7576258091109322259/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
+        },
+        {
+          "title": "雷军增持小米260万股",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%A2%9E%E6%8C%81%E5%B0%8F%E7%B1%B3260%E4%B8%87%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            22,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 06时20分]"
-        },
-        {
-          "title": "小米汽车每辆赚6.65万",
-          "url": "https://www.toutiao.com/trending/7574824643694477339/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时24分 ~ 06时20分]"
-        },
-        {
-          "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上。如何评价？",
-          "url": "https://www.zhihu.com/question/1975947279090340231",
-          "source": "知乎",
-          "ranks": [
-            17
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "华为总部早高峰通勤路变“野生”车展",
-          "url": "https://www.toutiao.com/trending/7575380769527873590/",
-          "source": "今日头条",
+          "title": "狂蹭小米博流量,造谣者慌了!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
+          "source": "贴吧",
           "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "据美国财经媒体Semafor：CNN暂时退出苹果新闻推送。",
-          "url": "https://flash.jin10.com/detail/20251124105520838800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "小米集团：控股股东雷军斥资超1亿港元增持本公司股份",
-          "url": "https://wallstreetcn.com/livenews/3009560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "周末要闻汇总：美国政府据称正考虑允许英伟达对华出售H200芯片；16只硬科技主题基金同日获批",
-          "url": "https://www.cls.cn/detail/2208200",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 11时25分]"
-        },
-        {
-          "title": "大跌之下，766亿资金借ETF“越跌越买”，基金公司火线解读",
-          "url": "https://www.cls.cn/detail/2208153",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 09时49分]"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（11月21日）担保隔夜融资利率（SOFR）报3.93%，之前一天报3.91%。 上个交易日有效的联邦基金利率报3.88%，之前一天报3.88%。",
-          "url": "https://wallstreetcn.com/livenews/3009648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "据韩联社：韩国外汇当局与养老基金讨论市场稳定措施。",
-          "url": "https://flash.jin10.com/detail/20251124134349128800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "钟睒睒捐赠一亿元，成立诸暨中学钟子逸教育基金项目",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32027672",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时34分 ~ 22时22分]"
-        },
-        {
-          "title": "中国首富钟睒睒，捐赠1亿元教育基金",
-          "url": "https://www.cls.cn/detail/2208291",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 14时34分]"
-        },
-        {
-          "title": "成都成华智创产业振兴基金登记成立，出资额60亿",
-          "url": "https://wallstreetcn.com/livenews/3009376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "国际货币基金组织：波兰应集中精力遏制公共债务的快速增长。",
-          "url": "https://wallstreetcn.com/livenews/3009625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "市场消息：国际货币基金组织工作人员结束对立陶宛的访问。",
-          "url": "https://flash.jin10.com/detail/20251124200657974800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "韩国外汇当局与养老基金讨论稳定市场措施。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3009375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
-          "title": "赛微电子：国家集成电路基金9月23日至11月24日合计减持1.07%股份",
-          "url": "https://wallstreetcn.com/livenews/3009617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "菜鸟、中国人寿合作设立17亿元仓储物流投资基金",
-          "url": "https://wallstreetcn.com/livenews/3009285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "上海集成电路产业投资基金二期增资至240.6亿 增幅约66%",
-          "url": "https://wallstreetcn.com/livenews/3009282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "阿布扎比lunate基金正考虑向人工智能公司MGX投资10亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "00时25分"
         }
       ]
     },
@@ -1107,140 +301,104 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3009649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
-          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
+          "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
           "url": "https://wallstreetcn.com/articles/3759998",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "00时25分"
         },
         {
-          "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
-          "url": "https://wallstreetcn.com/livenews/3009588",
-          "source": "华尔街见闻-快讯",
+          "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2209422",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "00时25分"
         },
         {
-          "title": "美股盘前：中概股、科技股普涨",
-          "url": "https://wallstreetcn.com/livenews/3009505",
+          "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3009662",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时26分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨2.43%，网络股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF至多涨1.48%，能源业ETF则跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3009660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "macOS ios",
-      "match_count": 2,
+      "keyword_group": "基金",
+      "match_count": 3,
       "titles": [
         {
-          "title": "据AXIOS网站：一名美国高级官员表示，以色列并未事先通知美国空袭黎巴嫩一事。美国是在空袭发生后立即获知的。",
-          "url": "https://flash.jin10.com/detail/20251123213338040800",
+          "title": "加沙人道主义基金会：在加沙的紧急任务已“完成”。",
+          "url": "https://flash.jin10.com/detail/20251124235332038800",
           "source": "金十数据",
           "ranks": [
-            24
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "育碧股价涨幅扩大至9.3%，公司此前宣布腾讯完成对Vantage Studios的投资。",
-          "url": "https://flash.jin10.com/detail/20251124160952002800",
-          "source": "金十数据",
+          "title": "美以支持的“加沙人道主义基金会”将逐步结束在加沙运营",
+          "url": "https://wallstreetcn.com/livenews/3009689",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "达利欧：多经理对冲基金模式恐不会长久",
+          "url": "https://wallstreetcn.com/livenews/3009671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "Gemini3.0炸裂玩法合集",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            16,
-            23,
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 11时25分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
-          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "title": "谷歌母公司Alphabet盘中涨超6%。",
+          "url": "https://flash.jin10.com/detail/20251124231115068800",
           "source": "金十数据",
           "ranks": [
-            29
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待豆包输入法正式上线，体验如何？",
-          "url": "https://www.zhihu.com/question/1975206535887021294",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            5,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 09时49分]"
-        },
-        {
-          "title": "豆包输入法正式上线",
-          "url": "https://wallstreetcn.com/livenews/3009572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "00时25分"
         }
       ]
     },
@@ -1253,32 +411,11 @@
           "url": "https://wallstreetcn.com/articles/3759972",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
-            7,
-            8
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 22时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
-          "url": "https://flash.jin10.com/detail/20251124110330638800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     }
