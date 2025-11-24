@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T16:31:43.805035+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2025-11-24T18:26:06.803452+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 18时26分]"
         },
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -43,6 +44,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时49分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普28条能让俄乌停战吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE28%E6%9D%A1%E8%83%BD%E8%AE%A9%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -285,12 +308,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
+          "url": "https://wallstreetcn.com/livenews/3009492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "英伟达财报背后的未来AI密码",
@@ -331,11 +365,12 @@
             11,
             14,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 18时26分]"
         },
         {
           "title": "我怀疑：AI，真的是未来十年市场上涨的主要推动力吗？",
@@ -362,28 +397,30 @@
           "time_info": "[09时49分 ~ 14时34分]"
         },
         {
-          "title": "需要AI给答案",
-          "url": "https://wallstreetcn.com/articles/3759957",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 14时34分]"
-        },
-        {
           "title": "英伟达救不了AI股，市场想看到什么？",
           "url": "https://wallstreetcn.com/articles/3759961",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 18时26分]"
+        },
+        {
+          "title": "需要AI给答案",
+          "url": "https://wallstreetcn.com/articles/3759957",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 18时26分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -391,11 +428,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 18时26分]"
+        },
+        {
+          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
+          "url": "https://www.cls.cn/detail/2208653",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时34分 ~ 16时31分]"
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -408,6 +458,43 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 06时20分]"
+        },
+        {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 18时26分]"
+        },
+        {
+          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
+          "url": "https://wallstreetcn.com/articles/3759964",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时26分]"
+        },
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -427,7 +514,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -443,28 +530,6 @@
           "time_info": "14时34分"
         },
         {
-          "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
-          "url": "https://wallstreetcn.com/articles/3759964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
           "url": "https://wallstreetcn.com/livenews/3009381",
           "source": "华尔街见闻-快讯",
@@ -476,17 +541,15 @@
           "time_info": "14时34分"
         },
         {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
+          "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
+          "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10,
-            11
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 16时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
@@ -495,7 +558,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -506,7 +569,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -531,12 +594,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "两美刀逼疯AI!怒要报官告公司",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347461&amp;topic_name=%E4%B8%A4%E7%BE%8E%E5%88%80%E9%80%BC%E7%96%AFAI%21%E6%80%92%E8%A6%81%E6%8A%A5%E5%AE%98%E5%91%8A%E5%85%AC%E5%8F%B8",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "小米回应 “汽车工厂电池产线起火” ：并非电池本身有设计缺陷、材料问题或制造瑕疵",
@@ -590,6 +664,19 @@
           "time_info": "[09时48分 ~ 14时34分]"
         },
         {
+          "title": "法巴天星保险获批开业：法国巴黎保险集团持股49%、小米旗下公司持股33%",
+          "url": "https://www.cls.cn/detail/2208647",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 18时26分]"
+        },
+        {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
           "url": "https://www.cls.cn/detail/2208142",
           "source": "财联社热门",
@@ -614,27 +701,27 @@
           "time_info": "[11时25分 ~ 12时35分]"
         },
         {
-          "title": "法巴天星保险获批开业：法国巴黎保险集团持股49%、小米旗下公司持股33%",
-          "url": "https://www.cls.cn/detail/2208647",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 16时31分]"
-        },
-        {
           "title": "狂蹭小米博流量,后续代价咋承担?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E5%90%8E%E7%BB%AD%E4%BB%A3%E4%BB%B7%E5%92%8B%E6%89%BF%E6%8B%85%3F",
           "source": "贴吧",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
+          "url": "https://www.zhihu.com/question/1972673210345608850",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 18时26分]"
         },
         {
           "title": "两辆华为鸿蒙智行车遥控泊车相撞",
@@ -659,6 +746,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "狂蹭小米博流量,造谣者慌了!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "印度尼西亚国家石油公司：燃油零售商VIVO已同意从Pertamina购买10万桶汽油。",
@@ -686,16 +784,17 @@
           "time_info": "[02时28分 ~ 06时20分]"
         },
         {
-          "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
-          "url": "https://www.zhihu.com/question/1972673210345608850",
-          "source": "知乎",
+          "title": "樊振东来深圳当小米一日店长了",
+          "url": "https://www.douyin.com/hot/2316307",
+          "source": "抖音",
           "ranks": [
-            15,
-            16
+            30,
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 18时26分]"
         },
         {
           "title": "小米汽车每辆赚6.65万",
@@ -711,16 +810,15 @@
           "time_info": "[00时24分 ~ 06时20分]"
         },
         {
-          "title": "樊振东来深圳当小米一日店长了",
-          "url": "https://www.douyin.com/hot/2316307",
-          "source": "抖音",
+          "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上。如何评价？",
+          "url": "https://www.zhihu.com/question/1975947279090340231",
+          "source": "知乎",
           "ranks": [
-            30,
-            24
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时34分 ~ 16时31分]"
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "据美国财经媒体Semafor：CNN暂时退出苹果新闻推送。",
@@ -850,7 +948,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -878,7 +976,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -914,11 +1012,12 @@
           "url": "https://wallstreetcn.com/articles/3759972",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时26分]"
         }
       ]
     },
@@ -958,6 +1057,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     }
