@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T11:16:52.083773+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2025-11-25T12:28:30.066617+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -52,20 +52,6 @@
           "time_info": "[00时24分 ~ 09时43分]"
         },
         {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 11时16分]"
-        },
-        {
           "title": "习近平同美国总统特朗普通电话",
           "url": "https://wallstreetcn.com/articles/3760029",
           "source": "华尔街见闻",
@@ -74,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 11时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 12时28分]"
         },
         {
           "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
@@ -87,8 +73,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 11时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 12时28分]"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            20,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 12时28分]"
         },
         {
           "title": "“跌疯了”的币圈“阴谋论满天飞”：美国政府“抢钱”，华尔街“做空”，甚至是“摩根大通大战特朗普”",
@@ -100,8 +101,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 11时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 12时28分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -122,8 +123,57 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.toutiao.com/trending/7575503024580431379/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普要求与高市早苗通话",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时16分]"
+          "time_info": "[11时16分 ~ 12时28分]"
+        },
+        {
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 12时28分]"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -132,30 +182,6 @@
           "ranks": [
             4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.toutiao.com/trending/7575503024580431379/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B44%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -185,6 +211,18 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普要求跟高市早苗通话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E8%B7%9F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时28分]"
+        },
+        {
           "title": "特朗普暗示乌克兰危机将有重大进展：或许要有好事发生",
           "url": "https://news.ifeng.com/c/8oYqBjfSzd0",
           "source": "凤凰网",
@@ -195,17 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普：将于明年4月访华",
-          "url": "https://www.douyin.com/hot/2316962",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署行政命令，以推动人工智能加速创新，并指示构建人工智能平台，以利用联邦科学数据集。",
@@ -225,42 +252,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普要求与高市早苗通话",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
         {
-          "title": "特朗普要求跟高市早苗通话",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E8%B7%9F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "高市早苗与特朗普通话",
+          "url": "https://www.toutiao.com/trending/7576254631207043118/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗回应",
+          "url": "https://news.ifeng.com/c/8oZ8o93y559",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时16分"
+          "time_info": "12时28分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了与人工智能研究相关的行政命令。",
@@ -274,6 +290,28 @@
           "time_info": "06时21分"
         },
         {
+          "title": "高市早苗回应与特朗普通话",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "与特朗普通话谈及涉台言论？高市回应",
+          "url": "https://www.toutiao.com/trending/7576495986903089178/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "美乌和谈现突破后压力传至莫斯科 俄方拒接方案或再遭特朗普指责",
           "url": "https://flash.jin10.com/detail/20251125055012060800",
           "source": "金十数据",
@@ -283,6 +321,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普：将于明年4月访华",
+          "url": "https://www.douyin.com/hot/2316962",
+          "source": "抖音",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 12时28分]"
+        },
+        {
+          "title": "日媒：特朗普要求与高市早苗通话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时28分]"
         },
         {
           "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
@@ -332,17 +394,6 @@
           "time_info": "[09时43分 ~ 11时16分]"
         },
         {
-          "title": "日媒：特朗普要求与高市早苗通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
           "title": "美国联邦法官驳回了针对特朗普政治对手的起诉",
           "url": "https://flash.jin10.com/detail/20251125015856912800",
           "source": "金十数据",
@@ -363,6 +414,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普与高市早苗通话",
+          "url": "https://www.douyin.com/hot/2317172",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗：细节不便透露",
+          "url": "https://wallstreetcn.com/livenews/3009949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "美国总统特朗普将于北京时间今天凌晨五点左右在椭圆形办公室签署一项行政命令。",
@@ -456,7 +529,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -477,11 +550,12 @@
           "ranks": [
             8,
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 11时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 12时28分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -510,6 +584,41 @@
           "time_info": "[00时24分 ~ 09时43分]"
         },
         {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 12时28分]"
+        },
+        {
+          "title": "英伟达携手诺基亚打造为AI服务的全球网络",
+          "url": "https://wallstreetcn.com/livenews/3009972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
+          "url": "https://www.cls.cn/detail/2209653",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 12时28分]"
+        },
+        {
           "title": "OpenAI推出ChatGPT购物调研工具 为假期购物做准备",
           "url": "https://flash.jin10.com/detail/20251125020806120800",
           "source": "金十数据",
@@ -530,17 +639,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
-        },
-        {
-          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
-          "url": "https://www.cls.cn/detail/2209531",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时16分]"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -590,6 +688,17 @@
           "time_info": "[00时25分 ~ 02时33分]"
         },
         {
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "OpenAI：在ChatGPT提供购物搜索功能。",
           "url": "https://wallstreetcn.com/livenews/3009721",
           "source": "华尔街见闻-快讯",
@@ -602,18 +711,6 @@
           "time_info": "[02时33分 ~ 04时26分]"
         },
         {
-          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
-          "url": "https://www.cls.cn/detail/2209653",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时16分]"
-        },
-        {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
           "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
@@ -623,6 +720,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
+          "url": "https://www.zhihu.com/question/1976013755256153204",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时28分]"
         },
         {
           "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
@@ -653,18 +762,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
-          "url": "https://www.zhihu.com/question/1976013755256153204",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -675,7 +773,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -752,7 +850,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -804,7 +902,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "华为Mate80ProMax配置曝光",
@@ -816,6 +914,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "狂蹭小米博流量,造谣者慌了!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 12时28分]"
         },
         {
           "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
@@ -847,22 +959,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "狂蹭小米博流量,造谣者慌了!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347428&amp;topic_name=%E7%8B%82%E8%B9%AD%E5%B0%8F%E7%B1%B3%E5%8D%9A%E6%B5%81%E9%87%8F%2C%E9%80%A0%E8%B0%A3%E8%80%85%E6%85%8C%E4%BA%86%21",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 11时16分]"
         },
         {
           "title": "如何看待华为将非线性理论引入产品设计，如鸿蒙使用的「统筹法」和「系统论」等优化与控制理论？",
@@ -912,6 +1011,18 @@
           "time_info": "[09时43分 ~ 11时16分]"
         },
         {
+          "title": "雷军斥资1亿港元增持小米",
+          "url": "https://www.douyin.com/hot/2316726",
+          "source": "抖音",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时28分]"
+        },
+        {
           "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上，如何评价？",
           "url": "https://www.zhihu.com/question/1975947279090340231",
           "source": "知乎",
@@ -956,6 +1067,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "苹果夹烤肉",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%B9%E7%83%A4%E8%82%89&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
           "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
           "url": "https://flash.jin10.com/detail/20251125034040133800",
           "source": "金十数据",
@@ -978,26 +1100,26 @@
           "time_info": "09时43分"
         },
         {
-          "title": "雷军斥资1亿港元增持小米",
-          "url": "https://www.douyin.com/hot/2316726",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
           "title": "三星拟改造部分NAND产线，满足AI服务器对DRAM的需求",
           "url": "https://flash.jin10.com/detail/20251125101236476800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，沪银涨超3%，多晶硅涨超2%，玻璃涨近2%，沪金、焦炭、碳酸锂、苹果、铁矿涨超1%。跌幅方面，集运欧线跌超3%，低硫燃料油（LU）跌超1%，棕榈油跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251125113057620800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     },
@@ -1027,8 +1149,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 11时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 12时28分]"
         },
         {
           "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
@@ -1166,8 +1288,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时43分 ~ 12时28分]"
         },
         {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
@@ -1453,6 +1575,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多家黄金珠宝品牌足金饰品价格升至1315元/克左右",
+          "url": "https://wallstreetcn.com/livenews/3009962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         }
       ]
     }
