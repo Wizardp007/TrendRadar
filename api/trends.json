@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T18:27:20.869085+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-11-25T20:45:47.222273+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 20时45分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -92,6 +92,17 @@
           "time_info": "[00时24分 ~ 09时43分]"
         },
         {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32033959",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时43分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普要求与高市早苗通话",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -123,15 +134,19 @@
           "time_info": "[00时24分 ~ 14时35分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32033959",
+          "title": "日媒：特朗普要求与高市早苗通话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            6,
+            5,
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时43分 ~ 18时27分]"
+          "time_info": "[11时16分 ~ 20时45分]"
         },
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -158,21 +173,6 @@
           "time_info": "[09时43分 ~ 16时31分]"
         },
         {
-          "title": "日媒：特朗普要求与高市早苗通话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 18时27分]"
-        },
-        {
           "title": "特朗普与高市早苗通话",
           "url": "https://www.douyin.com/hot/2317172",
           "source": "抖音",
@@ -180,11 +180,12 @@
             15,
             9,
             4,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 20时45分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -292,7 +293,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -349,7 +350,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -387,13 +388,25 @@
           "time_info": "12时28分"
         },
         {
+          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 20时45分]"
+        },
+        {
           "title": "打还是不打？美媒曝特朗普打算和马杜罗直接谈",
           "url": "https://news.ifeng.com/c/8oZVH3UgMjK",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -441,18 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 12时28分]"
-        },
-        {
-          "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32037869",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 18时27分]"
         },
         {
           "title": "特朗普政府将裁减约31.7万名雇员，超过原来的预估",
@@ -552,7 +553,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -563,7 +564,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -599,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "特朗普主动和高市通话所为何事",
+          "url": "https://www.toutiao.com/trending/7576615764908576275/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -678,6 +690,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "台评论员称高市可能被特朗普骂了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "美国白宫发言人：特朗普对打击“贩毒恐怖分子”的行动感到满意。",
           "url": "https://flash.jin10.com/detail/20251125043457425800",
           "source": "金十数据",
@@ -692,7 +715,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 46,
+      "match_count": 57,
       "titles": [
         {
           "title": "华为Mate80ProMax配置曝光",
@@ -716,11 +739,24 @@
             20,
             22,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 20时45分]"
+        },
+        {
+          "title": "小米双11耍赖皮,特价秒杀玩不起",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347482&amp;topic_name=%E5%B0%8F%E7%B1%B3%E5%8F%8C11%E8%80%8D%E8%B5%96%E7%9A%AE%2C%E7%89%B9%E4%BB%B7%E7%A7%92%E6%9D%80%E7%8E%A9%E4%B8%8D%E8%B5%B7",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 20时45分]"
         },
         {
           "title": "苹果 iPhone17 系列中国市场激活量破千万，透露出哪些市场信号？",
@@ -746,26 +782,28 @@
           "time_info": "[00时24分 ~ 06时21分]"
         },
         {
-          "title": "小米双11耍赖皮,特价秒杀玩不起",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347482&amp;topic_name=%E5%B0%8F%E7%B1%B3%E5%8F%8C11%E8%80%8D%E8%B5%96%E7%9A%AE%2C%E7%89%B9%E4%BB%B7%E7%A7%92%E6%9D%80%E7%8E%A9%E4%B8%8D%E8%B5%B7",
+          "title": "炸翻全网!华为定档5K卷疯友商",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347489&amp;topic_name=%E7%82%B8%E7%BF%BB%E5%85%A8%E7%BD%91%21%E5%8D%8E%E4%B8%BA%E5%AE%9A%E6%A1%A35K%E5%8D%B7%E7%96%AF%E5%8F%8B%E5%95%86",
           "source": "贴吧",
           "ranks": [
-            5
+            3,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 18时27分]"
+          "time_info": "[18时27分 ~ 20时45分]"
         },
         {
-          "title": "华为Mate 80新品开箱",
-          "url": "https://www.douyin.com/hot/2317521",
-          "source": "抖音",
+          "title": "华为Mate 80系列售价公布",
+          "url": "https://www.toutiao.com/trending/7576566051006057993/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 20时45分]"
         },
         {
           "title": "高管晋升人数创新高，三星强化未来产业布局",
@@ -777,6 +815,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "华为表王到底有多少黑科技",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%A1%A8%E7%8E%8B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "华为Mate 80业界首发无网应急通信",
+          "url": "https://www.toutiao.com/trending/7575901213376528403/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "恒生指数收盘涨0.69%，恒生科技指数涨1.2%。万国数据涨约6%，哔哩哔哩涨约5%，小米集团涨约4%。",
@@ -801,24 +861,13 @@
           "time_info": "[16时30分 ~ 16时31分]"
         },
         {
-          "title": "炸翻全网!华为定档5K卷疯友商",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347489&amp;topic_name=%E7%82%B8%E7%BF%BB%E5%85%A8%E7%BD%91%21%E5%8D%8E%E4%B8%BA%E5%AE%9A%E6%A1%A35K%E5%8D%B7%E7%96%AF%E5%8F%8B%E5%95%86",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "华为非凡大师手表售价24999元",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E6%89%8B%E8%A1%A8%E5%94%AE%E4%BB%B724999%E5%85%83%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -834,29 +883,6 @@
           "time_info": "[16时30分 ~ 16时31分]"
         },
         {
-          "title": "华为Mate 80系列售价公布",
-          "url": "https://www.toutiao.com/trending/7576566051006057993/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时27分]"
-        },
-        {
-          "title": "如何评价 11 月 25 日发布的华为 Mate 80 系列，不同版本如何选择？",
-          "url": "https://www.zhihu.com/question/1976673401511884162",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "波兰反垄断监管机构就隐私政策调查苹果。（路透）",
           "url": "https://wallstreetcn.com/livenews/3010085",
           "source": "华尔街见闻-快讯",
@@ -866,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "华为发布两款鸿蒙6电脑，可直接生成商业计划书",
+          "url": "https://wallstreetcn.com/livenews/3010217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "华为Mate80系列新品发布会",
@@ -892,6 +929,17 @@
           "time_info": "[02时33分 ~ 04时26分]"
         },
         {
+          "title": "华为发布会直击：Mate 80系列4699元起、首搭载鸿蒙6系统，折叠屏Mate X7系列价格12999元起",
+          "url": "https://wallstreetcn.com/articles/3760080",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "报道：苹果公司罕见地裁减，涉及销售部门",
           "url": "https://wallstreetcn.com/livenews/3009747",
           "source": "华尔街见闻-快讯",
@@ -901,6 +949,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "华为Mate 80新品开箱",
+          "url": "https://www.douyin.com/hot/2317521",
+          "source": "抖音",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 20时45分]"
+        },
+        {
+          "title": "如何评价华为 11 月 25 日发布的 Mate X7 ? 有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/1976606649457349057",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "恒生科技指数涨2%。百度、哔哩哔哩、小米涨超4%。",
@@ -913,6 +984,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 11时16分]"
+        },
+        {
+          "title": "如何评价 11 月 25 日发布的华为 Mate 80 系列，不同版本如何选择？",
+          "url": "https://www.zhihu.com/question/1976673401511884162",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 20时45分]"
         },
         {
           "title": "雷军斥资1亿港元增持小米",
@@ -974,6 +1057,30 @@
           "time_info": "[16时30分 ~ 16时31分]"
         },
         {
+          "title": "华为Mate80系列价格公布 4699元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAMate80%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83+4699%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 20时45分]"
+        },
+        {
+          "title": "华为Mate 80首发第二代红枫影像",
+          "url": "https://www.toutiao.com/trending/7576090267855011846/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 20时45分]"
+        },
+        {
           "title": "华为新一代 SSD 通过盘控空间算法，减少存储预留空间，将用户可得容量提高 10% 以上，如何评价？",
           "url": "https://www.zhihu.com/question/1975947279090340231",
           "source": "知乎",
@@ -1029,6 +1136,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "上纬新材：选举彭志辉为董事长 聘任田华为首席执行官",
+          "url": "https://wallstreetcn.com/livenews/3010200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "苹果夹烤肉",
           "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%B9%E7%83%A4%E8%82%89&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -1038,6 +1156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "如何评价华为 Mate 80 系列首发搭载 A2A 系统级 AI 能力，对行业来说有何意义？",
+          "url": "https://www.zhihu.com/question/1976610994328445009",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "市场消息：苹果公司罕见裁员，削减销售部门多个职位。苹果公司在声明中确认，将对销售策略部门进行“一些调整”。苹果公司最近几周通知了数十名销售人员裁员事宜。",
@@ -1068,7 +1197,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1082,6 +1211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "华为Mate 80系列怎么选",
+          "url": "https://www.douyin.com/hot/2317619",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "华为Mate 80/Pro正式发布 4699元起",
@@ -1101,18 +1241,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "华为Mate 80首发第二代红枫影像",
-          "url": "https://www.toutiao.com/trending/7576090267855011846/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1123,7 +1252,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1134,9 +1263,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "华为Mate 80系列新品发布会",
+          "url": "https://www.douyin.com/hot/2317178",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "小米集团再斥资1亿港元回购250万股 小米今日股价重回40港元以上",
+          "url": "https://wallstreetcn.com/livenews/3010187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "波兰反垄断机构UOKiK周二表示，正调查苹果(AAPL.O)是否通过其隐私政策限制移动广告市场的竞争。若指控成立，苹果在波兰可能面临最高相当于其年度营业额10%的罚款。",
@@ -1161,6 +1312,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "华为非凡大师手表售价24999元",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E6%89%8B%E8%A1%A8%E5%94%AE%E4%BB%B724999%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "华为：搭载鸿蒙5和鸿蒙6的终端设备数量已突破2700万台",
           "url": "https://wallstreetcn.com/livenews/3010051",
           "source": "华尔街见闻-快讯",
@@ -1183,24 +1345,13 @@
           "time_info": "12时28分"
         },
         {
-          "title": "华为Mate80系列价格公布 4699元起售",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAMate80%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83+4699%E5%85%83%E8%B5%B7%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "华为FreeBudsPro5母带级无损音质",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAFreeBudsPro5%E6%AF%8D%E5%B8%A6%E7%BA%A7%E6%97%A0%E6%8D%9F%E9%9F%B3%E8%B4%A8%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1211,7 +1362,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -1219,7 +1370,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "两美刀逼疯AI!怒要报官告公司",
@@ -1232,11 +1383,26 @@
             17,
             19,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 20时45分]"
+        },
+        {
+          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
+          "url": "https://www.zhihu.com/question/1976013755256153204",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 20时45分]"
         },
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -1254,18 +1420,17 @@
           "time_info": "[09时43分 ~ 18时27分]"
         },
         {
-          "title": "35 岁大厂程序员，花了 3 周写的核心算法，AI 用 10 分钟复现了更优版本，我 10 年的经验到底值多少钱？",
-          "url": "https://www.zhihu.com/question/1976013755256153204",
-          "source": "知乎",
+          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
+          "url": "https://wallstreetcn.com/articles/3760049",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11,
-            4,
-            2
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 20时45分]"
         },
         {
           "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
@@ -1280,6 +1445,19 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 20时45分]"
+        },
+        {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
           "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
@@ -1289,19 +1467,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "准时上演！“大空头”大战英伟达，“AI泡沫”论战开启",
-          "url": "https://wallstreetcn.com/articles/3760049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 18时27分]"
         },
         {
           "title": "网店用AI生成模特试穿视频画面诡异",
@@ -1319,17 +1484,17 @@
           "time_info": "[00时24分 ~ 09时43分]"
         },
         {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            4
+            9,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时35分 ~ 18时27分]"
+          "time_info": "[16时31分 ~ 20时45分]"
         },
         {
           "title": "Meta Platforms(META.O)：OAKLEY Meta HSTN AI眼镜将于12月1日起在印度上市。",
@@ -1343,6 +1508,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "马斯克将用AI挑战顶尖LOL战队",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E7%94%A8AI%E6%8C%91%E6%88%98%E9%A1%B6%E5%B0%96LOL%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "OpenAI推出ChatGPT购物调研工具 为假期购物做准备",
           "url": "https://flash.jin10.com/detail/20251125020806120800",
           "source": "金十数据",
@@ -1352,6 +1528,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 20时45分]"
         },
         {
           "title": "市场消息：贝恩资本（Bain Capital）拟通过一致性行动大宗交易筹集11.4亿美元。",
@@ -1377,16 +1565,15 @@
           "time_info": "[09时43分 ~ 14时35分]"
         },
         {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
+          "title": "马斯克下战书!AI对决LOL冠军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347511&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8B%E6%88%98%E4%B9%A6%21AI%E5%AF%B9%E5%86%B3LOL%E5%86%A0%E5%86%9B",
+          "source": "贴吧",
           "ranks": [
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 18时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "你认为工作中 AI 编程的缺点和局限性在哪里，你又是如何解决这些缺点的？",
@@ -1448,6 +1635,18 @@
           "time_info": "[12时28分 ~ 14时35分]"
         },
         {
+          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
+          "url": "https://www.cls.cn/detail/2210415",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 20时45分]"
+        },
+        {
           "title": "OpenAI：在ChatGPT提供购物搜索功能。",
           "url": "https://wallstreetcn.com/livenews/3009721",
           "source": "华尔街见闻-快讯",
@@ -1460,17 +1659,6 @@
           "time_info": "[02时33分 ~ 04时26分]"
         },
         {
-          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
-          "url": "https://www.cls.cn/detail/2210305",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "【每日收评】三大指数缩量震荡小幅上涨，全市场逾百股涨超9%，AI应用、军工方向领涨",
           "url": "https://www.cls.cn/detail/2209008",
           "source": "财联社热门",
@@ -1480,6 +1668,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
+          "url": "https://www.cls.cn/detail/2210324",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 20时45分]"
         },
         {
           "title": "【数据看盘】银行ETF上周份额大减 多只AI应用概念股龙虎榜现机构与游资博弈",
@@ -1504,17 +1704,6 @@
           "time_info": "09时43分"
         },
         {
-          "title": "【每日收评】三大指数放量反弹！全市场连续两日逾百股涨超9%，AI概念股再度活跃",
-          "url": "https://www.cls.cn/detail/2210324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
           "title": "创业板指涨3%，深成指涨超2%，沪指涨超1%。算力硬件、AI应用、贵金属、量子科技等方向领涨。",
           "url": "https://wallstreetcn.com/livenews/3009909",
           "source": "华尔街见闻-快讯",
@@ -1524,17 +1713,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "AI需求引爆！一周涨30%，存储产业链涨价扩展到SSD",
-          "url": "https://www.cls.cn/detail/2210415",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "沪指涨幅扩大至1%，深成指涨2.11%，创业板指涨2.92%，AI应用、教育、游戏、算力硬件、贵金属等方向涨幅居前，沪深京三市上涨个股近4800只。",
@@ -1625,6 +1803,17 @@
           "time_info": "11时16分"
         },
         {
+          "title": "阿里巴巴集团首席财务官徐宏：过去4个季度，我们在AI+云基础设施的资本开支约1200亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3010183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
           "url": "https://wallstreetcn.com/livenews/3009695",
           "source": "华尔街见闻-快讯",
@@ -1672,7 +1861,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
@@ -1707,9 +1896,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
+        },
+        {
+          "title": "柯尔百货美股盘前涨幅扩大至逾24%，公司上调全财年指引。",
+          "url": "https://wallstreetcn.com/livenews/3010218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "百思买三季度营收96.7亿美元，预估95.8亿美元。 三季度经调整后每股收益1.4美元，预估1.3美元。 百思买预计全财年营收416.5亿美元-419.5亿美元，此前预计411亿美元-419亿美元。 百思买预计全财年经调整后每股收益6.25美元-6.35美元，此前预计6.15-6.3美元。 百思买美股盘前一度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3010213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "（美股）费城金银指数收涨5.51%，报299.78点。 纽约证交所ARCA金矿开采商指数收涨4.86%，报2163.29点，北京时间22:30美股开盘之前维持微幅上涨状态、持续交投于2070点附近，随后迅速扩大涨幅，并持续走高。",
@@ -1721,6 +1932,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "诺和诺德美股盘前涨近2%，报告显示公司Amycretin减肥效果显著",
+          "url": "https://wallstreetcn.com/livenews/3010203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "周一（11月24日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨5.13%，报88940美元，日内交投于85200-89240美元区间。 CME以太币期货DCR主力合约涨7.24%，报2969.50美元，日内交投于2764.50-2987.50美元区间。 美股加密货币与加密货币关联指数涨11.00%，报64.60点，跳空高开之后持续走高。 最近24小时，MarketVector数字资产100小盘指数涨2%，暂报18562.84点，北京时间22:50刷新日低至17700.27点，之后持续走高。",
@@ -1740,7 +1962,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1784,7 +2006,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1833,6 +2055,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "阿里巴巴美股盘前涨近5%，公司第二财季营收超预估，且公司第二财季云智能集团收入398.2亿元人民币，也超出预估的379.9亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3010180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
           "url": "https://wallstreetcn.com/livenews/3009662",
           "source": "华尔街见闻-快讯",
@@ -1858,7 +2091,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -1872,6 +2105,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时43分 ~ 16时31分]"
+        },
+        {
+          "title": "谷歌据悉与Meta就芯片问题进行谈判，推动Alphabet股价盘前上涨",
+          "url": "https://flash.jin10.com/detail/20251125200702384800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
+          "url": "https://www.cls.cn/detail/2210371",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
@@ -1929,6 +2184,17 @@
           "time_info": "09时43分"
         },
         {
+          "title": "英伟达美股盘前跌超4%，谷歌A盘前涨超4%，报道称Meta Platforms与谷歌公司洽谈，希望在自家数据中心利用后者的TPUs。 双方讨论的目标是，2027年落实。",
+          "url": "https://wallstreetcn.com/livenews/3010179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "详解Gemini3测试单",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3Gemini3%E6%B5%8B%E8%AF%95%E5%8D%95",
           "source": "bilibili 热搜",
@@ -1938,6 +2204,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "谷歌A市值逼近4万亿美元 人工智能业务势头强劲",
+          "url": "https://wallstreetcn.com/livenews/3010164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一文盘点“聪明钱”动向：美国对冲基金现在都在做空哪些股票？",
+          "url": "https://www.cls.cn/detail/2210022",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 20时45分]"
+        },
+        {
+          "title": "国家航天局：设立国家商业航天发展基金 鼓励地方政府、金融机构、社会资本联合成立投资平台",
+          "url": "https://wallstreetcn.com/livenews/3010226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "加沙人道主义基金会：在加沙的紧急任务已“完成”。",
+          "url": "https://flash.jin10.com/detail/20251124235332038800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美以支持的“加沙人道主义基金会”将逐步结束在加沙运营",
+          "url": "https://wallstreetcn.com/livenews/3009689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时33分]"
+        },
+        {
+          "title": "达利欧：多经理对冲基金模式恐不会长久",
+          "url": "https://wallstreetcn.com/livenews/3009671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
@@ -1992,58 +2333,6 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "一文盘点“聪明钱”动向：美国对冲基金现在都在做空哪些股票？",
-          "url": "https://www.cls.cn/detail/2210022",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 18时27分]"
-        },
-        {
-          "title": "加沙人道主义基金会：在加沙的紧急任务已“完成”。",
-          "url": "https://flash.jin10.com/detail/20251124235332038800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "美以支持的“加沙人道主义基金会”将逐步结束在加沙运营",
-          "url": "https://wallstreetcn.com/livenews/3009689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时33分]"
-        },
-        {
-          "title": "达利欧：多经理对冲基金模式恐不会长久",
-          "url": "https://wallstreetcn.com/livenews/3009671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "grok 马斯克",
       "match_count": 3,
       "titles": [
@@ -2083,6 +2372,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机构：金价继续在地缘政治不确定性中寻找潜在支撑",
+          "url": "https://flash.jin10.com/detail/20251125201444947800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "美国银行：黄金价格2026年或将达到5000美元",
+          "url": "https://flash.jin10.com/detail/20251125031326768800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "今日各大金店黄金价格",
+          "url": "https://www.toutiao.com/trending/7576557054421110281/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "macOS ios",
       "match_count": 2,
       "titles": [
@@ -2107,34 +2435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国银行：黄金价格2026年或将达到5000美元",
-          "url": "https://flash.jin10.com/detail/20251125031326768800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "今日各大金店黄金价格",
-          "url": "https://www.toutiao.com/trending/7576557054421110281/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         }
       ]
     },
