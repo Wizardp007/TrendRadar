@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T18:25:40.635140+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2025-11-27T20:45:31.848778+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -29,11 +29,12 @@
             8,
             2,
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时41分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时41分 ~ 20时45分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -48,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 20时45分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -89,6 +90,19 @@
           "time_info": "[09时41分 ~ 14时35分]"
         },
         {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 20时45分]"
+        },
+        {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1976945155765465978",
           "source": "知乎",
@@ -113,19 +127,6 @@
           "time_info": "[09时41分 ~ 14时35分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 18时25分]"
-        },
-        {
           "title": "高市早苗与特朗普通话内容曝光",
           "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
           "source": "凤凰网",
@@ -135,6 +136,22 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 14时35分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时13分 ~ 20时45分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -206,21 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时13分 ~ 18时25分]"
         },
         {
           "title": "特朗普为何称明年G20峰会不邀请南非",
@@ -385,6 +387,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "特朗普称对国民警卫队成员的袭击是“恐怖行为”",
           "url": "https://wallstreetcn.com/livenews/3011273",
           "source": "华尔街见闻-快讯",
@@ -454,7 +467,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "理想汽车第三季度净亏损 6.24 亿元，总交付量同比减少 39.0%，问题出在哪里？出海和 AI 能解吗？",
@@ -575,6 +588,31 @@
           "time_info": "[00时28分 ~ 04时24分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 20时45分]"
+        },
+        {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时45分]"
+        },
+        {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
           "url": "https://wallstreetcn.com/articles/3760141",
           "source": "华尔街见闻",
@@ -600,19 +638,6 @@
           "time_info": "[00时28分 ~ 04时24分]"
         },
         {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 18时25分]"
-        },
-        {
           "title": "GAI进化论6万人重庆场记录",
           "url": "https://search.bilibili.com/all?keyword=GAI%E8%BF%9B%E5%8C%96%E8%AE%BA6%E4%B8%87%E4%BA%BA%E9%87%8D%E5%BA%86%E5%9C%BA%E8%AE%B0%E5%BD%95",
           "source": "bilibili 热搜",
@@ -627,15 +652,27 @@
           "time_info": "[00时28分 ~ 06时21分]"
         },
         {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
+          "title": "报道：中国开源AI模型下载量占比首超美国",
+          "url": "https://wallstreetcn.com/livenews/3011546",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "20时45分"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时45分]"
         },
         {
           "title": "摩根大通私人银行：基本假设是，标普500指数2026年将上涨至7400点，那将意味着有望较当前水平涨约9%。 如果经济重新加速增长、企业财报强劲、AI稳步发展等尾部风险足够强劲，可看涨至8200点，意味着有望上涨20%。 看好科技股和公用事业板块。",
@@ -673,26 +710,15 @@
           "time_info": "14时35分"
         },
         {
-          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
-          "url": "https://wallstreetcn.com/articles/3760202",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
-          "url": "https://www.cls.cn/detail/2212827",
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
           "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "20时45分"
         },
         {
           "title": "多家手机厂商取消Air机型",
@@ -707,6 +733,18 @@
           "time_info": "[14时34分 ~ 16时31分]"
         },
         {
+          "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
+          "url": "https://www.cls.cn/detail/2212827",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时45分]"
+        },
+        {
           "title": "有没有值得推荐的大模型方面的书籍？",
           "url": "https://www.zhihu.com/question/13137834509",
           "source": "知乎",
@@ -716,6 +754,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "“珠峰安装电梯”图文视频系AI生成",
+          "url": "https://www.toutiao.com/trending/7577362730961767974/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "AI硬件为何大涨",
@@ -735,7 +784,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -746,7 +795,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -757,7 +806,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -790,7 +839,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1001,8 +1050,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 18时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 20时45分]"
         },
         {
           "title": "挑战苹果夹万物",
@@ -1086,7 +1135,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1151,7 +1200,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "别想再“偷”基民的收益！基金销售结算新规落地，堵住货基套利漏洞",
@@ -1177,13 +1226,24 @@
           "time_info": "04时24分"
         },
         {
+          "title": "赛微电子：国家集成电路基金持股比例降至5%以下",
+          "url": "https://wallstreetcn.com/livenews/3011537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
           "title": "货币基金“薅羊毛”套路被堵，监管新规斩断“灰色增强”财路",
           "url": "https://wallstreetcn.com/livenews/3011473",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -1256,8 +1316,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 20时45分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -1289,7 +1349,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -1318,7 +1378,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
