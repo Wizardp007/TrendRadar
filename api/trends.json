@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-28T04:21:48.804004+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-28T06:21:28.648769+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "解读马斯克用AI宣战LOL顶尖战队",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
-        },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
           "url": "https://www.cls.cn/detail/2213001",
@@ -28,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
@@ -41,19 +29,45 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "AI还原香港大埔火灾",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
+          "url": "https://wallstreetcn.com/articles/3760242",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "解读马斯克用AI宣战LOL顶尖战队",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E7%94%A8AI%E5%AE%A3%E6%88%98LOL%E9%A1%B6%E5%B0%96%E6%88%98%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -67,15 +81,17 @@
           "time_info": "[00时27分 ~ 04时21分]"
         },
         {
-          "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
-          "url": "https://wallstreetcn.com/articles/3760242",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
+          "url": "https://www.cls.cn/detail/2212903",
+          "source": "财联社热门",
           "ranks": [
-            9
+            12,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "北京拟将大规模AI算力搬上太空：拟在晨昏轨道建设运营超过GW功率的集中式大型数据中心系统",
@@ -97,20 +113,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
-          "url": "https://www.cls.cn/detail/2212903",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落涨跌不一，AI产业链分化加剧，锂电概念股再迎爆发",
@@ -118,28 +122,41 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "我用AI开了家一人公司",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B8%80%E4%BA%BA%E5%85%AC%E5%8F%B8",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 04时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时30分 ~ 06时21分]"
+        },
+        {
+          "title": "摩根大通姚橙：中国AI产业发展态势明朗，明年关键在于应用端创新和普及",
+          "url": "https://wallstreetcn.com/livenews/3011659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -151,8 +168,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
+          "url": "https://flash.jin10.com/detail/20251128052114993800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -163,8 +191,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -175,8 +203,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
+          "url": "https://flash.jin10.com/detail/20251128021209382800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时21分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -188,17 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
-          "url": "https://flash.jin10.com/detail/20251128021209382800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时21分"
         },
         {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
@@ -215,7 +244,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "香港火灾后，霍英东基金会、李嘉诚、马云、雷军等纷纷捐款",
@@ -224,22 +253,46 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "央行机构国际清算银行就对冲基金在政府债券市场上的杠杆作用发出警告",
           "url": "https://wallstreetcn.com/livenews/3011637",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 06时21分]"
+        },
+        {
+          "title": "红利主题基金临近年末热度攀升",
+          "url": "https://wallstreetcn.com/livenews/3011661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "06时21分"
+        },
+        {
+          "title": "红利主题基金新品密集发行，ETF份额创新高",
+          "url": "https://wallstreetcn.com/livenews/3011660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "对冲基金传奇Mark Spitznagel重申最近一段时期的警告：股市可能会崩跌80%。",
@@ -267,7 +320,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小公司硬刚小米抄袭!胜诉再索赔",
@@ -278,8 +331,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "华为云研发组织切换到ICT组织下",
@@ -291,6 +344,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "葛荟婕回应大女儿小苹果恋爱",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20251128052349567800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "周四（11月27日）纽约尾盘，ICE美元指数跌0.04%，报99.558点，日内交投区间为99.709-99.406点，北京时间14:00-17:26出现一波持续上涨的行情。 彭博美元指数跌0.04%，报1219.40点，日内交投区间为1220.71-1217.89点。",
+          "url": "https://wallstreetcn.com/livenews/3011666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数上涨3.55%，暂报19017.39点，北京时间02:00过后出现一波短线拉升行情，之后持续高位震荡。 目前，比特币涨1.74%，暂报91435美元；以太坊涨0.04%，Solana跌0.9%，狗狗币跌1.39%。",
+          "url": "https://wallstreetcn.com/livenews/3011615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时30分 ~ 04时21分]"
         }
       ]
     },
@@ -307,8 +411,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         }
       ]
     },
@@ -324,8 +428,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 04时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
         }
       ]
     },
@@ -343,24 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数上涨3.55%，暂报19017.39点，北京时间02:00过后出现一波短线拉升行情，之后持续高位震荡。 目前，比特币涨1.74%，暂报91435美元；以太坊涨0.04%，Solana跌0.9%，狗狗币跌1.39%。",
-          "url": "https://wallstreetcn.com/livenews/3011615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时30分 ~ 04时21分]"
         }
       ]
     }
