@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T14:34:38.415058+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-28T16:31:08.815916+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[09时41分 ~ 12时27分]"
         },
         {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 16时31分]"
+        },
+        {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
           "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
           "source": "澎湃新闻",
@@ -32,17 +44,6 @@
           "time_info": "[00时27分 ~ 11时13分]"
         },
         {
-          "title": "特朗普称将暂停“第三世界国家”移民",
-          "url": "https://www.toutiao.com/trending/7577245940038258219/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "特朗普称美国已订购更多B-2隐形轰炸机",
           "url": "https://wallstreetcn.com/livenews/3011869",
           "source": "华尔街见闻-快讯",
@@ -52,6 +53,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "特朗普称将暂停“第三世界国家”移民",
+          "url": "https://www.toutiao.com/trending/7577245940038258219/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时31分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -93,6 +106,20 @@
           "time_info": "[09时41分 ~ 14时34分]"
         },
         {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时31分]"
+        },
+        {
           "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
           "url": "https://flash.jin10.com/detail/20251128052114993800",
           "source": "金十数据",
@@ -104,24 +131,13 @@
           "time_info": "06时21分"
         },
         {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "丹麦设立“守夜人” 专盯特朗普的一举一动",
           "url": "https://flash.jin10.com/detail/20251128133301169800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -149,19 +165,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -204,7 +207,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -248,7 +251,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -270,7 +273,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -298,11 +301,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 14时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 16时31分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -319,6 +323,29 @@
           "time_info": "[00时27分 ~ 14时34分]"
         },
         {
+          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
+          "url": "https://www.cls.cn/detail/2213363",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时31分]"
+        },
+        {
+          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
+          "url": "https://wallstreetcn.com/articles/3760277",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时31分]"
+        },
+        {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
           "url": "https://www.cls.cn/detail/2213059",
           "source": "财联社热门",
@@ -331,17 +358,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 09时41分]"
-        },
-        {
-          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
-          "url": "https://www.cls.cn/detail/2213363",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -357,18 +373,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 11时13分]"
-        },
-        {
-          "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
-          "url": "https://wallstreetcn.com/articles/3760277",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -495,7 +499,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -506,7 +510,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -514,7 +518,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "雷军回应小米汽车续航测试",
@@ -526,6 +530,72 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时13分 ~ 14时34分]"
+        },
+        {
+          "title": "华为Mate80晨曦金版本已售罄",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%E6%99%A8%E6%9B%A6%E9%87%91%E7%89%88%E6%9C%AC%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "霍建华为什么是天选俞瑜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%A4%A9%E9%80%89%E4%BF%9E%E7%91%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：与谷歌地图和WAZE等其他地图服务相比，苹果地图在欧盟的使用率非常有限。",
+          "url": "https://flash.jin10.com/detail/20251128161818417800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)：我们期待进一步向欧盟委员会说明，为何苹果地图和苹果广告不应被指定。",
+          "url": "https://flash.jin10.com/detail/20251128161747493800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "苹果：对欧盟DMA的预先指定通知提交了反驳意见",
+          "url": "https://wallstreetcn.com/livenews/3012060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)：已就《数字市场法案》预先指定通知提交了反驳意见。",
+          "url": "https://flash.jin10.com/detail/20251128161734525800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "小公司硬刚小米抄袭!胜诉再索赔",
@@ -546,9 +616,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "苹果或面临380亿美元罚款",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时31分]"
         },
         {
           "title": "小米成毛利率提升最快车企",
@@ -606,17 +688,6 @@
           "time_info": "06时21分"
         },
         {
-          "title": "苹果或面临380亿美元罚款",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%88%96%E9%9D%A2%E4%B8%B4380%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BD%9A%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "华为Mate80线下销售盛况",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%E7%BA%BF%E4%B8%8B%E9%94%80%E5%94%AE%E7%9B%9B%E5%86%B5%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -631,7 +702,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "香港火灾后，霍英东基金会、李嘉诚、马云、雷军等纷纷捐款",
@@ -658,6 +729,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 06时21分]"
+        },
+        {
+          "title": "香港将向灾民派发每户 1 万港元应急补助金，投入 3 亿港元成立援助基金，能从哪些方面帮助到受灾民众？",
+          "url": "https://www.zhihu.com/question/1977449674282595157",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时31分]"
         },
         {
           "title": "红利主题基金临近年末热度攀升",
@@ -704,17 +786,6 @@
           "time_info": "09时41分"
         },
         {
-          "title": "香港将向灾民派发每户 1 万港元应急补助金，投入 3 亿港元成立援助基金，能从哪些方面帮助到受灾民众？",
-          "url": "https://www.zhihu.com/question/1977449674282595157",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
-        },
-        {
           "title": "中基协：10月新备案私募基金规模670亿元",
           "url": "https://wallstreetcn.com/livenews/3011571",
           "source": "华尔街见闻-快讯",
@@ -724,13 +795,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "印尼主权财富基金丹南塔拉官员：“爱国债券”第二阶段发行有所延迟，但将在年底前完成发行。",
+          "url": "https://flash.jin10.com/detail/20251128155627785800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
+          "url": "https://www.zhihu.com/question/1977462001522450495",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 16时31分]"
+        },
         {
           "title": "DeepSeek开源新模型",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
@@ -747,17 +840,6 @@
           "time_info": "[00时27分 ~ 14时34分]"
         },
         {
-          "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
-          "url": "https://www.zhihu.com/question/1977462001522450495",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
-        },
-        {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
           "url": "https://wallstreetcn.com/articles/3760281",
           "source": "华尔街见闻",
@@ -765,8 +847,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时31分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -774,11 +856,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 16时31分]"
+        },
+        {
+          "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
+          "url": "https://wallstreetcn.com/articles/3760294",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -846,8 +940,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时41分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时41分 ~ 16时31分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
