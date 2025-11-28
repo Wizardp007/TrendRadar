@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-28T16:31:08.815916+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2025-11-28T18:24:37.475705+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 24,
       "titles": [
+        {
+          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
+          "url": "https://www.cls.cn/detail/2213724",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 18时24分]"
+        },
         {
           "title": "特朗普拒邀南非参加明年G20峰会，南非反击：不接受侮辱",
           "url": "https://news.ifeng.com/c/8odIMcYqHFR",
@@ -19,16 +32,18 @@
           "time_info": "[09时41分 ~ 12时27分]"
         },
         {
-          "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
-          "url": "https://www.cls.cn/detail/2213724",
-          "source": "财联社热门",
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            4
+            16,
+            18,
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时24分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -60,11 +75,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 18时24分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -104,20 +120,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时41分 ~ 14时34分]"
-        },
-        {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时31分]"
         },
         {
           "title": "国民警卫队枪击案后 特朗普政府宣布将全面审查移民政策",
@@ -292,7 +294,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI还原香港大埔火灾",
@@ -302,11 +304,12 @@
             6,
             7,
             8,
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 16时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 18时24分]"
         },
         {
           "title": "进军AI硬件市场！阿里夸克AI眼镜售价1899元起，搭载千问大模型、深度整合生态服务",
@@ -323,23 +326,24 @@
           "time_info": "[00时27分 ~ 14时34分]"
         },
         {
-          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
-          "url": "https://www.cls.cn/detail/2213363",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时31分]"
-        },
-        {
           "title": "英伟达全员“AI化”，内部有人要求“少用AI”，黄仁勋直接发飙：“你疯了吗？”",
           "url": "https://wallstreetcn.com/articles/3760277",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时24分]"
+        },
+        {
+          "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
+          "url": "https://www.cls.cn/detail/2213363",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -398,6 +402,28 @@
           "time_info": "[00时27分 ~ 04时21分]"
         },
         {
+          "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
+          "url": "https://www.cls.cn/detail/2214152",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "夸克AI眼镜持续霸榜第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
           "url": "https://www.cls.cn/detail/2212903",
           "source": "财联社热门",
@@ -420,6 +446,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 09时41分]"
+        },
+        {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美国专利商标局规定AI不能被视为“发明人”",
@@ -469,6 +506,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时30分 ~ 11时13分]"
+        },
+        {
+          "title": "AI热潮“边缘”隐藏巨大投资机会！分析师看好这三只冷门科技股",
+          "url": "https://www.cls.cn/detail/2213547",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "维珍澳大利亚航空：宣布成为首家与OpenAI合作的澳大利亚航空公司。",
@@ -560,7 +608,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -571,7 +619,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -582,7 +630,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -593,7 +641,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -626,11 +674,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 18时24分]"
         },
         {
           "title": "小米成毛利率提升最快车企",
@@ -702,7 +751,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "香港火灾后，霍英东基金会、李嘉诚、马云、雷军等纷纷捐款",
@@ -717,6 +766,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "证监会就《中国证监会关于推出商业不动产投资信托基金试点的公告（征求意见稿）》公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3012151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "央行机构国际清算银行就对冲基金在政府债券市场上的杠杆作用发出警告",
@@ -786,6 +846,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "中基协：截至10月底，我国境内公募基金管理机构管理资产净值合计36.96万亿元",
+          "url": "https://wallstreetcn.com/livenews/3012111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "中基协：10月新备案私募基金规模670亿元",
           "url": "https://wallstreetcn.com/livenews/3011571",
           "source": "华尔街见闻-快讯",
@@ -797,13 +868,24 @@
           "time_info": "00时27分"
         },
         {
+          "title": "香港证监会简化措施，已获认可的欧盟规管零售基金将能更高效实施变更",
+          "url": "https://wallstreetcn.com/livenews/3012100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "印尼主权财富基金丹南塔拉官员：“爱国债券”第二阶段发行有所延迟，但将在年底前完成发行。",
           "url": "https://flash.jin10.com/detail/20251128155627785800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         }
@@ -821,8 +903,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 18时24分]"
+        },
+        {
+          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
+          "url": "https://wallstreetcn.com/articles/3760281",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时41分 ~ 16时31分]"
+          "time_info": "[09时41分 ~ 18时24分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -840,28 +934,18 @@
           "time_info": "[00时27分 ~ 14时34分]"
         },
         {
-          "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
-          "url": "https://wallstreetcn.com/articles/3760281",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时31分]"
-        },
-        {
           "title": "DeepSeek开启无限进化新时代",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E5%90%AF%E6%97%A0%E9%99%90%E8%BF%9B%E5%8C%96%E6%96%B0%E6%97%B6%E4%BB%A3",
           "source": "bilibili 热搜",
           "ranks": [
             7,
             4,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 16时31分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 18时24分]"
         },
         {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
@@ -870,9 +954,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -884,6 +968,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
+          "url": "https://wallstreetcn.com/articles/3760251",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时24分]"
+        },
+        {
+          "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
+          "url": "https://flash.jin10.com/detail/20251128174843998800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
+          "url": "https://www.cls.cn/detail/2213450",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
+          "url": "https://wallstreetcn.com/livenews/3011578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
+          "url": "https://flash.jin10.com/detail/20251128180023594800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3012094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
@@ -924,53 +1099,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 04时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
-          "url": "https://wallstreetcn.com/articles/3760251",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时31分]"
-        },
-        {
-          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
-          "url": "https://wallstreetcn.com/livenews/3011578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 06时21分]"
         }
       ]
     },
