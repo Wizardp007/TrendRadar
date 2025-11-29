@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T20:41:11.232445+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2025-11-29T22:19:13.508971+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -33,6 +33,18 @@
           "time_info": "[00时28分 ~ 12时26分]"
         },
         {
+          "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
+          "url": "https://news.ifeng.com/c/8og9MLOfFoi",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
           "title": "特朗普将赦免被判45年洪都拉斯前总统",
           "url": "https://www.toutiao.com/trending/7577778970550386714/",
           "source": "今日头条",
@@ -58,6 +70,17 @@
           "time_info": "[04时24分 ~ 11时13分]"
         },
         {
+          "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
+          "url": "https://news.ifeng.com/c/8ogHVRMYZ4N",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
+        },
+        {
           "title": "特朗普长子成2028总统大选热门人选",
           "url": "https://www.toutiao.com/trending/7577333810975621166/",
           "source": "今日头条",
@@ -67,17 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
-        },
-        {
-          "title": "美国总统特朗普：教育正在被带回美国，我们的军队和南部边境是有史以来最强大的。",
-          "url": "https://flash.jin10.com/detail/20251129202621810800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
@@ -107,26 +119,15 @@
           "time_info": "[04时24分 ~ 09时40分]"
         },
         {
-          "title": "美国总统特朗普：股票市场和401k计划达到了历史新高，通货膨胀、物价和税收都在下降。",
-          "url": "https://flash.jin10.com/detail/20251129202542922800",
+          "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
+          "url": "https://flash.jin10.com/detail/20251129211916234800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
-          "url": "https://news.ifeng.com/c/8og9MLOfFoi",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
+          "time_info": "22时19分"
         },
         {
           "title": "乌克兰代表团将赴美会见特朗普心腹和女婿，讨论和平计划",
@@ -141,15 +142,15 @@
           "time_info": "[09时40分 ~ 11时13分]"
         },
         {
-          "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
-          "url": "https://flash.jin10.com/detail/20251129202442952800",
+          "title": "美国总统特朗普：因为我为美国争取到了最惠国待遇，药品价格正以前所未有的速度下降，降幅高达500%、600%、700%甚至更多。没有哪位总统能做到这一点，但我做到了。",
+          "url": "https://flash.jin10.com/detail/20251129211849546800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "22时19分"
         },
         {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
@@ -165,15 +166,15 @@
           "time_info": "[04时24分 ~ 09时40分]"
         },
         {
-          "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
-          "url": "https://news.ifeng.com/c/8ogHVRMYZ4N",
-          "source": "凤凰网",
+          "title": "特朗普称委内瑞拉空域应被视为关闭",
+          "url": "https://wallstreetcn.com/livenews/3012482",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "22时19分"
         },
         {
           "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
@@ -201,6 +202,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "特朗普向委内瑞拉发出威胁信号",
+          "url": "https://flash.jin10.com/detail/20251129210108575800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "特朗普废除拜登用自动签名笔签的文件",
           "url": "https://www.toutiao.com/trending/7577899454150279187/",
           "source": "今日头条",
@@ -225,6 +237,18 @@
           "time_info": "[06时20分 ~ 11时13分]"
         },
         {
+          "title": "美国总统特朗普：教育正在被带回美国，我们的军队和南部边境是有史以来最强大的。",
+          "url": "https://flash.jin10.com/detail/20251129202621810800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-29）",
           "url": "https://flash.jin10.com/detail/20251129175639922800",
           "source": "金十数据",
@@ -235,6 +259,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时21分 ~ 20时41分]"
+        },
+        {
+          "title": "美国总统特朗普：股票市场和401k计划达到了历史新高，通货膨胀、物价和税收都在下降。",
+          "url": "https://flash.jin10.com/detail/20251129202542922800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
+        },
+        {
+          "title": "美国总统特朗普：关税使我们的国家变得富裕、强大、强盛且安全。",
+          "url": "https://flash.jin10.com/detail/20251129202442952800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
         },
         {
           "title": "特朗普：将赦免在美被判45年的洪都拉斯前总统埃尔南德斯",
@@ -318,6 +366,18 @@
           "time_info": "[20时40分 ~ 20时41分]"
         },
         {
+          "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32064050",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
+        },
+        {
           "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
           "url": "https://flash.jin10.com/detail/20251129024908174800",
           "source": "金十数据",
@@ -342,15 +402,26 @@
           "time_info": "[09时40分 ~ 11时13分]"
         },
         {
-          "title": "大外交丨极限施压委内瑞拉、拉拢拉美右翼，特朗普式“门罗主义”笼罩拉美",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32064050",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：将委内瑞拉上空及周边空域视为禁飞区。",
+          "url": "https://flash.jin10.com/detail/20251129204723280800",
+          "source": "金十数据",
           "ranks": [
-            16
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时41分"
+          "time_info": "22时19分"
+        },
+        {
+          "title": "美国总统特朗普：美国再次受到尊重，前所未有的尊重。所有这一切都是由强有力的领导和关税带来的。向上帝祈祷，我们的九位大法官将显示出伟大的智慧，为美国做正确的事。",
+          "url": "https://flash.jin10.com/detail/20251129202718380800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
@@ -561,7 +632,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "华为麒麟 9030 处理器是什么水平？",
@@ -591,8 +662,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 22时19分]"
         },
         {
           "title": "雷军发布小米购置税补贴重要提示",
@@ -615,8 +686,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时19分]"
         },
         {
           "title": "华为MateX7的5A网速实测",
@@ -630,6 +701,17 @@
           "time_info": "18时21分"
         },
         {
+          "title": "王自如测评iPhone17",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B5%8B%E8%AF%84iPhone17",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
           "url": "https://wallstreetcn.com/livenews/3012362",
           "source": "华尔街见闻-快讯",
@@ -639,17 +721,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
-        },
-        {
-          "title": "三星电子会长李在镕之子被授予韩国海军少尉军衔",
-          "url": "https://flash.jin10.com/detail/20251129194017927800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "英特尔(INTC.O)涨超10%，郭明錤称英特尔预计最快在2027年开始出货苹果最低阶M处理器。",
@@ -665,6 +736,30 @@
           "time_info": "[02时30分 ~ 06时20分]"
         },
         {
+          "title": "三星电子会长李在镕之子被授予韩国海军少尉军衔",
+          "url": "https://flash.jin10.com/detail/20251129194017927800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
+        },
+        {
+          "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
+          "url": "https://www.cls.cn/detail/2214770",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
           "title": "雷军回应小米汽车续航测试",
           "url": "https://www.douyin.com/hot/2320102",
           "source": "抖音",
@@ -676,18 +771,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 04时24分]"
-        },
-        {
-          "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
-          "url": "https://www.cls.cn/detail/2214770",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.54%，报7792.89点，本周累计上涨3.71%，11月份累计下跌5.81%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.41%，德银嘉实沪深300指数ETF（ASHR）收涨0.87%，中国科技指数ETF（CQQQ）收涨0.61%，中概互联网指数ETF（KWEB）收涨0.19%。 本周，CQQQ反弹4.38%（结束此前连跌四周的趋势），ASHS反弹3.86%，KWEB反弹3.04%（结束此前连跌四周的趋势），ASHR反弹2.49%。 11月份，ASHR跌1.36%，结束此前连续六个月上涨的趋势；ASHS跌2.70%，连续第二个月下跌；KWEB跌5.96%，延续之前一个月跌4.90%的表现；CQQQ跌6.22%，延续之前一个月跌4.91%的表现；",
@@ -737,7 +820,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美联储的AI困局：学格林斯潘是“死路”，不降息是“绝路”",
@@ -836,13 +919,24 @@
           "time_info": "18时21分"
         },
         {
+          "title": "浪潮已至，传媒行业如何以AI“弄潮”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32064201",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "AI幻觉如何防范和治理？这场圆桌沙龙谈到人防、技防等措施",
           "url": "https://m.thepaper.cn/newsDetail_forward_32063719",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
@@ -863,8 +957,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时13分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时13分 ~ 22时19分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -875,19 +969,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时19分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
         }
       ]
     },
@@ -901,11 +996,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 22时19分]"
         },
         {
           "title": "沙特主权财富基金洽谈投资意大利军工股Leonardo SpA旗下飞机构造部门。 经过数月的磋商，洽谈处于高级阶段。（彭博）",
@@ -945,8 +1041,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时31分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 22时19分]"
         },
         {
           "title": "金价",
@@ -987,6 +1083,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai gpt codex",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
         }
       ]
     },
