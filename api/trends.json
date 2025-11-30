@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T14:32:38.325005+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2025-11-30T16:26:37.084428+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             18,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时26分]"
         },
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -48,11 +49,12 @@
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 16时26分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -198,8 +200,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时26分]"
         },
         {
           "title": "华为苹果小米三台ProMax谁更耐摔",
@@ -208,11 +210,12 @@
           "ranks": [
             4,
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 16时26分]"
         },
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -220,11 +223,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 16时26分]"
         },
         {
           "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
@@ -235,8 +239,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 16时26分]"
         },
         {
           "title": "华为AI玩具“智能憨憨”开售即秒罄",
@@ -276,7 +280,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -289,8 +293,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时26分]"
         },
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
@@ -301,8 +305,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 16时26分]"
         },
         {
           "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
@@ -317,6 +321,28 @@
           "time_info": "[11时29分 ~ 14时32分]"
         },
         {
+          "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
+          "url": "https://flash.jin10.com/detail/20251130160826101800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "浪潮已至，传媒行业如何以AI“弄潮”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32064201",
           "source": "澎湃新闻",
@@ -328,6 +354,67 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "挪威基金投票反对微软首席执行官纳德拉连任董事会主席。",
+          "url": "https://flash.jin10.com/detail/20251130154908328800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "挪威基金将投票反对微软首席执行官的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251130154750129800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "香港特区政府29日下午召开记者会宣布，已开展“一户一社工”工作，已接触1300户、3200人。目前捐助基金和政府拨款已达11亿港元。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3012460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "收益率30%仍清盘，昔日百亿基金经理，为何留不住规模？",
+          "url": "https://www.cls.cn/detail/2214752",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 16时26分]"
         }
       ]
     },
@@ -378,34 +465,6 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "香港特区政府29日下午召开记者会宣布，已开展“一户一社工”工作，已接触1300户、3200人。目前捐助基金和政府拨款已达11亿港元。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3012460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时20分]"
-        },
-        {
-          "title": "收益率30%仍清盘，昔日百亿基金经理，为何留不住规模？",
-          "url": "https://www.cls.cn/detail/2214752",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai gpt codex",
       "match_count": 1,
       "titles": [
@@ -419,11 +478,12 @@
             3,
             8,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 14时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 16时26分]"
         }
       ]
     },
