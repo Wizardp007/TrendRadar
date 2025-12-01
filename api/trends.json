@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T02:36:51.687517+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2025-12-02T04:24:21.725767+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
@@ -30,6 +30,30 @@
           "time_info": "00时31分"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3013186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "特朗普对马杜罗下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
           "source": "澎湃新闻",
@@ -38,20 +62,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
-        },
-        {
-          "title": "特朗普对马杜罗下最后通牒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
@@ -82,7 +94,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -104,7 +116,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -115,7 +127,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -131,6 +143,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
+          "url": "https://flash.jin10.com/detail/20251202025230331800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：希望美国中东问题特使威特科夫访问俄罗斯后能与美国总统特朗普举行会谈。",
           "url": "https://flash.jin10.com/detail/20251201235332079800",
           "source": "金十数据",
@@ -142,6 +165,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国白宫：（回应特朗普核磁共振检查结果）检查系出于预防性目的，心脏影像检查结果正常，未发现动脉狭窄的迹象，腹部影像亦正常，特朗普整体健康状况仍然极佳。",
+          "url": "https://flash.jin10.com/detail/20251202025217269800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "美国同意对原产于英国的药品等豁免232条款关税，并在特朗普总统任期内不启动“301调查”",
           "url": "https://wallstreetcn.com/livenews/3013106",
           "source": "华尔街见闻-快讯",
@@ -151,12 +185,89 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "法国总统马克龙在与美国总统特朗普的会谈中强调，对乌克兰所需的安全保障具有核心重要性。",
+          "url": "https://flash.jin10.com/detail/20251202024624684800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "法国总统马克龙与美国总统特朗普就实现乌克兰持久和平的条件，以及美国所开展的斡旋工作的下一步举措交换了意见。",
+          "url": "https://flash.jin10.com/detail/20251202024618091800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国白宫：总统特朗普正积极重新审查所有来自阿富汗的移民，任何威胁国家安全的个人都将被移除，完成大规模驱逐行动比以往任何时候都更加重要。",
+          "url": "https://flash.jin10.com/detail/20251202024219703800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国白宫：将就特朗普账户发表声明。",
+          "url": "https://flash.jin10.com/detail/20251202023639798800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "爱丽舍宫：法国总统马克龙刚刚与美国总统特朗普就乌克兰局势进行了会谈。",
+          "url": "https://flash.jin10.com/detail/20251202023557571800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国白宫：周四，美国总统特朗普将接待卢旺达和刚果总统，签署协议。",
+          "url": "https://flash.jin10.com/detail/20251202023547665800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于周二召开内阁会议。",
+          "url": "https://flash.jin10.com/detail/20251202023527171800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -166,8 +277,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
@@ -178,19 +289,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "纳斯达克生物科技指数跌超2%。 成分股Sutro Biopharma目前下跌12.98%，Kyverna Therapeutics跌10.95%，Grail跌10.01%，Pyxis Oncology跌9.34%。 Ironwood医药则涨4.44%，Arrowhead Pharmaceuticals涨4.63%，Neumora Therapeutics涨6.92%，Q32 Bio涨92.69%。",
           "url": "https://wallstreetcn.com/livenews/3013172",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时24分]"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -200,8 +312,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "郑恺上戏合影 AI生成",
@@ -212,8 +324,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3013184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
@@ -233,7 +356,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -271,11 +394,25 @@
           "source": "今日头条",
           "ranks": [
             9,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "华为 mate80 无网通信，就是 700MHz 频段的对讲机，它会干扰移动 700MHz 网络吗？",
+          "url": "https://www.zhihu.com/question/1977536023505412441",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "不要女用户,vivo狂踩女性购买力",
@@ -286,20 +423,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
-        },
-        {
-          "title": "华为 mate80 无网通信，就是 700MHz 频段的对讲机，它会干扰移动 700MHz 网络吗？",
-          "url": "https://www.zhihu.com/question/1977536023505412441",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "华强北华为Mate 80系列价格流出",
@@ -307,11 +432,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         }
       ]
     },
@@ -327,8 +453,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -339,8 +465,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
@@ -349,7 +475,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -360,9 +486,77 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据消息人士透露，城堡证券全球固定收益基金11月份上涨1.1%，截至11月年内累计上涨8.5%。",
+          "url": "https://flash.jin10.com/detail/20251202030758418800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据消息人士透露，城堡证券全球股票基金11月份上涨2.5%，截至11月年内累计涨幅13.2%。",
+          "url": "https://flash.jin10.com/detail/20251202030737523800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据消息人士透露，城堡证券旗舰基金威灵顿11月份上涨1.4%，截至11月年内累计上涨8.3%。",
+          "url": "https://flash.jin10.com/detail/20251202030736571800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
+          "url": "https://wallstreetcn.com/livenews/3013202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
@@ -379,8 +573,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -391,26 +585,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         }
       ]
     },
@@ -427,8 +603,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         }
       ]
     },
@@ -444,8 +620,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时24分]"
         }
       ]
     }
