@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T12:54:02.237643+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2025-12-01T14:36:48.066222+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "“特朗普交易”遭重创",
@@ -43,6 +43,44 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 14时36分]"
+        },
+        {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时36分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 14时36分]"
+        },
+        {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
           "url": "https://news.ifeng.com/c/8oikvl8KaCy",
           "source": "凤凰网",
@@ -53,29 +91,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 12时54分]"
-        },
-        {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时54分]"
-        },
-        {
-          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
-          "url": "https://wallstreetcn.com/articles/3760417",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时54分]"
         },
         {
           "title": "美国总统特朗普：美国中东问题特使威特科夫将于下周（北京时间本周）某个时候与俄罗斯总统普京会面。",
@@ -113,6 +128,17 @@
           "time_info": "[10时00分 ~ 12时54分]"
         },
         {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 14时36分]"
+        },
+        {
           "title": "特朗普：俄乌问题谈判进展顺利 未设最后期限",
           "url": "https://flash.jin10.com/detail/20251201055331214800",
           "source": "金十数据",
@@ -133,19 +159,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 12时54分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时54分]"
         },
         {
           "title": "美国总统特朗普：我做了个核磁共振，但不是大脑方面的问题。",
@@ -181,6 +194,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
+          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
           "url": "https://flash.jin10.com/detail/20251201054935386800",
           "source": "金十数据",
@@ -190,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 12时54分]"
         },
         {
           "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
@@ -282,6 +295,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "特朗普：俄乌和平协议很有可能达成",
+          "url": "https://www.toutiao.com/trending/7578340057447514175/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
           "url": "https://flash.jin10.com/detail/20251201054410581800",
           "source": "金十数据",
@@ -340,7 +364,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "弃帅保车?小米启动去雷军化",
@@ -350,11 +374,12 @@
             10,
             11,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 12时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 14时36分]"
         },
         {
           "title": "碰撞轮毂飞!竟是小米保命绝招",
@@ -364,11 +389,12 @@
             22,
             23,
             29,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 12时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 14时36分]"
         },
         {
           "title": "不要女用户,vivo狂踩女性购买力",
@@ -376,11 +402,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时54分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时36分]"
         },
         {
           "title": "华为回应Mate80信号栏显示5A标识",
@@ -396,6 +423,17 @@
           "time_info": "[10时00分 ~ 12时54分]"
         },
         {
+          "title": "印度电信部要求苹果(AAPL.O)等智能手机制造商预装政府推出的网络安全应用程序。",
+          "url": "https://flash.jin10.com/detail/20251201134848484800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
           "title": "11月小米汽车交付量超4万台",
           "url": "https://s.weibo.com/weibo?q=%2311%E6%9C%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%854%E4%B8%87%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -405,6 +443,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "小米汽车将开放现车选购",
+          "url": "https://www.douyin.com/hot/2322868",
+          "source": "抖音",
+          "ranks": [
+            28,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 14时36分]"
         },
         {
           "title": "小米汽车：11月新增17家门店",
@@ -419,16 +470,27 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
-          "title": "小米汽车将开放现车选购",
-          "url": "https://www.douyin.com/hot/2322868",
-          "source": "抖音",
+          "title": "中式苹果炖猪排",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
+          "source": "bilibili 热搜",
           "ranks": [
-            28,
-            14
+            19,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时57分 ~ 12时54分]"
+          "time_info": "[12时53分 ~ 14时36分]"
+        },
+        {
+          "title": "小米汽车将开放“现车选购”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 14时36分]"
         },
         {
           "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
@@ -447,28 +509,6 @@
           "source": "知乎",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "中式苹果炖猪排",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "小米汽车将开放“现车选购”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -510,8 +550,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 12时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 14时36分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -561,19 +601,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 14时36分]"
         },
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
           "url": "https://wallstreetcn.com/articles/3760431",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时36分]"
+        },
+        {
+          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
+          "url": "https://www.cls.cn/detail/2215541",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时36分]"
         },
         {
           "title": "没想到夸克AI浏览器还可以这么用",
@@ -585,36 +638,13 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时24分]"
-        },
         {
           "title": "Gemini升级了哪些地方",
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
@@ -628,8 +658,31 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 11时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 14时36分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时24分]"
+        },
+        {
+          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
+          "url": "https://wallstreetcn.com/livenews/3012823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
@@ -644,7 +697,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
@@ -694,11 +747,12 @@
           "url": "https://wallstreetcn.com/livenews/3012789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时36分]"
         }
       ]
     },
@@ -716,6 +770,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "3900点关口存款搬家争论继续升温，银行客户钱往哪走？一线：基金销售渐火、保险产品受宠",
+          "url": "https://www.cls.cn/detail/2215474",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     }
