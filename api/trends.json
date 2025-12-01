@@ -1,1044 +1,300 @@
 {
-  "generated_at": "2025-12-01T22:25:01.352262+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2025-12-02T00:31:39.103692+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
           "url": "https://wallstreetcn.com/articles/3760417",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时57分 ~ 22时25分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 10时01分]"
-        },
-        {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
-          "url": "https://wallstreetcn.com/livenews/3012550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.douyin.com/hot/2322761",
-          "source": "抖音",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时25分]"
-        },
-        {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 22时25分]"
-        },
-        {
-          "title": "特朗普：俄乌和平协议“很有可能”达成",
-          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时54分]"
-        },
-        {
-          "title": "美国总统特朗普：美国中东问题特使威特科夫将于下周（北京时间本周）某个时候与俄罗斯总统普京会面。",
-          "url": "https://flash.jin10.com/detail/20251201055407847800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-01）",
-          "url": "https://flash.jin10.com/detail/20251201181724483800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "美国上诉法院维持原判，取消美国总统特朗普盟友阿丽娜·哈巴担任新泽西州代理联邦检察官的资格。",
-          "url": "https://flash.jin10.com/detail/20251201215649190800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "美国总统特朗普拒绝确认是否让白宫经济顾问凯文·哈塞特（Kevin Hassett）出任美联储主席。其表示，我知道我要选谁当美联储主席。",
-          "url": "https://wallstreetcn.com/livenews/3012557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "特朗普：俄乌和平协议“很可能”达成",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 12时54分]"
-        },
-        {
-          "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
-          "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 16时34分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普：俄乌问题谈判进展顺利 未设最后期限",
-          "url": "https://flash.jin10.com/detail/20251201055331214800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
-          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时54分]"
-        },
-        {
-          "title": "美国总统特朗普：我做了个核磁共振，但不是大脑方面的问题。",
-          "url": "https://flash.jin10.com/detail/20251201055141680800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "特朗普：已敲定美联储主席人选",
-          "url": "https://flash.jin10.com/detail/20251201055105786800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时31分"
         },
         {
-          "title": "特朗普将于周一晚就针对委内瑞拉的下一步行动举行会议。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3013095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "美国总统特朗普：如果我有这个权力，我会剥夺某些人的国籍。",
-          "url": "https://flash.jin10.com/detail/20251201055028519800",
+          "title": "特朗普：美国对叙利亚取得的成果感到非常满意",
+          "url": "https://flash.jin10.com/detail/20251202000727981800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时31分"
         },
         {
-          "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
-          "url": "https://flash.jin10.com/detail/20251201054935386800",
+          "title": "美国总统特朗普：任何事情都不应妨碍叙利亚的改变。",
+          "url": "https://flash.jin10.com/detail/20251201235818685800",
           "source": "金十数据",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时31分"
         },
         {
-          "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
-          "url": "https://flash.jin10.com/detail/20251201054919490800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美媒：特朗普拟召开国安团队会议 商讨对委内瑞拉“下一步行动”",
-          "url": "https://flash.jin10.com/detail/20251201214829785800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "美国总统特朗普：赫格塞思说他没有下令杀害船上的两名男子。",
-          "url": "https://flash.jin10.com/detail/20251201054804501800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普：我们会调查有关对毒品船只发动第二次打击的报道。我不希望发生那种事，但国防部长赫格塞思所说的第二次打击并没有发生。",
-          "url": "https://flash.jin10.com/detail/20251201054736615800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "特朗普与委总统通话，直接要求对方下台！",
-          "url": "https://wallstreetcn.com/articles/3760404",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
-          "url": "https://flash.jin10.com/detail/20251201112823735800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时54分]"
-        },
-        {
-          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
-          "url": "https://flash.jin10.com/detail/20251130201511290800",
-          "source": "金十数据",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普对马杜罗下最后通牒",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "美国总统特朗普：相信洪都拉斯前总统埃尔南德斯在毒品走私指控上是被设局陷害的。",
-          "url": "https://flash.jin10.com/detail/20251201054526929800",
+          "title": "美国总统特朗普：美国对叙利亚的成果非常满意。",
+          "url": "https://flash.jin10.com/detail/20251201235744690800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时31分"
         },
         {
-          "title": "据CNN：美国总统特朗普将在椭圆形办公室就委内瑞拉问题举行会议。",
-          "url": "https://flash.jin10.com/detail/20251201214102164800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "特朗普：俄乌和平协议很有可能达成",
-          "url": "https://www.toutiao.com/trending/7578340057447514175/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
-          "url": "https://flash.jin10.com/detail/20251201054410581800",
+          "title": "美国总统特朗普：以色列与叙利亚保持强大而真诚的对话非常重要。",
+          "url": "https://flash.jin10.com/detail/20251201235722550800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普：我们认为委内瑞拉不是一个友好国家。",
-          "url": "https://flash.jin10.com/detail/20251201054236941800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "美国总统特朗普证实他与委内瑞拉总统马杜罗通了电话。",
-          "url": "https://flash.jin10.com/detail/20251201054144727800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
+          "time_info": "00时31分"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32077222",
           "source": "澎湃新闻",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "特朗普称美乌很可能达成协议",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%B9%8C%E5%BE%88%E5%8F%AF%E8%83%BD%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "00时31分"
         },
         {
-          "title": "芝商所上周五经历数小时故障，白银刷新历史新高！特朗普已敲定下任美联储主席人选，美乌新会谈“富有成效但仍有工作要做”....美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251201103320124800",
+          "title": "乌克兰总统泽连斯基：我们预计将与特朗普就关键计划问题进行讨论。",
+          "url": "https://flash.jin10.com/detail/20251201235456072800",
           "source": "金十数据",
           "ranks": [
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "00时31分"
         },
         {
-          "title": "特朗普推动俄乌停火是为了商业利益吗",
-          "url": "https://www.toutiao.com/trending/7578832492363255338/",
-          "source": "今日头条",
+          "title": "乌克兰总统泽连斯基：希望美国中东问题特使威特科夫访问俄罗斯后能与美国总统特朗普举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251201235332079800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "美国同意对原产于英国的药品等豁免232条款关税，并在特朗普总统任期内不启动“301调查”",
+          "url": "https://wallstreetcn.com/livenews/3013106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普对马杜罗下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "弃帅保车?小米启动去雷军化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            19,
-            21,
-            23,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 18时26分]"
-        },
-        {
-          "title": "不要女用户,vivo狂踩女性购买力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347612&amp;topic_name=%E4%B8%8D%E8%A6%81%E5%A5%B3%E7%94%A8%E6%88%B7%2Cvivo%E7%8B%82%E8%B8%A9%E5%A5%B3%E6%80%A7%E8%B4%AD%E4%B9%B0%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时57分 ~ 22时25分]"
-        },
-        {
-          "title": "碰撞轮毂飞!竟是小米保命绝招",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            29,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 14时36分]"
-        },
-        {
-          "title": "小米汽车将开放现车选购",
-          "url": "https://www.douyin.com/hot/2322868",
-          "source": "抖音",
-          "ranks": [
-            28,
-            14,
-            21,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 16时34分]"
-        },
-        {
-          "title": "vivo致歉直播间事件风波：主播不慎误触所致",
-          "url": "https://wallstreetcn.com/livenews/3013097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "华为回应Mate80信号栏显示5A标识",
-          "url": "https://www.toutiao.com/trending/7577765096270282771/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 12时54分]"
-        },
-        {
-          "title": "监管机构：苹果试图通过挑战处罚法来拖延印度反垄断案的审理",
-          "url": "https://wallstreetcn.com/livenews/3012907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "印度电信部要求苹果(AAPL.O)等智能手机制造商预装政府推出的网络安全应用程序。",
-          "url": "https://flash.jin10.com/detail/20251201134848484800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "11月小米汽车交付量超4万台",
-          "url": "https://s.weibo.com/weibo?q=%2311%E6%9C%88%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%854%E4%B8%87%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "小米汽车：11月新增17家门店",
-          "url": "https://wallstreetcn.com/livenews/3012538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "以军下令：高级军官禁用安卓手机，统一使用iPhone",
-          "url": "https://www.cls.cn/detail/2215866",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时47分 ~ 22时25分]"
-        },
-        {
-          "title": "华为首款AI情绪陪伴玩具售罄缺货 AI端侧赛道投资价值凸现",
-          "url": "https://www.cls.cn/detail/2215245",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 16时34分]"
-        },
-        {
-          "title": "华为 mate80 无网通信，就是 700MHz 频段的对讲机，它会干扰移动 700MHz 网络吗？",
-          "url": "https://www.zhihu.com/question/1977536023505412441",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时25分]"
-        },
-        {
-          "title": "中式苹果炖猪排",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%BC%8F%E8%8B%B9%E6%9E%9C%E7%82%96%E7%8C%AA%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时36分]"
-        },
-        {
-          "title": "小米汽车将开放“现车选购”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%B0%86%E5%BC%80%E6%94%BE%E2%80%9C%E7%8E%B0%E8%BD%A6%E9%80%89%E8%B4%AD%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 14时36分]"
-        },
-        {
-          "title": "华强北华为Mate 80系列价格流出",
-          "url": "https://www.toutiao.com/trending/7578209064803827755/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "小米汽车月销破4万辆 订单还够用吗",
-          "url": "https://www.toutiao.com/trending/7578838517380288027/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "如何评价苹果将在 2027 年使用 Intel 18A-P 工艺制造低端 M 系列 SoC？",
-          "url": "https://www.zhihu.com/question/1978148539101114855",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "人民日报谈小米集团高质量发展",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "小米汽车为何推现车选购",
-          "url": "https://www.toutiao.com/trending/7577800242021482538/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "小米汽车11月交付量超过4万辆",
-          "url": "https://www.toutiao.com/trending/7577675094711222282/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "iPhone用户的尴尬瞬间",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E7%94%A8%E6%88%B7%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%9E%AC%E9%97%B4&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "反垄断监管机构向印度法院表示，苹果(AAPL.O)公司对反垄断处罚法的挑战旨在拖延正在进行的诉讼程序。",
-          "url": "https://flash.jin10.com/detail/20251201155156836800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "曝iPhone折叠屏手机无折痕",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA%E6%97%A0%E6%8A%98%E7%97%95%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "华为MateX7升级到底有多大",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMateX7%E5%8D%87%E7%BA%A7%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "小米集团称12月1日回购1,000万股B类普通股，耗资约4亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3012998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 20,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 14时36分]"
-        },
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 12时54分]"
-        },
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
           "url": "https://wallstreetcn.com/articles/3760431",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 22时25分]"
-        },
-        {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 10时01分]"
-        },
-        {
-          "title": "字节搅动端侧AI风云！豆包发布手机助手预览版 又一轮换机潮可期？",
-          "url": "https://www.cls.cn/detail/2215541",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 20时47分]"
-        },
-        {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时20分]"
-        },
-        {
-          "title": "海外大厂提价！AI催生钽电容缺口 国内厂商谁能接棒涨价红利？|行业观察",
-          "url": "https://www.cls.cn/detail/2215163",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 16时34分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡走强放量收红！沪指重返3900点，AI端侧方向迎集体爆发",
-          "url": "https://www.cls.cn/detail/2215927",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 22时25分]"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 22时25分]"
-        },
-        {
-          "title": "软银CEO孙正义：当超级智能出现时，至少10%的全球GDP将由AI和AI机器人取代。",
-          "url": "https://wallstreetcn.com/livenews/3012910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时34分"
+          "time_info": "00时31分"
         },
         {
           "title": "孙正义回应清仓英伟达：为了投AI，我是哭着卖的",
           "url": "https://www.cls.cn/detail/2216291",
           "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "顾客买鞋子仅退款发AI图",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 22时25分]"
-        },
-        {
-          "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
-          "url": "https://www.cls.cn/detail/2215716",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时47分]"
-        },
-        {
-          "title": "如何评价米哈游创始人蔡浩宇海外团队 Anuttacon 制作的聊天 AI Anuneko?",
-          "url": "https://www.zhihu.com/question/1978825874213205536",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时47分]"
-        },
-        {
-          "title": "没想到夸克AI浏览器还可以这么用",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%B8%E5%85%8BAI%E6%B5%8F%E8%A7%88%E5%99%A8%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%94%A8%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "顾客买鞋子仅退款拿AI视频当凭证",
-          "url": "https://www.toutiao.com/trending/7578774499518169151/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
+          "time_info": "00时31分"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
           "url": "https://www.cls.cn/detail/2216065",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "00时31分"
         },
         {
-          "title": "谷歌CEO警告：美国AI监管混乱 恐在全球竞争中落后",
-          "url": "https://www.cls.cn/detail/2215915",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013078",
+          "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
+          "url": "https://wallstreetcn.com/livenews/3013139",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "郑恺上戏合影 AI生成",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
+          "url": "https://wallstreetcn.com/livenews/3013130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "顾客买鞋子仅退款发AI图",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米汽车月销破4万辆 订单还够用吗",
+          "url": "https://www.toutiao.com/trending/7578838517380288027/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "不要女用户,vivo狂踩女性购买力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347612&amp;topic_name=%E4%B8%8D%E8%A6%81%E5%A5%B3%E7%94%A8%E6%88%B7%2Cvivo%E7%8B%82%E8%B8%A9%E5%A5%B3%E6%80%A7%E8%B4%AD%E4%B9%B0%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "华为 mate80 无网通信，就是 700MHz 频段的对讲机，它会干扰移动 700MHz 网络吗？",
+          "url": "https://www.zhihu.com/question/1977536023505412441",
+          "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "00时31分"
         },
         {
-          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
-          "url": "https://flash.jin10.com/detail/20251201212133290800",
-          "source": "金十数据",
+          "title": "华强北华为Mate 80系列价格流出",
+          "url": "https://www.toutiao.com/trending/7578209064803827755/",
+          "source": "今日头条",
           "ranks": [
-            29
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
+          "url": "https://wallstreetcn.com/articles/3760444",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
           "url": "https://www.cls.cn/detail/2216342",
@@ -1046,221 +302,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，日元上涨，比特币下跌",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "加密货币相关股票美股盘前下跌，Riot Platforms跌3.1%，MARA Holdings跌4%，Coinbase跌3.3%，Strategy跌3.5%，Circle Internet跌2.8%，Bullish跌3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3012978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "12月开局避险情绪升温，美股期货下挫，科技股盘前多数走弱，银铜齐创新高，比特币下跌",
-          "url": "https://wallstreetcn.com/articles/3760444",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-01）",
-          "url": "https://flash.jin10.com/detail/20251201214154979800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "比特币跌破8.6万美元，24小时跌幅近6%。 美股期货跌幅逐步扩大，纳斯达克100指数期货跌近0.9%，标普500股指期货跌近0.7%，道琼斯指数期货跌0.45%。",
-          "url": "https://wallstreetcn.com/livenews/3012789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时36分]"
-        },
-        {
-          "title": "美股疫苗股盘前下跌，Moderna跌超3%，BioNTech、诺瓦瓦克斯跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3013007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "Gemini升级了哪些地方",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
-          "source": "bilibili 热搜",
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
           "ranks": [
-            25,
-            22,
-            21,
-            26,
-            17,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 16时34分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 04时24分]"
-        },
-        {
-          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
-          "url": "https://wallstreetcn.com/livenews/3012823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
-          "url": "https://www.cls.cn/detail/2215337",
-          "source": "财联社热门",
-          "ranks": [
-            12,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 18时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
-          "url": "https://wallstreetcn.com/livenews/3013014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "3900点关口存款搬家争论继续升温，银行客户钱往哪走？一线：基金销售渐火、保险产品受宠",
-          "url": "https://www.cls.cn/detail/2215474",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 20时47分]"
-        },
-        {
-          "title": "芯原股份：兴橙投资方和国开基金拟减持1%和0.15%股份",
-          "url": "https://wallstreetcn.com/livenews/3012970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "宁德时代：公司作为有限合伙人之一参与投资“博裕新智新产（宁波）股权投资合伙企业（有限合伙）”，于基金完成首次交割后，基金认缴出资金额为人民币40.01亿元，其中公司作为有限合伙人认缴出资人民币5亿元，持有基金12.497%的认缴比例。",
-          "url": "https://wallstreetcn.com/livenews/3013006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "time_info": "00时31分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai gpt codex",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -1269,66 +336,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        },
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 06时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "豆包手机助手已搭载在中兴的样机上",
-          "url": "https://wallstreetcn.com/livenews/3012740",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 12时54分]"
-        },
-        {
-          "title": "蓝思科技独供豆包手机关键精密结构件等 已获上亿订单",
-          "url": "https://wallstreetcn.com/livenews/3013086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "macOS ios",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据AXIOS网站：两名乌克兰官员表示，周日美国和乌克兰之间的谈判重点是根据和平协议划定与俄罗斯的实际边界。他们形容5个小时的会议“艰难”、“紧张”，但富有成效。",
-          "url": "https://flash.jin10.com/detail/20251201120659557800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "00时31分"
         }
       ]
     },
@@ -1343,43 +353,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阶跃星辰开源4B GUI Agent模型",
-          "url": "https://wallstreetcn.com/livenews/3012867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数跌至两周低点99.352。",
-          "url": "https://wallstreetcn.com/livenews/3012656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "00时31分"
         }
       ]
     }
