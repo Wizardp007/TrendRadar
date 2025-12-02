@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T04:28:12.432800+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2025-12-03T06:19:47.755511+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
+          "title": "特朗普媒体与公司的若干联合创始人达成司法和解。",
+          "url": "https://wallstreetcn.com/livenews/3013939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
@@ -36,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -105,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "特朗普与卢拉通话释缓和信号 巴西希望继续推进关税谈判",
+          "url": "https://flash.jin10.com/detail/20251203055449055800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -125,9 +147,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美国法官阻止特朗普政府在22个州执行一项剥夺计划生育联盟医疗补助资金的法律。",
+          "url": "https://flash.jin10.com/detail/20251203055226035800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "美国总统特朗普：我们已经将美联储主席候选人精简到一个人（本来有十个人）。 财政部长贝森特面试了一些我不知道的候选人。",
@@ -136,7 +169,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -159,7 +192,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -170,7 +203,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -181,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -192,7 +225,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -225,7 +258,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -280,7 +313,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -302,7 +335,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -335,7 +368,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -357,7 +390,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -390,7 +423,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -437,12 +470,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "周二（12月2日）纽约尾盘，美国10年期国债收益率微跌0.23个基点，在特朗普介绍哈塞特为“潜在的”美联储主席之际刷新日低至4.0788%，北京时间20:33刷新日高至4.1136%，之后持续回落。",
+          "url": "https://wallstreetcn.com/livenews/3013902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
@@ -453,20 +497,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -474,6 +506,44 @@
           "source": "财联社热门",
           "ranks": [
             7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
+          "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
+          "url": "https://wallstreetcn.com/articles/3760517",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
+          "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
+          "url": "https://wallstreetcn.com/articles/3760506",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
             6
           ],
           "is_new": false,
@@ -494,30 +564,6 @@
           "time_info": "[00时31分 ~ 04时28分]"
         },
         {
-          "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
-          "url": "https://wallstreetcn.com/articles/3760517",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
-          "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
-          "url": "https://wallstreetcn.com/articles/3760506",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
           "title": "亚马逊推出定制AI芯片Trainium3 英伟达迎战新一轮攻势",
           "url": "https://flash.jin10.com/detail/20251203001212473800",
           "source": "金十数据",
@@ -527,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "澳大利亚11月AIG/PWC制造业表现指数 -18，前值-22。",
+          "url": "https://flash.jin10.com/detail/20251203061409183800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -551,6 +608,20 @@
           "time_info": "00时31分"
         },
         {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
           "title": "投资者对冲AI项目失败的担忧，甲骨文和软银的CDS成本飙升",
           "url": "https://wallstreetcn.com/livenews/3013828",
           "source": "华尔街见闻-快讯",
@@ -573,19 +644,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 04时28分]"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "美国财长贝森特：2026年一季度将实施大规模退税。 明年将是Main Street（普罗大众，相对于华尔街精英而言）的一年。",
@@ -621,6 +679,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时43分 ~ 04时28分]"
+        },
+        {
+          "title": "日本卫材（Eisai）与渤健（BIIB）展示关于阿尔茨海默症疗法Lecanemab的（临床研究）数据。",
+          "url": "https://wallstreetcn.com/livenews/3013926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "AI手机概念股遇冷 热门公司先后“澄清” 哪些公司“豆包味”更浓？",
+          "url": "https://www.cls.cn/detail/2217548",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "法国公司Mistral AI正式发布Mistral 3模型",
@@ -678,21 +758,171 @@
           "time_info": "00时31分"
         },
         {
+          "title": "迈威尔科技将以大约32.5亿美元现金+股票收购Celestial AI",
+          "url": "https://wallstreetcn.com/livenews/3013912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
           "title": "亚马逊云服务：搭载全新Trainium3芯片的Trainium3超服务器正式全面上线。",
           "url": "https://flash.jin10.com/detail/20251203023155647800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "迈威尔科技(MRVL.O)将以32.5亿美元收购Celestial AI。",
+          "url": "https://flash.jin10.com/detail/20251203051305434800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
+          "title": "美股三大指数小幅高开 英伟达涨超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
+          "title": "周二（12月2日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨5.42%，报91860美元，北京时间22:00之前大致持平，之后显著走高，03:41刷新日高至92705美元。 CME以太币期货DCR主力合约涨7.37%，报3000美元。 美股加密货币与加密货币关联指数跌2.70%，报66.63点。 最近24小时，MarketVector数字资产100小盘指数涨6.31%，暂报18906.56点。",
+          "url": "https://wallstreetcn.com/livenews/3013930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股涨超8%。",
+          "url": "https://flash.jin10.com/detail/20251202235849459800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251203013150111800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌1.67%，报319.14点，美股早盘持续下挫，北京时间00:13刷新日低至310.65点，之后持续收复失地。 纽约证交所ARCA金矿开采商指数收跌1.49%，报2289.10点；22:30美股开盘之前一直大致持平，随后显著下跌，00:13刷新日低至2236.33点，之后逐步收复失地。",
+          "url": "https://wallstreetcn.com/livenews/3013928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2217558",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 06时19分]"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251203013047632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "周二（12月2日）纽约尾盘，现货黄金跌0.57%，报4208.04美元/盎司，日内持续震荡下跌，北京时间22:30美股开盘之前反弹至4230美元上方——几乎完全收复日内稍早失地，随后又快速下挫，23:58刷新日低至4163.95美元。 COMEX黄金期货跌0.77%，报4241.90美元/盎司，全天处于下跌状态，23:58也刷新日低至4194.00美元。 现货白银涨0.85%，报58.4841美元/盎司，逼近12月1日所创历史最高位58.8434美元。 COMEX白银期货持平，报59.155美元/盎司，也逼近12月1日所创盘中历史最高位59.435美元。 COMEX铜期货跌1.13%，报5.2430美元/磅。 现货铂金跌1.34%，现货钯金涨2.47%。",
+          "url": "https://wallstreetcn.com/livenews/3013927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "能源业ETF收跌约1.3%，领跌美股行业ETF，半导体ETF涨超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3013921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251203050524229800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "三星三折叠手机发布，罗永浩称其「比华为方案更厚，意义不明」，这款售价约 17305 元的手机值得买吗？",
@@ -700,11 +930,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
@@ -714,8 +945,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "小米汽车罕见自谦,冲欧自评不够格",
@@ -725,8 +956,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "三星发布三折叠手机",
@@ -737,8 +968,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -748,8 +979,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "自卫队用华为,美日兄弟情当场漏风",
@@ -759,8 +990,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "谁买谁后悔?华为新机线下体验拉闸",
@@ -770,8 +1001,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜苹果收涨约1.1%，Meta、英伟达等涨幅不到1%",
+          "url": "https://wallstreetcn.com/livenews/3013920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         },
         {
           "title": "苹果公司在欧盟法庭败诉（称荷兰APP Store的用户可以集体起诉该公司）之后，恐怕会面临集体诉讼。（彭博）",
@@ -798,75 +1040,52 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "grok 马斯克",
+      "match_count": 4,
       "titles": [
         {
-          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
-          "title": "英特尔(INTC.O)美股涨超8%。",
-          "url": "https://flash.jin10.com/detail/20251202235849459800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
+          "url": "https://wallstreetcn.com/livenews/3013871",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "04时28分"
         },
         {
-          "title": "金十图示：2025年12月02日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251203013150111800",
+          "title": "美国总统特朗普：（被问及马斯克相关问题时）我只是不希望只有电动汽车。",
+          "url": "https://flash.jin10.com/detail/20251203025043007800",
           "source": "金十数据",
           "ranks": [
-            10
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "04时28分"
         },
         {
-          "title": "美股三大指数小幅高开 英伟达涨超1%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时28分]"
-        },
-        {
-          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2217558",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 04时28分]"
-        },
-        {
-          "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251203013047632800",
+          "title": "美国总统特朗普：我和埃隆（马斯克）相处得很好。",
+          "url": "https://flash.jin10.com/detail/20251203024857172800",
           "source": "金十数据",
           "ranks": [
-            11
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时43分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "马斯克首次详谈伴侣身世：有印度血统",
+          "url": "https://www.toutiao.com/trending/7579032035185508393/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
@@ -883,8 +1102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -892,11 +1111,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -908,45 +1128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
-          "url": "https://wallstreetcn.com/livenews/3013871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "美国总统特朗普：（被问及马斯克相关问题时）我只是不希望只有电动汽车。",
-          "url": "https://flash.jin10.com/detail/20251203025043007800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "美国总统特朗普：我和埃隆（马斯克）相处得很好。",
-          "url": "https://flash.jin10.com/detail/20251203024857172800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         }
       ]
     },
@@ -1000,11 +1181,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
         },
         {
           "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
@@ -1013,7 +1195,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         }
@@ -1058,11 +1240,12 @@
           "ranks": [
             8,
             9,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
         }
       ]
     }
