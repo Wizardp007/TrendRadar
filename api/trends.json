@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T16:32:33.932557+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-12-02T18:25:44.241428+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -16,11 +16,12 @@
             17,
             13,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 18时25分]"
         },
         {
           "title": "“即将宣布”，特朗普称已选定下任美联储主席",
@@ -112,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "特朗普体检结果公布",
+          "url": "https://www.toutiao.com/trending/7579125829599235625/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -307,7 +319,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -370,7 +382,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "直接嵌入手机系统！豆包AI手机，帮你跨平台比价点外卖、自动回消息",
@@ -382,6 +394,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 09时45分]"
+        },
+        {
+          "title": "网警破获通过AI换脸非法侵入系统案",
+          "url": "https://www.toutiao.com/trending/7578802867742461503/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时25分]"
+        },
+        {
+          "title": "网警破获“AI换脸”侵入计算机案",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时25分]"
+        },
+        {
+          "title": "网警破获AI换脸非法侵入案",
+          "url": "https://www.douyin.com/hot/2323802",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时25分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -397,42 +442,21 @@
           "time_info": "[09时45分 ~ 16时32分]"
         },
         {
-          "title": "网警破获通过AI换脸非法侵入系统案",
-          "url": "https://www.toutiao.com/trending/7578802867742461503/",
-          "source": "今日头条",
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时32分]"
-        },
-        {
-          "title": "网警破获“AI换脸”侵入计算机案",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7%E2%80%9CAI%E6%8D%A2%E8%84%B8%E2%80%9D%E4%BE%B5%E5%85%A5%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时25分]"
         },
         {
           "title": "网警破获AI换脸非法侵入系统案",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E7%A0%B4%E8%8E%B7AI%E6%8D%A2%E8%84%B8%E9%9D%9E%E6%B3%95%E4%BE%B5%E5%85%A5%E7%B3%BB%E7%BB%9F%E6%A1%88",
           "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时32分]"
-        },
-        {
-          "title": "网警破获AI换脸非法侵入案",
-          "url": "https://www.douyin.com/hot/2323802",
-          "source": "抖音",
           "ranks": [
             6
           ],
@@ -467,18 +491,6 @@
           "time_info": "[00时31分 ~ 06时21分]"
         },
         {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时32分]"
-        },
-        {
           "title": "郑恺上戏合影 AI生成",
           "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%B8%8A%E6%88%8F%E5%90%88%E5%BD%B1%20AI%E7%94%9F%E6%88%90&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -493,15 +505,17 @@
           "time_info": "[00时31分 ~ 11时20分]"
         },
         {
-          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
-          "url": "https://flash.jin10.com/detail/20251202121909836800",
-          "source": "金十数据",
+          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
+          "url": "https://www.cls.cn/detail/2216759",
+          "source": "财联社热门",
           "ranks": [
-            2
+            10,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 18时25分]"
         },
         {
           "title": "AI Agent高权限进驻成手机新卖点 “侵入式AI”却已遭黑灰产利用",
@@ -513,8 +527,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 18时25分]"
+        },
+        {
+          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
+          "url": "https://www.cls.cn/detail/2216943",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
+          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "韩国AI初创公司Upstage计划最早于2026年下半年进行IPO",
@@ -539,16 +576,15 @@
           "time_info": "11时20分"
         },
         {
-          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
-          "url": "https://www.cls.cn/detail/2216759",
-          "source": "财联社热门",
+          "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
+          "url": "https://wallstreetcn.com/articles/3760465",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时35分 ~ 16时32分]"
+          "time_info": "[16时32分 ~ 18时25分]"
         },
         {
           "title": "AI手机概念延续强势，道明光学4连板，福蓉科技2连板，美芯晟、中兴通讯、传音控股、中石科技等纷纷高开。",
@@ -560,28 +596,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "亚马逊云计算盛会开幕！CEO今晚登台，新AI模型和AI芯片即将亮相？",
-          "url": "https://www.cls.cn/detail/2216943",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "首销备货 50 万台，豆包 AI 手机要卖给谁？",
-          "url": "https://wallstreetcn.com/articles/3760465",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "“AI网购”时代即将到来！大摩：2030年近半数线上购物者将使用AI代理",
@@ -607,6 +621,19 @@
           "time_info": "[02时36分 ~ 04时24分]"
         },
         {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 18时25分]"
+        },
+        {
           "title": "顾客买鞋子仅退款拿AI视频当凭证",
           "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E6%8B%BFAI%E8%A7%86%E9%A2%91%E5%BD%93%E5%87%AD%E8%AF%81",
           "source": "百度热搜",
@@ -619,18 +646,6 @@
           "time_info": "[02时36分 ~ 06时21分]"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 16时32分]"
-        },
-        {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
           "url": "https://wallstreetcn.com/livenews/3013184",
           "source": "华尔街见闻-快讯",
@@ -640,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "道明光学：公司目前不存在AI手机相关业务",
+          "url": "https://wallstreetcn.com/livenews/3013624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "监管机构发出警告：AI加剧大型科技公司对欧盟银行的系统性威胁",
@@ -659,9 +685,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "俄罗斯国防部：俄军已夺取乌克兰东部的Zeleny Hai和Dobropillia。",
+          "url": "https://flash.jin10.com/detail/20251202173359298800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "千问上线阿里最强AI生图模型满血版",
@@ -686,6 +723,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "AI什么邪门CP都嗑得下",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E4%BB%80%E4%B9%88%E9%82%AA%E9%97%A8CP%E9%83%BD%E5%97%91%E5%BE%97%E4%B8%8B%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "顾客买鞋子仅退款发AI图",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B9%B0%E9%9E%8B%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE%E5%8F%91AI%E5%9B%BE%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -700,7 +748,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "iPhone登顶国产手机如何破局​",
@@ -708,11 +756,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 18时25分]"
         },
         {
           "title": "不要女用户,vivo狂踩女性购买力",
@@ -724,11 +773,12 @@
             21,
             23,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 18时25分]"
         },
         {
           "title": "自卫队用华为,美日兄弟情当场漏风",
@@ -737,11 +787,12 @@
           "ranks": [
             2,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时25分]"
         },
         {
           "title": "谁买谁后悔?华为新机线下体验拉闸",
@@ -751,11 +802,23 @@
             5,
             7,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 18时25分]"
+        },
+        {
+          "title": "华为鸿蒙",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%B8%BF%E8%92%99&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 18时25分]"
         },
         {
           "title": "罗永浩谈三星三折叠",
@@ -798,7 +861,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -814,26 +877,15 @@
           "time_info": "12时32分"
         },
         {
-          "title": "华为鸿蒙",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%B8%BF%E8%92%99&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "小米汽车罕见自谦,冲欧自评不够格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347668&amp;topic_name=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%BD%95%E8%A7%81%E8%87%AA%E8%B0%A6%2C%E5%86%B2%E6%AC%A7%E8%87%AA%E8%AF%84%E4%B8%8D%E5%A4%9F%E6%A0%BC",
+          "source": "贴吧",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "三星发布首款三折叠手机",
-          "url": "https://www.toutiao.com/trending/7579094938323783194/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "18时25分"
         },
         {
           "title": "小米汽车交付量已超全年目标",
@@ -874,17 +926,6 @@
           "time_info": "[00时31分 ~ 06时21分]"
         },
         {
-          "title": "雷军突然开卖现车 小米彻底摊牌了",
-          "url": "https://www.toutiao.com/trending/7579141283130641926/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "小米SU7撞坏上百米隔离带 10余车受损",
           "url": "https://www.toutiao.com/trending/7578755850244849710/",
           "source": "今日头条",
@@ -908,6 +949,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "三星发布首款三折叠手机",
+          "url": "https://www.toutiao.com/trending/7579094938323783194/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
+          "title": "雷军突然开卖现车 小米彻底摊牌了",
+          "url": "https://www.toutiao.com/trending/7579141283130641926/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
+          "title": "三星发布三折叠手机",
+          "url": "https://www.douyin.com/hot/2324053",
+          "source": "抖音",
+          "ranks": [
+            26,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 18时25分]"
         },
         {
           "title": "苹果更换AI主管 白银年内涨幅突破100% | 环球市场",
@@ -988,21 +1065,32 @@
           "time_info": "11时20分"
         },
         {
-          "title": "三星发布三折叠手机",
-          "url": "https://www.douyin.com/hot/2324053",
-          "source": "抖音",
+          "title": "小鹏X9超级增程全球首发华为DriveONE下一代增程发电机",
+          "url": "https://wallstreetcn.com/livenews/3013603",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "18时25分"
+        },
+        {
+          "title": "三星发布首款三折叠手机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E4%B8%89%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -1129,6 +1217,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "中概股美股盘前多数下跌，小鹏汽车跌4.6%，哔哩哔哩跌超1%，阿里巴巴跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251202050552225800",
           "source": "金十数据",
@@ -1179,8 +1278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 18时25分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -1192,8 +1291,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 18时25分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -1232,6 +1331,69 @@
       ]
     },
     {
+      "keyword_group": "grok 马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克：我应该少碰政治",
+          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 06时21分]"
+        },
+        {
+          "title": "马斯克官宣小15岁高管女友",
+          "url": "https://www.toutiao.com/trending/7578773548719112202/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 18时25分]"
+        },
+        {
+          "title": "马斯克：人类活在虚拟世界概率极高",
+          "url": "https://www.toutiao.com/trending/7579074233024646666/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 16时32分]"
+        },
+        {
+          "title": "日本设置政府效率部 拒绝马斯克式激进裁员",
+          "url": "https://flash.jin10.com/detail/20251202101658799800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "马斯克官宣高管女友",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 5,
       "titles": [
@@ -1257,8 +1419,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时45分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 18时25分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -1280,7 +1442,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -1299,59 +1461,8 @@
       ]
     },
     {
-      "keyword_group": "grok 马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克：我应该少碰政治",
-          "url": "https://news.ifeng.com/c/8ojSkf95Puf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时21分]"
-        },
-        {
-          "title": "马斯克官宣小15岁高管女友",
-          "url": "https://www.toutiao.com/trending/7578773548719112202/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "马斯克：人类活在虚拟世界概率极高",
-          "url": "https://www.toutiao.com/trending/7579074233024646666/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 16时32分]"
-        },
-        {
-          "title": "日本设置政府效率部 拒绝马斯克式激进裁员",
-          "url": "https://flash.jin10.com/detail/20251202101658799800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据消息人士透露，城堡证券全球固定收益基金11月份上涨1.1%，截至11月年内累计上涨8.5%。",
@@ -1396,12 +1507,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "英国央行警告 对冲基金基差交易加剧英国国债风险",
+          "url": "https://wallstreetcn.com/livenews/3013601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年12月02日（周二）上海金早盘价为955.63元/克，较国际金价(959.69元/克)，低4.06元/克",
@@ -1413,6 +1535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "金价随美债收益率走强而回落 市场聚焦美国经济数据",
+          "url": "https://flash.jin10.com/detail/20251202173757800800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "金价",
@@ -1470,8 +1603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 18时25分]"
         }
       ]
     },
