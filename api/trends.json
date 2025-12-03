@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T16:31:39.271901+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-12-03T18:27:36.706819+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普“点名”日本",
@@ -22,6 +22,19 @@
           "time_info": "[11时18分 ~ 16时31分]"
         },
         {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 18时27分]"
+        },
+        {
           "title": "白宫：特朗普已终止“无休止”援乌",
           "url": "https://news.ifeng.com/c/8okzUol0Uy6",
           "source": "凤凰网",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 09时44分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 16时31分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -80,6 +80,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普签署法律以加深美台联系，外交部回应",
+          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普威胁：将实施陆地打击",
+          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时27分]"
         },
         {
           "title": "韩国总统李在明：韩国获得核动力潜艇的能力是与美国总统特朗普会谈的一项重大成果。",
@@ -126,17 +161,6 @@
           "time_info": "09时44分"
         },
         {
-          "title": "特朗普签署法律以加深美台联系，外交部回应",
-          "url": "https://news.ifeng.com/c/8omiCWLXNQt",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "特朗普积极暗示哈塞特为下任美联储主席",
           "url": "https://flash.jin10.com/detail/20251203040443497800",
           "source": "金十数据",
@@ -154,7 +178,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -165,7 +189,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -181,15 +205,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "特朗普威胁：将实施陆地打击",
-          "url": "https://news.ifeng.com/c/8omGo38Yvg0",
-          "source": "凤凰网",
+          "title": "乌克兰总统泽连斯基：乌梅罗夫将在美国与美国总统特朗普的代表会面。",
+          "url": "https://flash.jin10.com/detail/20251203175705904800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "18时27分"
         },
         {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
@@ -214,17 +238,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "特朗普点名日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E5%90%8D%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
           "title": "特朗普宣布拜登时期文件全部作废",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -236,6 +249,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时44分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普签署涉台法案，外交部：敦促美方慎之又慎地处理台湾问题",
+          "url": "https://www.cls.cn/detail/2218308",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
@@ -272,15 +296,15 @@
           "time_info": "[09时44分 ~ 11时19分]"
         },
         {
-          "title": "外交部回应特朗普签法律加深美台联系",
-          "url": "https://www.toutiao.com/trending/7579439474674483219/",
-          "source": "今日头条",
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E6%B6%89%E5%8F%B0%E6%B3%95%E6%A1%88",
+          "source": "百度热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "18时27分"
         },
         {
           "title": "美国总统特朗普：将重建杜勒斯机场。",
@@ -350,6 +374,30 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普“点名”日本",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时27分]"
+        },
+        {
+          "title": "外交部回应特朗普签法律加深美台联系",
+          "url": "https://www.toutiao.com/trending/7579439474674483219/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时27分]"
+        },
+        {
           "title": "美国总统特朗普：三家大型航空公司竞标美国联邦航空管理局（FAA）空中交通管理系统的现代化项目。",
           "url": "https://wallstreetcn.com/livenews/3013853",
           "source": "华尔街见闻-快讯",
@@ -390,7 +438,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -404,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "民主党州拒交数据 特朗普政府威胁停SNAP经费",
+          "url": "https://flash.jin10.com/detail/20251203174227734800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美国卫生部长RFK Jr.：另外12家医药公司准备（与总统特朗普）达成药品价格协议。",
@@ -470,17 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "特朗普“点名”日本",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E7%82%B9%E5%90%8D%E2%80%9D%E6%97%A5%E6%9C%AC",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "美国总统特朗普：我希望我们能够结束俄罗斯和乌克兰之间的战争。",
@@ -632,7 +680,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -657,6 +705,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "克里姆林宫：对美国总统特朗普寻求解决问题的政治意愿及他所作的努力表示感谢。",
+          "url": "https://flash.jin10.com/detail/20251203173619981800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "特朗普点名日本",
+          "url": "https://www.douyin.com/hot/2324828",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "巴西总统府：巴西总统卢拉与美国总统特朗普就贸易、经济及打击有组织犯罪进行了会谈。",
@@ -756,6 +826,18 @@
           "time_info": "[00时31分 ~ 14时35分]"
         },
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 18时27分]"
+        },
+        {
           "title": "“豆包AI助手”手机售罄！生态挑战仍待破局 手机厂商或倾向于自研",
           "url": "https://www.cls.cn/detail/2217493",
           "source": "财联社热门",
@@ -766,18 +848,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 09时44分]"
-        },
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 16时31分]"
         },
         {
           "title": "豆包AI助手\"理想丰满现实骨感\"？大摩：手机大厂更倾向自研，要落地很困难",
@@ -829,6 +899,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 04时28分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 18时27分]"
         },
         {
           "title": "12 月 1 日豆包手机助手技术预览版发布，AI 直接嵌入操作系统底层有何意义？会对行业产生什么影响？",
@@ -899,19 +983,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 16时31分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -1170,7 +1241,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
@@ -1211,7 +1282,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "三星三折叠手机发布，罗永浩称其「比华为方案更厚，意义不明」，这款售价约 17305 元的手机值得买吗？",
@@ -1236,11 +1307,44 @@
             9,
             12,
             14,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 16时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 18时27分]"
+        },
+        {
+          "title": "自卫队用华为,美日兄弟情当场漏风",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347652&amp;topic_name=%E8%87%AA%E5%8D%AB%E9%98%9F%E7%94%A8%E5%8D%8E%E4%B8%BA%2C%E7%BE%8E%E6%97%A5%E5%85%84%E5%BC%9F%E6%83%85%E5%BD%93%E5%9C%BA%E6%BC%8F%E9%A3%8E",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15,
+            18,
+            20,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 18时27分]"
+        },
+        {
+          "title": "谁买谁后悔?华为新机线下体验拉闸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347650&amp;topic_name=%E8%B0%81%E4%B9%B0%E8%B0%81%E5%90%8E%E6%82%94%3F%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E7%BA%BF%E4%B8%8B%E4%BD%93%E9%AA%8C%E6%8B%89%E9%97%B8",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            19,
+            22,
+            24,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 18时27分]"
         },
         {
           "title": "小米高管疑似集体遭遇短信轰炸",
@@ -1252,36 +1356,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 09时44分]"
-        },
-        {
-          "title": "自卫队用华为,美日兄弟情当场漏风",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347652&amp;topic_name=%E8%87%AA%E5%8D%AB%E9%98%9F%E7%94%A8%E5%8D%8E%E4%B8%BA%2C%E7%BE%8E%E6%97%A5%E5%85%84%E5%BC%9F%E6%83%85%E5%BD%93%E5%9C%BA%E6%BC%8F%E9%A3%8E",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            15,
-            18,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 16时31分]"
-        },
-        {
-          "title": "谁买谁后悔?华为新机线下体验拉闸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347650&amp;topic_name=%E8%B0%81%E4%B9%B0%E8%B0%81%E5%90%8E%E6%82%94%3F%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E7%BA%BF%E4%B8%8B%E4%BD%93%E9%AA%8C%E6%8B%89%E9%97%B8",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            19,
-            22,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 16时31分]"
         },
         {
           "title": "雷军突然开卖现车 小米彻底摊牌了",
@@ -1316,6 +1390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "集邦咨询：三季度NAND Flash前五大品牌商合计营收季增16.5%，三星市占第一",
+          "url": "https://wallstreetcn.com/livenews/3014358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨约1.1%，Meta、英伟达等涨幅不到1%",
@@ -1398,8 +1483,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -1539,6 +1624,143 @@
       ]
     },
     {
+      "keyword_group": "基金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "佰维存储：国家集成电路产业投资基金二期减持464.6万股公司股份",
+          "url": "https://wallstreetcn.com/livenews/3014386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "央行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨",
+          "url": "https://wallstreetcn.com/livenews/3014124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时31分]"
+        },
+        {
+          "title": "美国货币市场基金资产规模首次突破8万亿美元",
+          "url": "https://flash.jin10.com/detail/20251202235549187800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "15项大奖角逐！私募基金·华尊奖谁胜出？正待揭晓时刻",
+          "url": "https://www.cls.cn/detail/2218151",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "再创新高，美国货币市场基金规模首次突破8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3013812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        },
+        {
+          "title": "年底“发行战”！超60只新基金定档12月",
+          "url": "https://wallstreetcn.com/livenews/3014172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "首款豆包助手手机开箱",
+          "url": "https://www.douyin.com/hot/2323935",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 06时19分]"
+        },
+        {
+          "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
+          "url": "https://wallstreetcn.com/livenews/3013889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
+          "url": "https://wallstreetcn.com/livenews/3014312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
+          "url": "https://wallstreetcn.com/articles/3760626",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "独家｜豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32094679",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "grok 马斯克",
       "match_count": 4,
       "titles": [
@@ -1639,57 +1861,6 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "央行行长潘功胜会见国际货币基金组织第一副总裁丹·卡茨",
-          "url": "https://wallstreetcn.com/livenews/3014124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 12时31分]"
-        },
-        {
-          "title": "美国货币市场基金资产规模首次突破8万亿美元",
-          "url": "https://flash.jin10.com/detail/20251202235549187800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "再创新高，美国货币市场基金规模首次突破8万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3013812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "年底“发行战”！超60只新基金定档12月",
-          "url": "https://wallstreetcn.com/livenews/3014172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini nano",
       "match_count": 3,
       "titles": [
@@ -1729,48 +1900,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "首款豆包助手手机开箱",
-          "url": "https://www.douyin.com/hot/2323935",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 06时19分]"
-        },
-        {
-          "title": "“豆包”加持，3499元的手机，一天就卖光，闲鱼挂价最高近万元",
-          "url": "https://wallstreetcn.com/livenews/3013889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "豆包手机助手触发微信账号强制下线？豆包、微信双方回应",
-          "url": "https://wallstreetcn.com/livenews/3014312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         }
       ]
     },
