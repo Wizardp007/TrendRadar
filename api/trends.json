@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T20:45:18.247091+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-12-05T22:23:42.281060+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了(图)",
@@ -86,6 +86,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "墨西哥外交部：墨西哥总统辛鲍姆确认将与美国总统特朗普和加拿大总理卡尼会面。",
+          "url": "https://flash.jin10.com/detail/20251205214207524800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-05）",
           "url": "https://flash.jin10.com/detail/20251205180349829800",
           "source": "金十数据",
@@ -132,6 +143,17 @@
           "time_info": "[02时35分 ~ 04时28分]"
         },
         {
+          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时23分]"
+        },
+        {
           "title": "加拿大总理卡尼不打算在国际足联活动上与特朗普讨论贸易问题",
           "url": "https://flash.jin10.com/detail/20251205005303788800",
           "source": "金十数据",
@@ -142,17 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 04时28分]"
-        },
-        {
-          "title": "印媒发莫迪普京动画片 还恶搞特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%AA%92%E5%8F%91%E8%8E%AB%E8%BF%AA%E6%99%AE%E4%BA%AC%E5%8A%A8%E7%94%BB%E7%89%87+%E8%BF%98%E6%81%B6%E6%90%9E%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
         },
         {
           "title": "美国总统特朗普重申：将利用关税收入来偿还债务。",
@@ -243,6 +254,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：未与美国总统特朗普讨论美联储主席（人选）问题。",
+          "url": "https://flash.jin10.com/detail/20251205211546105800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "加拿大总理卡尼将于周五在世界杯抽签仪式上与美国总统特朗普和墨西哥总统辛鲍姆举行简短会晤。",
           "url": "https://flash.jin10.com/detail/20251205002807924800",
           "source": "金十数据",
@@ -276,6 +298,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 只要没有“随机黑天鹅”事件发生，预计2026年将成为“美国经济史上的黄金年份之一” 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
+          "url": "https://wallstreetcn.com/livenews/3015973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "市场消息：特朗普解雇了白宫宴会厅设计师。",
           "url": "https://flash.jin10.com/detail/20251205043753442800",
           "source": "金十数据",
@@ -290,7 +323,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -301,8 +334,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时46分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 22时23分]"
         },
         {
           "title": "美股收盘：小盘股指数再创历史新高",
@@ -338,7 +371,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -349,7 +382,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -360,7 +393,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -393,9 +426,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3015993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股盘中）",
@@ -420,6 +464,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 04时28分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205213443554800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美股行业ETF涨跌各异，半导体ETF收跌0.76%，能源业ETF涨超0.4%",
@@ -461,7 +516,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -505,7 +560,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -592,28 +647,30 @@
           "time_info": "[00时33分 ~ 09时46分]"
         },
         {
-          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
-          "url": "https://www.zhihu.com/question/1980299505992753247",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
-        },
-        {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
           "source": "澎湃新闻",
           "ranks": [
             13,
             10,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 22时23分]"
+        },
+        {
+          "title": "如何评价 C 罗在自己投资的 AI 宣传片里表示 1000 球＞世界杯夺冠？",
+          "url": "https://www.zhihu.com/question/1980299505992753247",
+          "source": "知乎",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时31分 ~ 20时45分]"
+          "time_info": "[20时44分 ~ 22时23分]"
         },
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
@@ -1004,8 +1061,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 20时45分]"
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 22时23分]"
         },
         {
           "title": "豆包抢入口，捅了马蜂窝",
@@ -1016,8 +1073,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时23分]"
         },
         {
           "title": "豆包语音识别模型2.0上线",
@@ -1035,11 +1092,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%20%E5%BE%AE%E4%BF%A1&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时23分]"
         }
       ]
     },
@@ -1116,8 +1174,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时23分]"
         },
         {
           "title": "欧盟开出数字服务法下的首张罚单 马斯克旗下X被罚1.2亿欧元",
@@ -1126,7 +1184,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
