@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-06T20:41:25.601487+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2025-12-06T22:19:05.608514+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 45,
       "titles": [
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 22时19分]"
+        },
         {
           "title": "特朗普世界杯抽签搞抽象",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时40分 ~ 18时21分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "特朗普警告高市早苗别插手台海",
@@ -108,9 +108,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
         },
         {
           "title": "美国上诉法庭：总统特朗普可以“毫无根据”地解雇劳工与就业委员会成员。",
@@ -173,17 +184,6 @@
           "time_info": "[04时25分 ~ 06时21分]"
         },
         {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
           "url": "https://wallstreetcn.com/livenews/3016099",
           "source": "华尔街见闻-快讯",
@@ -228,6 +228,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时40分 ~ 11时11分]"
+        },
+        {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 22时19分]"
         },
         {
           "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
@@ -300,30 +324,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 04时25分]"
-        },
-        {
-          "title": "特朗普获得“国际足联和平奖”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -409,7 +409,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         },
@@ -544,6 +544,20 @@
           "time_info": "[09时40分 ~ 20时41分]"
         },
         {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时25分 ~ 22时19分]"
+        },
+        {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
           "source": "澎湃新闻",
@@ -557,19 +571,6 @@
           "time_info": "[00时29分 ~ 11时11分]"
         },
         {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 20时41分]"
-        },
-        {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
           "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
@@ -579,8 +580,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时19分]"
+        },
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
+          "title": "豆包AI手机深度体验",
+          "url": "https://www.douyin.com/hot/2328540",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时19分]"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -594,17 +618,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时11分 ~ 14时31分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -625,22 +638,12 @@
           "url": "https://wallstreetcn.com/livenews/3016306",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "豆包AI手机深度体验",
-          "url": "https://www.douyin.com/hot/2328540",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
@@ -737,8 +740,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 22时19分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -747,11 +750,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时40分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时40分 ~ 22时19分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -913,7 +917,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "网传小米外包员工「天放哥」因抗议加班被离职，是真的吗？反映了当前互联网行业外包员工劳动权益的哪些困境？",
@@ -928,6 +932,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 11时11分]"
+        },
+        {
+          "title": "华为手机拍月亮体验如何",
+          "url": "https://www.toutiao.com/trending/7580358714817806346/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 22时19分]"
         },
         {
           "title": "黄仁勋赞华为：史上最强科技公司之一",
@@ -1027,7 +1042,7 @@
     },
     {
       "keyword_group": "豆包",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "豆包手机被微信「拒绝」后，阿里系 App 被曝也禁止其登陆，如何看待这场「博弈」？核心矛盾是什么？",
@@ -1041,8 +1056,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时30分 ~ 20时41分]"
+          "appearance_count": 10,
+          "time_info": "[02时30分 ~ 22时19分]"
         },
         {
           "title": "豆包抢入口，捅了马蜂窝",
@@ -1093,6 +1108,17 @@
           "time_info": "[11时11分 ~ 12时25分]"
         },
         {
+          "title": "豆包手机掀起了滔天巨浪",
+          "url": "https://wallstreetcn.com/articles/3760851",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "豆包手机",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1119,74 +1145,20 @@
       ]
     },
     {
-      "keyword_group": "基金",
+      "keyword_group": "grok 马斯克",
       "match_count": 5,
       "titles": [
         {
-          "title": "据美国纽约联储数据，上个交易日（12月4日）担保隔夜融资利率（SOFR）报3.92%，之前一天报3.95%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.89%。",
-          "url": "https://wallstreetcn.com/livenews/3016048",
+          "title": "马斯克称欧盟应该被废除",
+          "url": "https://wallstreetcn.com/livenews/3016320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "22时19分"
         },
-        {
-          "title": "长城基金管理有限公司发布公告称，副总经理车君于2025年12月4日正式离任，原因为到龄退休，未转任公司其他岗位。",
-          "url": "https://wallstreetcn.com/livenews/3016221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 14时31分]"
-        },
-        {
-          "title": "独家｜基金经理薪酬重大改革征求意见，强化薪酬与业绩绑定",
-          "url": "https://www.cls.cn/detail/2221767",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
-        },
-        {
-          "title": "长城基金管理有限公司：副总经理车君于2025年12月4日正式离任，原因为到龄退休，未转任公司其他岗位。",
-          "url": "https://flash.jin10.com/detail/20251206120153711800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 16时27分]"
-        },
-        {
-          "title": "中信证券：不必过度担忧公募基金新规对于二永债的影响",
-          "url": "https://wallstreetcn.com/livenews/3016201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 12时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 4,
-      "titles": [
         {
           "title": "马斯克旗下SpaceX告诉投资者，该公司考虑2026年后期/年底IPO。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3016108",
@@ -1232,6 +1204,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据美国纽约联储数据，上个交易日（12月4日）担保隔夜融资利率（SOFR）报3.92%，之前一天报3.95%。 上个交易日有效的联邦基金利率报3.89%，之前一天报3.89%。",
+          "url": "https://wallstreetcn.com/livenews/3016048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "独家｜基金经理薪酬重大改革征求意见，强化薪酬与业绩绑定",
+          "url": "https://www.cls.cn/detail/2221767",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
+          "title": "长城基金管理有限公司发布公告称，副总经理车君于2025年12月4日正式离任，原因为到龄退休，未转任公司其他岗位。",
+          "url": "https://wallstreetcn.com/livenews/3016221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时25分 ~ 14时31分]"
+        },
+        {
+          "title": "长城基金管理有限公司：副总经理车君于2025年12月4日正式离任，原因为到龄退休，未转任公司其他岗位。",
+          "url": "https://flash.jin10.com/detail/20251206120153711800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 16时27分]"
+        },
+        {
+          "title": "中信证券：不必过度担忧公募基金新规对于二永债的影响",
+          "url": "https://wallstreetcn.com/livenews/3016201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时25分]"
         }
       ]
     },
@@ -1348,11 +1386,12 @@
           "url": "https://wallstreetcn.com/articles/3760844",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时19分]"
         }
       ]
     },
