@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T20:40:20.252398+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-12-07T22:19:42.680651+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -55,6 +55,17 @@
           "time_info": "[00时25分 ~ 06时20分]"
         },
         {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "美国发生特大诈骗案 特朗普怒批",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
           "source": "百度热搜",
@@ -66,28 +77,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时37分 ~ 14时31分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
-          "url": "https://flash.jin10.com/detail/20251207194238247800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20251207193951591800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
@@ -114,6 +103,30 @@
           "time_info": "[14时31分 ~ 16时27分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 22时19分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 22时19分]"
+        },
+        {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
@@ -131,11 +144,24 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 22时19分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时40分]"
+          "time_info": "[20时40分 ~ 22时19分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -147,17 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251207192532766800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
         },
         {
           "title": "特朗普威胁封锁委领空 马杜罗咋办",
@@ -174,7 +189,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克称欧盟应该被废除",
@@ -189,6 +204,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 12时34分]"
+        },
+        {
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://www.cls.cn/detail/2221851",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时38分 ~ 22时19分]"
         },
         {
           "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
@@ -213,20 +242,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 09时54分]"
-        },
-        {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://www.cls.cn/detail/2221851",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时38分 ~ 20时40分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -283,6 +298,17 @@
           "time_info": "[16时27分 ~ 20时40分]"
         },
         {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://news.ifeng.com/c/8otTJGl9zCA",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "马斯克：Grok 4.20将在3至4周内发布。",
           "url": "https://flash.jin10.com/detail/20251207164105417800",
           "source": "金十数据",
@@ -332,6 +358,134 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "三星堆与秦始皇帝陵竟有联系",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E4%B8%8E%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%B8%9D%E9%99%B5%E7%AB%9F%E6%9C%89%E8%81%94%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 09时54分]"
+        },
+        {
+          "title": "受存储涨价影响红米、 vivo 、 OPPO 等多个品牌手机涨价上市，影响可能会持续多久？价格会持续上涨吗？",
+          "url": "https://www.zhihu.com/question/1971246888301863369",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时34分 ~ 22时19分]"
+        },
+        {
+          "title": "苹果CEO库克被曝手部间歇性颤抖 在公司内部引发关注",
+          "url": "https://flash.jin10.com/detail/20251207105148330800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 14时31分]"
+        },
+        {
+          "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
+          "url": "https://flash.jin10.com/detail/20251207083121209800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 12时34分]"
+        },
+        {
+          "title": "数十年来人事从未如此动荡！苹果爆发高管离职潮，库克去向备受关注",
+          "url": "https://wallstreetcn.com/articles/3760859",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "比伯吐槽iPhone按钮设计",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E5%90%90%E6%A7%BDiPhone%E6%8C%89%E9%92%AE%E8%AE%BE%E8%AE%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 11时38分]"
+        },
+        {
+          "title": "华为为何只盯未来三五年",
+          "url": "https://www.toutiao.com/trending/7580923363866971702/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时37分 ~ 12时34分]"
+        },
+        {
+          "title": "28元一斤！小米辣迎来涨价潮",
+          "url": "https://www.baidu.com/s?wd=28%E5%85%83%E4%B8%80%E6%96%A4%EF%BC%81%E5%B0%8F%E7%B1%B3%E8%BE%A3%E8%BF%8E%E6%9D%A5%E6%B6%A8%E4%BB%B7%E6%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 20时40分]"
+        },
+        {
+          "title": "当赵露思遇上苹果",
+          "url": "https://www.douyin.com/hot/2328867",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 04时23分]"
+        },
+        {
+          "title": "你会花七八千买华为手机吗",
+          "url": "https://www.toutiao.com/trending/7580356626910642195/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
       "match_count": 10,
       "titles": [
@@ -344,8 +498,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 22时19分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -459,123 +613,6 @@
       ]
     },
     {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "三星堆与秦始皇帝陵竟有联系",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E5%A0%86%E4%B8%8E%E7%A7%A6%E5%A7%8B%E7%9A%87%E5%B8%9D%E9%99%B5%E7%AB%9F%E6%9C%89%E8%81%94%E7%B3%BB",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 09时54分]"
-        },
-        {
-          "title": "受存储涨价影响红米、 vivo 、 OPPO 等多个品牌手机涨价上市，影响可能会持续多久？价格会持续上涨吗？",
-          "url": "https://www.zhihu.com/question/1971246888301863369",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时34分 ~ 20时40分]"
-        },
-        {
-          "title": "苹果CEO库克被曝手部间歇性颤抖 在公司内部引发关注",
-          "url": "https://flash.jin10.com/detail/20251207105148330800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 14时31分]"
-        },
-        {
-          "title": "苹果(AAPL.O)硬件技术高级副总裁Johny Srouji近日向CEO库克表示，他正考虑在不久的将来离职。",
-          "url": "https://flash.jin10.com/detail/20251207083121209800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时34分]"
-        },
-        {
-          "title": "比伯吐槽iPhone按钮设计",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E5%90%90%E6%A7%BDiPhone%E6%8C%89%E9%92%AE%E8%AE%BE%E8%AE%A1%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 11时38分]"
-        },
-        {
-          "title": "华为为何只盯未来三五年",
-          "url": "https://www.toutiao.com/trending/7580923363866971702/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 12时34分]"
-        },
-        {
-          "title": "28元一斤！小米辣迎来涨价潮",
-          "url": "https://www.baidu.com/s?wd=28%E5%85%83%E4%B8%80%E6%96%A4%EF%BC%81%E5%B0%8F%E7%B1%B3%E8%BE%A3%E8%BF%8E%E6%9D%A5%E6%B6%A8%E4%BB%B7%E6%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时40分]"
-        },
-        {
-          "title": "当赵露思遇上苹果",
-          "url": "https://www.douyin.com/hot/2328867",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 04时23分]"
-        },
-        {
-          "title": "你会花七八千买华为手机吗",
-          "url": "https://www.toutiao.com/trending/7580356626910642195/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基金",
       "match_count": 5,
       "titles": [
@@ -589,8 +626,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 20时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 22时19分]"
         },
         {
           "title": "【早报】吴清发声！对优质机构适当“松绑”；基金经理薪酬改革征求意见，强化薪酬与业绩绑定",
@@ -603,8 +640,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 20时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 22时19分]"
         },
         {
           "title": "黄奇帆：务必让30多万亿基金的70%“投早、投小、投硬科技、投长周期”",
@@ -625,11 +662,12 @@
           "url": "https://wallstreetcn.com/articles/3760855",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 20时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 22时19分]"
         },
         {
           "title": "两部门：加强医保基金支付监测",
