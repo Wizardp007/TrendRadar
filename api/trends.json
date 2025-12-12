@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T02:35:03.354043+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2025-12-13T04:26:19.425258+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -28,8 +28,43 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -44,36 +79,13 @@
           "time_info": "[00时28分 ~ 02时35分]"
         },
         {
-          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2228432",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
-        },
-        {
-          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
           "url": "https://flash.jin10.com/detail/20251213021313071800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -89,15 +101,26 @@
           "time_info": "00时28分"
         },
         {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
+          "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
+          "url": "https://wallstreetcn.com/livenews/3020118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
+          "url": "https://wallstreetcn.com/articles/3761241",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
@@ -111,15 +134,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
-          "url": "https://wallstreetcn.com/articles/3761241",
-          "source": "华尔街见闻",
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "04时26分"
         },
         {
           "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
@@ -130,8 +153,43 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
+          "url": "https://wallstreetcn.com/livenews/3020088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "time_info": "[02时35分 ~ 04时26分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
+          "url": "https://wallstreetcn.com/livenews/3020087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
+        },
+        {
+          "title": "白宫“加密和AI沙皇”为特朗普AI法规站场，称其旨在减轻企业合规负担",
+          "url": "https://flash.jin10.com/detail/20251213031516659800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
@@ -145,26 +203,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
-          "url": "https://wallstreetcn.com/livenews/3020088",
-          "source": "华尔街见闻-快讯",
+          "title": "GPT-5.2 正式发布，你如何看待 OpenAI 称其为「最强专业知识工作大模型」？",
+          "url": "https://www.zhihu.com/question/1982756499861304580",
+          "source": "知乎",
           "ranks": [
-            21
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
-          "url": "https://wallstreetcn.com/livenews/3020087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "04时26分"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
@@ -173,7 +220,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -181,19 +228,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
-          "url": "https://flash.jin10.com/detail/20251213021141343800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
           "url": "https://news.ifeng.com/c/8p1vHCZebHh",
@@ -202,19 +238,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
-        },
-        {
-          "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
-          "url": "https://wallstreetcn.com/livenews/3020109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -224,8 +249,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
+          "url": "https://flash.jin10.com/detail/20251213021141343800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
@@ -239,6 +286,18 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
+          "url": "https://wallstreetcn.com/livenews/3020109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
+        },
+        {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
@@ -247,30 +306,44 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
           "url": "https://wallstreetcn.com/livenews/3020102",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
         },
         {
           "title": "美国总统特朗普：与柬埔寨总理和泰国总理通电话，交谈情况不错。",
           "url": "https://wallstreetcn.com/livenews/3020098",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
+        },
+        {
+          "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
+          "url": "https://wallstreetcn.com/livenews/3020090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
         },
         {
           "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
@@ -279,7 +352,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -290,7 +363,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -301,18 +374,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
-          "url": "https://wallstreetcn.com/livenews/3020090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -339,13 +401,24 @@
           "time_info": "00时28分"
         },
         {
+          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
+          "url": "https://flash.jin10.com/detail/20251213022744229800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
           "url": "https://flash.jin10.com/detail/20251213011411174800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -364,8 +437,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
@@ -375,8 +448,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "被小米投诉村支书发视频道歉",
@@ -387,8 +460,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "小米回应“小米公司不让卖小米”",
@@ -398,8 +471,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "被小米投诉的村支书已清空账号",
@@ -410,8 +483,20 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "time_info": "[00时28分 ~ 04时26分]"
         },
         {
           "title": "华为快闪店对着苹果贴脸开大",
@@ -423,18 +508,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时35分]"
-        },
-        {
-          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
           "time_info": "[00时28分 ~ 02时35分]"
         },
         {
@@ -472,7 +545,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -483,7 +556,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -533,7 +606,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         }
@@ -551,8 +624,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     },
@@ -603,8 +676,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
         }
       ]
     }
