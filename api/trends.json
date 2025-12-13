@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T20:41:37.532581+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-12-13T22:20:11.033457+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -18,22 +18,12 @@
             19,
             20,
             21,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 20时41分]"
-        },
-        {
-          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
-          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 09时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 22时20分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -46,8 +36,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 22时20分]"
+        },
+        {
+          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
+          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时42分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -160,6 +161,20 @@
           "time_info": "02时35分"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普提议中美俄印日联盟",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%AE%AE%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%8D%B0%E6%97%A5%E8%81%94%E7%9B%9F",
           "source": "bilibili 热搜",
@@ -169,6 +184,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
+          "url": "https://wallstreetcn.com/articles/3761314",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -254,17 +281,6 @@
           "time_info": "[18时21分 ~ 20时41分]"
         },
         {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
           "url": "https://wallstreetcn.com/livenews/3020109",
           "source": "华尔街见闻-快讯",
@@ -277,19 +293,6 @@
           "time_info": "[02时35分 ~ 04时26分]"
         },
         {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时41分]"
-        },
-        {
           "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
           "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
           "source": "澎湃新闻",
@@ -299,8 +302,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时41分]"
+          "time_info": "[18时21分 ~ 22时20分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -375,16 +391,16 @@
           "time_info": "[09时42分 ~ 11时17分]"
         },
         {
-          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
-          "source": "澎湃新闻",
+          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
+          "url": "https://wallstreetcn.com/livenews/3020226",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            17
+            17,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
+          "time_info": "[20时41分 ~ 22时20分]"
         },
         {
           "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
@@ -420,6 +436,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 06时22分]"
+        },
+        {
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
@@ -464,17 +491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
-          "url": "https://wallstreetcn.com/livenews/3020226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         },
         {
           "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
@@ -546,8 +562,34 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 22时20分]"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时22分 ~ 22时20分]"
+        },
         {
           "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2228432",
@@ -559,24 +601,28 @@
             9,
             11,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 22时20分]"
         },
         {
-          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
-          "url": "https://wallstreetcn.com/articles/3761309",
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            7,
+            6,
+            5,
             4,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 22时20分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -592,34 +638,6 @@
           "time_info": "[00时28分 ~ 12时28分]"
         },
         {
-          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
-          "url": "https://wallstreetcn.com/articles/3761315",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 20时41分]"
-        },
-        {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时22分 ~ 20时41分]"
-        },
-        {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
@@ -629,11 +647,12 @@
             8,
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 20时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 22时20分]"
         },
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -716,6 +735,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
+          "url": "https://wallstreetcn.com/livenews/3020250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "长沙交警配发AI眼镜",
           "url": "https://www.toutiao.com/trending/7582600366945632265/",
           "source": "今日头条",
@@ -750,6 +780,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时26分 ~ 09时42分]"
+        },
+        {
+          "title": "从AI交易、美联储新主席到铜，这是高盛列出的“2026年最重要的五大交易主题”",
+          "url": "https://wallstreetcn.com/articles/3761321",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "交警新装备：AI眼镜一眼看透车辆信息",
@@ -855,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "媒体：“声音被偷”？滥用AI要不得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32171273",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
@@ -969,6 +1021,17 @@
           "time_info": "[09时42分 ~ 16时29分]"
         },
         {
+          "title": "华为N15值得期待吗",
+          "url": "https://www.toutiao.com/trending/7582956599354949668/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时20分]"
+        },
+        {
           "title": "华为快闪店对着苹果贴脸开大",
           "url": "https://www.toutiao.com/trending/7581890991263629322/",
           "source": "今日头条",
@@ -1001,17 +1064,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 06时22分]"
-        },
-        {
-          "title": "华为N15值得期待吗",
-          "url": "https://www.toutiao.com/trending/7582956599354949668/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
         }
       ]
     },
@@ -1116,6 +1168,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "马斯克批评欧盟「接受 cookie」弹窗是浪费时间，是这样吗？cookie 弹窗功能有必要存在吗？",
+          "url": "https://www.zhihu.com/question/1981317694012814649",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 22时20分]"
+        },
+        {
           "title": "马斯克旗下X公司（原名推特）2025年1-9月收入超过20亿美元，同比增长大约18%。 该公司三季度净亏损5.77亿美元。 三季度EBITDA同比增长16%，季环比增长9%。",
           "url": "https://wallstreetcn.com/livenews/3020074",
           "source": "华尔街见闻-快讯",
@@ -1138,29 +1204,17 @@
           "time_info": "02时35分"
         },
         {
-          "title": "马斯克批评欧盟「接受 cookie」弹窗是浪费时间，是这样吗？cookie 弹窗功能有必要存在吗？",
-          "url": "https://www.zhihu.com/question/1981317694012814649",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 20时41分]"
-        },
-        {
           "title": "马斯克或成全球首位万亿美元富豪",
           "url": "https://wallstreetcn.com/livenews/3020224",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 20时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 22时20分]"
         }
       ]
     },
@@ -1175,11 +1229,12 @@
           "ranks": [
             11,
             12,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时42分 ~ 20时41分]"
+          "appearance_count": 9,
+          "time_info": "[09时42分 ~ 22时20分]"
         },
         {
           "title": "iOS26.2正式版发布",
@@ -1214,11 +1269,12 @@
           "url": "https://wallstreetcn.com/articles/3761337",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 22时20分]"
         }
       ]
     },
@@ -1309,6 +1365,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时28分 ~ 18时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包手机助手使用系统原生截屏接口，无法截屏银行键盘等受保护内容",
+          "url": "https://wallstreetcn.com/livenews/3020249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     }
