@@ -1,11 +1,320 @@
 {
-  "generated_at": "2025-12-13T06:22:10.490051+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-12-13T09:42:40.800811+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
+          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时42分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
+          "url": "https://flash.jin10.com/detail/20251213021141343800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
+          "url": "https://flash.jin10.com/detail/20251213034901959800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 09时42分]"
+        },
+        {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时42分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://www.douyin.com/hot/2334474",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
+          "url": "https://flash.jin10.com/detail/20251213000409005800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
+          "url": "https://www.cls.cn/detail/2228568",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
+          "url": "https://wallstreetcn.com/livenews/3020109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://wallstreetcn.com/livenews/3020102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
+        },
+        {
+          "title": "美国总统特朗普：与柬埔寨总理和泰国总理通电话，交谈情况不错。",
+          "url": "https://wallstreetcn.com/livenews/3020098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
+        },
+        {
+          "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
+          "url": "https://wallstreetcn.com/livenews/3020090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 04时26分]"
+        },
+        {
+          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
+          "url": "https://flash.jin10.com/detail/20251213022744229800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 06时22分]"
+        },
+        {
+          "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
+          "url": "https://wallstreetcn.com/livenews/3020166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "特朗普：我应当在与美联储讨论利率方面发挥作用",
+          "url": "https://wallstreetcn.com/livenews/3020165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
+          "url": "https://flash.jin10.com/detail/20251213014451343800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
+          "url": "https://wallstreetcn.com/livenews/3020161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "美国总统特朗普：泰国和柬埔寨均已同意重返他们此前与我达成的原始和平协议。",
+          "url": "https://flash.jin10.com/detail/20251213014019397800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨处于不错的形势。",
+          "url": "https://wallstreetcn.com/livenews/3020160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3020133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
+          "url": "https://flash.jin10.com/detail/20251213013909297800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
+          "url": "https://flash.jin10.com/detail/20251213040502297800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
+          "url": "https://wallstreetcn.com/livenews/3020054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
+          "url": "https://wallstreetcn.com/livenews/3020048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "特朗普称泰柬双方同意停火",
+          "url": "https://www.toutiao.com/trending/7582909402869452342/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251213011411174800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -16,8 +325,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 09时42分]"
+        },
+        {
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时42分]"
         },
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -35,18 +357,6 @@
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3761222",
           "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2228432",
-          "source": "财联社热门",
           "ranks": [
             7,
             6
@@ -112,15 +422,37 @@
           "time_info": "00时28分"
         },
         {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
-          "url": "https://flash.jin10.com/detail/20251213033638415800",
-          "source": "金十数据",
+          "title": "长沙交警配发AI眼镜",
+          "url": "https://www.toutiao.com/trending/7582600366945632265/",
+          "source": "今日头条",
           "ranks": [
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "担忧雪上加霜！甲骨文被爆部分数据中心推迟至2028年竣工，AI股大跌",
+          "url": "https://wallstreetcn.com/articles/3761309",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
@@ -132,6 +464,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
+          "url": "https://flash.jin10.com/detail/20251213033638415800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 09时42分]"
+        },
+        {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时42分]"
+        },
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -193,17 +560,6 @@
           "time_info": "[02时35分 ~ 04时26分]"
         },
         {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "市场消息：甲骨文(ORCL.N)为 OpenAI建设的数据中心从2027年推迟到了2028年，此次延迟主要归因于劳动力和材料短缺。",
           "url": "https://flash.jin10.com/detail/20251212235925421800",
           "source": "金十数据",
@@ -239,217 +595,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
-          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
-          "url": "https://flash.jin10.com/detail/20251213034901959800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时22分]"
-        },
-        {
-          "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
-          "url": "https://flash.jin10.com/detail/20251213021141343800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "据CNBC：美国总统特朗普预计将于周一签署重新分类大麻的行政令。",
-          "url": "https://flash.jin10.com/detail/20251213000409005800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
-          "url": "https://wallstreetcn.com/livenews/3020109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普称泰柬同意全面停火",
-          "url": "https://wallstreetcn.com/livenews/3020102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 04时26分]"
-        },
-        {
-          "title": "美国总统特朗普：与柬埔寨总理和泰国总理通电话，交谈情况不错。",
-          "url": "https://wallstreetcn.com/livenews/3020098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 04时26分]"
-        },
-        {
-          "title": "马来西亚总理Anwar：接到美国总统特朗普的电话。",
-          "url": "https://wallstreetcn.com/livenews/3020090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 04时26分]"
-        },
-        {
-          "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
-          "url": "https://flash.jin10.com/detail/20251213022744229800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
-          "url": "https://flash.jin10.com/detail/20251213014451343800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美国总统特朗普：泰国和柬埔寨均已同意重返他们此前与我达成的原始和平协议。",
-          "url": "https://flash.jin10.com/detail/20251213014019397800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "美国总统特朗普在办公室表示：倾向于让沃什或哈塞特担任美联储主席。 沃什现在处于美联储主席候选人清单的顶端。 下一任美联储主席应该就利率问题征求我的意见。 今后一年，利率应当在1%或更低。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3020133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
-          "url": "https://flash.jin10.com/detail/20251213013909297800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
-          "url": "https://wallstreetcn.com/livenews/3020054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
-          "url": "https://wallstreetcn.com/livenews/3020048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
-          "url": "https://flash.jin10.com/detail/20251213011411174800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "南向资金追踪｜近半年来首现周度净流出 加仓小米和美团减持腾讯及阿里",
@@ -457,11 +604,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时42分]"
         },
         {
           "title": "服务追不上销量？小米汽车再遇“成长烦恼”：交付环节混乱 售后网点配置不足",
@@ -475,6 +623,33 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
+          "title": "小米回应“小米公司不让卖小米”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 09时42分]"
+        },
+        {
+          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时42分]"
+        },
+        {
           "title": "被小米投诉村支书发视频道歉",
           "url": "https://www.toutiao.com/trending/7582923410054090286/",
           "source": "今日头条",
@@ -482,19 +657,6 @@
             15,
             14,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "小米回应“小米公司不让卖小米”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E2%80%9C%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E5%8D%96%E5%B0%8F%E7%B1%B3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            15,
-            18
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -512,18 +674,6 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "村支书卖谷物小米被投诉？小米公司称相关视频内容完全失实，村支书发视频道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32163675",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
@@ -559,6 +709,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 06时22分]"
+        },
+        {
+          "title": "小米回应“小米公司不让卖小米”：相关视频内容完全失实，投诉并非针对“小米”二字或“小米”农产品的正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32163635",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     },
@@ -566,17 +727,6 @@
       "keyword_group": "美股",
       "match_count": 8,
       "titles": [
-        {
-          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
-          "url": "https://wallstreetcn.com/livenews/3020154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
           "url": "https://wallstreetcn.com/articles/3761271",
@@ -589,15 +739,28 @@
           "time_info": "00时28分"
         },
         {
+          "title": "（美股）费城金银指数收跌1.07%，报337.73点，本周累涨6.05%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2404.74点，本周累涨5.24%。",
+          "url": "https://wallstreetcn.com/livenews/3020154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时42分]"
+        },
+        {
           "title": "半导体ETF收跌超4.5%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3020145",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时42分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌约3.3%，特斯拉则涨2.7%",
@@ -606,7 +769,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -695,7 +858,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         },
@@ -713,6 +876,23 @@
       ]
     },
     {
+      "keyword_group": "macOS ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iOS 26.2正式版发布",
+          "url": "https://www.douyin.com/hot/2335009",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai gpt codex",
       "match_count": 1,
       "titles": [
@@ -724,8 +904,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 09时42分]"
         }
       ]
     },
@@ -756,11 +936,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 09时42分]"
         }
       ]
     }
