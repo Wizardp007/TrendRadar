@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:38:05.637265+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-12-14T14:32:56.113207+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 14时32分]"
         },
         {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
@@ -40,8 +40,34 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 14时32分]"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时38分]"
+          "time_info": "[11时40分 ~ 14时32分]"
+        },
+        {
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时32分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -79,18 +105,6 @@
           "time_info": "[00时28分 ~ 06时20分]"
         },
         {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
-        },
-        {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
           "url": "https://wallstreetcn.com/livenews/3020259",
           "source": "华尔街见闻-快讯",
@@ -101,18 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 06时20分]"
-        },
-        {
-          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
-          "url": "https://flash.jin10.com/detail/20251214100231761800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
         },
         {
           "title": "美士兵遇袭死亡 特朗普誓言报复",
@@ -188,6 +190,18 @@
           "time_info": "09时54分"
         },
         {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时32分]"
+        },
+        {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
           "url": "https://wallstreetcn.com/livenews/3020265",
           "source": "华尔街见闻-快讯",
@@ -198,18 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 09时54分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
         },
         {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
@@ -273,7 +275,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
         },
@@ -303,7 +305,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -311,11 +313,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -328,25 +331,12 @@
             6,
             2,
             17,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 12时38分]"
-        },
-        {
-          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
-          "url": "https://flash.jin10.com/detail/20251213225118795800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -357,6 +347,20 @@
             14,
             8,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时32分]"
+        },
+        {
+          "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
+          "url": "https://flash.jin10.com/detail/20251213225118795800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            17,
+            19
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -404,11 +408,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 14时32分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -433,6 +438,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 06时20分]"
+        },
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -474,8 +490,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时32分]"
         },
         {
           "title": "iPhone17中国市场卖爆",
@@ -484,11 +500,25 @@
           "ranks": [
             22,
             21,
-            26
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 14时32分]"
+        },
+        {
+          "title": "泽连斯基手持最新款iPhone在前线自拍",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%8B%E6%8C%81%E6%9C%80%E6%96%B0%E6%AC%BEiPhone%E5%9C%A8%E5%89%8D%E7%BA%BF%E8%87%AA%E6%8B%8D",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时54分 ~ 12时38分]"
+          "time_info": "[11时39分 ~ 14时32分]"
         },
         {
           "title": "小米现车开售后二手行情崩塌",
@@ -502,18 +532,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 06时20分]"
-        },
-        {
-          "title": "泽连斯基手持最新款iPhone在前线自拍",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%8B%E6%8C%81%E6%9C%80%E6%96%B0%E6%AC%BEiPhone%E5%9C%A8%E5%89%8D%E7%BA%BF%E8%87%AA%E6%8B%8D",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时39分 ~ 12时38分]"
         },
         {
           "title": "探访“小米公司不让卖小米”涉事村庄",
@@ -648,8 +666,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时32分]"
         }
       ]
     }
