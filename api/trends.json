@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T06:20:27.022672+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-12-15T09:51:55.242192+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
@@ -44,13 +44,24 @@
           "time_info": "[02时31分 ~ 06时20分]"
         },
         {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
           "url": "https://flash.jin10.com/detail/20251215045241134800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -82,7 +93,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "极氪、小米、问界等超20家车企宣布兜底购置税，最高省1.5万",
@@ -97,6 +108,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "如何评价格力、小米、奥克斯、美的等空调企业推动铝代铜国家标准落地？将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1982910183408682974",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "暮暮朝朝这是正经吃苹果吗",
@@ -155,6 +177,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
+          "url": "https://wallstreetcn.com/articles/3761364",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "基金",
       "match_count": 2,
       "titles": [
@@ -165,7 +215,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         },
@@ -176,7 +226,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
         }
@@ -210,11 +260,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 09时51分]"
         }
       ]
     }
