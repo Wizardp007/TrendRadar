@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-16T00:34:12.959941+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-16T02:35:46.247961+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "日媒爆特朗普警告高市早苗别添乱",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%B7%BB%E4%B9%B1%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
-        },
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
           "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
@@ -25,20 +14,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
-          "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3021091",
-          "source": "华尔街见闻-快讯",
+          "title": "日媒爆特朗普警告高市早苗别添乱",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%B7%BB%E4%B9%B1%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时35分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -47,7 +37,18 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3021091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         },
@@ -89,11 +90,23 @@
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时35分]"
+        },
+        {
+          "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
+          "url": "https://wallstreetcn.com/livenews/3021113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "斯洛伐克总理菲佐：将前往美国，并在2026年世界杯期间与美国总统特朗普会面，商讨核电站协议。",
@@ -102,7 +115,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         },
@@ -113,7 +126,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         }
@@ -121,7 +134,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -130,18 +143,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
-          "url": "https://wallstreetcn.com/livenews/3021076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         },
@@ -150,11 +152,45 @@
           "url": "https://www.cls.cn/detail/2230016",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3021076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
+          "url": "https://wallstreetcn.com/livenews/3021124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "02时35分"
+        },
+        {
+          "title": "OpenAI：从谷歌挖来Albert Lee。",
+          "url": "https://flash.jin10.com/detail/20251216015417172800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "美国三大股指悉数下跌，纳指跌0.2%，AI概念股重新承压。",
@@ -163,44 +199,38 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         },
         {
-          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2230200",
-          "source": "财联社热门",
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "02时35分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "通用汽车敲定一份协议，将在未来的汽车产品提供苹果音乐（Apple Music）。",
+          "url": "https://wallstreetcn.com/livenews/3021130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
         {
           "title": "如果华为海思上市，会达到摩尔线程一半的市值吗？",
           "url": "https://www.zhihu.com/question/1983140374206756378",
@@ -209,8 +239,60 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时35分]"
+        },
+        {
+          "title": "杭州小米交付中心发生车祸，小米内部人士：当时处于人驾状态，事故还在调查中",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32181942",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2230200",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251216013449431800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     },
@@ -225,7 +307,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
         }
@@ -242,9 +324,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：贝莱德失去荷兰养老基金PME 59亿美元的授权委托",
+          "url": "https://wallstreetcn.com/livenews/3021117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     }
