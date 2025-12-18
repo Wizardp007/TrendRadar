@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T14:36:32.690287+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-12-18T16:33:06.334441+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -16,11 +16,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 16时33分]"
         },
         {
           "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
@@ -28,11 +29,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时33分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -44,6 +46,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：我接手了一个烂摊子",
+          "url": "https://www.toutiao.com/trending/7584554052525080639/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -104,6 +117,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
           "url": "https://flash.jin10.com/detail/20251218000612267800",
           "source": "金十数据",
@@ -146,6 +170,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普账户宣传存1千可涨至60万",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%A6%E6%88%B7%E5%AE%A3%E4%BC%A0%E5%AD%981%E5%8D%83%E5%8F%AF%E6%B6%A8%E8%87%B360%E4%B8%87&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普：美联储新主席必须是超级鸽派",
+          "url": "https://www.toutiao.com/trending/7585075636759285286/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "特朗普发表演讲称接手了一个烂摊子",
@@ -209,7 +255,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -360,7 +406,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -371,8 +417,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 16时33分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -380,11 +426,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时45分 ~ 16时33分]"
         },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -401,6 +448,42 @@
           "time_info": "[09时45分 ~ 14时36分]"
         },
         {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时33分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 16时33分]"
+        },
+        {
+          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
+          "url": "https://www.cls.cn/detail/2233153",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 16时33分]"
+        },
+        {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
           "url": "https://wallstreetcn.com/livenews/3022526",
           "source": "华尔街见闻-快讯",
@@ -412,26 +495,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1984670354627651255",
-          "source": "知乎",
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "16时33分"
         },
         {
           "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
@@ -443,17 +515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "豆包日均Tokens超50万亿 千问接入阿里生态 AI应用商业化临界点来了？",
-          "url": "https://www.cls.cn/detail/2233153",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         },
         {
           "title": "ThaiSweet樱花舞MV",
@@ -584,7 +645,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -592,7 +653,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "小米华为理想先后报警 12人被抓",
@@ -608,6 +669,29 @@
           "time_info": "[11时22分 ~ 14时36分]"
         },
         {
+          "title": "55岁三星长公主李富真露面",
+          "url": "https://www.baidu.com/s?wd=55%E5%B2%81%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E6%9D%8E%E5%AF%8C%E7%9C%9F%E9%9C%B2%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 16时33分]"
+        },
+        {
+          "title": "海南封关首日iPhone最高可减2140元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%E9%A6%96%E6%97%A5iPhone%E6%9C%80%E9%AB%98%E5%8F%AF%E5%87%8F2140%E5%85%83%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
           "source": "澎湃新闻",
@@ -620,6 +704,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 12时36分]"
+        },
+        {
+          "title": "55岁三星长公主李富真露面",
+          "url": "https://s.weibo.com/weibo?q=%2355%E5%B2%81%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E6%9D%8E%E5%AF%8C%E7%9C%9F%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "折叠iPhone明年见！苹果未来两年发布路线曝光，主打手机五款变七款",
@@ -645,16 +740,15 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "55岁三星长公主李富真露面",
-          "url": "https://www.baidu.com/s?wd=55%E5%B2%81%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E6%9D%8E%E5%AF%8C%E7%9C%9F%E9%9C%B2%E9%9D%A2",
-          "source": "百度热搜",
+          "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3022988",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            2
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "小米突发新模型，主打“极致性价比”，罗福莉：“这只是我们AGI图线路上的第二步”",
@@ -692,6 +786,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 11时22分]"
+        },
+        {
+          "title": "海南封关苹果手机最高可减两千余元",
+          "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%9C%80%E9%AB%98%E5%8F%AF%E5%87%8F%E4%B8%A4%E5%8D%83%E4%BD%99%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "小米发布最新MiMo大模型",
@@ -733,7 +838,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -989,9 +1094,49 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "支持探索科研“无人区”！首批3个重大非共识基金项目拟获资助",
+          "url": "https://wallstreetcn.com/livenews/3022998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "【国家发展改革委：着力扩大有效投资】文章提到，从扩大准入、打通堵点、强化保障等方面着力破解民间投资发展难题，促进民间投资高质量发展。完善民营企业参与重大项目建设长效机制，积极支持民营企业参与具有一定收益的铁路、核电、水电等重点领域项目建设。滚动接续向民间资本推介优质项目，加强对民间投资项目的要素和融资支持。鼓励支持民营企业参与政府和社会资本合作（PPP）新机制项目建设实施。持续推动基础设施领域不动产投资信托基金（REITs）扩围扩容，支持更多符合条件的民间投资项目发行上市。加大中央预算内投资等对符合条件的民间投资项目支持力度，更好发挥政府投资基金对民间投资的引导带动作用。",
+          "url": "https://wallstreetcn.com/livenews/3022799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时36分]"
+        },
+        {
+          "title": "国际货币基金组织将于当地时间周三在华盛顿的一次非正式会议上讨论阿根廷的200亿美元援助计划。",
+          "url": "https://flash.jin10.com/detail/20251217235905766800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     },
@@ -1022,35 +1167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 06时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【国家发展改革委：着力扩大有效投资】文章提到，从扩大准入、打通堵点、强化保障等方面着力破解民间投资发展难题，促进民间投资高质量发展。完善民营企业参与重大项目建设长效机制，积极支持民营企业参与具有一定收益的铁路、核电、水电等重点领域项目建设。滚动接续向民间资本推介优质项目，加强对民间投资项目的要素和融资支持。鼓励支持民营企业参与政府和社会资本合作（PPP）新机制项目建设实施。持续推动基础设施领域不动产投资信托基金（REITs）扩围扩容，支持更多符合条件的民间投资项目发行上市。加大中央预算内投资等对符合条件的民间投资项目支持力度，更好发挥政府投资基金对民间投资的引导带动作用。",
-          "url": "https://wallstreetcn.com/livenews/3022799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时36分]"
-        },
-        {
-          "title": "国际货币基金组织将于当地时间周三在华盛顿的一次非正式会议上讨论阿根廷的200亿美元援助计划。",
-          "url": "https://flash.jin10.com/detail/20251217235905766800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
         }
       ]
     },
