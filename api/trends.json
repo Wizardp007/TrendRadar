@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T14:35:15.675811+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2025-12-19T16:32:18.038792+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 16时32分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -37,11 +37,41 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时35分 ~ 16时32分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -55,16 +85,15 @@
           "time_info": "[00时33分 ~ 06时22分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时48分 ~ 14时35分]"
+          "time_info": "[11时25分 ~ 16时32分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -78,30 +107,16 @@
           "time_info": "[11时25分 ~ 14时35分]"
         },
         {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时35分 ~ 14时35分]"
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 16时32分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -113,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -148,6 +174,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
+          "url": "https://wallstreetcn.com/livenews/3023763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "加拿大总理卡尼：加拿大将继续支持乳业供应管理。 美国墨西哥加拿大贸易协议（USMCA）首脑们为评估USMCA提出了广泛的尺度。 （美墨加三方）不可能达成行业协议，磋商将深入USMCA。 我们准备（与美国）达成一份关于森林产品的协议。 只要加拿大方面还存在顾虑，（与美国总统特朗普的）钢铁协议仍然在谈判桌上。",
           "url": "https://wallstreetcn.com/livenews/3023254",
           "source": "华尔街见闻-快讯",
@@ -157,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -259,6 +285,18 @@
           "time_info": "[02时35分 ~ 04时23分]"
         },
         {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 16时32分]"
+        },
+        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -280,6 +318,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普旗下企业拟并购核聚变初创公司 核聚变行业商业化显著加速",
+          "url": "https://www.cls.cn/detail/2234124",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -324,17 +373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
         },
         {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
@@ -648,7 +686,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -720,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
@@ -863,7 +912,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         },
@@ -885,9 +934,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "谢兴阳用AI复原了刘维妈妈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%85%B4%E9%98%B3%E7%94%A8AI%E5%A4%8D%E5%8E%9F%E4%BA%86%E5%88%98%E7%BB%B4%E5%A6%88%E5%A6%88&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美国白宫关于私人行业AI合作伙伴关系的声明：亚马逊、谷歌等24家公司加入美国AI“Genesis Mission”。 英伟达、CoreWeave、AMD、Accenture也加入这个AI项目。",
@@ -952,6 +1012,19 @@
           "time_info": "[09时48分 ~ 12时35分]"
         },
         {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 16时32分]"
+        },
+        {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
@@ -962,19 +1035,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 06时22分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 14时35分]"
         },
         {
           "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
@@ -1112,7 +1172,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "海南封关首日iPhone最高可减2140元",
@@ -1125,8 +1185,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 14时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 16时32分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -1203,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时23分]"
+        },
+        {
+          "title": "日本iPhone已开放第三方应用商店",
+          "url": "https://www.toutiao.com/trending/7585402727115525641/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "12月19日，三星宣布首款三折叠Galaxy Z TriFold国行版正式发售，并于每日上午10点限量开售，16GB+512GB版本售价19999元，16GB+1TB版本售价21999元。",
@@ -1404,8 +1475,19 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "滴灌通：暂时搁置原计划的“公募基金”滴灌投资（MIFC）上市申请程序",
+          "url": "https://wallstreetcn.com/livenews/3023752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.67万亿美元。",
           "url": "https://flash.jin10.com/detail/20251219050043558800",
