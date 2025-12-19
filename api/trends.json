@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-19T20:45:08.712806+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2025-12-19T22:23:55.524443+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时48分 ~ 22时23分]"
+        },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
           "url": "https://news.ifeng.com/c/8pCbX95hrxq",
@@ -16,19 +30,6 @@
             5,
             4,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时48分 ~ 20时45分]"
-        },
-        {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -151,7 +152,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -217,7 +218,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -242,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
@@ -295,7 +307,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -334,6 +346,19 @@
           "time_info": "[02时35分 ~ 04时23分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 22时23分]"
+        },
+        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -346,27 +371,28 @@
           "time_info": "[11时25分 ~ 12时35分]"
         },
         {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时45分]"
-        },
-        {
           "title": "特朗普：不排除与委内瑞拉开战",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时23分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时44分 ~ 20时45分]"
+          "time_info": "[20时45分 ~ 22时23分]"
         },
         {
           "title": "特朗普签行政令确保美国太空优势",
@@ -435,13 +461,24 @@
           "time_info": "06时22分"
         },
         {
+          "title": "美国白宫新闻秘书Leavitt：特朗普下午1点的活动将涉及药品和制药行业。",
+          "url": "https://wallstreetcn.com/livenews/3024008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "据CNBC：美国总统特朗普似乎正将关注点转向就业市场。",
           "url": "https://flash.jin10.com/detail/20251219200442362800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -474,7 +511,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -565,17 +602,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "美国总统特朗普：我想维护房价，也想帮助人们买房。",
@@ -705,7 +731,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -765,6 +791,28 @@
           "time_info": "12时35分"
         },
         {
+          "title": "白宫新闻秘书莱维特：总统特朗普将于周五宣布更多“将降低药品和制药产品价格的协议”。",
+          "url": "https://flash.jin10.com/detail/20251219215016593800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：总统特朗普下午1点的活动将聚焦于药品和制药业。",
+          "url": "https://flash.jin10.com/detail/20251219214948801800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "特朗普敢不敢对委内瑞拉动武",
           "url": "https://www.toutiao.com/trending/7585374191180860964/",
           "source": "今日头条",
@@ -790,7 +838,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -846,11 +894,12 @@
           "url": "https://news.ifeng.com/c/8pDJCQ1EauN",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时23分]"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -1022,6 +1071,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "智谱披露IPO招股书，宣布冲刺“全球大模型第一股”",
+          "url": "https://wallstreetcn.com/livenews/3024004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
           "url": "https://wallstreetcn.com/livenews/3023315",
           "source": "华尔街见闻-快讯",
@@ -1075,6 +1135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
@@ -1174,196 +1245,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "海南封关首日iPhone最高可减2140元",
-          "url": "https://www.toutiao.com/trending/7585126179645099570/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 16时32分]"
         },
         {
-          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
-          "url": "https://www.zhihu.com/question/1984925319061267264",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            10,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 09时48分]"
-        },
-        {
-          "title": "三星长公主曾不顾反对下嫁司机",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E6%9B%BE%E4%B8%8D%E9%A1%BE%E5%8F%8D%E5%AF%B9%E4%B8%8B%E5%AB%81%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时34分 ~ 09时48分]"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI消费端引爆点可能是苹果15亿部iPhone与24亿iOS设备",
-          "url": "https://wallstreetcn.com/livenews/3023844",
+          "title": "基于阿里千问 乌干达打造本土大模型",
+          "url": "https://wallstreetcn.com/livenews/3023984",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "OPPO Reno15系列三周出货超200万，新品Reno15c今日开售",
-          "url": "https://wallstreetcn.com/livenews/3023525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：中国正在发生创新，AI革命将是中美两国更紧密的合作，就像特斯拉、苹果主动积极拥抱中国",
-          "url": "https://wallstreetcn.com/livenews/3023843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "三角洲行动 苹果源记",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%20%E8%8B%B9%E6%9E%9C%E6%BA%90%E8%AE%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "海南封关首日，iPhone最高可减2140元",
-          "url": "https://www.cls.cn/detail/2233766",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时22分]"
-        },
-        {
-          "title": "三星“长公主”曾不顾反对嫁给司机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E2%80%9C%E9%95%BF%E5%85%AC%E4%B8%BB%E2%80%9D%E6%9B%BE%E4%B8%8D%E9%A1%BE%E5%8F%8D%E5%AF%B9%E5%AB%81%E7%BB%99%E5%8F%B8%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时35分]"
-        },
-        {
-          "title": "苹果客服回应iPhone内存用完就坏了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时23分]"
-        },
-        {
-          "title": "日本iPhone已开放第三方应用商店",
-          "url": "https://www.toutiao.com/trending/7585402727115525641/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "12月19日，三星宣布首款三折叠Galaxy Z TriFold国行版正式发售，并于每日上午10点限量开售，16GB+512GB版本售价19999元，16GB+1TB版本售价21999元。",
-          "url": "https://wallstreetcn.com/livenews/3023546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "华为见非凡对话汪顺",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%A7%81%E9%9D%9E%E5%87%A1%E5%AF%B9%E8%AF%9D%E6%B1%AA%E9%A1%BA%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "vivoS50主打一个爱你老己",
-          "url": "https://s.weibo.com/weibo?q=%23vivoS50%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E7%88%B1%E4%BD%A0%E8%80%81%E5%B7%B1%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "小米汽车已获L3级道路测试牌照",
-          "url": "https://wallstreetcn.com/livenews/3023809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "time_info": "22时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -1375,8 +1273,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 20时45分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 22时23分]"
         },
         {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
@@ -1445,6 +1343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3024010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
@@ -1533,6 +1442,263 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "海南封关首日iPhone最高可减2140元",
+          "url": "https://www.toutiao.com/trending/7585126179645099570/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 16时32分]"
+        },
+        {
+          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
+          "url": "https://www.zhihu.com/question/1984925319061267264",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            10,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 09时48分]"
+        },
+        {
+          "title": "三星长公主曾不顾反对下嫁司机",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E6%9B%BE%E4%B8%8D%E9%A1%BE%E5%8F%8D%E5%AF%B9%E4%B8%8B%E5%AB%81%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 09时48分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI消费端引爆点可能是苹果15亿部iPhone与24亿iOS设备",
+          "url": "https://wallstreetcn.com/livenews/3023844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "OPPO Reno15系列三周出货超200万，新品Reno15c今日开售",
+          "url": "https://wallstreetcn.com/livenews/3023525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：中国正在发生创新，AI革命将是中美两国更紧密的合作，就像特斯拉、苹果主动积极拥抱中国",
+          "url": "https://wallstreetcn.com/livenews/3023843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "海南封关首日，iPhone最高可减2140元",
+          "url": "https://www.cls.cn/detail/2233766",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时22分]"
+        },
+        {
+          "title": "三角洲行动 苹果源记",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%20%E8%8B%B9%E6%9E%9C%E6%BA%90%E8%AE%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时23分]"
+        },
+        {
+          "title": "三星“长公主”曾不顾反对嫁给司机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E2%80%9C%E9%95%BF%E5%85%AC%E4%B8%BB%E2%80%9D%E6%9B%BE%E4%B8%8D%E9%A1%BE%E5%8F%8D%E5%AF%B9%E5%AB%81%E7%BB%99%E5%8F%B8%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 12时35分]"
+        },
+        {
+          "title": "苹果客服回应iPhone内存用完就坏了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E5%86%85%E5%AD%98%E7%94%A8%E5%AE%8C%E5%B0%B1%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时23分]"
+        },
+        {
+          "title": "日本iPhone已开放第三方应用商店",
+          "url": "https://www.toutiao.com/trending/7585402727115525641/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "12月19日，三星宣布首款三折叠Galaxy Z TriFold国行版正式发售，并于每日上午10点限量开售，16GB+512GB版本售价19999元，16GB+1TB版本售价21999元。",
+          "url": "https://wallstreetcn.com/livenews/3023546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
+          "title": "华为见非凡对话汪顺",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%A7%81%E9%9D%9E%E5%87%A1%E5%AF%B9%E8%AF%9D%E6%B1%AA%E9%A1%BA%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "vivoS50主打一个爱你老己",
+          "url": "https://s.weibo.com/weibo?q=%23vivoS50%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E7%88%B1%E4%BD%A0%E8%80%81%E5%B7%B1%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "小米汽车已获L3级道路测试牌照",
+          "url": "https://wallstreetcn.com/livenews/3023809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "滴灌通：暂时搁置原计划的“公募基金”滴灌投资（MIFC）上市申请程序",
+          "url": "https://wallstreetcn.com/livenews/3023752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（12月18日，美国CPI通胀数据发布当天）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.69%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3024009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "截至11月末私募基金规模达22.09万亿元",
+          "url": "https://wallstreetcn.com/livenews/3023834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.67万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251219050043558800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "景顺预计QQQ将于12月22日作为开放式基金开始交易。",
+          "url": "https://flash.jin10.com/detail/20251219215935893800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "银河通用机器人完成3亿美元新一轮融资，中国移动链长基金领投",
+          "url": "https://wallstreetcn.com/livenews/3023475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
@@ -1696,56 +1862,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "滴灌通：暂时搁置原计划的“公募基金”滴灌投资（MIFC）上市申请程序",
-          "url": "https://wallstreetcn.com/livenews/3023752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "截至11月末私募基金规模达22.09万亿元",
-          "url": "https://wallstreetcn.com/livenews/3023834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.67万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251219050043558800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "银河通用机器人完成3亿美元新一轮融资，中国移动链长基金领投",
-          "url": "https://wallstreetcn.com/livenews/3023475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         }
       ]
     },
