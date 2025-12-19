@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T09:48:28.180447+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2025-12-19T11:25:56.923262+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 09时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 11时25分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -30,6 +30,18 @@
           "time_info": "[00时33分 ~ 06时22分]"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时25分]"
+        },
+        {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
           "url": "https://wallstreetcn.com/livenews/3023257",
           "source": "华尔街见闻-快讯",
@@ -41,15 +53,38 @@
           "time_info": "00时33分"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普再次向乌克兰施压",
+          "url": "https://news.ifeng.com/c/8pCpqaXsvao",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "11时25分"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -96,15 +131,15 @@
           "time_info": "00时33分"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "11时25分"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -118,24 +153,26 @@
           "time_info": "02时35分"
         },
         {
+          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 11时25分]"
+        },
+        {
           "title": "特朗普下令要求美国人2028年登月",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%BA%BA2028%E5%B9%B4%E7%99%BB%E6%9C%88%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -196,19 +233,6 @@
           "time_info": "[02时35分 ~ 04时23分]"
         },
         {
-          "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 09时48分]"
-        },
-        {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
           "url": "https://flash.jin10.com/detail/20251219032026571800",
           "source": "金十数据",
@@ -251,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
+          "url": "https://www.cls.cn/detail/2233997",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
@@ -325,7 +360,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -385,13 +420,24 @@
           "time_info": "04时23分"
         },
         {
+          "title": "特朗普威胁夺取委内瑞拉石油资源",
+          "url": "https://www.toutiao.com/trending/7585041766777356351/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "特朗普摊牌了：委内瑞拉夺走石油，美国必须要回来",
           "url": "https://m.thepaper.cn/newsDetail_forward_32201489",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -515,12 +561,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "特朗普“关键时刻”发表18分钟讲话",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E2%80%9D%E5%8F%91%E8%A1%A818%E5%88%86%E9%92%9F%E8%AE%B2%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -589,7 +646,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -603,6 +660,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时25分]"
         },
         {
           "title": "OpenAI：如果我们对用户的年龄没有把握或信息不完整，将默认启用U18体验，并为成年人提供验证年龄的方式。",
@@ -627,6 +696,17 @@
           "time_info": "04时23分"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "【甲骨文与OpenAI为数据中心获取电力供应的请求获美国密歇根州批准】美国密歇根州监管机构批准了通用事业公司DTE Energy Co.的请求，将为甲骨文和OpenAI计划建设的大型数据中心开发项目提供电力支持。DTE此前向监管机构申请加急审批其供电计划，以支持这座位于Saline Township、耗资数十亿美元且容量达1.4吉瓦（GW） 的设施。 根据OpenAI和甲骨文的说法，位于Saline Township的Stargate（星际之门）园区使双方的合作伙伴关系在全美的计划容量超过8吉瓦，并在未来三年内带来超过4500亿美元的投资。",
           "url": "https://wallstreetcn.com/livenews/3023315",
           "source": "华尔街见闻-快讯",
@@ -636,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        },
+        {
+          "title": "字节跳动正推进与多家厂商的AI手机合作",
+          "url": "https://wallstreetcn.com/livenews/3023509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "美民主党议员要求调查商务部长卢特尼克 其家族或从AI数据中心不当获利",
@@ -669,17 +760,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
-        },
-        {
-          "title": "豆包AI视频能说方言了",
-          "url": "https://www.douyin.com/hot/2340352",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
         },
         {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
@@ -751,7 +831,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -766,6 +846,18 @@
           "time_info": "[02时35分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时25分]"
+        },
+        {
           "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
           "url": "https://wallstreetcn.com/livenews/3023366",
           "source": "华尔街见闻-快讯",
@@ -775,17 +867,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2234084",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
         },
         {
           "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
@@ -819,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
@@ -912,7 +1004,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -950,11 +1042,23 @@
           "ranks": [
             12,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 09时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 11时25分]"
+        },
+        {
+          "title": "OPPO Reno15系列三周出货超200万，新品Reno15c今日开售",
+          "url": "https://wallstreetcn.com/livenews/3023525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "海南封关首日，iPhone最高可减2140元",
@@ -984,11 +1088,96 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E2%80%9C%E9%95%BF%E5%85%AC%E4%B8%BB%E2%80%9D%E6%9B%BE%E4%B8%8D%E9%A1%BE%E5%8F%8D%E5%AF%B9%E5%AB%81%E7%BB%99%E5%8F%B8%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 11时25分]"
+        },
+        {
+          "title": "华为见非凡对话汪顺",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%A7%81%E9%9D%9E%E5%87%A1%E5%AF%B9%E8%AF%9D%E6%B1%AA%E9%A1%BA%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "11时25分"
+        },
+        {
+          "title": "vivoS50主打一个爱你老己",
+          "url": "https://s.weibo.com/weibo?q=%23vivoS50%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E7%88%B1%E4%BD%A0%E8%80%81%E5%B7%B1%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月19日（周五）上海金早盘价为974.08元/克，较国际金价(976.41元/克)，低2.33元/克",
+          "url": "https://flash.jin10.com/detail/20251219110046497800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 06时22分]"
+        },
+        {
+          "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
+          "url": "https://flash.jin10.com/detail/20251219013545433800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "2026黄金价格展望",
+          "url": "https://www.toutiao.com/trending/7585030477258427914/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "高盛：金价飙升势头或延续至2026年",
+          "url": "https://www.toutiao.com/trending/7584406930672795691/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
@@ -1083,37 +1272,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 06时22分]"
-        },
-        {
-          "title": "高盛：金价飙升势头或延续至2026年，目标上看4900美元",
-          "url": "https://flash.jin10.com/detail/20251219013545433800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国投资公司协会（ICI）：美国货币市场基金资产规模达到创纪录的7.67万亿美元。",
@@ -1125,6 +1285,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "银河通用机器人完成3亿美元新一轮融资，中国移动链长基金领投",
+          "url": "https://wallstreetcn.com/livenews/3023475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新华社：2025“年度字词”揭晓，年度国内词为“深度求索（DeepSeek）",
+          "url": "https://wallstreetcn.com/livenews/3023500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     }
