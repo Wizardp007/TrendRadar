@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T14:33:31.576384+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2025-12-21T16:28:48.064581+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -36,6 +36,22 @@
           "time_info": "[00时26分 ~ 12时38分]"
         },
         {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时28分]"
+        },
+        {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
@@ -55,11 +71,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -76,21 +93,6 @@
           "time_info": "[00时26分 ~ 11时40分]"
         },
         {
-          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 14时33分]"
-        },
-        {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
           "url": "https://wallstreetcn.com/articles/3761759",
           "source": "华尔街见闻",
@@ -100,6 +102,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 09时54分]"
+        },
+        {
+          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
+          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时28分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -114,20 +131,6 @@
           "time_info": "[00时26分 ~ 09时54分]"
         },
         {
-          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
-          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时33分]"
-        },
-        {
           "title": "英语兔的年报DNA里有AI",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
           "source": "bilibili 热搜",
@@ -137,11 +140,12 @@
             23,
             18,
             19,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时29分 ~ 12时38分]"
+          "appearance_count": 8,
+          "time_info": "[02时29分 ~ 16时28分]"
         },
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -150,11 +154,12 @@
           "ranks": [
             10,
             8,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 16时28分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -162,11 +167,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
@@ -188,8 +194,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 14时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 16时28分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -198,9 +204,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "Andrej Karpathy年度复盘：AI大模型正在演变成一种新型智能，今年出现6个关键拐点",
@@ -225,6 +231,17 @@
           "time_info": "12时38分"
         },
         {
+          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 16时28分]"
+        },
+        {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
           "url": "https://www.zhihu.com/question/1983889355362820808",
           "source": "知乎",
@@ -235,17 +252,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时53分 ~ 12时38分]"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 14时33分]"
         },
         {
           "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
@@ -261,6 +267,19 @@
           "time_info": "[09时54分 ~ 12时38分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2025年12月20日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 16时28分]"
+        },
+        {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
           "url": "https://wallstreetcn.com/livenews/3024274",
           "source": "华尔街见闻-快讯",
@@ -272,16 +291,15 @@
           "time_info": "[00时26分 ~ 04时23分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年12月20日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
-          "source": "澎湃新闻",
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
           "ranks": [
-            20,
-            19
+            14
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -341,11 +359,24 @@
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时28分]"
+        },
+        {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -361,28 +392,6 @@
           "time_info": "[11时40分 ~ 14时33分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://wallstreetcn.com/livenews/3024384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
           "url": "https://flash.jin10.com/detail/20251220184219205800",
           "source": "金十数据",
@@ -392,6 +401,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时20分]"
+        },
+        {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://wallstreetcn.com/livenews/3024384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -444,8 +465,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时28分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -532,11 +553,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "比尔·阿克曼：建议马斯克的太空探索公司SpaceX通过潘兴广场Pershing Square SPARC Holdings Ltd.实现IPO。 我们对“授予马斯克超级投票（权）股份”持开放态度。",
@@ -552,6 +574,19 @@
           "time_info": "[06时20分 ~ 11时40分]"
         },
         {
+          "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32220528",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 16时28分]"
+        },
+        {
           "title": "马斯克赢得560亿美元薪酬方案",
           "url": "https://www.douyin.com/hot/2342030",
           "source": "抖音",
@@ -564,16 +599,16 @@
           "time_info": "[02时29分 ~ 06时20分]"
         },
         {
-          "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32220528",
-          "source": "澎湃新闻",
+          "title": "马斯克净资产飙升至7490亿美元",
+          "url": "https://www.douyin.com/hot/2342944",
+          "source": "抖音",
           "ranks": [
-            15,
-            18
+            28,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时38分 ~ 14时33分]"
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "马斯克点赞王力宏伴舞机器人",
@@ -585,17 +620,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "马斯克净资产飙升至7490亿美元",
-          "url": "https://www.douyin.com/hot/2342944",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "马斯克成首位身家超7000亿美元富豪",
@@ -622,11 +646,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 14时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时28分]"
         },
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -644,22 +669,24 @@
           "url": "https://wallstreetcn.com/articles/3761788",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
           "url": "https://flash.jin10.com/detail/20251221123146651800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -694,11 +721,12 @@
           "url": "https://www.douyin.com/hot/2342947",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时28分]"
         },
         {
           "title": "金价又涨了",
@@ -707,7 +735,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         }
@@ -724,9 +752,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时28分]"
         }
       ]
     },
@@ -741,11 +769,29 @@
           "ranks": [
             7,
             8,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 16时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "违规将29种药品纳入医保基金结算，“一心堂”一门店被罚14万余元",
+          "url": "https://wallstreetcn.com/livenews/3024395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     }
