@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T14:38:24.694174+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2025-12-22T16:33:46.761437+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 14时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 16时33分]"
         },
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -59,6 +59,21 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
+          "title": "英语兔的年报DNA里有AI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            13,
+            16,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时24分 ~ 16时33分]"
+        },
+        {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
           "url": "https://www.douyin.com/hot/2343306",
           "source": "抖音",
@@ -83,21 +98,6 @@
           "time_info": "[00时26分 ~ 09时54分]"
         },
         {
-          "title": "英语兔的年报DNA里有AI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            13,
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时24分 ~ 14时38分]"
-        },
-        {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
           "url": "https://wallstreetcn.com/articles/3761792",
           "source": "华尔街见闻",
@@ -108,6 +108,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 14时38分]"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            28,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 16时33分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -136,17 +150,16 @@
           "time_info": "[09时54分 ~ 12时42分]"
         },
         {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
+          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
+          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            28,
-            24
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 14时38分]"
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 16时33分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -160,15 +173,26 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
-          "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
-          "source": "凤凰网",
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "MiniMax首次披露业绩！将与智谱争夺大模型“第一股”",
+          "url": "https://wallstreetcn.com/articles/3761813",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时38分"
+          "time_info": "16时33分"
         },
         {
           "title": "广发证券所长助理、首席策略刘晨明：三大化债路径揭示AI和黄金时代到来",
@@ -177,7 +201,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -211,7 +235,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -233,9 +257,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "MiniMax稀宇科技副总裁薛子钊：M2模型成为AI编程领域最大国产模型",
+          "url": "https://wallstreetcn.com/livenews/3024776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -244,7 +279,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -263,7 +298,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -272,11 +307,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 14时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 16时33分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -302,6 +338,33 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时31分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 16时33分]"
+        },
+        {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
           "url": "https://wallstreetcn.com/livenews/3024453",
           "source": "华尔街见闻-快讯",
@@ -315,18 +378,18 @@
           "time_info": "[02时31分 ~ 06时21分]"
         },
         {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18,
             17,
-            16
+            15,
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[02时31分 ~ 14时38分]"
+          "time_info": "[04时24分 ~ 16时33分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -342,30 +405,39 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
           "ranks": [
-            6,
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时38分]"
+          "time_info": "[14时38分 ~ 16时33分]"
         },
         {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            15,
-            14,
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时24分 ~ 14时38分]"
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 16时33分]"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 16时33分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -377,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
-        },
-        {
-          "title": "特朗普表态：必须是“超级鸽派”！",
-          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -402,17 +463,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
@@ -451,16 +501,17 @@
           "time_info": "06时21分"
         },
         {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            9
+            20,
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 16时33分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -475,18 +526,6 @@
           "time_info": "[00时26分 ~ 04时24分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时38分]"
-        },
-        {
           "title": "曝高市早苗急着求见特朗普",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%80%A5%E7%9D%80%E6%B1%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -498,6 +537,17 @@
           "time_info": "[11时44分 ~ 11时45分]"
         },
         {
+          "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
+          "url": "https://flash.jin10.com/detail/20251222155222383800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://flash.jin10.com/detail/20251222105005973800",
           "source": "金十数据",
@@ -507,12 +557,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        },
+        {
+          "title": "飞机闯入特朗普官邸上空被紧急拦截",
+          "url": "https://www.toutiao.com/trending/7586445374106796082/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "三星发布全球首款2nm智能手机芯片 或将用于Galaxy S26",
@@ -528,28 +589,40 @@
           "time_info": "[00时26分 ~ 09时54分]"
         },
         {
-          "title": "商务部国际贸易谈判代表兼副部长李成钢会见美国苹果公司首席运营官萨比赫·汗",
-          "url": "https://wallstreetcn.com/livenews/3024738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "小米17 Ultra前瞻汇总",
           "url": "https://www.douyin.com/hot/2343771",
           "source": "抖音",
           "ranks": [
             7,
             11,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 14时38分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 16时33分]"
+        },
+        {
+          "title": "华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」合理吗？",
+          "url": "https://www.zhihu.com/question/1985806313826043181",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "商务部国际贸易谈判代表兼副部长李成钢会见美国苹果公司首席运营官萨比赫·汗",
+          "url": "https://wallstreetcn.com/livenews/3024738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "小米17Ultra星空绿",
@@ -573,6 +646,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时30分 ~ 04时24分]"
+        },
+        {
+          "title": "华为nova 15定价2699元起",
+          "url": "https://wallstreetcn.com/livenews/3024783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -658,7 +742,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -679,17 +763,29 @@
           "ranks": [
             13,
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 16时33分]"
+        },
+        {
+          "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "违规将29种药品纳入医保基金结算，“一心堂”一门店被罚14万余元",
@@ -718,6 +814,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时54分 ~ 12时42分]"
+        },
+        {
+          "title": "上海：推动各类政策性基金发挥投早、投小、投长期作用，加大政策协同支持和服务力度",
+          "url": "https://wallstreetcn.com/livenews/3024804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Kimi",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi 月活不足豆包 5%，曾被寄予厚望的它为何迅速「跌下神坛」？",
+          "url": "https://www.zhihu.com/question/1984935867001889123",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -753,6 +877,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "MiniMax稀宇科技副总裁薛子钊：Agent智能体已成为内部HR和财务数字同事",
+          "url": "https://wallstreetcn.com/livenews/3024779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     }
