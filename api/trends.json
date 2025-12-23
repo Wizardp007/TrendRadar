@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-23T20:48:33.207942+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2025-12-23T22:24:06.748291+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 22时24分]"
+        },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
           "url": "https://www.toutiao.com/trending/7586636403350556196/",
@@ -23,18 +35,6 @@
           "time_info": "[09时48分 ~ 18时26分]"
         },
         {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 20时48分]"
-        },
-        {
           "title": "特朗普将建特朗普级新型战舰",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
           "source": "bilibili 热搜",
@@ -45,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 20时48分]"
+          "appearance_count": 10,
+          "time_info": "[11时28分 ~ 22时24分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -105,6 +105,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时28分 ~ 14时37分]"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 22时24分]"
         },
         {
           "title": "如何看特朗普级战列舰计划",
@@ -208,18 +219,6 @@
           "time_info": "06时23分"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时48分]"
-        },
-        {
           "title": "特朗普：美国还将增加航空母舰数量",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%B0%86%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0%E6%95%B0%E9%87%8F",
           "source": "百度热搜",
@@ -231,15 +230,17 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
           "ranks": [
-            9
+            7,
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时48分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 22时24分]"
         },
         {
           "title": "美国总统特朗普：将从两艘舰艇开始，将发展到十艘，最终达到20到25艘。",
@@ -451,6 +452,17 @@
           "time_info": "[12时38分 ~ 12时39分]"
         },
         {
+          "title": "特朗普夸耀与马克龙“交锋”战绩",
+          "url": "https://www.toutiao.com/trending/7586142427094908934/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普称其目标是迫使马杜罗下台",
           "url": "https://flash.jin10.com/detail/20251223105717775800",
           "source": "金十数据",
@@ -585,8 +597,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 20时48分]"
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 22时24分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -596,8 +608,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 20时48分]"
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 22时24分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -607,8 +619,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时48分 ~ 20时48分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 22时24分]"
         },
         {
           "title": "AI定格|2025·强国脉动",
@@ -635,11 +647,12 @@
             12,
             14,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 20时48分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 22时24分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -752,7 +765,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -807,7 +820,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -818,7 +831,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -840,7 +853,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -851,7 +864,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -870,7 +883,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "三星推出全球首款 2nm 手机芯片 Exynos 2600，性能有多强？对半导体和手机行业有哪些影响？",
@@ -887,6 +900,19 @@
           "time_info": "[11时28分 ~ 16时32分]"
         },
         {
+          "title": "华为自研电池首次曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94%E7%94%B5%E6%B1%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 22时24分]"
+        },
+        {
           "title": "媒体报道华为 Pura80Pro+ 新机充电电池爆炸，售后凭照鉴定「人为致损」拒保，实际情况如何？",
           "url": "https://www.zhihu.com/question/1985806313826043181",
           "source": "知乎",
@@ -899,18 +925,6 @@
           "time_info": "[00时29分 ~ 04时26分]"
         },
         {
-          "title": "华为自研电池首次曝光",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94%E7%94%B5%E6%B1%A0%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 20时48分]"
-        },
-        {
           "title": "三星重工将为大洋洲客户建造两艘液化天然气运输船。",
           "url": "https://flash.jin10.com/detail/20251223111719638800",
           "source": "金十数据",
@@ -920,6 +934,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "iPhone烟花模式",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E7%83%9F%E8%8A%B1%E6%A8%A1%E5%BC%8F&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 22时24分]"
         },
         {
           "title": "三星电子股价创下历史新高。",
@@ -944,18 +971,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "iPhone烟花模式",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E7%83%9F%E8%8A%B1%E6%A8%A1%E5%BC%8F&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时48分]"
-        },
-        {
           "title": "iPhone实况图的选取机制",
           "url": "https://s.weibo.com/weibo?q=iPhone%E5%AE%9E%E5%86%B5%E5%9B%BE%E7%9A%84%E9%80%89%E5%8F%96%E6%9C%BA%E5%88%B6&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -977,6 +992,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
+        },
+        {
+          "title": "1个奶油苹果糖相当于3碗米饭",
+          "url": "https://www.baidu.com/s?wd=1%E4%B8%AA%E5%A5%B6%E6%B2%B9%E8%8B%B9%E6%9E%9C%E7%B3%96%E7%9B%B8%E5%BD%93%E4%BA%8E3%E7%A2%97%E7%B1%B3%E9%A5%AD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "苹果实况图总定格尴尬瞬间？客服回应",
@@ -1208,7 +1234,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -1254,11 +1280,34 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 22时24分]"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时48分 ~ 22时24分]"
+        },
+        {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时26分 ~ 20时48分]"
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
@@ -1272,17 +1321,6 @@
           "time_info": "18时26分"
         },
         {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
-        },
-        {
           "title": "金价银价同日创新高",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -1292,6 +1330,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美国GDP数据公布后，美元指数DXY小幅走高10点，最新报97.96。欧元兑美元EUR/USD小幅下跌，现报1.18。",
+          "url": "https://flash.jin10.com/detail/20251223213404675800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 04时26分]"
+        },
+        {
+          "title": "美国三季度GDP数据公布后，美元指数短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3025632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
@@ -1353,57 +1464,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3025481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
-          "url": "https://wallstreetcn.com/livenews/3025071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 04时26分]"
-        },
-        {
-          "title": "美元指数DXY跌破98，创5日新低。",
-          "url": "https://flash.jin10.com/detail/20251223161014189800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
-          "url": "https://flash.jin10.com/detail/20251223192922576800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
         }
       ]
     },
