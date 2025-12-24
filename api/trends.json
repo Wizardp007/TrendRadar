@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-24T20:46:23.227274+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-12-24T22:21:43.479061+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 22时21分]"
+        },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
           "url": "https://news.ifeng.com/c/8pJycIBu5di",
@@ -55,20 +70,6 @@
           "time_info": "[00时31分 ~ 20时46分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 20时46分]"
-        },
-        {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
           "url": "https://wallstreetcn.com/articles/3761916",
           "source": "华尔街见闻",
@@ -93,6 +94,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时21分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -121,15 +133,15 @@
           "time_info": "[09时47分 ~ 14时36分]"
         },
         {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
           "source": "凤凰网",
           "ranks": [
-            3
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时46分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时21分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -141,17 +153,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时46分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
@@ -256,6 +257,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时25分 ~ 12时37分]"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -441,6 +453,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
           "url": "https://flash.jin10.com/detail/20251224130340552800",
           "source": "金十数据",
@@ -469,7 +492,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -488,7 +511,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -526,13 +549,24 @@
           "time_info": "06时22分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3026248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "英特尔美股盘前跌幅扩大至4%，消息称英伟达测试了英特尔的18A工艺，但已暂缓推进。",
           "url": "https://wallstreetcn.com/livenews/3026207",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -561,13 +595,35 @@
           "time_info": "[04时25分 ~ 11时25分]"
         },
         {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224213043071800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "英特尔美股盘前跌近1%，据报道，英伟达测试了英特尔的18A工艺，但已暂缓推进。",
           "url": "https://wallstreetcn.com/livenews/3026192",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -630,7 +686,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "存储涨价潮蔓延！三星、海力士上调HBM报价20%",
@@ -639,11 +695,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 20时46分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 22时21分]"
         },
         {
           "title": "华为自研电池首次曝光",
@@ -708,6 +765,17 @@
           "time_info": "18时24分"
         },
         {
+          "title": "如何看待华为首款星闪耳机，能否引领音频行业新方向？",
+          "url": "https://www.zhihu.com/question/1987197913970017225",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.58%，报7638.99点。 热门中概股里，小马智行初步收跌2.9%，蔚来跌2.5%，腾讯、理想、小鹏、小米、文远知行跌超1%，阿里巴巴、拼多多、新东方涨超0.1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.52%，中国科技指数ETF（CQQQ）收跌0.50%。 XtrackersHarvest中证50（ASHS）收涨0.24%，德银嘉实沪深300指数ETF（ASHR）收涨0.34%。",
           "url": "https://wallstreetcn.com/livenews/3025766",
           "source": "华尔街见闻-快讯",
@@ -755,8 +823,19 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
         {
           "title": "UP主用AI改写三体名场面",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
@@ -874,6 +953,118 @@
       ]
     },
     {
+      "keyword_group": "基金",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美银调查：基金经理几乎“满仓”跨年！现金水平降至3.3%历史新低",
+          "url": "https://wallstreetcn.com/articles/3761907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 16时32分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（12月23日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.68%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3026249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "白银LOF斩获3连板！溢价率跃升至68%，场内基金扎堆涨停，这些溢价率同步飙涨",
+          "url": "https://www.cls.cn/detail/2239047",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时21分]"
+        },
+        {
+          "title": "拓荆科技：12月17日至12月24日国家集成电路基金减持公司总股本的0.65%",
+          "url": "https://wallstreetcn.com/livenews/3026218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 22时21分]"
+        },
+        {
+          "title": "首批 3 个重大非共识基金项目拟获资助，这种模式对科研「无人区」探索有何意义？",
+          "url": "https://www.zhihu.com/question/1985013560728896502",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "错失暴赚机会，这家基金踏空在摩尔线程上市前，5000万甩卖，少赚至少5个亿",
+          "url": "https://www.cls.cn/detail/2238953",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 22时21分]"
+        },
+        {
+          "title": "韩元受养老基金支持从八个月低点大幅反弹，韩股逆转收低",
+          "url": "https://flash.jin10.com/detail/20251224155117732800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "中国央行：用好证券、基金、保险公司互换便利和股票回购增持再贷款",
+          "url": "https://wallstreetcn.com/livenews/3026189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "在有关韩国国民养老基金进行对冲操作的报道发布后，韩元兑美元涨幅扩大，升至11月26日来的高点。 稍早，据路透援引消息人士称，韩国国民养老基金正进行“战略性外汇套期保值”操作。",
+          "url": "https://wallstreetcn.com/livenews/3025854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -960,96 +1151,20 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 7,
+      "keyword_group": "美元",
+      "match_count": 6,
       "titles": [
         {
-          "title": "美银调查：基金经理几乎“满仓”跨年！现金水平降至3.3%历史新低",
-          "url": "https://wallstreetcn.com/articles/3761907",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 16时32分]"
-        },
-        {
-          "title": "拓荆科技：12月17日至12月24日国家集成电路基金减持公司总股本的0.65%",
-          "url": "https://wallstreetcn.com/livenews/3026218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "白银LOF斩获3连板！溢价率跃升至68%，场内基金扎堆涨停，这些溢价率同步飙涨",
-          "url": "https://www.cls.cn/detail/2239047",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "错失暴赚机会，这家基金踏空在摩尔线程上市前，5000万甩卖，少赚至少5个亿",
-          "url": "https://www.cls.cn/detail/2238953",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时46分]"
-        },
-        {
-          "title": "韩元受养老基金支持从八个月低点大幅反弹，韩股逆转收低",
-          "url": "https://flash.jin10.com/detail/20251224155117732800",
+          "title": "初请数据公布后，现货黄金、美元指数DXY短线变动不大，美国股指期货保持稳定。",
+          "url": "https://flash.jin10.com/detail/20251224213209777800",
           "source": "金十数据",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "中国央行：用好证券、基金、保险公司互换便利和股票回购增持再贷款",
-          "url": "https://wallstreetcn.com/livenews/3026189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "22时21分"
         },
-        {
-          "title": "在有关韩国国民养老基金进行对冲操作的报道发布后，韩元兑美元涨幅扩大，升至11月26日来的高点。 稍早，据路透援引消息人士称，韩国国民养老基金正进行“战略性外汇套期保值”操作。",
-          "url": "https://wallstreetcn.com/livenews/3025854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数跌2.70%，暂报3523.87点，期间持续走低，北京时间22:55刷新日低至3453.45点。 Solana目前涨0.18%，狗狗币跌0.46%，XRP跌0.34%。 MarketVector数字资产100指数跌1.95%，暂报18018.00点，22:57也曾刷新日低至17723.29点。 比特币目前跌0.16%，暂报88022美元；以太坊跌0.49%，暂报2959.77美元。",
           "url": "https://wallstreetcn.com/livenews/3025706",
@@ -1152,7 +1267,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
