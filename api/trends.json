@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T20:45:33.909182+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2025-12-26T22:23:02.164772+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "为什么北京经济第一强区海淀至今没有苹果直营店？",
@@ -97,7 +97,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -111,6 +111,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 18时25分]"
+        },
+        {
+          "title": "三星失火内存飙升,钱包集体哀嚎",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348429&amp;topic_name=%E4%B8%89%E6%98%9F%E5%A4%B1%E7%81%AB%E5%86%85%E5%AD%98%E9%A3%99%E5%8D%87%2C%E9%92%B1%E5%8C%85%E9%9B%86%E4%BD%93%E5%93%80%E5%9A%8E",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 22时23分]"
         },
         {
           "title": "小米17 Ultra支持在iPhone上操控",
@@ -138,17 +151,16 @@
           "time_info": "[11时27分 ~ 14时35分]"
         },
         {
-          "title": "三星失火内存飙升,钱包集体哀嚎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348429&amp;topic_name=%E4%B8%89%E6%98%9F%E5%A4%B1%E7%81%AB%E5%86%85%E5%AD%98%E9%A3%99%E5%8D%87%2C%E9%92%B1%E5%8C%85%E9%9B%86%E4%BD%93%E5%93%80%E5%9A%8E",
-          "source": "贴吧",
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            12,
-            14
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 20时45分]"
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时23分]"
         },
         {
           "title": "小米17 Ultra定价6999元起",
@@ -185,6 +197,17 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "华为悬赏300万元求解难题",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%82%AC%E8%B5%8F300%E4%B8%87%E5%85%83%E6%B1%82%E8%A7%A3%E9%9A%BE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
           "title": "三星据称将推出“100%自主技术”GPU 终极野心：打造第二个博通",
           "url": "https://www.cls.cn/detail/2240384",
           "source": "财联社热门",
@@ -196,24 +219,13 @@
           "time_info": "11时27分"
         },
         {
-          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
-          "url": "https://www.cls.cn/detail/2241363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "华为将于2026年3月推出全新华为随行WiFi X",
           "url": "https://wallstreetcn.com/livenews/3027282",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -232,7 +244,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -245,8 +257,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 22时23分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -271,17 +283,6 @@
           "time_info": "[11时27分 ~ 16时31分]"
         },
         {
-          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
-          "url": "https://flash.jin10.com/detail/20251226203140257800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
           "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
           "source": "凤凰网",
@@ -289,8 +290,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 22时23分]"
+        },
+        {
+          "title": "乌方称特朗普与泽连斯基拟周日会面 寻求敲定和平协议",
+          "url": "https://flash.jin10.com/detail/20251226203140257800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -376,6 +388,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "泽连斯基称近期将与美总统特朗普会面",
           "url": "https://wallstreetcn.com/livenews/3027103",
           "source": "华尔街见闻-快讯",
@@ -398,6 +421,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
+          "url": "https://flash.jin10.com/detail/20251226205730248800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
           "url": "https://wallstreetcn.com/livenews/3026898",
           "source": "华尔街见闻-快讯",
@@ -412,7 +446,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -481,6 +515,17 @@
           "time_info": "[11时27分 ~ 18时25分]"
         },
         {
+          "title": "谷歌将允许用户更改Gmail邮箱地址",
+          "url": "https://flash.jin10.com/detail/20251226220031392800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
           "url": "https://www.zhihu.com/question/1987780060753719586",
           "source": "知乎",
@@ -526,6 +571,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 18时25分]"
+        },
+        {
+          "title": "174名北大学生迎特殊考试：对决AI",
+          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "天禧AI从助手到队友",
@@ -575,7 +631,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
@@ -614,6 +670,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 20时45分]"
+        },
+        {
+          "title": "年末遭遇“杀猪盘”？子公司买基金爆亏81%，上市公司报案",
+          "url": "https://www.cls.cn/detail/2241446",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（12月24日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3027367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "财政部：引导基金将以差异化风控体系培育创新生态",
@@ -670,7 +748,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -681,7 +759,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -734,8 +812,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 22时23分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -764,6 +842,18 @@
           "time_info": "[11时27分 ~ 12时36分]"
         },
         {
+          "title": "金价暴涨还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
           "url": "https://wallstreetcn.com/livenews/3026784",
           "source": "华尔街见闻-快讯",
@@ -787,17 +877,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 16时31分]"
-        },
-        {
-          "title": "金价暴涨还能买吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -825,7 +904,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -838,6 +917,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 06时21分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3027371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
@@ -860,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-26）",
+          "url": "https://flash.jin10.com/detail/20251226211205705800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
