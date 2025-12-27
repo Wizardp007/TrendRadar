@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T00:27:16.520527+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-28T02:31:53.193958+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -14,9 +14,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -25,9 +25,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -36,9 +36,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -47,20 +47,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "特朗普海湖庄园将上演“鸿门宴”吗",
           "url": "https://www.toutiao.com/trending/7588522311288979499/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
@@ -69,9 +70,20 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
+        },
+        {
+          "title": "特朗普又盯上格陵兰岛 这次是动真格吗",
+          "url": "https://www.toutiao.com/trending/7588519331349138954/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时31分"
         }
       ]
     },
@@ -86,20 +98,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "圣元环保：控股股东、实际控制人承诺就基金产品投资本金损失先行补偿",
           "url": "https://wallstreetcn.com/livenews/3027560",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "英媒：英国多家养老基金洽购度假村运营商Center Parcs少数股权",
@@ -108,9 +121,26 @@
           "ranks": [
             23
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米17Ultra徕卡版有什么不一样",
+          "url": "https://www.douyin.com/hot/2347928",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "02时31分"
         }
       ]
     },
@@ -123,11 +153,12 @@
           "url": "https://wallstreetcn.com/livenews/3027558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
         }
       ]
     },
@@ -143,8 +174,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     },
@@ -157,11 +188,12 @@
           "url": "https://www.toutiao.com/trending/7588294573819101226/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     },
@@ -176,9 +208,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 02时31分]"
         }
       ]
     }
