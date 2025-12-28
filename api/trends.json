@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T09:59:33.270566+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-28T11:53:49.010791+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -43,17 +43,6 @@
           "time_info": "[00时27分 ~ 09时59分]"
         },
         {
-          "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
-          "url": "https://flash.jin10.com/detail/20251228090239381800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -63,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
-          "url": "https://flash.jin10.com/detail/20251228090052065800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
@@ -102,15 +80,51 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
+          "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
+          "url": "https://flash.jin10.com/detail/20251228090239381800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时53分]"
+        },
+        {
+          "title": "特朗普敦促共和党人终结参议院的阻挠议事规则",
+          "url": "https://flash.jin10.com/detail/20251228090052065800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时53分]"
+        },
+        {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时53分]"
+        },
+        {
+          "title": "特朗普与泽连斯基会晤时间有所调整",
+          "url": "https://flash.jin10.com/detail/20251228094750696800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "11时53分"
         },
         {
           "title": "特朗普这一年改变了什么",
@@ -119,7 +133,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -137,19 +151,106 @@
       ]
     },
     {
+      "keyword_group": "grok 马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "白银价格狂飙，马斯克直言：这不好",
+          "url": "https://wallstreetcn.com/livenews/3027589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时53分]"
+        },
+        {
+          "title": "白银狂飙，马斯克直言：这不好！",
+          "url": "https://wallstreetcn.com/articles/3762194",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "白银价格屡创新高 马斯克：这可不好",
+          "url": "https://flash.jin10.com/detail/20251228091115537800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时53分]"
+        },
+        {
+          "title": "马斯克直言白银狂飙不是好事",
+          "url": "https://www.toutiao.com/trending/7588708734008823305/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "白银价格暴涨 马斯克：这可不好",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "马斯克1个表情评宇树机器人踹工程师",
+          "url": "https://www.toutiao.com/trending/7588573431797514283/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "原告出示证据 右下角写着“AI生成”",
           "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%91%8A%E5%87%BA%E7%A4%BA%E8%AF%81%E6%8D%AE+%E5%8F%B3%E4%B8%8B%E8%A7%92%E5%86%99%E7%9D%80%E2%80%9CAI%E7%94%9F%E6%88%90%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时53分]"
+        },
+        {
+          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
+          "url": "https://wallstreetcn.com/articles/3762183",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时53分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -165,21 +266,21 @@
           "time_info": "[00时27分 ~ 09时59分]"
         },
         {
-          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
-          "url": "https://wallstreetcn.com/articles/3762183",
-          "source": "华尔街见闻",
+          "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
+          "url": "https://flash.jin10.com/detail/20251228101016182800",
+          "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "11时53分"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "年末遭遇“杀猪盘”？子公司买基金爆亏81%，上市公司报案",
@@ -191,6 +292,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 04时25分]"
+        },
+        {
+          "title": "基金经理李蓓 12888 元卖投资课，承诺教会投资且年化收益超 10%，靠谱吗？为何金融精英纷纷转型卖课？",
+          "url": "https://www.zhihu.com/question/1988528275115439161",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         },
         {
           "title": "圣元环保：控股股东、实际控制人承诺就基金产品投资本金损失先行补偿",
@@ -219,30 +331,30 @@
       ]
     },
     {
-      "keyword_group": "grok 马斯克",
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
       "match_count": 2,
       "titles": [
         {
-          "title": "白银价格屡创新高 马斯克：这可不好",
-          "url": "https://flash.jin10.com/detail/20251228091115537800",
-          "source": "金十数据",
+          "title": "用苹果风格宣传钥匙圈",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%8B%B9%E6%9E%9C%E9%A3%8E%E6%A0%BC%E5%AE%A3%E4%BC%A0%E9%92%A5%E5%8C%99%E5%9C%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "11时53分"
         },
         {
-          "title": "白银价格狂飙，马斯克直言：这不好",
-          "url": "https://wallstreetcn.com/livenews/3027589",
-          "source": "华尔街见闻-快讯",
+          "title": "小米17Ultra徕卡版有什么不一样",
+          "url": "https://www.douyin.com/hot/2347928",
+          "source": "抖音",
           "ranks": [
-            2
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "02时31分"
         }
       ]
     },
@@ -261,36 +373,37 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 09时59分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 11时53分]"
         },
         {
           "title": "豆包的朋友又多了一个？",
           "url": "https://wallstreetcn.com/articles/3762193",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时53分]"
         }
       ]
     },
     {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "小米17Ultra徕卡版有什么不一样",
-          "url": "https://www.douyin.com/hot/2347928",
-          "source": "抖音",
+          "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
+          "url": "https://flash.jin10.com/detail/20251228100400527800",
+          "source": "金十数据",
           "ranks": [
-            28
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时31分"
+          "time_info": "11时53分"
         }
       ]
     },
