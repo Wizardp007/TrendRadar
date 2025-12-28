@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T11:53:49.010791+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2025-12-28T12:46:51.742921+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -120,11 +120,12 @@
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时46分]"
         },
         {
           "title": "特朗普这一年改变了什么",
@@ -163,8 +164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时46分]"
         },
         {
           "title": "白银狂飙，马斯克直言：这不好！",
@@ -173,9 +174,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时46分]"
+        },
+        {
+          "title": "马斯克1个表情评宇树机器人踹工程师",
+          "url": "https://www.toutiao.com/trending/7588573431797514283/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时46分]"
         },
         {
           "title": "白银价格屡创新高 马斯克：这可不好",
@@ -190,35 +203,25 @@
           "time_info": "[09时59分 ~ 11时53分]"
         },
         {
+          "title": "白银价格暴涨 马斯克：这可不好",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时46分]"
+        },
+        {
           "title": "马斯克直言白银狂飙不是好事",
           "url": "https://www.toutiao.com/trending/7588708734008823305/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "白银价格暴涨 马斯克：这可不好",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8+%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E8%BF%99%E5%8F%AF%E4%B8%8D%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "马斯克1个表情评宇树机器人踹工程师",
-          "url": "https://www.toutiao.com/trending/7588573431797514283/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
         }
@@ -226,7 +229,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "原告出示证据 右下角写着“AI生成”",
@@ -234,11 +237,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时46分]"
         },
         {
           "title": "Notion CEO谈AI变革：“无限心智”时代来临",
@@ -249,8 +253,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时46分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -266,15 +270,27 @@
           "time_info": "[00时27分 ~ 09时59分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
           "url": "https://flash.jin10.com/detail/20251228101016182800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时46分]"
         }
       ]
     },
@@ -300,9 +316,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时46分]"
         },
         {
           "title": "圣元环保：控股股东、实际控制人承诺就基金产品投资本金损失先行补偿",
@@ -339,11 +355,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E8%8B%B9%E6%9E%9C%E9%A3%8E%E6%A0%BC%E5%AE%A3%E4%BC%A0%E9%92%A5%E5%8C%99%E5%9C%88",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时46分]"
         },
         {
           "title": "小米17Ultra徕卡版有什么不一样",
@@ -370,11 +387,12 @@
             10,
             13,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 11时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时46分]"
         },
         {
           "title": "豆包的朋友又多了一个？",
@@ -382,11 +400,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 12时46分]"
         }
       ]
     },
@@ -399,11 +418,12 @@
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时46分]"
         }
       ]
     },
