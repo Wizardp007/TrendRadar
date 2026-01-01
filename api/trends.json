@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-01-01T10:01:09.131260+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-01-01T11:56:31.595547+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
+          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时56分]"
+        },
+        {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
           "url": "https://wallstreetcn.com/livenews/3029490",
@@ -19,15 +42,15 @@
           "time_info": "06时22分"
         },
         {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
-          "source": "凤凰网",
+          "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
+          "url": "https://flash.jin10.com/detail/20260101111825003800",
+          "source": "金十数据",
           "ranks": [
-            3
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "11时56分"
         },
         {
           "title": "特朗普施压下，委内瑞拉Orinoco Belt的石油产量两周骤降25%",
@@ -39,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美国白宫：特朗普总统调整了进入美国的木材、木料及其衍生产品的进口政策。",
+          "url": "https://flash.jin10.com/detail/20260101111709020800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -119,6 +153,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
+          "url": "https://wallstreetcn.com/livenews/3029538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
           "url": "https://flash.jin10.com/detail/20260101045615854800",
           "source": "金十数据",
@@ -144,7 +189,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -169,26 +214,38 @@
           "time_info": "[00时29分 ~ 06时22分]"
         },
         {
-          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
-          "url": "https://wallstreetcn.com/articles/3762372",
-          "source": "华尔街见闻",
+          "title": "AI魔改翻车!广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
           "ranks": [
-            8
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "11时56分"
         },
         {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
           "url": "https://wallstreetcn.com/articles/3762366",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时56分]"
+        },
+        {
+          "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
+          "url": "https://wallstreetcn.com/articles/3762372",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时56分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -201,6 +258,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
+          "url": "https://www.cls.cn/detail/2245960",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时56分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -222,8 +291,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 10时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 11时56分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
@@ -238,15 +307,26 @@
           "time_info": "[06时22分 ~ 10时01分]"
         },
         {
-          "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
-          "url": "https://www.cls.cn/detail/2245960",
-          "source": "财联社热门",
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
+          "source": "百度热搜",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时01分"
+          "time_info": "11时56分"
+        },
+        {
+          "title": "宇树人形机器人回应AI是否存在泡沫",
+          "url": "https://www.toutiao.com/trending/7589927689303326763/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -282,11 +362,12 @@
           "url": "https://www.cls.cn/detail/2246008",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时56分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -374,6 +455,30 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "2025公募业绩放榜！233%冠军基创造历史，主动权益包揽前十，中小基金公司崛起",
+          "url": "https://www.cls.cn/detail/2246025",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时56分]"
+        },
+        {
+          "title": "证监会：调降公募基金认申购费、销售服务费，持有期超一年的基金份额不收取销售服务费",
+          "url": "https://wallstreetcn.com/articles/3762394",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 11时56分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
           "url": "https://wallstreetcn.com/livenews/3029488",
           "source": "华尔街见闻-快讯",
@@ -383,28 +488,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "证监会：调降公募基金认申购费、销售服务费，持有期超一年的基金份额不收取销售服务费",
-          "url": "https://wallstreetcn.com/articles/3762394",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "2025公募业绩放榜！233%冠军基创造历史，主动权益包揽前十，中小基金公司崛起",
-          "url": "https://www.cls.cn/detail/2246025",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         },
         {
           "title": "桥水2025旗舰宏观基金Pure Alpha回报率创纪录",
@@ -457,7 +540,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -476,8 +559,30 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://wallstreetcn.com/livenews/3029559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "小米集团董事长雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
+          "url": "https://flash.jin10.com/detail/20260101112910886800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
         {
           "title": "鸿蒙12月日均新增设备数超15万，注册开发者超过1000万，华为应用市场可获取的应用和元服务的数量超过35万。",
           "url": "https://wallstreetcn.com/livenews/3029526",
@@ -485,7 +590,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -507,7 +612,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -518,7 +623,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -574,11 +679,12 @@
           "ranks": [
             14,
             12,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 10时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 11时56分]"
         },
         {
           "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
@@ -587,7 +693,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -598,7 +704,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
