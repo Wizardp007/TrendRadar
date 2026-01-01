@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T14:36:58.857738+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-01-01T16:32:05.569871+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -205,8 +205,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时32分]"
+        },
+        {
+          "title": "AI魔改翻车!广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时36分]"
+          "time_info": "[11时56分 ~ 16时32分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -243,19 +257,6 @@
           "time_info": "[00时29分 ~ 06时22分]"
         },
         {
-          "title": "AI魔改翻车!广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%21%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 14时36分]"
-        },
-        {
           "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
           "url": "https://www.cls.cn/detail/2245960",
           "source": "财联社热门",
@@ -265,8 +266,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时32分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -276,19 +277,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[10时00分 ~ 16时32分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
           "url": "https://www.cls.cn/detail/2245258",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 16时32分]"
+        },
+        {
+          "title": "给AI内容“卸妆” 一眼辨真伪",
+          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 16时32分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -315,17 +328,6 @@
           "time_info": "[04时25分 ~ 06时22分]"
         },
         {
-          "title": "给AI内容“卸妆” 一眼辨真伪",
-          "url": "https://www.baidu.com/s?wd=%E7%BB%99AI%E5%86%85%E5%AE%B9%E2%80%9C%E5%8D%B8%E5%A6%86%E2%80%9D+%E4%B8%80%E7%9C%BC%E8%BE%A8%E7%9C%9F%E4%BC%AA",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 14时36分]"
-        },
-        {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
           "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
           "source": "澎湃新闻",
@@ -344,7 +346,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -373,6 +375,137 @@
       ]
     },
     {
+      "keyword_group": "基金",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "2025公募业绩放榜！233%冠军基创造历史，主动权益包揽前十，中小基金公司崛起",
+          "url": "https://www.cls.cn/detail/2246025",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时32分]"
+        },
+        {
+          "title": "证监会：调降公募基金认申购费、销售服务费，持有期超一年的基金份额不收取销售服务费",
+          "url": "https://wallstreetcn.com/articles/3762394",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时32分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3029488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "机构：全球主权财富基金资产创新高，对科技行业的投资增加",
+          "url": "https://flash.jin10.com/detail/20260101154004580800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "机构：全球主权财富基金资产创新高，对科技行业的投资增加",
+          "url": "https://wallstreetcn.com/livenews/3029588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "桥水2025旗舰宏观基金Pure Alpha回报率创纪录",
+          "url": "https://flash.jin10.com/detail/20260101031207527800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
+          "url": "https://flash.jin10.com/detail/20260101052422897800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：截至12月30日当周，货币市场基金总资产增至7.73万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260101023254111800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "永赢科技智选混合基金去年收益率超233%，打破王亚伟管理的华夏大盘精选基金所创纪录",
+          "url": "https://wallstreetcn.com/livenews/3029432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "全球主权基金进军科技领域，资产规模增至 15 万亿美元",
+          "url": "https://flash.jin10.com/detail/20260101083402371800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，股票基金经理将标普500芝商所（CME）净多头仓位削减27,949手合约，至936,689手。股票基金投机者将标普500芝商所（CME）净空头头寸削减18,436手合约，至372,091手。",
+          "url": "https://flash.jin10.com/detail/20260101043451240800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
@@ -397,8 +530,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时32分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -482,117 +615,8 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "2025公募业绩放榜！233%冠军基创造历史，主动权益包揽前十，中小基金公司崛起",
-          "url": "https://www.cls.cn/detail/2246025",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时36分]"
-        },
-        {
-          "title": "证监会：调降公募基金认申购费、销售服务费，持有期超一年的基金份额不收取销售服务费",
-          "url": "https://wallstreetcn.com/articles/3762394",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时36分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3029488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "桥水2025旗舰宏观基金Pure Alpha回报率创纪录",
-          "url": "https://flash.jin10.com/detail/20260101031207527800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，对冲基金所持欧元多头头寸增加至29,098手合约，创逾五年来最高，价值大约43亿美元。",
-          "url": "https://flash.jin10.com/detail/20260101052422897800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "美国投资公司协会（ICI）：截至12月30日当周，货币市场基金总资产增至7.73万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260101023254111800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "永赢科技智选混合基金去年收益率超233%，打破王亚伟管理的华夏大盘精选基金所创纪录",
-          "url": "https://wallstreetcn.com/livenews/3029432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "全球主权基金进军科技领域，资产规模增至 15 万亿美元",
-          "url": "https://flash.jin10.com/detail/20260101083402371800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月23日当周，股票基金经理将标普500芝商所（CME）净多头仓位削减27,949手合约，至936,689手。股票基金投机者将标普500芝商所（CME）净空头头寸削减18,436手合约，至372,091手。",
-          "url": "https://flash.jin10.com/detail/20260101043451240800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "雷军：小米YU7上市6个月，交付已超15万辆，是SU7同期2.3倍。",
@@ -642,6 +666,17 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "小米回应YU7配置调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94YU7%E9%85%8D%E7%BD%AE%E8%B0%83%E6%95%B4%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "小米汽车：2025年12月，小米汽车交付量超过5万台。",
           "url": "https://flash.jin10.com/detail/20260101090520861800",
           "source": "金十数据",
@@ -670,7 +705,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -703,8 +738,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 16时32分]"
         },
         {
           "title": "马斯克：Neuralink将于2026年开始大规模生产脑机接口设备，并转向精简、几乎完全自动化的手术流程。",
@@ -766,6 +801,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         }
       ]
     },
