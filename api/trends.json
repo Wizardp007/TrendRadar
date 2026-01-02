@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T14:36:57.646822+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-01-02T16:32:19.053799+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 16时32分]"
         },
         {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
@@ -29,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 16时32分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -38,11 +39,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 16时32分]"
         },
         {
           "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
@@ -54,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 16时32分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -103,6 +105,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 06时22分]"
+        },
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -158,7 +171,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -245,6 +258,17 @@
           "time_info": "[00时30分 ~ 02时34分]"
         },
         {
+          "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
+          "url": "https://flash.jin10.com/detail/20260102155924046800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
           "url": "https://wallstreetcn.com/livenews/3029681",
           "source": "华尔街见闻-快讯",
@@ -278,13 +302,24 @@
           "time_info": "00时30分"
         },
         {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "特朗普承认手上瘀伤是服用药物造成",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
           "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -292,7 +327,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "12月电车成绩单：小米首破5万大关，蔚来、鸿蒙智行交付再创新高，零跑同增超四成",
@@ -304,8 +339,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 16时32分]"
         },
         {
           "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
@@ -313,11 +348,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 16时32分]"
         },
         {
           "title": "三星电子股价上涨3%。",
@@ -331,6 +367,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "三星电子CEO高呼“三星归来”引燃亚洲科技股涨势",
+          "url": "https://flash.jin10.com/detail/20260102161827368800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "三星电子股价延续涨势，上涨1.5%，此前联席首席执行官强调HBM4芯片供应取得进展。",
           "url": "https://flash.jin10.com/detail/20260102090233422800",
           "source": "金十数据",
@@ -340,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "三星旗下的IT服务与云服务子公司SDS：将投入4270亿韩元在韩国建设AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260102161552396800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "iPhone最浪漫的5个设置",
@@ -395,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "韩国首尔综合指数收涨2.3%，创纪录新高。三星大涨7.2%创收盘新高。",
+          "url": "https://wallstreetcn.com/livenews/3029750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -411,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -422,11 +491,12 @@
             12,
             9,
             11,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 14时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 16时32分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -437,8 +507,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 16时32分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -450,8 +520,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -473,6 +543,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
+          "url": "https://www.cls.cn/detail/2246232",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 16时32分]"
+        },
+        {
           "title": "马斯克暗示将继续资助美国共和党",
           "url": "https://flash.jin10.com/detail/20260102051812047800",
           "source": "金十数据",
@@ -482,18 +565,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
-          "url": "https://www.cls.cn/detail/2246232",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时36分]"
         },
         {
           "title": "特斯拉车主首度实现“全程自动驾驶横穿美国” 马斯克：酷",
@@ -509,6 +580,48 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 16时32分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3029712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "基金",
       "match_count": 3,
       "titles": [
@@ -517,11 +630,12 @@
           "url": "https://www.cls.cn/detail/2246025",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 16时32分]"
         },
         {
           "title": "韩国央行行长李昌镛：需全面审查养老基金的海外投资，将考虑扩大对小企业的特别贷款。",
@@ -570,40 +684,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 14时36分]"
-        },
-        {
-          "title": "美股期货上涨，纳斯达克指数期货上涨0.58%，标普500指数期货上涨0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3029712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时42分]"
         }
       ]
     }
