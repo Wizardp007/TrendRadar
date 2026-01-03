@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T12:34:44.058593+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-01-03T14:34:31.719657+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -25,22 +25,50 @@
           "url": "https://news.ifeng.com/c/8pbpH4jJoYi",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 14时34分]"
         },
         {
           "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
           "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 14时34分]"
+        },
+        {
+          "title": "与高市通话后特朗普转头就见驻华大使",
+          "url": "https://www.toutiao.com/trending/7590145571084681243/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时34分]"
+          "time_info": "[12时34分 ~ 14时34分]"
+        },
+        {
+          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
+          "url": "https://wallstreetcn.com/livenews/3029951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时34分]"
         },
         {
           "title": "特朗普称将就伊朗事件进行干涉",
@@ -89,28 +117,18 @@
           "time_info": "11时24分"
         },
         {
-          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
-          "url": "https://wallstreetcn.com/livenews/3029951",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            10,
+            14,
+            13,
+            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时34分]"
-        },
-        {
-          "title": "与高市通话后特朗普转头就见驻华大使",
-          "url": "https://www.toutiao.com/trending/7590145571084681243/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时34分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -138,19 +156,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时22分 ~ 12时34分]"
-        },
-        {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时34分]"
         },
         {
           "title": "特朗普称美国已做好准备",
@@ -199,6 +204,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
@@ -272,8 +299,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
@@ -283,11 +310,12 @@
             10,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时32分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[02时32分 ~ 14时34分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -308,8 +336,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时34分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -332,8 +360,38 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时34分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3029945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            15,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 14时34分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
+          "url": "https://wallstreetcn.com/livenews/3029937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            22,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -362,34 +420,6 @@
           "time_info": "[02时32分 ~ 09时45分]"
         },
         {
-          "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3029945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 12时34分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
-          "url": "https://wallstreetcn.com/livenews/3029937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时22分 ~ 12时34分]"
-        },
-        {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
           "url": "https://flash.jin10.com/detail/20260102232633557800",
           "source": "金十数据",
@@ -399,6 +429,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "半导体概念股美股新年首日普遍收涨",
+          "url": "https://wallstreetcn.com/livenews/3029957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
@@ -421,19 +465,6 @@
             12,
             26,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时34分]"
-        },
-        {
-          "title": "半导体概念股美股新年首日普遍收涨",
-          "url": "https://wallstreetcn.com/livenews/3029957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17,
-            18
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -488,8 +519,21 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
+          "url": "https://wallstreetcn.com/articles/3762454",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时34分]"
+        },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
           "url": "https://wallstreetcn.com/articles/3762451",
@@ -498,18 +542,6 @@
             7,
             5,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时34分]"
-        },
-        {
-          "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
-          "url": "https://wallstreetcn.com/articles/3762454",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -533,11 +565,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "AI如何让闪迪成为股王",
@@ -546,11 +579,12 @@
           "ranks": [
             1,
             15,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 12时34分]"
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 14时34分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -559,11 +593,12 @@
           "ranks": [
             7,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时34分]"
         },
         {
           "title": "据日经新闻：Daiichi Sankyo计划投入约3000亿日元建设靶向抗癌药物的生产设施。",
@@ -577,6 +612,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时32分 ~ 09时45分]"
+        },
+        {
+          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
+          "url": "https://wallstreetcn.com/articles/3762468",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
@@ -611,6 +657,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
+          "url": "https://wallstreetcn.com/livenews/3029935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            24,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 14时34分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
@@ -648,28 +708,132 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
-          "title": "AI软件指数收跌超2.7%，成分股Palantir、MongoDB、Adobe表现最差，美光涨超10%在信息技术板块表现不俗",
-          "url": "https://wallstreetcn.com/livenews/3029935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时45分 ~ 12时34分]"
-        },
-        {
           "title": "“高考AI押题命中率98%”系谣言",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83AI%E6%8A%BC%E9%A2%98%E5%91%BD%E4%B8%AD%E7%8E%8798%25%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 14时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "对冲基金2025龙虎榜：桥水旗舰基金回报34%创纪录，桥水中国排名第三超德邵",
+          "url": "https://wallstreetcn.com/articles/3762460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "14时34分"
+        },
+        {
+          "title": "据知情人士透露，城堡（Citadel）旗舰对冲基金Wellington的2025年回报率10.2%，逊色于千禧（Millennium Management）——10.5%。 城堡的业绩创2018年以来最差，Wellington当年为15.2%。 1990年以来，千禧有九次超越城堡。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3029911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "对冲基金龙虎榜：桥水中国2025年排名第三超过德邵，Melqart拔得头筹",
+          "url": "https://wallstreetcn.com/livenews/3029916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 06时22分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（12月31日）担保隔夜融资利率（SOFR）报3.87%，之前一天报3.71%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3029878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时32分]"
+        },
+        {
+          "title": "据英国《金融时报》：千禧年对冲基金在2025年实现了10.5%的回报率。",
+          "url": "https://flash.jin10.com/detail/20260102232030504800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "小米辟谣“17 Ultra徕卡版变焦环造假”：拆机内容断章取义，与事实严重不符",
+          "url": "https://wallstreetcn.com/livenews/3029976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
+          "url": "https://www.zhihu.com/question/1990172846333325720",
+          "source": "知乎",
+          "ranks": [
+            3,
+            19,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "小米辟谣17Ultra徕卡版变焦环造假",
+          "url": "https://www.toutiao.com/trending/7590770296970284550/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 02时32分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨4.38%，报7859.65点，本周累计上涨2.23%。 热门中概股里，百度初步收涨15%，小马智行涨11.1%，文远知行涨8.2%，网易涨7.2%，阿里巴巴涨6.2%，新东方、小米、京东、美团、拼多多、理想、百胜中国至多涨5.3%。 ETF中，中概互联网指数ETF（KWEB）收涨4.64%，中国科技指数ETF（CQQQ）收涨4.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.43%，XtrackersHarvest中证50（ASHS）收涨1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3029931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -683,11 +847,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
@@ -699,8 +864,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "马斯克宣布 2026 年将大规模生产脑机接口设备，目前这项技术处于什么水平？大规模应用将产生哪些影响？",
@@ -784,101 +949,6 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据知情人士透露，城堡（Citadel）旗舰对冲基金Wellington的2025年回报率10.2%，逊色于千禧（Millennium Management）——10.5%。 城堡的业绩创2018年以来最差，Wellington当年为15.2%。 1990年以来，千禧有九次超越城堡。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3029911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "对冲基金龙虎榜：桥水中国2025年排名第三超过德邵，Melqart拔得头筹",
-          "url": "https://wallstreetcn.com/livenews/3029916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 06时22分]"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（12月31日）担保隔夜融资利率（SOFR）报3.87%，之前一天报3.71%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3029878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "据英国《金融时报》：千禧年对冲基金在2025年实现了10.5%的回报率。",
-          "url": "https://flash.jin10.com/detail/20260102232030504800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "多家车企 12 月成绩单出炉，比亚迪新能源车月销 42 万辆，小米交付超 5 万辆，如何解读车企业绩？",
-          "url": "https://www.zhihu.com/question/1990172846333325720",
-          "source": "知乎",
-          "ranks": [
-            3,
-            19,
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "小米辟谣17Ultra徕卡版变焦环造假",
-          "url": "https://www.toutiao.com/trending/7590770296970284550/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时32分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨4.38%，报7859.65点，本周累计上涨2.23%。 热门中概股里，百度初步收涨15%，小马智行涨11.1%，文远知行涨8.2%，网易涨7.2%，阿里巴巴涨6.2%，新东方、小米、京东、美团、拼多多、理想、百胜中国至多涨5.3%。 ETF中，中概互联网指数ETF（KWEB）收涨4.64%，中国科技指数ETF（CQQQ）收涨4.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.43%，XtrackersHarvest中证50（ASHS）收涨1.12%。",
-          "url": "https://wallstreetcn.com/livenews/3029931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
@@ -891,11 +961,12 @@
             23,
             24,
             12,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
