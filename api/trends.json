@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T20:43:43.433635+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-01-04T22:20:30.554515+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 143,
+      "match_count": 149,
       "titles": [
         {
           "title": "持续一小时！美国空袭委内瑞拉，特朗普称抓获马杜罗及其夫人，即将召开发布会",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 20时43分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 22时20分]"
         },
         {
           "title": "特朗普威胁古巴、哥伦比亚",
@@ -91,11 +91,12 @@
             12,
             11,
             23,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时31分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[02时31分 ~ 22时20分]"
         },
         {
           "title": "特朗普称已抓获委内瑞拉总统",
@@ -115,6 +116,22 @@
           "time_info": "[00时27分 ~ 16时31分]"
         },
         {
+          "title": "特朗普威胁古巴哥伦比亚",
+          "url": "https://www.douyin.com/hot/2356597",
+          "source": "抖音",
+          "ranks": [
+            17,
+            20,
+            21,
+            22,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普下令空袭委内瑞拉",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
           "source": "bilibili 热搜",
@@ -124,11 +141,12 @@
             28,
             21,
             26,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 20时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 22时20分]"
         },
         {
           "title": "特朗普称抓获委内瑞拉总统及其夫人，美国司法部长称二人已在美国被起诉，意味着什么？美国为什么能说抓就抓？",
@@ -149,21 +167,6 @@
             17,
             16,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 20时43分]"
-        },
-        {
-          "title": "特朗普威胁古巴哥伦比亚",
-          "url": "https://www.douyin.com/hot/2356597",
-          "source": "抖音",
-          "ranks": [
-            17,
-            20,
-            21,
-            22,
-            25
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -205,6 +208,31 @@
           "time_info": "[00时27分 ~ 12时53分]"
         },
         {
+          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
+          "url": "https://wallstreetcn.com/articles/3762495",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 22时20分]"
+        },
+        {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普称将占领管理委内瑞拉",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -243,42 +271,29 @@
           "time_info": "[00时27分 ~ 14时35分]"
         },
         {
-          "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
-          "url": "https://wallstreetcn.com/articles/3762495",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 20时43分]"
-        },
-        {
-          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
-          "url": "https://wallstreetcn.com/articles/3762494",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 20时43分]"
-        },
-        {
           "title": "特朗普透露夜袭细节",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82",
           "source": "bilibili 热搜",
           "ranks": [
             21,
             27,
-            24
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 22时20分]"
+        },
+        {
+          "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
+          "url": "https://news.ifeng.com/c/8pdL68clJ3r",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时57分 ~ 18时23分]"
+          "time_info": "[11时57分 ~ 22时20分]"
         },
         {
           "title": "委内瑞拉副总统Delcy Rodriguez在国家电视台表示：我们要求（特朗普政府）立即释放总统马杜罗。 我们永远都不会再沦为殖民地。 呼吁民众保持冷静。 委内瑞拉遭遇的（美国军事袭击）是野蛮粗暴的。 （美国）对总统马杜罗的“劫持”是非法的。 委内瑞拉准备捍卫自己的资源。",
@@ -338,17 +353,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 10时01分]"
-        },
-        {
-          "title": "高市早苗准备到美国求特朗普撑腰，但日本可能被移出发达国家行列",
-          "url": "https://news.ifeng.com/c/8pdL68clJ3r",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 20时43分]"
         },
         {
           "title": "特朗普警告哥伦比亚总统小心点",
@@ -694,6 +698,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "特朗普政府要求美国石油公司投资委内瑞拉",
+          "url": "https://flash.jin10.com/detail/20260104204048321800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美国众议长约翰逊宣称：（特朗普政府）在委内瑞拉的军事行动“是正当的”。 已经与国务卿卢比奥和“战争部长”Hegseth对话。",
           "url": "https://wallstreetcn.com/livenews/3030098",
           "source": "华尔街见闻-快讯",
@@ -742,6 +757,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时57分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：对于我所支持的那些拉美领导人，我们之间的关系很好。 委内瑞拉反对派人物Machado并不具备领导委内瑞拉的“威望”。 没有与俄罗斯总统普京讨论过马杜罗。",
@@ -1099,16 +1127,16 @@
           "time_info": "[10时01分 ~ 11时57分]"
         },
         {
-          "title": "特朗普：将让美大型石油公司进入委内瑞拉，不排除二次打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32307985",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
+          "url": "https://flash.jin10.com/detail/20260104184157171800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            15
+            15,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时43分]"
+          "time_info": "[20时43分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：国会山存在泄密的倾向性。",
@@ -1262,6 +1290,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "专访｜孙岩峰：特朗普为何定要“拔掉委内瑞拉这颗钉子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32311229",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "特朗普自述“手背淤青”原因：连续25年服用大剂量阿司匹林",
           "url": "https://www.cls.cn/detail/2246510",
           "source": "财联社热门",
@@ -1282,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3030327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "纽约市长已致电特朗普",
@@ -1306,6 +1356,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "特朗普称马杜罗夫妇在美军舰上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32307753",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉无人可接管政权。",
           "url": "https://flash.jin10.com/detail/20260104012840654800",
           "source": "金十数据",
@@ -1315,17 +1376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-04）",
-          "url": "https://flash.jin10.com/detail/20260104184157171800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "俄罗斯政府：俄方呼吁（特朗普政府）立即释放委内瑞拉总统马杜罗及其妻子。",
@@ -1350,6 +1400,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普政府要求美国石油公司投资委内瑞拉，业内对此态度审慎",
+          "url": "https://wallstreetcn.com/livenews/3030325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "特朗普：我们将向其他国家出售大量石油",
           "url": "https://flash.jin10.com/detail/20260104012602055800",
           "source": "金十数据",
@@ -1370,6 +1431,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
+          "url": "https://www.zhihu.com/question/1991082437355201732",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "美国总统特朗普：在不久的将来，马杜罗将被带到纽约。",
@@ -1400,7 +1472,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         },
@@ -1705,7 +1777,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "小米通过直播拆车、集中回应「200 瞬间刹停」「小字营销」等争议，能有效扭转舆论吗？用户的诉求是什么？",
@@ -1716,8 +1788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时57分 ~ 20时43分]"
+          "appearance_count": 10,
+          "time_info": "[11时57分 ~ 22时20分]"
         },
         {
           "title": "网友称苹果手机电池健康度用到 0%，客服回应现实中没见过，什么情况下会到 0%？你手机最低到过多少？",
@@ -1732,6 +1804,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时57分 ~ 20时43分]"
+        },
+        {
+          "title": "马杜罗称华为是反窃听天花板",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348672&amp;topic_name=%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%A7%B0%E5%8D%8E%E4%B8%BA%E6%98%AF%E5%8F%8D%E7%AA%83%E5%90%AC%E5%A4%A9%E8%8A%B1%E6%9D%BF",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            8,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 22时20分]"
         },
         {
           "title": "雷军直播拆车小米 YU7，哪些内容值得关注？回应了哪些公众好奇的点？",
@@ -1759,20 +1846,6 @@
           "time_info": "[00时27分 ~ 10时01分]"
         },
         {
-          "title": "马杜罗称华为是反窃听天花板",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348672&amp;topic_name=%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%A7%B0%E5%8D%8E%E4%B8%BA%E6%98%AF%E5%8F%8D%E7%AA%83%E5%90%AC%E5%A4%A9%E8%8A%B1%E6%9D%BF",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 20时43分]"
-        },
-        {
           "title": "小米辟谣变焦环造假",
           "url": "https://www.douyin.com/hot/2355926",
           "source": "抖音",
@@ -1782,6 +1855,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 11时57分]"
+        },
+        {
+          "title": "“i茅台”APP冲上苹果应用商店购物榜第一名。",
+          "url": "https://wallstreetcn.com/livenews/3030340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "iPhoneFold上手",
@@ -1806,6 +1890,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 22时20分]"
         },
         {
           "title": "雷军称小米车轮子撞掉是丢轮保车",
@@ -1862,18 +1959,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32310018",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 20时43分]"
         },
         {
           "title": "苹果“Apple 智能与 Siri”被曝已开启国行灰度测试，部分功能受限",
@@ -2062,6 +2147,18 @@
           "time_info": "[18时23分 ~ 20时43分]"
         },
         {
+          "title": "腾讯回应元宝AI辱骂用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时20分]"
+        },
+        {
           "title": "几毛钱学的AI魔改1条能赚上千",
           "url": "https://s.weibo.com/weibo?q=%23%E5%87%A0%E6%AF%9B%E9%92%B1%E5%AD%A6%E7%9A%84AI%E9%AD%94%E6%94%B91%E6%9D%A1%E8%83%BD%E8%B5%9A%E4%B8%8A%E5%8D%83%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -2071,17 +2168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 14时35分]"
-        },
-        {
-          "title": "腾讯回应元宝AI辱骂用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
         },
         {
           "title": "参谋长联席会议主席Caine上将：美方动用超过150架飞机实施袭击委内瑞拉的行动。 一架飞机被委内瑞拉击中，但仍然能执行飞行任务。 许多无人机以远程方式参与行动。 美军仍然部署在该地区（加勒比地区）。",
@@ -2127,17 +2213,6 @@
           "time_info": "[00时27分 ~ 06时21分]"
         },
         {
-          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
-          "url": "https://wallstreetcn.com/livenews/3030322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "马斯克：Grok的新版本已发布。",
           "url": "https://flash.jin10.com/detail/20260104141330230800",
           "source": "金十数据",
@@ -2148,6 +2223,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 16时31分]"
+        },
+        {
+          "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
+          "url": "https://wallstreetcn.com/livenews/3030322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 22时20分]"
         },
         {
           "title": "美国司法部长Bondi在马斯克社交媒体平台X（原名推特）披露针对委内瑞拉总统马杜罗（本人）的“解封的起诉书”。",
@@ -2230,7 +2317,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
         }
