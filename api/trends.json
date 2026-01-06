@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-01-07T00:32:25.147244+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-07T02:35:16.070213+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
-          "url": "https://wallstreetcn.com/livenews/3031788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
         {
           "title": "特朗普不到1年对7国动武",
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
           "source": "今日头条",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
+          "url": "https://wallstreetcn.com/livenews/3031788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +37,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "特朗普：医疗保险费太贵了。",
@@ -63,17 +86,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
           "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
           "url": "https://wallstreetcn.com/livenews/3031774",
           "source": "华尔街见闻-快讯",
@@ -85,15 +97,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
+          "title": "市场消息：美国白宫推出网站，展示特朗普政府对“2021年1月6日美国国会暴乱”的解释，其中声称美国众议院前议长佩洛西在其党派特别委员会上炮制了一场精心编排的电视闹剧，捏造“叛乱”叙事，并将所有责任归咎于特朗普。",
+          "url": "https://flash.jin10.com/detail/20260107014637894800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "02时35分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉的电力供应被切断了。",
@@ -105,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普警告：若共和党在美国中期选举中失利，他将被弹劾",
+          "url": "https://wallstreetcn.com/livenews/3031823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
@@ -160,13 +183,109 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "特朗普政策影响下，大众和奥迪在美销量暴跌",
+          "url": "https://flash.jin10.com/detail/20260107013000574800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "城堡证券：看好“一月效应”引发美股反弹",
+          "url": "https://wallstreetcn.com/livenews/3031829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260107013729481800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260107013044199800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "计划投放KOL遭粉丝抵制 小米通报",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
         {
           "title": "小米发布处罚声明",
           "url": "https://wallstreetcn.com/livenews/3031784",
@@ -179,15 +298,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "计划投放KOL遭粉丝抵制 小米通报",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
+          "title": "小米就接触 KOL 一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
+          "url": "https://www.zhihu.com/question/1992010161733199440",
+          "source": "知乎",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 02时35分]"
         },
         {
           "title": "小米回应终止与万能的大熊合作",
@@ -215,25 +334,26 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
         {
           "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3031787",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -260,45 +380,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
+          "url": "https://wallstreetcn.com/livenews/3031819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
+      "keyword_group": "macOS ios",
+      "match_count": 1,
       "titles": [
         {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
+          "title": "Meta聘请微软Mahoney为首席法务官。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3031822",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
-          "url": "https://wallstreetcn.com/articles/3762631",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "02时35分"
         }
       ]
     },
@@ -314,8 +423,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 02时35分]"
         }
       ]
     },
@@ -333,6 +442,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.17%，暂报4205.07点，期内震荡上行，北京时间22:25刷新日高至4368.68点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数跌0.19%，报19357.62点。 MarketVector数字资产100指数涨0.13%，报3926.05点。 比特币目前跌1.95%，暂报92452.42美元，以太坊涨0.02%，报3243.49美元。 Solana涨0.05%，狗狗币跌4.51%，XRP跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3031812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     }
