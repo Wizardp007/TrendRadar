@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T09:51:35.066553+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-01-06T11:41:05.368481+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 11时41分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -78,18 +90,6 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 09时51分]"
-        },
-        {
           "title": "特朗普接连向多国发出威胁",
           "url": "https://www.douyin.com/hot/2358156",
           "source": "抖音",
@@ -102,17 +102,6 @@
           "time_info": "[00时29分 ~ 09时51分]"
         },
         {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.toutiao.com/trending/7591151766478290986/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "墨西哥总统回应特朗普：合作可以，干预不行",
           "url": "https://wallstreetcn.com/livenews/3030994",
           "source": "华尔街见闻-快讯",
@@ -122,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -146,6 +146,40 @@
           "time_info": "02时36分"
         },
         {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.toutiao.com/trending/7591151766478290986/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
           "url": "https://www.zhihu.com/question/1991053595043390487",
           "source": "知乎",
@@ -155,6 +189,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "马杜罗被俘虏后，特朗普拿着“让伊朗再次伟大”的帽子拍照",
@@ -180,17 +225,6 @@
           "time_info": "[02时36分 ~ 04时28分]"
         },
         {
-          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
-          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
           "url": "https://flash.jin10.com/detail/20260106032305906800",
           "source": "金十数据",
@@ -213,6 +247,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
           "url": "https://m.thepaper.cn/newsDetail_forward_32318660",
           "source": "澎湃新闻",
@@ -222,6 +267,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 06时23分]"
+        },
+        {
+          "title": "ICC原检察官：特朗普犯了“侵略罪”",
+          "url": "https://www.toutiao.com/trending/7591104646660948011/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时41分]"
         },
         {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
@@ -235,6 +292,39 @@
           "time_info": "[00时30分 ~ 02时36分]"
         },
         {
+          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
+          "url": "https://www.cls.cn/detail/2248515",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普在变成第二个拜登吗",
+          "url": "https://www.toutiao.com/trending/7592036422320655891/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
           "title": "特朗普一天之内威胁多国",
           "url": "https://www.toutiao.com/trending/7591841454150913599/",
           "source": "今日头条",
@@ -246,15 +336,26 @@
           "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
+          "title": "特朗普说美需要格陵兰岛 欧洲怎么想",
+          "url": "https://www.toutiao.com/trending/7592021922519453234/",
+          "source": "今日头条",
           "ranks": [
-            11
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%90%88%E4%BD%9C%E5%8F%AF%E4%BB%A5%E5%B9%B2%E9%A2%84%E4%B8%8D%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
@@ -290,24 +391,13 @@
           "time_info": "06时23分"
         },
         {
-          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
-          "url": "https://www.cls.cn/detail/2248515",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -334,15 +424,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "ICC原检察官：特朗普犯了“侵略罪”",
-          "url": "https://www.toutiao.com/trending/7591104646660948011/",
-          "source": "今日头条",
+          "title": "委内瑞拉反对派领导人马查多：自十月以来，我尚未与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260106103144934800",
+          "source": "金十数据",
           "ranks": [
-            21
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时41分"
         },
         {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
@@ -403,7 +493,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -414,8 +504,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 09时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 11时41分]"
         },
         {
           "title": "雷军聊小米汽车试验室",
@@ -428,6 +518,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 06时23分]"
+        },
+        {
+          "title": "小米公关部徐洁云发文致歉，确认与争议博主「万能的大熊」有过接触，并已终止合作，此事对小米影响有多大？",
+          "url": "https://www.zhihu.com/question/1991644899557208954",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 11时41分]"
         },
         {
           "title": "2026存储涨价第一枪！三星、海力士DRAM报价又涨70%",
@@ -455,20 +559,6 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
-          "title": "小米公关部徐洁云发文致歉，确认与争议博主「万能的大熊」有过接触，并已终止合作，此事对小米影响有多大？",
-          "url": "https://www.zhihu.com/question/1991644899557208954",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 09时51分]"
-        },
-        {
           "title": "三星掌门人李在镕在北京买LABUBU",
           "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E6%8E%8C%E9%97%A8%E4%BA%BA%E6%9D%8E%E5%9C%A8%E9%95%95%E5%9C%A8%E5%8C%97%E4%BA%AC%E4%B9%B0LABUBU",
           "source": "百度热搜",
@@ -481,13 +571,35 @@
           "time_info": "[00时29分 ~ 06时23分]"
         },
         {
+          "title": "苹果马年微信红包封面来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "苹果上架AirPodsPro3马年特别款",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%8A%E6%9E%B6AirPodsPro3%E9%A9%AC%E5%B9%B4%E7%89%B9%E5%88%AB%E6%AC%BE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
           "title": "苹果马年手机壳449元",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%A9%AC%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A3%B3449%E5%85%83%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -498,7 +610,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -513,6 +625,50 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "筷子兄弟线下版小苹果2.0",
+          "url": "https://www.douyin.com/hot/2358511",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
+          "title": "三星、海力士存储芯片或涨价70%",
+          "url": "https://www.toutiao.com/trending/7591707872086474794/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "苹果发布马年手机壳 售价449元",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E9%A9%AC%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%A3%B3+%E5%94%AE%E4%BB%B7449%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "小米立即终止与相关KOL合作",
+          "url": "https://www.toutiao.com/trending/7591216825774538795/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -559,24 +715,13 @@
           "time_info": "06时23分"
         },
         {
-          "title": "筷子兄弟线下版小苹果2.0",
-          "url": "https://www.douyin.com/hot/2358511",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "商品期货开盘，碳酸锂主力合约涨超4%，沪银、钯、沪铝、铂、沪铜、铝合金、国际铜、苹果涨超2%。焦煤跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3031219",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -584,8 +729,47 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 11时41分]"
+        },
+        {
+          "title": "B站AI大赛开始了",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            14,
+            1,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 11时41分]"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
           "url": "https://wallstreetcn.com/livenews/3031121",
@@ -609,42 +793,38 @@
           "time_info": "06时23分"
         },
         {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
           "ranks": [
-            22,
-            24,
-            4
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 09时51分]"
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
         },
         {
-          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
-          "url": "https://www.cls.cn/detail/2248593",
-          "source": "财联社热门",
+          "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
+          "url": "https://wallstreetcn.com/livenews/3031328",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时41分"
         },
         {
-          "title": "B站AI大赛开始了",
-          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
-          "source": "bilibili 热搜",
+          "title": "AMD推出全新的Ryzen AI 400及PRO 400系列处理器。 AMD面向AI PC和嵌入式应用推出全新的AMD Ryzen AI平台。",
+          "url": "https://wallstreetcn.com/livenews/3031327",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            14,
-            1,
-            15
+            7
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 09时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
@@ -658,15 +838,26 @@
           "time_info": "06时23分"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
           "ranks": [
-            10
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
+          "title": "全域AI能给汽车带来什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -724,17 +915,6 @@
           "time_info": "02时36分"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "惠普新3K笔记本比Macbook Air更薄",
           "url": "https://wallstreetcn.com/livenews/3031053",
           "source": "华尔街见闻-快讯",
@@ -752,7 +932,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -783,8 +963,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 09时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 11时41分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -793,9 +973,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -804,9 +984,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
         },
         {
           "title": "（美股）费城金银指数收涨3.29%，报353.86点，美股盘初持续、平滑地上涨，后续逐步回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.71%，报2505.23点。 （美股）原材料指数涨1.75%，报234.90点。 （美股）金属与矿业指数涨2.08%，报228.54点。",
@@ -900,7 +1080,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
@@ -908,22 +1088,35 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 09时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 11时41分]"
+        },
+        {
+          "title": "马斯克身家继续“狂飙”",
+          "url": "https://www.toutiao.com/trending/7592036964472196627/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "1人1假期，肝完10年编程量！马斯克锐评：奇点来了",
           "url": "https://wallstreetcn.com/articles/3762573",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
         },
         {
           "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
@@ -965,7 +1158,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -973,8 +1166,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
         {
           "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
           "url": "https://flash.jin10.com/detail/20260106052744835800",
@@ -1001,8 +1205,19 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "广东：推动保险公司在粤设立私募证券投资基金，开展保险资金长期投资改革试点",
+          "url": "https://wallstreetcn.com/livenews/3031336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
         {
           "title": "多策略对冲基金去年斩获丰厚，Point72等回报率高达两位数",
           "url": "https://wallstreetcn.com/livenews/3031077",
@@ -1055,9 +1270,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时41分]"
         }
       ]
     },
