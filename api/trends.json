@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T02:36:30.170686+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-01-08T04:28:31.061661+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 04时28分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -24,11 +24,45 @@
           "source": "知乎",
           "ranks": [
             7,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://flash.jin10.com/detail/20260108034118954800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普向国防承包商回购股票的做法发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3032663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
+          "url": "https://flash.jin10.com/detail/20260108032933903800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -37,9 +71,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
+          "url": "https://flash.jin10.com/detail/20260108032629292800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -49,8 +94,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -60,8 +105,20 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 04时28分]"
+        },
+        {
+          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
+          "url": "https://wallstreetcn.com/livenews/3032636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "美国单户住宅租赁公司AMH短线下挫触发交易暂停，特朗普称，将禁止大型机构投资者购买更多独栋住宅。",
@@ -70,20 +127,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
         {
-          "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
-          "url": "https://wallstreetcn.com/livenews/3032636",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：军工企业不应分红或回购股票 高管年薪不可超500万美元",
+          "url": "https://flash.jin10.com/detail/20260108031728568800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普质疑北约在美国需要时会否给予支持",
+          "url": "https://wallstreetcn.com/livenews/3032651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -92,7 +160,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -103,7 +171,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -114,7 +182,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -125,9 +193,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
+          "url": "https://flash.jin10.com/detail/20260108031010315800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普的行径应当让委内瑞拉民众感到安心。",
@@ -136,7 +215,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -147,7 +226,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -158,9 +237,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
+          "url": "https://flash.jin10.com/detail/20260108024142434800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
@@ -169,7 +259,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -177,7 +267,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -188,8 +278,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 04时28分]"
         },
         {
           "title": "直播电商新规强化AI内容监管",
@@ -198,9 +288,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -210,8 +300,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 04时28分]"
         },
         {
           "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
@@ -221,8 +311,52 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 04时28分]"
+        },
+        {
+          "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
+          "url": "https://flash.jin10.com/detail/20260108034000250800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
+          "url": "https://wallstreetcn.com/livenews/3032657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "杨元庆：AI时代没有赢者通吃 联想要发挥特长开放合作",
+          "url": "https://wallstreetcn.com/livenews/3032655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "英国信息专员办公室：我们已联系X平台和xAI，要求其阐明为遵守英国数据保护法及保障个人权利所采取的具体措施。",
@@ -236,13 +370,24 @@
           "time_info": "00时34分"
         },
         {
+          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
+          "url": "https://flash.jin10.com/detail/20260108030510490800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
           "url": "https://wallstreetcn.com/livenews/3032620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -250,7 +395,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待小米 SU7 改款新车将于 26 年 4 月上市，会在原来基础上提升哪些配置？",
@@ -258,11 +403,24 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时28分]"
+        },
+        {
+          "title": "雷军回应小米KOL投放争议",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3KOL%E6%8A%95%E6%94%BE%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "三星警告：所有电子产品面临涨价",
@@ -270,22 +428,23 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
-          "title": "雷军回应小米KOL投放争议",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3KOL%E6%8A%95%E6%94%BE%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
+            25,
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 04时28分]"
+        },
+        {
+          "title": "iPhone13全系开启限时半价换电池",
+          "url": "https://www.douyin.com/hot/2360141",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "一线|特斯拉推“超长贷”、小米新车涨价预售 2026车市开年即遭“抢单”",
@@ -303,11 +462,23 @@
           "url": "https://www.toutiao.com/trending/7592498291854544390/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时28分]"
+        },
+        {
+          "title": "vivo 和 OPPO 有什么本质上的差别？",
+          "url": "https://www.zhihu.com/question/320733049",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "04时28分"
         }
       ]
     },
@@ -322,7 +493,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -333,9 +504,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "macOS ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国总统特朗普料将在下周宣布所谓的“加沙和平委员会”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3032666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
