@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T12:42:55.150632+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-01-07T14:37:30.279390+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普不到1年对7国动武",
@@ -26,8 +26,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
+          "url": "https://www.cls.cn/detail/2249902",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
@@ -41,16 +66,15 @@
           "time_info": "[09时51分 ~ 12时42分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
           "source": "知乎",
           "ranks": [
-            7,
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时51分 ~ 12时42分]"
+          "time_info": "[11时40分 ~ 14时37分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -65,6 +89,18 @@
           "time_info": "[00时32分 ~ 06时24分]"
         },
         {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -75,19 +111,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
-          "url": "https://www.cls.cn/detail/2249902",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -101,28 +124,6 @@
           "time_info": "[11时40分 ~ 11时41分]"
         },
         {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时42分]"
-        },
-        {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
-        },
-        {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
           "url": "https://www.cls.cn/detail/2249952",
           "source": "财联社热门",
@@ -131,8 +132,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 14时37分]"
+        },
+        {
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
@@ -223,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普称“梅拉尼娅讨厌他跳舞”",
+          "url": "https://www.toutiao.com/trending/7592307235930325034/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
@@ -467,6 +501,28 @@
           "time_info": "00时32分"
         },
         {
+          "title": "特朗普称莫迪对关税不满 印度的俄罗斯原油进口量已减少",
+          "url": "https://wallstreetcn.com/livenews/3032131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "特朗普模仿举重动作嘲讽跨性别运动员",
+          "url": "https://www.toutiao.com/trending/7592416851683033142/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "特朗普女婿库什纳：特朗普和泽连斯基在海湖庄园解决了安全保障问题。",
           "url": "https://flash.jin10.com/detail/20260107031132290800",
           "source": "金十数据",
@@ -579,226 +635,20 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型",
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
       "match_count": 19,
       "titles": [
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
-        },
-        {
-          "title": "陈天桥代季峰团队实现 30B 参数跑出 1T 性能，这对大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1991902608064005627",
+          "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
+          "url": "https://www.zhihu.com/question/1992010161733199440",
           "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 12时42分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 04时27分]"
-        },
-        {
-          "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
-          "url": "https://flash.jin10.com/detail/20260107040236649800",
-          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 14时37分]"
         },
-        {
-          "title": "XAI：完成200亿美元的E轮融资。",
-          "url": "https://flash.jin10.com/detail/20260107040102162800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
-          "url": "https://wallstreetcn.com/livenews/3031871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "英伟达押注物理AI背后逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
-          "url": "https://www.cls.cn/detail/2250156",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3031787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "为何说AI抢走了你的内存",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时24分]"
-        },
-        {
-          "title": "吉利发布全域AI 2.0，千里浩瀚G-ASD今年将推送高速L3和低速L4功能",
-          "url": "https://wallstreetcn.com/livenews/3031921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
-          "url": "https://www.zhihu.com/question/1991159352690762378",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 11时41分]"
-        },
-        {
-          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
-          "url": "https://www.cls.cn/detail/2250013",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时42分]"
-        },
-        {
-          "title": "联想携手英伟达推出吉瓦级AI工厂计划，加速企业级AI发展。",
-          "url": "https://wallstreetcn.com/livenews/3032008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
-          "url": "https://wallstreetcn.com/livenews/3031775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "明晟公司MSCI新兴市场股票基准指数涨1.1%，创历史新高、连续第八个交易日上涨，AI相关个股功不可没，台积电、腾讯、SK海力士成为主要推手。 MSCI新兴市场外汇指数走高。 固收资产方面，MSCI新兴市场债券分项指数在周一（1月5日）创最近十三年来最低。",
-          "url": "https://wallstreetcn.com/livenews/3031909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "AI初创公司Lmarena按17亿美元估值融资1.5亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3031770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
-          "url": "https://wallstreetcn.com/livenews/3031819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "微创机器人完成全球首例“大模型自主手术”动物实验",
-          "url": "https://wallstreetcn.com/livenews/3032047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 17,
-      "titles": [
         {
           "title": "计划投放KOL遭粉丝抵制 小米通报",
           "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
@@ -809,17 +659,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 06时24分]"
-        },
-        {
-          "title": "小米就接触争议博主一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
-          "url": "https://www.zhihu.com/question/1992010161733199440",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 12时42分]"
         },
         {
           "title": "小米就接触 KOL 一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
@@ -835,6 +674,18 @@
           "time_info": "[02时34分 ~ 06时24分]"
         },
         {
+          "title": "李在明用小米手机晒自拍，刘劲松“意外”闯入",
+          "url": "https://news.ifeng.com/c/8piFwnPibtu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
           "title": "小米SU7",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -846,26 +697,17 @@
           "time_info": "[11时40分 ~ 12时42分]"
         },
         {
-          "title": "李在明用小米手机晒自拍，刘劲松“意外”闯入",
-          "url": "https://news.ifeng.com/c/8piFwnPibtu",
-          "source": "凤凰网",
+          "title": "小米新一代SU7预计4月份上市 预售价22.99万元起",
+          "url": "https://www.cls.cn/detail/2249960",
+          "source": "财联社热门",
           "ranks": [
-            6
+            12,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
-        },
-        {
-          "title": "小米新一代SU7起售价22.99万元",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E8%B5%B7%E5%94%AE%E4%BB%B722.99%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "[11时41分 ~ 14时37分]"
         },
         {
           "title": "小米发布处罚声明",
@@ -877,6 +719,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
         },
         {
           "title": "小米称此次事件严重伤害米粉感情",
@@ -902,29 +758,38 @@
           "time_info": "09时51分"
         },
         {
-          "title": "小米新一代SU7预计4月份上市 预售价22.99万元起",
-          "url": "https://www.cls.cn/detail/2249960",
-          "source": "财联社热门",
+          "title": "小米与“米黑”博主合作引争议",
+          "url": "https://tech.ifeng.com/c/8pi9SuAPlDc",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            9
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "如何看待小米 SU7 改款新车将于 26 年 4 月上市，会在原来基础上提升哪些配置？",
+          "url": "https://www.zhihu.com/question/1992154128378512258",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "小米新一代SU7起售价22.99万元",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E8%B5%B7%E5%94%AE%E4%BB%B722.99%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时42分]"
-        },
-        {
-          "title": "小米就接触KOL一事发布处罚声明：经办人员辞退处罚，取消许斐和徐洁云年度奖金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32328207",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 14时37分]"
         },
         {
           "title": "iPhone没有一个按键是多余的",
@@ -996,6 +861,226 @@
       ]
     },
     {
+      "keyword_group": "AI 大模型",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
+          "title": "陈天桥代季峰团队实现 30B 参数跑出 1T 性能，这对大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1991902608064005627",
+          "source": "知乎",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时40分 ~ 14时37分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时27分]"
+        },
+        {
+          "title": "黄仁勋讲话引发AI概念冰火两重天：存储“爆”了、制冷“凉”了？",
+          "url": "https://www.cls.cn/detail/2250156",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 14时37分]"
+        },
+        {
+          "title": "英伟达押注物理AI背后逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%BC%E6%B3%A8%E7%89%A9%E7%90%86AI%E8%83%8C%E5%90%8E%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 14时37分]"
+        },
+        {
+          "title": "XAI：本轮融资的战略投资者包括英伟达(NVDA.O)和思科投资。",
+          "url": "https://flash.jin10.com/detail/20260107040236649800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "XAI：完成200亿美元的E轮融资。",
+          "url": "https://flash.jin10.com/detail/20260107040102162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "xAI在E轮融资募集200亿美元，原定融资150亿美元",
+          "url": "https://wallstreetcn.com/livenews/3031871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3031787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "为何说AI抢走了你的内存",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E8%AF%B4AI%E6%8A%A2%E8%B5%B0%E4%BA%86%E4%BD%A0%E7%9A%84%E5%86%85%E5%AD%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时24分]"
+        },
+        {
+          "title": "吉利发布全域AI 2.0，千里浩瀚G-ASD今年将推送高速L3和低速L4功能",
+          "url": "https://wallstreetcn.com/livenews/3031921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "如何看待田渊栋年终总结中对离职 Meta 经历的回顾及对 AI 的思考？",
+          "url": "https://www.zhihu.com/question/1991159352690762378",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
+          "title": "AI模型立功了！“癌症之王”早期筛查效果喜人 花费仅百元",
+          "url": "https://www.cls.cn/detail/2250013",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 14时37分]"
+        },
+        {
+          "title": "联想携手英伟达推出吉瓦级AI工厂计划，加速企业级AI发展。",
+          "url": "https://wallstreetcn.com/livenews/3032008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "Bobby Jain的多策略对冲基金首个完整交易年度回报率为3.7%",
+          "url": "https://wallstreetcn.com/livenews/3031775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "明晟公司MSCI新兴市场股票基准指数涨1.1%，创历史新高、连续第八个交易日上涨，AI相关个股功不可没，台积电、腾讯、SK海力士成为主要推手。 MSCI新兴市场外汇指数走高。 固收资产方面，MSCI新兴市场债券分项指数在周一（1月5日）创最近十三年来最低。",
+          "url": "https://wallstreetcn.com/livenews/3031909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "AI初创公司Lmarena按17亿美元估值融资1.5亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3031770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
+          "url": "https://wallstreetcn.com/livenews/3031819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "微创机器人完成全球首例“大模型自主手术”动物实验",
+          "url": "https://wallstreetcn.com/livenews/3032047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
@@ -1024,6 +1109,19 @@
           "time_info": "[00时32分 ~ 09时51分]"
         },
         {
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
           "url": "https://wallstreetcn.com/articles/3762631",
           "source": "华尔街见闻",
@@ -1035,18 +1133,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 06时24分]"
-        },
-        {
-          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
-          "url": "https://wallstreetcn.com/articles/3762638",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
         },
         {
           "title": "周二（1月6日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.81%，报93815美元，北京时间02:00刷新日低至91460美元。 CME以太币期货DCR主力合约涨1.23%，报3296.50美元。 美股加密货币与加密货币关联指数收跌2.09%，报66.31点，整体呈现出V形走势——北京时间02:00刷新日低至63.68点。 最近24小时，MarketVectorTM数字资产100小盘指数涨1.11%，暂报4269.69点。 MarketVectorTM数字资产100中盘指数涨0.21%，报3964.13点。 MarketVector数字资产100指数涨0.46%，报19504.12点。",
@@ -1181,11 +1267,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
         },
         {
           "title": "鹅鸭杀登顶iOS免费榜",
@@ -1314,8 +1401,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 12时42分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 14时37分]"
         }
       ]
     }
