@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T14:37:36.174747+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-01-08T16:33:56.275659+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -26,8 +26,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 16时33分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 16时33分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -62,24 +75,12 @@
           "ranks": [
             2,
             5,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 14时37分]"
-        },
-        {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 16时33分]"
         },
         {
           "title": "维持1万亿美元军费？特朗普称2027年美军事预算应是1.5万亿美元",
@@ -91,6 +92,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美媒：特朗普吹嘘委内瑞拉行动 回避后续规划问题",
+          "url": "https://flash.jin10.com/detail/20260108155641568800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 16时33分]"
         },
         {
           "title": "特朗普团队正起草关于可负担性的行政命令。（Political）",
@@ -137,6 +161,19 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 16时33分]"
+        },
+        {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
           "url": "https://www.zhihu.com/question/1991388819304510504",
           "source": "知乎",
@@ -148,13 +185,25 @@
           "time_info": "[00时33分 ~ 06时23分]"
         },
         {
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 16时33分]"
+        },
+        {
           "title": "特朗普政府为何觊觎格陵兰岛",
           "url": "https://www.toutiao.com/trending/7592803152118681094/",
           "source": "今日头条",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -168,18 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 14时37分]"
         },
         {
           "title": "学者：特朗普把美国往绝路上带",
@@ -259,29 +296,16 @@
           "time_info": "06时23分"
         },
         {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            20,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时41分 ~ 14时37分]"
+          "time_info": "[14时37分 ~ 16时33分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -294,17 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "美国单户住宅租赁公司AMH短线下挫触发交易暂停，特朗普称，将禁止大型机构投资者购买更多独栋住宅。",
@@ -395,6 +408,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美中期选举结果会如何影响特朗普",
+          "url": "https://www.toutiao.com/trending/7592759487010750506/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
           "url": "https://flash.jin10.com/detail/20260108015016701800",
           "source": "金十数据",
@@ -448,6 +472,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美媒：特朗普称美国对委内瑞拉的监管可能持续数年",
+          "url": "https://flash.jin10.com/detail/20260108154136347800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "特朗普急退66个国际组织为哪般",
+          "url": "https://www.toutiao.com/trending/7592878921817787954/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
@@ -505,6 +551,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "哥伦比亚总统与特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国总统特朗普：雷神公司是对国防部需求反应最为迟钝的，其产能提升速度最慢，且最热衷于向股东派息，而非满足美国军方的需求和要求。",
           "url": "https://flash.jin10.com/detail/20260108050520436800",
           "source": "金十数据",
@@ -527,6 +584,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "美国总统特朗普：我已经通过获取受制裁的石油为美国开始赚钱。",
+          "url": "https://flash.jin10.com/detail/20260108153300697800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美国股市：特朗普密集发帖冲击市场",
           "url": "https://www.toutiao.com/trending/7591727257576685610/",
           "source": "今日头条",
@@ -536,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "美国总统特朗普：（谈委内瑞拉）我们将向委内瑞拉提供资金，而他们正极度需要这些资金。",
+          "url": "https://flash.jin10.com/detail/20260108153240698800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普的行径应当让委内瑞拉民众感到安心。",
@@ -604,6 +683,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "特朗普表示，美国对委内瑞拉的监管可能会持续多年，美国将在未来数年内开采委内瑞拉石油。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3033071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "白宫：特朗普周五将向石油行业兜售委内瑞拉投资“机会”",
           "url": "https://wallstreetcn.com/livenews/3032617",
           "source": "华尔街见闻-快讯",
@@ -618,7 +708,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
@@ -627,11 +717,12 @@
           "ranks": [
             8,
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 16时33分]"
         },
         {
           "title": "iPhone13全系开启限时半价换电池",
@@ -640,11 +731,12 @@
           "ranks": [
             10,
             12,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 16时33分]"
         },
         {
           "title": "王腾从小米离开后成立新公司",
@@ -776,9 +868,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "为什么小米一次博主合作能掀起这么大的风波？有人把品牌类比为养成系偶像，小米应该如何处理和米粉的关系？",
+          "url": "https://www.zhihu.com/question/1992206863790466453",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "iPhone 13全系开启限时半价换电池",
@@ -803,6 +906,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "小米前高管王腾宣布创业",
+          "url": "https://www.douyin.com/hot/2360658",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "消息人士称，摩根大通(JPM.N)达成协议接管苹果(AAPL.O)信用卡计划。",
           "url": "https://flash.jin10.com/detail/20260108044010737800",
           "source": "金十数据",
@@ -817,7 +931,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -867,6 +981,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 06时23分]"
+        },
+        {
+          "title": "大模型独角兽MiniMax港股暗盘涨超17%，最高报200.20港元。",
+          "url": "https://wallstreetcn.com/livenews/3033115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
@@ -1018,8 +1143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 16时33分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1040,7 +1165,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1147,8 +1272,30 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "卷王遇硬茬,马斯克开除加班党",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "马斯克预言社会将穿越动荡迈向「普遍高收入」的极度丰盛时代，极度丰盛时代的生产关系是怎样的？",
+          "url": "https://www.zhihu.com/question/1992533572259640345",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
         {
           "title": "马斯克：中国会搞定芯片问题",
           "url": "https://www.toutiao.com/trending/7592616746437541942/",
@@ -1185,36 +1332,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价已在历史高位 央行为何还在买",
-          "url": "https://www.toutiao.com/trending/7592763349536869894/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时41分]"
-        },
-        {
-          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
-          "url": "https://flash.jin10.com/detail/20260108135145706800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基金",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "摩根士丹利：全球基金12月增持中国股票 受被动型流入支撑",
@@ -1237,6 +1356,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "百度旗下基金等入股光计算芯片研发商奇算光启",
+          "url": "https://wallstreetcn.com/livenews/3033093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "张江高科：通过参股基金投资了蓝箭航天1.5亿人民币",
+          "url": "https://wallstreetcn.com/livenews/3033085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价暴涨年轻人改买“道具黄金”",
+          "url": "https://www.toutiao.com/trending/7592498286850998299/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "金价已在历史高位 央行为何还在买",
+          "url": "https://www.toutiao.com/trending/7592763349536869894/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
+          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
+          "url": "https://flash.jin10.com/detail/20260108135145706800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     },
@@ -1266,11 +1446,12 @@
           "url": "https://wallstreetcn.com/articles/3762755",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 16时33分]"
         }
       ]
     },
