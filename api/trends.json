@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T09:51:43.336875+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-01-08T11:41:34.323811+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 09时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 11时41分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -30,6 +30,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 11时41分]"
+        },
+        {
+          "title": "特朗普提出将美军费提至1.5万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "维持1万亿美元军费？特朗普称2027年美军事预算应是1.5万亿美元",
@@ -49,7 +83,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -71,7 +105,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -98,24 +132,13 @@
           "time_info": "[00时33分 ~ 06时23分]"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 09时51分]"
-        },
-        {
           "title": "美国副总统万斯：特朗普将对格陵兰岛问题做出最终决定。",
           "url": "https://flash.jin10.com/detail/20260108092749798800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -148,9 +171,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "受特朗普对住房的评论影响，黑石集团股价一度下跌9.3%。",
@@ -184,6 +229,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -341,6 +398,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国扣押两艘油轮升级对委石油禁运，无视俄海军护航；美媒曝特朗普筹划控制委国有石油公司，欲将油价压至更低的每桶50美元，以实现降低美国能源价格的承诺……美油多日呈现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260108103607005800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "周三（1月7日），降息赢家指数跌1.33%，报101.94点。 “特朗普关税输家”指数跌1.60%，报115.99点。 “特朗普金融指数”跌1.63%，报179.24点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.10%，报16.10点。",
           "url": "https://wallstreetcn.com/livenews/3032719",
           "source": "华尔街见闻-快讯",
@@ -358,18 +426,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -413,7 +470,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -446,7 +503,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -497,8 +554,196 @@
       ]
     },
     {
+      "keyword_group": "AI 大模型",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 11时41分]"
+        },
+        {
+          "title": "直播电商新规强化AI内容监管",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 11时41分]"
+        },
+        {
+          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
+          "url": "https://wallstreetcn.com/articles/3762702",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 09时51分]"
+        },
+        {
+          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
+          "url": "https://www.cls.cn/detail/2250745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 06时23分]"
+        },
+        {
+          "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
+          "url": "https://flash.jin10.com/detail/20260108034000250800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
+          "url": "https://flash.jin10.com/detail/20260108033431215800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "阿里云推出面向AI硬件的多模态交互开发套件",
+          "url": "https://wallstreetcn.com/livenews/3032905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
+          "url": "https://wallstreetcn.com/livenews/3032657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "马斯克：中国AI算力领先世界",
+          "url": "https://www.toutiao.com/trending/7592779381248888362/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
+          "title": "杨元庆：AI时代没有赢者通吃 联想要发挥特长开放合作",
+          "url": "https://wallstreetcn.com/livenews/3032655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "智谱预计全球AI公司将陷入价格战",
+          "url": "https://wallstreetcn.com/livenews/3032893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "AI大模型上市第一股",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8A%E5%B8%82%E7%AC%AC%E4%B8%80%E8%82%A1%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "全球大模型第一股落定",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%AC%AC%E4%B8%80%E8%82%A1%E8%90%BD%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
+          "title": "英国信息专员办公室：我们已联系X平台和xAI，要求其阐明为遵守英国数据保护法及保障个人权利所采取的具体措施。",
+          "url": "https://flash.jin10.com/detail/20260107235126973800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
+          "url": "https://flash.jin10.com/detail/20260108030510490800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
+          "url": "https://wallstreetcn.com/livenews/3032620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "如何看待小米 SU7 改款新车将于 26 年 4 月上市，会在原来基础上提升哪些配置？",
@@ -528,6 +773,18 @@
           "time_info": "[00时33分 ~ 06时23分]"
         },
         {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
+        },
+        {
           "title": "三星警告：所有电子产品面临涨价",
           "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%98%9F%E8%AD%A6%E5%91%8A%EF%BC%9A%E6%89%80%E6%9C%89%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E9%9D%A2%E4%B8%B4%E6%B6%A8%E4%BB%B7",
           "source": "百度热搜",
@@ -553,15 +810,15 @@
           "time_info": "06时23分"
         },
         {
-          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
-          "url": "https://www.cls.cn/detail/2251233",
-          "source": "财联社热门",
+          "title": "王腾从小米离开后成立新公司",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E4%BB%8E%E5%B0%8F%E7%B1%B3%E7%A6%BB%E5%BC%80%E5%90%8E%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时41分"
         },
         {
           "title": "iPhone13全系开启限时半价换电池",
@@ -569,11 +826,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 11时41分]"
         },
         {
           "title": "三星警告：内存成本飙升，所有电子产品面临涨价",
@@ -627,7 +885,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -643,6 +901,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "小米前高管王腾成立新公司",
+          "url": "https://www.toutiao.com/trending/7592803705355767339/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "消息人士称，摩根大通(JPM.N)达成协议接管苹果(AAPL.O)信用卡计划。",
           "url": "https://flash.jin10.com/detail/20260108044010737800",
           "source": "金十数据",
@@ -656,151 +925,8 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 09时51分]"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 09时51分]"
-        },
-        {
-          "title": "直播电商新规强化AI内容监管",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 09时51分]"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 06时23分]"
-        },
-        {
-          "title": "Arm成立物理AI部门 机器人市场再迎“新玩家”",
-          "url": "https://flash.jin10.com/detail/20260108034000250800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "马斯克：中国AI算力领先世界",
-          "url": "https://www.toutiao.com/trending/7592779381248888362/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
-          "url": "https://wallstreetcn.com/livenews/3032657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "杨元庆：AI时代没有赢者通吃 联想要发挥特长开放合作",
-          "url": "https://wallstreetcn.com/livenews/3032655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "英国信息专员办公室：我们已联系X平台和xAI，要求其阐明为遵守英国数据保护法及保障个人权利所采取的具体措施。",
-          "url": "https://flash.jin10.com/detail/20260107235126973800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
-          "url": "https://flash.jin10.com/detail/20260108030510490800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
-          "url": "https://wallstreetcn.com/livenews/3032620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -809,20 +935,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
           "url": "https://www.cls.cn/detail/2251170",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
         },
         {
           "title": "美股指涨跌互现，英特尔涨超11%，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -834,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 贵金属、存储概念盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2251045",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
@@ -916,7 +1054,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克：中国会搞定芯片问题",
@@ -930,13 +1068,24 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
+          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
+          "url": "https://www.cls.cn/detail/2251127",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "马斯克称未来3到7年将非常坎坷",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E6%9C%AA%E6%9D%A53%E5%88%B07%E5%B9%B4%E5%B0%86%E9%9D%9E%E5%B8%B8%E5%9D%8E%E5%9D%B7%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -960,6 +1109,23 @@
       ]
     },
     {
+      "keyword_group": "智谱AI GLM",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【智谱上市，唐杰内部信要求全面回归基础模型研究】1月8日智谱上市当天，清华大学计算机系教授、智谱创立发起人兼首席科学家唐杰发布内部信，宣布很快将推出新一代模型 GLM-5。内部信还介绍了 2026 年智谱聚焦的三个技术方向，包括全新的模型架构设计，更通用的 RL（强化学习）范式以及对模型持续学习与自主进化的探索。它们均围绕基础模型能力提升展开。（晚点LatePost）",
+          "url": "https://wallstreetcn.com/livenews/3032869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -970,9 +1136,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时41分]"
         }
       ]
     },
