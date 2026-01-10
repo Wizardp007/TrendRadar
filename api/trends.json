@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T06:23:50.505613+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-01-10T09:48:31.647014+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -13,17 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时23分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -39,6 +28,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 06时23分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时48分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -81,9 +82,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://flash.jin10.com/detail/20260110092636627800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "特朗普：价值40亿美元的委内瑞拉石油正被运往美国",
@@ -97,6 +109,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "5名共和党议员倒戈，美参议院限制对委继续动武，特朗普怒了",
+          "url": "https://news.ifeng.com/c/8pn8nmIhgou",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "美国总统特朗普：可能今天作出决定。",
           "url": "https://flash.jin10.com/detail/20260110040943680800",
           "source": "金十数据",
@@ -106,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
+          "url": "https://flash.jin10.com/detail/20260110092012620800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国总统特朗普在会见石油行业高管们时声称：被美国扣押的油轮正在重返委内瑞拉。 被扣押的石油将通过“能源协议”出售。 与委内瑞拉民众的关系非常不错。 与委内瑞拉政府官员关系也很好。",
@@ -136,7 +170,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -147,7 +181,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -169,9 +203,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
+          "url": "https://flash.jin10.com/detail/20260110091128037800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "美国财长贝森特：美国目前发现，关税以物价上涨的形式转嫁给消费者的比例“非常、非常小”。 如果最高法院做出不利于特朗普政府的裁决，财政部有充足的资金支付任何关税退款。 任何关税退款都将在数周、数月、甚至可能是一年的时间内陆续流出。",
+          "url": "https://wallstreetcn.com/livenews/3034466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国总统特朗普：将讨论石油公司如何重建委内瑞拉的石油工业。",
@@ -191,7 +247,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -205,6 +261,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时35分 ~ 04时27分]"
+        },
+        {
+          "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
+          "url": "https://wallstreetcn.com/articles/3762987",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国总统特朗普：和委内瑞拉的执政者相处得很好。",
@@ -224,7 +291,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -257,7 +324,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -290,9 +357,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普：“无论难易”都要得到格陵兰岛",
+          "url": "https://flash.jin10.com/detail/20260110084951705800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "特朗普称美国必须拥有整个格陵兰，白宫“购岛”方案流出",
@@ -301,9 +379,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
+          "url": "https://wallstreetcn.com/articles/3762973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国总统特朗普：油轮现在正返回委内瑞拉，石油将通过我们为此类销售而建立的能源协议进行出售。",
@@ -323,7 +412,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -334,7 +423,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -368,9 +457,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经与石油行业高管们达成了某种意义上的（投资委内瑞拉的）协议。",
+          "url": "https://wallstreetcn.com/livenews/3034459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国总统特朗普：不回顾石油公司过去损失了多少。",
@@ -379,9 +479,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国财长贝森特：如果美国最高法院裁定反对特朗普政府（关税政策），财政部有足够的资金支付任何关税退款。",
+          "url": "https://flash.jin10.com/detail/20260110083753572800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "哥伦比亚总统：“特朗普对我说已在策划军事行动”",
@@ -393,6 +504,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美国总统特朗普：进行了一场非常不错的会议。",
+          "url": "https://wallstreetcn.com/livenews/3034457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "泽连斯基称特朗普应该与乌克兰达成自由贸易协定",
@@ -428,6 +550,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "美国能源部长Wright：今天从众多石油公司了解到（与投资委内瑞拉相关的）“大量兴趣”。 雪佛龙今天作出具体的（投资委内瑞拉的）承诺。 雪佛龙告知特朗普政府，该公司认为（委内瑞拉石油）产量有望增长50%。 未来8-12年，（美国）可能会从委内瑞拉捞取到300万桶/日的石油（供应）。 （对于去风险资本（derisking capital））美国可以改变（委内瑞拉的）政府行为。 后续将与委内瑞拉政府接触。 美国希望颠覆（总统马杜罗治下的）委内瑞拉治理方式。",
+          "url": "https://wallstreetcn.com/livenews/3034455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "美国总统特朗普：今天的石油会议主要讨论关于委内瑞拉的（投资）问题。 能源部长Wright和Burgum下周将会见其他的石油公司。",
           "url": "https://wallstreetcn.com/livenews/3034359",
           "source": "华尔街见闻-快讯",
@@ -456,7 +589,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -467,9 +600,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国农业部长（USDA）部长Rollins：特朗普政府暂停向明尼苏达州发放联邦资金，立即生效。 这包括当前激活的资金和未来可能会审批的资金。",
+          "url": "https://wallstreetcn.com/livenews/3034452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国法官表示，她将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
@@ -500,7 +644,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -522,9 +666,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美国能源部长Wright：“不久”将前往委内瑞拉。 （自从特朗普授意美军强行掳走委内瑞拉总统马杜罗以来）还没有与Delcy Rodriguez直接对话。 多家石油公司将在未来数周围绕投资委内瑞拉出钱。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3034450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普的MBS购买计划被比作“准QE”，为交易员带来买入长债的理由",
+          "url": "https://wallstreetcn.com/livenews/3034449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
+          "url": "https://www.zhihu.com/question/1991889804833599714",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。白宫正在据此审查有关经济数据发布的规程。",
@@ -577,9 +754,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
+          "url": "https://flash.jin10.com/detail/20260110080700491800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
@@ -599,7 +787,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -610,7 +798,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -659,13 +847,24 @@
           "time_info": "02时35分"
         },
         {
+          "title": "特朗普：“无论难易”都要得到格陵兰岛",
+          "url": "https://wallstreetcn.com/livenews/3034441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "特朗普今天发表讲话时，衣领上别着一枚他自己形象的徽章。",
           "url": "https://flash.jin10.com/detail/20260110042306371800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -676,27 +875,27 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普强推千亿美元委内瑞拉石油复兴计划，美能源巨头反应冷淡",
+          "url": "https://wallstreetcn.com/livenews/3034440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时23分]"
-        },
         {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
           "url": "https://www.cls.cn/detail/2253208",
@@ -706,8 +905,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时48分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -715,7 +914,19 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时48分]"
+        },
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -731,6 +942,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 06时23分]"
+        },
+        {
+          "title": "Deepseek或将发布新AI模型",
+          "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时48分]"
+        },
+        {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
@@ -753,17 +997,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时23分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -805,13 +1038,24 @@
           "time_info": "[00时31分 ~ 06时23分]"
         },
         {
+          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3034456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
           "url": "https://www.zhihu.com/question/571427849",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -863,7 +1107,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果 M5Max 游戏性能将超 RTX5070Ti，这会给独立显卡市场带来哪些冲击？",
@@ -873,11 +1117,12 @@
             13,
             8,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时48分]"
         },
         {
           "title": "苹果煮水喝孩子越喝越长个儿",
@@ -885,11 +1130,12 @@
           "source": "微博",
           "ranks": [
             24,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 09时48分]"
         },
         {
           "title": "苹果公司股价处于连续第八个交易日下跌之中，恐创1991年以来最长连跌天数。",
@@ -903,13 +1149,24 @@
           "time_info": "02时35分"
         },
         {
+          "title": "赵丽颖黄晓明大秀舞蹈《青苹果乐园》",
+          "url": "https://www.toutiao.com/trending/7592443730277777417/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收涨2.1%，谷歌A涨超0.9%，苹果结束七连跌",
           "url": "https://wallstreetcn.com/livenews/3034411",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -931,7 +1188,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         }
@@ -939,7 +1196,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -986,9 +1243,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
+          "url": "https://www.cls.cn/detail/2253716",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         },
         {
           "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
@@ -1016,7 +1284,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克：人类可以实现半永生",
@@ -1048,8 +1316,47 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 06时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时48分]"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）批准马斯克旗下太空探索SpaceX下一代卫星星座。 授权SpaceX推进星链系统。",
+          "url": "https://wallstreetcn.com/livenews/3034442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至1月6日的一周，芝商所标普500期货的股票基金经理将净多头仓位增加了20,846手合约，至963,767手。投机性空头头寸增加了50,614手合约，至415,017手。",
+          "url": "https://flash.jin10.com/detail/20260110043120533800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "对冲基金Genoa Capital：巴西总统卢拉在2026年大选赢得连任的机会很高。",
+          "url": "https://wallstreetcn.com/livenews/3034448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -1063,28 +1370,46 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时23分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 09时48分]"
         }
       ]
     },
     {
-      "keyword_group": "基金",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月6日的一周，芝商所标普500期货的股票基金经理将净多头仓位增加了20,846手合约，至963,767手。投机性空头头寸增加了50,614手合约，至415,017手。",
-          "url": "https://flash.jin10.com/detail/20260110043120533800",
+          "title": "去年金价狂飙美元贬值 美元信用裂痕扩大产加速去美元化",
+          "url": "https://flash.jin10.com/detail/20260110082505272800",
           "source": "金十数据",
           "ranks": [
-            20
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "非农数据“温和”，标普新高，美元指数四连涨，黄金重回4500关口",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     }
