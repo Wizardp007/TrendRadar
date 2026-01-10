@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T18:23:22.226943+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-01-10T20:43:43.373391+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 107,
+      "match_count": 112,
       "titles": [
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -17,8 +17,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 20时43分]"
+        },
+        {
+          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
+          "url": "https://www.zhihu.com/question/1991889804833599714",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            10,
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 20时43分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -69,19 +85,17 @@
           "time_info": "[12时35分 ~ 18时23分]"
         },
         {
-          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
-          "url": "https://www.zhihu.com/question/1991889804833599714",
-          "source": "知乎",
+          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
+          "url": "https://www.cls.cn/detail/2253739",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            13,
             10,
             9,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 20时43分]"
         },
         {
           "title": "特朗普威胁石油巨头在委投资：你们不干有的是人干",
@@ -106,6 +120,18 @@
           "time_info": "[00时31分 ~ 06时23分]"
         },
         {
+          "title": "特朗普放话：我可不要中俄当邻居",
+          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时43分]"
+        },
+        {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
           "url": "https://wallstreetcn.com/articles/3762899",
           "source": "华尔街见闻",
@@ -118,18 +144,6 @@
           "time_info": "[00时31分 ~ 06时23分]"
         },
         {
-          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
-          "url": "https://www.cls.cn/detail/2253739",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 18时23分]"
-        },
-        {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
           "url": "https://www.zhihu.com/question/1992865566088721749",
           "source": "知乎",
@@ -139,6 +153,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 06时23分]"
+        },
+        {
+          "title": "会下令“抓捕”普京吗？特朗普回应",
+          "url": "https://v.ifeng.com/c/8pngFh4oVip",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时43分]"
         },
         {
           "title": "5名共和党议员倒戈，美参议院限制对委继续动武，特朗普怒了",
@@ -153,16 +179,16 @@
           "time_info": "[09时48分 ~ 11时26分]"
         },
         {
-          "title": "特朗普放话：我可不要中俄当邻居",
-          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
-          "source": "凤凰网",
+          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
+          "url": "https://wallstreetcn.com/articles/3762989",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            4
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时43分]"
         },
         {
           "title": "特朗普到底退出了什么组织",
@@ -207,28 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "特朗普宣称“不需要国际法”，联合国秘书长重申立场",
-          "url": "https://wallstreetcn.com/livenews/3034533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
-          "title": "会下令“抓捕”普京吗？特朗普回应",
-          "url": "https://v.ifeng.com/c/8pngFh4oVip",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 18时23分]"
         },
         {
           "title": "特朗普重申要得到格陵兰岛",
@@ -324,16 +328,15 @@
           "time_info": "06时23分"
         },
         {
-          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
-          "url": "https://wallstreetcn.com/articles/3762989",
-          "source": "华尔街见闻",
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 18时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
@@ -518,6 +521,18 @@
           "time_info": "[09时48分 ~ 12时35分]"
         },
         {
+          "title": "特朗普宣称“不需要国际法”，联合国秘书长重申立场",
+          "url": "https://wallstreetcn.com/livenews/3034533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 20时43分]"
+        },
+        {
           "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
           "url": "https://flash.jin10.com/detail/20260110091128037800",
           "source": "金十数据",
@@ -577,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "信号比规模重要--高盛解读“特朗普版QE”",
+          "url": "https://wallstreetcn.com/articles/3763012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美国总统特朗普：油轮现在正返回委内瑞拉，石油将通过我们为此类销售而建立的能源协议进行出售。",
@@ -804,6 +830,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-10）",
+          "url": "https://flash.jin10.com/detail/20260110184939351800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "哥伦比亚总统：“特朗普对我说已在策划军事行动”",
           "url": "https://wallstreetcn.com/livenews/3034287",
           "source": "华尔街见闻-快讯",
@@ -813,6 +850,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "泽连斯基称特朗普应该与乌克兰达成自由贸易协定",
@@ -901,6 +949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
+          "url": "https://flash.jin10.com/detail/20260110180529633800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美国总统特朗普：正为委内瑞拉投资创建一个“配方”。 希望我自己不至于动用“后备方案”。 我们（美国石油公司）将长期地盘踞在委内瑞拉。",
@@ -1236,7 +1295,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -1253,6 +1312,20 @@
           "time_info": "[00时31分 ~ 16时29分]"
         },
         {
+          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
+          "url": "https://wallstreetcn.com/articles/3762982",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 20时43分]"
+        },
+        {
           "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
           "url": "https://www.cls.cn/detail/2253208",
           "source": "财联社热门",
@@ -1265,19 +1338,6 @@
           "time_info": "[00时31分 ~ 11时26分]"
         },
         {
-          "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
-          "url": "https://wallstreetcn.com/articles/3762982",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时23分]"
-        },
-        {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -1288,8 +1348,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 20时43分]"
         },
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -1324,6 +1384,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 12时35分]"
+        },
+        {
+          "title": "月之暗面创始人杨植麟：中国技术不仅要好用还要参与制定规则，未来大模型要推出到K100",
+          "url": "https://wallstreetcn.com/livenews/3034545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "马斯克抛出对AI时代三大预言靠谱吗",
+          "url": "https://www.toutiao.com/trending/7593676279396699689/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
@@ -1416,11 +1498,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 20时43分]"
         },
         {
           "title": "中国大模型进入上市分水岭",
@@ -1492,7 +1575,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "苹果 M5Max 游戏性能将超 RTX5070Ti，这会给独立显卡市场带来哪些冲击？",
@@ -1509,6 +1592,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 11时26分]"
+        },
+        {
+          "title": "消费者买到xiaonnri电视 小米回应",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%88%B0xiaonnri%E7%94%B5%E8%A7%86+%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "小米汽车：新一代SU7将全系搭载小米超级电机V6s Plus",
@@ -1536,6 +1630,19 @@
           "time_info": "[02时35分 ~ 09时48分]"
         },
         {
+          "title": "王腾离开小米后成立新公司「今日宜休」，将研发睡眠健康相关产品，如何看待这一创业选择？你看好吗？",
+          "url": "https://www.zhihu.com/question/1992533209943126108",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时43分]"
+        },
+        {
           "title": "小米CEO雷军：下个阶段会加大YU7推广。",
           "url": "https://wallstreetcn.com/livenews/3034509",
           "source": "华尔街见闻-快讯",
@@ -1560,18 +1667,6 @@
           "time_info": "[16时29分 ~ 18时23分]"
         },
         {
-          "title": "王腾离开小米后成立新公司「今日宜休」，将研发睡眠健康相关产品，如何看待这一创业选择？你看好吗？",
-          "url": "https://www.zhihu.com/question/1992533209943126108",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 18时23分]"
-        },
-        {
           "title": "苹果公司股价处于连续第八个交易日下跌之中，恐创1991年以来最长连跌天数。",
           "url": "https://wallstreetcn.com/livenews/3034340",
           "source": "华尔街见闻-快讯",
@@ -1581,6 +1676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "华为联合云南建投物流发布智慧物流样板点 并启动“云链物流大模型”研发",
+          "url": "https://wallstreetcn.com/livenews/3034536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "赵丽颖黄晓明大秀舞蹈《青苹果乐园》",
@@ -1603,6 +1709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "蒸苹果蒸出了果冻",
+          "url": "https://s.weibo.com/weibo?q=%E8%92%B8%E8%8B%B9%E6%9E%9C%E8%92%B8%E5%87%BA%E4%BA%86%E6%9E%9C%E5%86%BB&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨2.1%，谷歌A涨超0.9%，苹果结束七连跌",
@@ -1654,8 +1771,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 20时43分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -1795,6 +1912,76 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
+          "url": "https://www.zhihu.com/question/1923049081044960601",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时27分 ~ 14时33分]"
+        },
+        {
+          "title": "DeepSeek能否第二次震惊全世界",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 20时43分]"
+        },
+        {
+          "title": "DeepSeek能第二次震惊世界吗",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 18时23分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时43分]"
+        },
+        {
+          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
+          "url": "https://www.zhihu.com/question/1993329446883651767",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "基金",
       "match_count": 5,
       "titles": [
@@ -1829,11 +2016,12 @@
           "url": "https://flash.jin10.com/detail/20260110170542522800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 20时43分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至1月6日的一周，芝商所标普500期货的股票基金经理将净多头仓位增加了20,846手合约，至963,767手。投机性空头头寸增加了50,614手合约，至415,017手。",
@@ -1856,64 +2044,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
-          "url": "https://www.zhihu.com/question/1923049081044960601",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时27分 ~ 14时33分]"
-        },
-        {
-          "title": "DeepSeek能否第二次震惊全世界",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 18时23分]"
-        },
-        {
-          "title": "DeepSeek能第二次震惊世界吗",
-          "url": "https://www.toutiao.com/trending/7593519269174840858/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 18时23分]"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 18时23分]"
         }
       ]
     },
@@ -1983,8 +2113,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 18时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 20时43分]"
         }
       ]
     }
