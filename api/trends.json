@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T14:35:22.569148+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-01-11T16:31:21.595918+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -28,8 +28,35 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时22分 ~ 16时31分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
@@ -44,19 +71,6 @@
           "time_info": "[00时28分 ~ 11时56分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 14时35分]"
-        },
-        {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
           "url": "https://www.zhihu.com/question/1993265925231761101",
           "source": "知乎",
@@ -68,17 +82,29 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
+          "source": "凤凰网",
           "ranks": [
+            6,
             5,
-            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 16时31分]"
+        },
+        {
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时56分 ~ 14时35分]"
+          "time_info": "[11时56分 ~ 16时31分]"
         },
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -92,28 +118,17 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
-          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
-          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
-          "source": "凤凰网",
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 14时35分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
-          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
+            10,
+            8,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时56分 ~ 14时35分]"
+          "time_info": "[12时52分 ~ 16时31分]"
         },
         {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
@@ -201,18 +216,6 @@
           "time_info": "[02时32分 ~ 06时22分]"
         },
         {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 14时35分]"
-        },
-        {
           "title": "特朗普被曝听取军事打击伊朗方案",
           "url": "https://www.douyin.com/hot/2363984",
           "source": "抖音",
@@ -279,6 +282,17 @@
           "time_info": "[10时01分 ~ 14时35分]"
         },
         {
+          "title": "意大利总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
+          "url": "https://news.ifeng.com/c/8ppArIDCETK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
           "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
           "url": "https://wallstreetcn.com/livenews/3034618",
           "source": "华尔街见闻-快讯",
@@ -302,6 +316,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时56分]"
+        },
+        {
+          "title": "意大利总理：不同意特朗普许多做法",
+          "url": "https://www.toutiao.com/trending/7593680373650358291/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时31分]"
         },
         {
           "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
@@ -397,17 +423,6 @@
           "time_info": "[12时51分 ~ 12时52分]"
         },
         {
-          "title": "意大利总理：不同意特朗普许多做法",
-          "url": "https://www.toutiao.com/trending/7593680373650358291/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
           "url": "https://wallstreetcn.com/livenews/3034575",
           "source": "华尔街见闻-快讯",
@@ -422,7 +437,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "Deepseek或将发布新AI模型",
@@ -432,8 +447,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 14时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 16时31分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -442,11 +457,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时32分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[02时32分 ~ 16时31分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -455,11 +471,62 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 16时31分]"
+        },
+        {
+          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1990551534715556923",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5,
+            10,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时56分 ~ 16时31分]"
+        },
+        {
+          "title": "AI照片竟然拿了摄影比赛第一名",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时31分]"
+        },
+        {
+          "title": "AI每回答一个问题要消耗多少水",
+          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时31分]"
+        },
+        {
+          "title": "AI登顶LOL韩服",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时31分]"
         },
         {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
@@ -473,19 +540,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时01分 ~ 12时52分]"
-        },
-        {
-          "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
-          "url": "https://www.zhihu.com/question/1990551534715556923",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 14时35分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -510,37 +564,27 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
-          "title": "AI照片竟然拿了摄影比赛第一名",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "AI每回答一个问题要消耗多少水",
-          "url": "https://www.baidu.com/s?wd=AI%E6%AF%8F%E5%9B%9E%E7%AD%94%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E8%A6%81%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
           "url": "https://wallstreetcn.com/articles/3763033",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 16时31分]"
+        },
+        {
+          "title": "市场消息：马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://flash.jin10.com/detail/20260111150811201800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "16时31分"
         },
         {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
@@ -553,6 +597,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "AI时代还有学画画的必要吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时31分]"
         },
         {
           "title": "月之暗面创始人杨植麟：中国技术不仅要好用还要参与制定规则，未来大模型要推出到K100",
@@ -577,21 +633,21 @@
           "time_info": "10时01分"
         },
         {
-          "title": "AI时代还有学画画的必要吗",
-          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
-          "source": "百度热搜",
+          "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://wallstreetcn.com/livenews/3034647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "16时31分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "15年前的iPhone4S开箱",
@@ -630,6 +686,17 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
+          "title": "iPhone4需求激增近1000%",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone4%E9%9C%80%E6%B1%82%E6%BF%80%E5%A2%9E%E8%BF%911000%25%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时31分]"
+        },
+        {
           "title": "iPhone里最容易忽略的效率神器",
           "url": "https://s.weibo.com/weibo?q=iPhone%E9%87%8C%E6%9C%80%E5%AE%B9%E6%98%93%E5%BF%BD%E7%95%A5%E7%9A%84%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -666,7 +733,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
@@ -675,11 +742,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时56分 ~ 14时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时56分 ~ 16时31分]"
         },
         {
           "title": "马斯克：X平台将于七天内开源其算法",
@@ -693,6 +761,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时56分 ~ 14时35分]"
+        },
+        {
+          "title": "如何看待马斯克称AGI今年就将实现",
+          "url": "https://www.toutiao.com/trending/7593493564425027603/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时31分]"
         },
         {
           "title": "马斯克：推特将在七天内开源其算法",
@@ -827,6 +906,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时01分 ~ 14时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌创始人“逃离”硅谷",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E2%80%9C%E9%80%83%E7%A6%BB%E2%80%9D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价将走向何方",
+          "url": "https://www.toutiao.com/trending/7593981430330297862/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时31分]"
         }
       ]
     },
