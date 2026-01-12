@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T20:52:26.093312+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-01-12T22:28:47.314844+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -84,6 +84,18 @@
           "time_info": "[00时28分 ~ 09时57分]"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 22时28分]"
+        },
+        {
           "title": "特朗普，又要“抢东西”？",
           "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
           "source": "凤凰网",
@@ -95,16 +107,16 @@
           "time_info": "[09时57分 ~ 14时40分]"
         },
         {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
           "source": "凤凰网",
           "ranks": [
-            3,
-            1
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 22时28分]"
         },
         {
           "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
@@ -116,17 +128,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时53分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 20时52分]"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
@@ -195,7 +196,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -222,6 +223,28 @@
           "time_info": "18时28分"
         },
         {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 22时28分]"
+        },
+        {
+          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
+          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
           "url": "https://flash.jin10.com/detail/20260112092912020800",
           "source": "金十数据",
@@ -242,6 +265,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 22时28分]"
         },
         {
           "title": "特朗普车队因可疑物体改道",
@@ -299,17 +334,6 @@
           "time_info": "09时57分"
         },
         {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "据耶路撒冷邮报：几位熟悉近日会谈细节的消息人士透露，特朗普基本上已经决定帮助伊朗的抗议者，但他还没有决定“如何做”和“何时做”。",
           "url": "https://flash.jin10.com/detail/20260112043545440800",
           "source": "金十数据",
@@ -363,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
-        },
-        {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
@@ -459,6 +472,18 @@
           "time_info": "[00时28分 ~ 04时26分]"
         },
         {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 22时28分]"
+        },
+        {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
           "url": "https://flash.jin10.com/detail/20260111203618040800",
           "source": "金十数据",
@@ -525,6 +550,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
+          "url": "https://flash.jin10.com/detail/20260112212737636800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
           "url": "https://wallstreetcn.com/livenews/3035096",
           "source": "华尔街见闻-快讯",
@@ -536,15 +572,15 @@
           "time_info": "16时36分"
         },
         {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
+          "url": "https://flash.jin10.com/detail/20260112212716396800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "22时28分"
         },
         {
           "title": "鲍威尔称被调查只因没听特朗普话",
@@ -569,6 +605,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260112212210051800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "特朗普称中俄只能在美方控制下购买委内瑞拉石油，外交部回应",
           "url": "https://wallstreetcn.com/livenews/3035089",
           "source": "华尔街见闻-快讯",
@@ -589,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
+        },
+        {
+          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
+          "url": "https://flash.jin10.com/detail/20260112211851443800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
@@ -616,7 +674,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
@@ -642,11 +700,12 @@
             11,
             15,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 20时52分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 22时28分]"
         },
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -673,6 +732,18 @@
           "time_info": "[09时57分 ~ 14时40分]"
         },
         {
+          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
+          "url": "https://wallstreetcn.com/articles/3763068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 22时28分]"
+        },
+        {
           "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
           "url": "https://wallstreetcn.com/articles/3763032",
           "source": "华尔街见闻",
@@ -683,6 +754,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 11时53分]"
+        },
+        {
+          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
+          "url": "https://www.cls.cn/detail/2254949",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
@@ -698,6 +781,18 @@
           "time_info": "[14时40分 ~ 18时28分]"
         },
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 22时28分]"
+        },
+        {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
           "url": "https://www.cls.cn/detail/2253876",
           "source": "财联社热门",
@@ -709,16 +804,17 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
           "source": "华尔街见闻",
           "ranks": [
+            6,
             5,
             4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时36分 ~ 20时52分]"
+          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -734,16 +830,28 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
+          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
+          "url": "https://www.cls.cn/detail/2254903",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 22时28分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 22时28分]"
         },
         {
           "title": "AI会取代演员吗",
@@ -760,16 +868,16 @@
           "time_info": "[12时52分 ~ 18时28分]"
         },
         {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
+          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
+          "url": "https://www.cls.cn/detail/2255010",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时36分 ~ 20时52分]"
+          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "用户与AI聊黄开发者获刑",
@@ -793,29 +901,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 06时22分]"
-        },
-        {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 20时52分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -867,18 +952,6 @@
           "time_info": "16时36分"
         },
         {
-          "title": "【每日收评】三大指数均涨超1%，两市成交额达3.6万亿，AI应用与商业航天双双爆发",
-          "url": "https://www.cls.cn/detail/2254903",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
-        },
-        {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
           "url": "https://flash.jin10.com/detail/20260111230441184800",
           "source": "金十数据",
@@ -903,18 +976,6 @@
           "time_info": "14时40分"
         },
         {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
-        },
-        {
           "title": "万字解析中国AI产业",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -926,6 +987,40 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时57分 ~ 12时53分]"
+        },
+        {
+          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
+          "url": "https://www.cls.cn/detail/2255330",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "张文宏：我拒绝把AI引入医院病历系统，医生需要训练专业诊断能力",
+          "url": "https://wallstreetcn.com/livenews/3035404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
+          "url": "https://www.cls.cn/detail/2254978",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
@@ -996,16 +1091,16 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
+          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
+          "url": "https://www.cls.cn/detail/2254799",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
+          "time_info": "[20时52分 ~ 22时28分]"
         },
         {
           "title": "深成指涨超1%，北证50涨近4%，沪指涨0.52%，创业板指涨0.63%，商业航天、AI应用两大方向领涨市场，沪深京三市上涨个股超3400只。",
@@ -1064,15 +1159,15 @@
           "time_info": "16时36分"
         },
         {
-          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
-          "url": "https://www.cls.cn/detail/2254799",
-          "source": "财联社热门",
+          "title": "阅文漫剧助手将全面接入生数科技多模态大模型Vidu",
+          "url": "https://wallstreetcn.com/livenews/3035394",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
+          "time_info": "22时28分"
         },
         {
           "title": "目前围绕 AI 的软件工程领域主要有 mlops，mlsys，AI infra，他们三者的区别是什么呢？",
@@ -1084,122 +1179,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
-          "url": "https://www.cls.cn/detail/2254695",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 20时52分]"
         },
         {
-          "title": "国务院：任命蒋成华为商务部国际贸易谈判副代表（副部长级）",
-          "url": "https://wallstreetcn.com/livenews/3034971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
-        },
-        {
-          "title": "小米17",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B317&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "iPhone4回收价涨了60倍",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone4%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%B6%A8%E4%BA%8660%E5%80%8D%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
-        },
-        {
-          "title": "iPhone4回收价涨了60倍",
-          "url": "https://www.baidu.com/s?wd=iPhone4%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%B6%A8%E4%BA%8660%E5%80%8D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
-        },
-        {
-          "title": "“死了么”下载费用从一元涨至八元，曾被苹果AppStore多次清榜",
-          "url": "https://wallstreetcn.com/livenews/3034732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时26分]"
-        },
-        {
-          "title": "iPhone4突然又火了",
-          "url": "https://www.douyin.com/hot/2365559",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "被传离职？小米总裁卢伟冰发文：今天上班",
-          "url": "https://wallstreetcn.com/livenews/3034997",
+          "title": "META任命前特朗普顾问Dina Powell McCormick担任新设立的高管职位，负责与政府和投资者合作推动AI发展。",
+          "url": "https://wallstreetcn.com/livenews/3035386",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "小米17背屏支持查看股票行情",
-          "url": "https://wallstreetcn.com/livenews/3034908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "22时28分"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "政府投资基金“投向哪 怎么投” 国家首次作出系统规范",
@@ -1254,9 +1250,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（1月9日，非农日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3035388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "【国投白银LOF：1月13日开市起至当日10:30停牌】国投瑞银基金管理有限公司公告，公司旗下国投瑞银白银期货证券投资基金（LOF）A类基金份额（场内简称：国投白银LOF；交易代码：161226）二级市场交易价格波动较大，请投资者密切关注基金份额净值。为保护投资者利益，本基金将于2026年1月13日开市起至当日10:30停牌，自2026年1月13日10:30复牌。",
@@ -1287,9 +1294,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "国芯科技：国家集成电路产业投资基金拟减持不超过2.37%。",
+          "url": "https://wallstreetcn.com/livenews/3035381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "国投白银LOF：后续本基金管理人将调整A类基金份额申购限额",
@@ -1297,6 +1315,230 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "AI玩具引爆CES，京东、字节、华为等巨头加码下能否跑出AI版泡泡玛特？",
+          "url": "https://www.cls.cn/detail/2254695",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 20时52分]"
+        },
+        {
+          "title": "国务院：任命蒋成华为商务部国际贸易谈判副代表（副部长级）",
+          "url": "https://wallstreetcn.com/livenews/3034971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "iPhone4回收价涨了60倍",
+          "url": "https://www.baidu.com/s?wd=iPhone4%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%B6%A8%E4%BA%8660%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 22时28分]"
+        },
+        {
+          "title": "小米17",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B317&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "iPhone4回收价涨了60倍",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone4%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%B6%A8%E4%BA%8660%E5%80%8D%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 22时28分]"
+        },
+        {
+          "title": "“死了么”下载费用从一元涨至八元，曾被苹果AppStore多次清榜",
+          "url": "https://wallstreetcn.com/livenews/3034732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时26分]"
+        },
+        {
+          "title": "iPhone4突然又火了",
+          "url": "https://www.douyin.com/hot/2365559",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
+          "title": "被传离职？小米总裁卢伟冰发文：今天上班",
+          "url": "https://wallstreetcn.com/livenews/3034997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "iPhone 4突然又火了",
+          "url": "https://www.douyin.com/hot/2365559",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "小米17背屏支持查看股票行情",
+          "url": "https://wallstreetcn.com/livenews/3034908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 22时28分]"
+        },
+        {
+          "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 16时36分]"
+        },
+        {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 20时52分]"
+        },
+        {
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4600美元，现货白银涨超6%，铜逼近新高，油价回调",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-12）",
+          "url": "https://flash.jin10.com/detail/20260112214500163800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3035390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
+          "url": "https://wallstreetcn.com/livenews/3035153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1434,7 +1676,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1452,71 +1694,64 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
+          "title": "美元指数DXY日内跌超0.50%，现报98.68。",
+          "url": "https://flash.jin10.com/detail/20260112214654921800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            3,
-            2,
-            6
+            10
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 20时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
-          "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 16时36分]"
-        },
-        {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
-        },
-        {
-          "title": "美股盘前，明星科技股普跌，英伟达、甲骨文跌超1%、英特尔跌2%。热门中概股走强，金山云涨13%、阿里巴巴涨超4%、百度涨3%。美股银行股普跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%，特朗普呼吁给信用卡利率设“10%上限”。",
-          "url": "https://wallstreetcn.com/livenews/3035153",
+          "title": "美元指数日内跌超0.50%，现报98.68。",
+          "url": "https://wallstreetcn.com/livenews/3035384",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时28分"
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "macOS ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗外长与美国特使Witkoff讨论了伊朗发生的抗议活动。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3035410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Nano Nuclear与Ameresco签署谅解备忘录，旨在探讨在联邦及商业场所部署先进微型反应堆技术事宜。",
+          "url": "https://flash.jin10.com/detail/20260112213149529800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
@@ -1547,11 +1782,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            25
+            25,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 22时28分]"
         }
       ]
     },
