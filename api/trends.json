@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-01-14T06:25:00.126378+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-01-14T09:56:15.070090+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时25分]"
-        },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
           "url": "https://news.ifeng.com/c/8pspQ2slRcl",
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 09时56分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -105,7 +105,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -138,9 +138,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普：未来数周将公布美联储主席的人选",
@@ -182,7 +193,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -204,7 +215,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -270,7 +281,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -319,6 +330,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普称将切断“庇护城市”联邦资金",
+          "url": "https://www.toutiao.com/trending/7594261365691482175/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
           "url": "https://flash.jin10.com/detail/20260114034153120800",
           "source": "金十数据",
@@ -336,7 +358,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -413,7 +435,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -468,7 +490,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -523,7 +545,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -567,7 +589,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -773,7 +795,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "技术拆解疑似马斯克AI账号",
@@ -781,11 +803,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 09时56分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -797,6 +820,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 06时25分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 09时56分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -824,17 +861,43 @@
           "time_info": "[00时35分 ~ 04时28分]"
         },
         {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            10,
-            7
+            12,
+            17,
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 09时56分]"
+        },
+        {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            15,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 09时56分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -846,19 +909,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "韩服93%胜率账号是AI吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 06时25分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -886,17 +936,26 @@
           "time_info": "00时35分"
         },
         {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "创业板指涨超1%，沪指涨0.36%，深成指涨0.91%，AI应用、贵金属、油气等方向领涨，沪深京三市上涨个股超3400只。",
+          "url": "https://wallstreetcn.com/livenews/3036546",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            15,
-            26
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "AI应用方向继续走强，浙文互联4天3板，石基信息一字涨停，光云科技、值得买涨超10%，用友网络、金桥信息等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3036542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -910,6 +969,17 @@
           "time_info": "[00时35分 ~ 02时34分]"
         },
         {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
           "title": "EDG官宣Maokai回归",
           "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
           "source": "bilibili 热搜",
@@ -919,6 +989,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 02时34分]"
+        },
+        {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
@@ -932,13 +1024,24 @@
           "time_info": "00时35分"
         },
         {
+          "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
+          "url": "https://wallstreetcn.com/livenews/3036521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
           "url": "https://wallstreetcn.com/livenews/3036406",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -957,7 +1060,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -973,13 +1076,35 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
           "url": "https://wallstreetcn.com/livenews/3036425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1012,7 +1137,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
@@ -1042,7 +1167,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -1053,8 +1178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 06时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 09时56分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1091,12 +1216,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "智谱联合华为开源首个国产芯片训练的多模态SOTA模型",
+          "url": "https://wallstreetcn.com/livenews/3036524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "集邦咨询：台积电和三星削减8英寸晶圆产能，晶圆代工厂商考虑涨价5%至20%",
+          "url": "https://wallstreetcn.com/livenews/3036520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
     {
       "keyword_group": "macOS ios",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
@@ -1119,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "据AXIOS网站：特朗普称他知道可能对伊朗采取的应对措施，但他强调尚未做出决定。他说他需要今天晚些时候了解伊朗局势和死亡人数的准确情况。",
+          "url": "https://flash.jin10.com/detail/20260114090134298800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
@@ -1190,7 +1348,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
         },
