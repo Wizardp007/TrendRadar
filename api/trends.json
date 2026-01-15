@@ -1,29 +1,40 @@
 {
-  "generated_at": "2026-01-16T00:38:36.342608+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-16T02:39:54.042377+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "美国白宫：美国总统特朗普的医疗计划将要求企业公布被拒索赔的百分比，以及在索赔上支付的收入占管理费用的百分比。",
-          "url": "https://flash.jin10.com/detail/20260116002852870800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
           "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普的医疗计划将要求企业公布被拒索赔的百分比，以及在索赔上支付的收入占管理费用的百分比。",
+          "url": "https://flash.jin10.com/detail/20260116002852870800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,15 +52,26 @@
           "time_info": "00时38分"
         },
         {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
+          "url": "https://wallstreetcn.com/livenews/3038164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
+          "url": "https://wallstreetcn.com/livenews/3038163",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "02时39分"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -61,6 +83,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
+          "url": "https://wallstreetcn.com/livenews/3038162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
+          "url": "https://wallstreetcn.com/articles/3763320",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗保健计划将包括一项保险费用分摊削减计划。",
@@ -112,17 +156,6 @@
           "source": "微博",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
-          "url": "https://wallstreetcn.com/articles/3763320",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -204,34 +237,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "房贷利率跌至三年新低 特朗普2000亿购债计划初见成效",
+          "url": "https://flash.jin10.com/detail/20260116010632374800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
           "url": "https://www.cls.cn/detail/2259059",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
           "url": "https://www.zhihu.com/question/1995072589756901062",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -241,8 +299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -256,20 +314,20 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
+          "url": "https://wallstreetcn.com/livenews/3038156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
           "title": "台积电三季度业绩报告要点总结：AI巨头需求引爆，Q4利润激增35%再破纪录",
           "url": "https://wallstreetcn.com/livenews/3038126",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
-          "url": "https://www.zhihu.com/question/1993756665422509304",
-          "source": "知乎",
           "ranks": [
             10
           ],
@@ -282,22 +340,70 @@
           "url": "https://www.cls.cn/detail/2258951",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
           "url": "https://www.zhihu.com/question/1995085840762758424",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
+          "url": "https://flash.jin10.com/detail/20260116013602991800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "02时39分"
+        },
+        {
+          "title": "OpenAI：公司已参与脑机接口（BCI）初创公司Merge Labs的种子轮融资。",
+          "url": "https://flash.jin10.com/detail/20260116013554892800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         },
         {
           "title": "OpenAI 布局美国供应链 全线扩张软硬件版图",
@@ -305,28 +411,6 @@
           "source": "金十数据",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -358,7 +442,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "雷军聊新一代小米SU7",
@@ -368,19 +452,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "雷军：新一代小米SU7将提供9款配色",
@@ -390,36 +475,49 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "苹果折叠屏机模上手",
           "url": "https://www.toutiao.com/trending/7595528135144115738/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "苹果公司股价短线跳水，跌超0.5%，刷新日低至258美元。",
+          "url": "https://wallstreetcn.com/livenews/3038151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "02时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -429,8 +527,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260116013113671800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "02时39分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260116013016089800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -447,8 +567,19 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "西班牙首相桑切斯：我们将设立主权基金，将欧洲新一代基金的推动作用延续到2026年之后。",
+          "url": "https://flash.jin10.com/detail/20260116020304462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
         {
           "title": "国际货币基金组织总裁亲赴基辅 乌克兰81亿美元新贷款获批在即",
           "url": "https://flash.jin10.com/detail/20260116001328707800",
@@ -474,25 +605,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
-          "url": "https://www.zhihu.com/question/1995072623625855863",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -502,8 +616,71 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：推出 TranslateGemma——基于 Gemma 3 构建的全新开源翻译模型系列，助力人们以55种语言无障碍沟通。",
+          "url": "https://flash.jin10.com/detail/20260116010451484800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 02时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3038139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         }
       ]
     }
