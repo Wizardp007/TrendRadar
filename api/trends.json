@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T02:31:56.844934+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-01-18T04:24:56.255552+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "英媒刊文：特朗普羡慕中国",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -25,9 +25,53 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "欧洲极右翼忙“割席”：特朗普过分了",
+          "url": "https://news.ifeng.com/c/8pzs9jMHF4O",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
+          "url": "https://flash.jin10.com/detail/20260117220514244800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "英媒：特朗普羡慕中国",
@@ -39,50 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "欧洲极右翼忙“割席”：特朗普过分了",
-          "url": "https://news.ifeng.com/c/8pzs9jMHF4O",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
-          "url": "https://flash.jin10.com/detail/20260117220514244800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://wallstreetcn.com/articles/3763499",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "哈梅内伊：特朗普是罪犯",
@@ -101,11 +101,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "哈梅内伊：特朗普应被视为犯罪",
@@ -113,11 +114,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
@@ -127,8 +129,52 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
+          "url": "https://flash.jin10.com/detail/20260117201033719800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
+          "url": "https://flash.jin10.com/detail/20260117194356394800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
+          "url": "https://flash.jin10.com/detail/20260117193443128800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
+          "url": "https://flash.jin10.com/detail/20260117185814130800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
@@ -143,48 +189,15 @@
           "time_info": "[00时26分 ~ 02时31分]"
         },
         {
-          "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
-          "url": "https://flash.jin10.com/detail/20260117201033719800",
-          "source": "金十数据",
+          "title": "特朗普谈中加签协议",
+          "url": "https://www.douyin.com/hot/2370724",
+          "source": "抖音",
           "ranks": [
-            21
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
-          "url": "https://flash.jin10.com/detail/20260117194356394800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
-          "url": "https://flash.jin10.com/detail/20260117193443128800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
-          "url": "https://flash.jin10.com/detail/20260117185814130800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "为了格陵兰特朗普再挥关税大棒：“不支持我的话就加征关税”",
@@ -211,6 +224,56 @@
       ]
     },
     {
+      "keyword_group": "基金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "央行开年启动结构性降息，近30万亿到期定存何去何从？一线：存款偏好依旧强烈，理财、基金未现流入",
+          "url": "https://www.cls.cn/detail/2261105",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "知名公益人陈行甲年薪超70万，基金会：没问题",
+          "url": "https://news.ifeng.com/c/8pzSkkV73v4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "纽约市养老基金或重启以色列国债投资 与新任市长立场冲突",
+          "url": "https://flash.jin10.com/detail/20260117211144796800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
+        },
+        {
+          "title": "基金会：陈行甲超70万年薪核实无问题",
+          "url": "https://www.toutiao.com/trending/7594879185592565801/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
       "match_count": 3,
       "titles": [
@@ -222,8 +285,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -233,8 +296,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
@@ -244,8 +307,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         }
       ]
     },
@@ -261,8 +324,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
@@ -272,8 +335,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         },
         {
           "title": "马斯克：Colossus 2超级计算机现已投入运行。这是全球首个吉瓦级训练集群，四月将升级至1.5吉瓦。",
@@ -283,47 +346,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央行开年启动结构性降息，近30万亿到期定存何去何从？一线：存款偏好依旧强烈，理财、基金未现流入",
-          "url": "https://www.cls.cn/detail/2261105",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "知名公益人陈行甲年薪超70万，基金会：没问题",
-          "url": "https://news.ifeng.com/c/8pzSkkV73v4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "纽约市养老基金或重启以色列国债投资 与新任市长立场冲突",
-          "url": "https://flash.jin10.com/detail/20260117211144796800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         }
       ]
     },
@@ -340,8 +364,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         }
       ]
     },
@@ -358,8 +382,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         }
       ]
     },
@@ -375,8 +399,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 02时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 04时24分]"
         }
       ]
     }
