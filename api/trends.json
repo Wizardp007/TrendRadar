@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:32:21.700149+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-01-19T20:54:33.473478+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 20时54分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -71,6 +71,20 @@
           "time_info": "[09时58分 ~ 14时42分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时54分 ~ 20时54分]"
+        },
+        {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
@@ -104,19 +118,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时54分 ~ 18时32分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -171,7 +172,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -215,7 +216,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -232,6 +233,18 @@
           "time_info": "[04时25分 ~ 06时22分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 20时54分]"
+        },
+        {
           "title": "贝森特称“软弱”的欧洲意味着特朗普必须接管格陵兰岛",
           "url": "https://wallstreetcn.com/livenews/3039295",
           "source": "华尔街见闻-快讯",
@@ -245,13 +258,24 @@
           "time_info": "[02时31分 ~ 06时22分]"
         },
         {
+          "title": "德国总理默茨：将于周三尝试会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260119204956142800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
           "url": "https://wallstreetcn.com/livenews/3039703",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -313,17 +337,6 @@
           "time_info": "[11时55分 ~ 14时42分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
           "title": "特朗普发黑白照：我是关税之王(图)",
           "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
           "source": "凤凰网",
@@ -341,7 +354,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -628,6 +641,28 @@
           "time_info": "12时54分"
         },
         {
+          "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会主席冯德莱恩受邀加入美国总统特朗普的加沙“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
           "url": "https://flash.jin10.com/detail/20260119121117362800",
           "source": "金十数据",
@@ -711,9 +746,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "普京收到加入特朗普和平委员会邀请",
+          "url": "https://www.toutiao.com/trending/7596940910904573978/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "英国首相斯塔默与欧洲领导人及特朗普通话 重申反对美国关税政策",
@@ -752,7 +798,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -789,6 +835,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "荣耀Magic 8 Pro Air 售价4999元起",
+          "url": "https://wallstreetcn.com/livenews/3039775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "AI对存储的需求推动SSD发展 高速SSD主控芯片或供应吃紧",
@@ -828,6 +885,17 @@
           "time_info": "[02时30分 ~ 02时31分]"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
           "url": "https://wallstreetcn.com/livenews/3039556",
           "source": "华尔街见闻-快讯",
@@ -850,6 +918,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "“大空头”放话：AI繁荣即将转为长期低迷，英伟达掉下神坛只是时间问题！",
+          "url": "https://www.cls.cn/detail/2262181",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
           "url": "https://flash.jin10.com/detail/20260119042408235800",
           "source": "金十数据",
@@ -859,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "Air手机界来了个真Pro",
+          "url": "https://s.weibo.com/weibo?q=%23Air%E6%89%8B%E6%9C%BA%E7%95%8C%E6%9D%A5%E4%BA%86%E4%B8%AA%E7%9C%9FPro%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "UP主手搓可食用的AI海洋方块",
@@ -896,8 +986,171 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "牢A最新力作!“糖霜苹果”太吓人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349346&amp;topic_name=%E7%89%A2A%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%21%E2%80%9C%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%E2%80%9D%E5%A4%AA%E5%90%93%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 20时54分]"
+        },
+        {
+          "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
+          "url": "https://flash.jin10.com/detail/20260118224930026800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "港交所文件显示：小米集团1月19日回购400万股B类股，耗资约1.5亿港元",
+          "url": "https://flash.jin10.com/detail/20260119181156128800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "Counterpoint：苹果公司第四季度iPhone在中国的出货量同比增长28%。",
+          "url": "https://wallstreetcn.com/livenews/3039558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "沈逸回应糖霜苹果",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%80%B8%E5%9B%9E%E5%BA%94%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 18时32分]"
+        },
+        {
+          "title": "SK海力士、三星加速HBF商业化进程 “HBM之父”：最快明年用于英伟达产品",
+          "url": "https://www.cls.cn/detail/2261261",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 06时22分]"
+        },
+        {
+          "title": "iPhone18Pro宣传片曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%AE%A3%E4%BC%A0%E7%89%87%E6%9B%9D%E5%85%89%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 20时54分]"
+        },
+        {
+          "title": "糖霜苹果",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 20时54分]"
+        },
+        {
+          "title": "小米新SU7刷新24小时耐力挑战纪录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%88%B7%E6%96%B024%E5%B0%8F%E6%97%B6%E8%80%90%E5%8A%9B%E6%8C%91%E6%88%98%E7%BA%AA%E5%BD%95%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
+          "url": "https://www.zhihu.com/question/1994879091791385576",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "Counterpoint：苹果(AAPL.O)iPhone中国出货量第四季度同比增长28%。",
+          "url": "https://flash.jin10.com/detail/20260119140511652800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "苹果重新夺回中国手机市场第一",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E9%87%8D%E6%96%B0%E5%A4%BA%E5%9B%9E%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E7%AC%AC%E4%B8%80%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "胡峥楠谈小米为什么要跑纽北",
+          "url": "https://www.toutiao.com/trending/7597006083887071295/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "苹果将改为一年两次发布新品",
+          "url": "https://www.douyin.com/hot/2373017",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "基金",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "陈行甲声明：完成交棒之后，将不再从基金会领取薪水",
@@ -910,8 +1163,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时31分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[02时31分 ~ 20时54分]"
         },
         {
           "title": "一日吸金120亿烫手，德邦爆款基金将如何收场？",
@@ -935,6 +1188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "2025年保险资管登记债权计划、股权计划、私募基金共314只，规模5104.43亿元",
+          "url": "https://wallstreetcn.com/livenews/3039777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "日本在野党联盟中道改革联合：将推动针对灾害救援和基础设施的定向投资。通过设立日本主权财富基金所创造的收入来取消食品销售的消费税。",
@@ -984,6 +1248,29 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
+          "title": "独家｜基金经理“差别操作”曝光，自己钱重仓科技大赚，产品配置老登股亏钱，合规但不合情？",
+          "url": "https://www.cls.cn/detail/2262432",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "场内价格突破前高！白银LOF溢价重返30%，年内高涨基金扫描，这些方向扎堆聚集",
+          "url": "https://www.cls.cn/detail/2262323",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 20时54分]"
+        },
+        {
           "title": "嫣然天使基金预算已筹满",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AB%A3%E7%84%B6%E5%A4%A9%E4%BD%BF%E5%9F%BA%E9%87%91%E9%A2%84%E7%AE%97%E5%B7%B2%E7%AD%B9%E6%BB%A1%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -994,17 +1281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 18时32分]"
-        },
-        {
-          "title": "场内价格突破前高！白银LOF溢价重返30%，年内高涨基金扫描，这些方向扎堆聚集",
-          "url": "https://www.cls.cn/detail/2262323",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "Chris Hohn旗下对冲基金去年大赚189亿美元 打破此前城堡投资的纪录",
@@ -1035,124 +1311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "小米集团董事长雷军：新一代SU7已经开始小订。",
-          "url": "https://flash.jin10.com/detail/20260118224930026800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 04时25分]"
-        },
-        {
-          "title": "牢A最新力作!“糖霜苹果”太吓人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349346&amp;topic_name=%E7%89%A2A%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%21%E2%80%9C%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%E2%80%9D%E5%A4%AA%E5%90%93%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 18时32分]"
-        },
-        {
-          "title": "港交所文件显示：小米集团1月19日回购400万股B类股，耗资约1.5亿港元",
-          "url": "https://flash.jin10.com/detail/20260119181156128800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "Counterpoint：苹果公司第四季度iPhone在中国的出货量同比增长28%。",
-          "url": "https://wallstreetcn.com/livenews/3039558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "沈逸回应糖霜苹果",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%80%B8%E5%9B%9E%E5%BA%94%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 18时32分]"
-        },
-        {
-          "title": "SK海力士、三星加速HBF商业化进程 “HBM之父”：最快明年用于英伟达产品",
-          "url": "https://www.cls.cn/detail/2261261",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 06时22分]"
-        },
-        {
-          "title": "iPhone18Pro宣传片曝光",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%AE%A3%E4%BC%A0%E7%89%87%E6%9B%9D%E5%85%89%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "小米新SU7刷新24小时耐力挑战纪录",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E5%88%B7%E6%96%B024%E5%B0%8F%E6%97%B6%E8%80%90%E5%8A%9B%E6%8C%91%E6%88%98%E7%BA%AA%E5%BD%95%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "Counterpoint：苹果(AAPL.O)iPhone中国出货量第四季度同比增长28%。",
-          "url": "https://flash.jin10.com/detail/20260119140511652800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "糖霜苹果",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -1174,6 +1333,17 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 20时54分]"
+        },
+        {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -1183,17 +1353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
@@ -1274,8 +1433,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时58分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 20时54分]"
         },
         {
           "title": "马斯克：特斯拉将重启Dojo 3项目",
@@ -1322,8 +1481,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时55分 ~ 18时32分]"
+          "appearance_count": 6,
+          "time_info": "[11时55分 ~ 20时54分]"
         }
       ]
     },
