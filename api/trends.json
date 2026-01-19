@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T04:27:42.192749+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-01-20T06:24:43.367490+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -28,20 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
-        },
-        {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -51,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -62,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时24分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -73,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -84,19 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 04时27分]"
-        },
-        {
-          "title": "摩洛哥外交部：摩洛哥将加入美国总统特朗普所谓的“和平委员会”。",
-          "url": "https://wallstreetcn.com/livenews/3039914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时24分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -160,9 +150,21 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "摩洛哥外交部：摩洛哥将加入美国总统特朗普所谓的“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时24分]"
         },
         {
           "title": "特朗普和将于当时时间周四上午10:30（北京时间17:30）在达沃斯举行和平委员会宪章签署仪式。",
@@ -171,7 +173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -250,7 +252,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -283,7 +285,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -332,6 +334,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
+          "url": "https://flash.jin10.com/detail/20260120045515099800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
           "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
           "url": "https://wallstreetcn.com/livenews/3039827",
           "source": "华尔街见闻-快讯",
@@ -357,7 +370,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "人均95后的大模型公司上了新闻联播",
@@ -367,8 +380,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -386,22 +399,24 @@
           "url": "https://wallstreetcn.com/livenews/3039909",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时24分]"
         },
         {
           "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
           "url": "https://wallstreetcn.com/livenews/3039907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时24分]"
         },
         {
           "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
@@ -427,6 +442,17 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
+          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
           "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
           "url": "https://wallstreetcn.com/livenews/3039840",
           "source": "华尔街见闻-快讯",
@@ -436,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "李稻葵：马斯克的预言是“AI乌托邦”",
+          "url": "https://www.toutiao.com/trending/7596717546255581227/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
@@ -462,8 +499,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -473,8 +510,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "糖霜苹果",
@@ -483,22 +520,24 @@
           "ranks": [
             23,
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "苹果将改为一年两次发布新品",
           "url": "https://www.douyin.com/hot/2373017",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时24分]"
         }
       ]
     },
@@ -542,6 +581,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数跌约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3039917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
+          "url": "https://wallstreetcn.com/livenews/3039869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "美元指数19日下跌",
+          "url": "https://flash.jin10.com/detail/20260120043735126800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -552,11 +630,12 @@
           "ranks": [
             18,
             4,
-            29
+            29,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 06时24分]"
         },
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -567,8 +646,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 06时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     },
@@ -584,8 +691,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "场内价格突破前高！白银LOF溢价重返30%，年内高涨基金扫描，这些方向扎堆聚集",
@@ -595,8 +702,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         }
       ]
     },
@@ -626,11 +733,12 @@
           "url": "https://wallstreetcn.com/articles/3763553",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         }
       ]
     },
@@ -649,40 +757,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 04时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌6.01%，暂报3824.50点，保持一段时间的微幅上涨状态之后，北京时间07:00从日高4106.50点跳水，迅速在08:08刷新日低至3714.89点。 MarketVectorTM数字资产100中盘指数跌5.90%，报3514.13点，06:54刷新日高至3765.08点，08:08刷新日低至3430.70点。 MarketVector数字资产100指数跌2.63%，报19159.74点， 07:00出现一波跳水行情，从日高19774.12点快速跌至18952.97点刷新日低。 目前，Solana跌5.73%，狗狗币跌6.17%，XRP跌1.61%。 比特币跌2.23%，暂报93184.25美元；以太坊跌3.75%，暂报3218.33美元。",
-          "url": "https://wallstreetcn.com/livenews/3039869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时36分"
         }
       ]
     }
