@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T02:36:00.940458+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-01-20T04:27:42.192749+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -61,9 +61,42 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时27分]"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
+        },
+        {
+          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
+          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时27分]"
+        },
+        {
+          "title": "摩洛哥外交部：摩洛哥将加入美国总统特朗普所谓的“和平委员会”。",
+          "url": "https://wallstreetcn.com/livenews/3039914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "04时27分"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -99,17 +132,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
-        },
-        {
           "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
           "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
           "source": "凤凰网",
@@ -132,26 +154,26 @@
           "time_info": "00时33分"
         },
         {
-          "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
-          "url": "https://news.ifeng.com/c/8q3GKEPO18N",
-          "source": "凤凰网",
+          "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
+          "url": "https://flash.jin10.com/detail/20260120035612237800",
+          "source": "金十数据",
           "ranks": [
-            5
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "04时27分"
         },
         {
-          "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
-          "url": "https://wallstreetcn.com/livenews/3039882",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普和将于当时时间周四上午10:30（北京时间17:30）在达沃斯举行和平委员会宪章签署仪式。",
+          "url": "https://flash.jin10.com/detail/20260120035235865800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "04时27分"
         },
         {
           "title": "马克龙据悉将拒绝特朗普“和平委员会”的邀请",
@@ -160,20 +182,33 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时27分]"
         },
         {
           "title": "芬兰总统：欧盟在格陵兰问题上有工具让特朗普就范",
           "url": "https://wallstreetcn.com/livenews/3039881",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时27分]"
         },
         {
           "title": "特朗普打关税牌吞格陵兰能得逞吗",
@@ -193,7 +228,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -207,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "经济学家：特朗普加征关税或使英国陷入衰退",
+          "url": "https://flash.jin10.com/detail/20260120030440450800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美国总统特朗普，欧洲应关注俄乌，而“不要关注格陵兰”。",
@@ -229,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "摩洛哥外交部：摩洛哥接受特朗普邀请，加入加沙和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260120025838329800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
@@ -292,7 +349,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -300,7 +357,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "人均95后的大模型公司上了新闻联播",
@@ -310,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时27分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -325,6 +382,40 @@
           "time_info": "[00时33分 ~ 02时36分]"
         },
         {
+          "title": "卡塔尔主权基金CEO暗示对AI投资采取更加细致审慎的策略",
+          "url": "https://wallstreetcn.com/livenews/3039909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "穆巴达拉CEO力挺AI与私人信贷投资，无视市场质疑",
+          "url": "https://wallstreetcn.com/livenews/3039907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
+          "url": "https://wallstreetcn.com/livenews/3039880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时27分]"
+        },
+        {
           "title": "贺峻霖力证不是AI",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8A%9B%E8%AF%81%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -334,17 +425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "贝莱德CEO拉里·芬克警告说：人工智能（AI）可能会像全球化一样加剧不平等。 呼吁达沃斯更多地倾听普通民众的声音，而不仅仅是精英阶层的声音。",
-          "url": "https://wallstreetcn.com/livenews/3039880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
         },
         {
           "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
@@ -372,7 +452,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
@@ -382,8 +462,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "2025 年中国手机市场数据出炉，华为全年第一，苹果第二，vivo 、小米及 OPPO 分列三四五，如何解读？",
@@ -393,8 +473,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时27分]"
         },
         {
           "title": "糖霜苹果",
@@ -402,11 +482,23 @@
           "source": "微博",
           "ranks": [
             23,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时27分]"
+        },
+        {
+          "title": "苹果将改为一年两次发布新品",
+          "url": "https://www.douyin.com/hot/2373017",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         }
       ]
     },
@@ -432,7 +524,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -459,22 +551,24 @@
           "source": "今日头条",
           "ranks": [
             18,
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时27分]"
         },
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32367730",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时27分]"
         }
       ]
     },
@@ -490,8 +584,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "场内价格突破前高！白银LOF溢价重返30%，年内高涨基金扫描，这些方向扎堆聚集",
@@ -501,8 +595,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         }
       ]
     },
@@ -535,8 +629,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         }
       ]
     },
@@ -549,11 +643,12 @@
           "url": "https://www.zhihu.com/question/1992605969721616211",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时27分]"
         }
       ]
     },
@@ -569,8 +664,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 04时27分]"
         }
       ]
     },
@@ -585,7 +680,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
