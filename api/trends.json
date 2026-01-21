@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T16:35:23.079732+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-01-21T18:32:05.668895+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 101,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -56,6 +56,18 @@
           "time_info": "[00时39分 ~ 06时25分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普：中俄只是“妖怪”，北约和联合国是“真威胁”",
           "url": "https://news.ifeng.com/c/8q5cMiwVA1q",
           "source": "凤凰网",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时39分 ~ 06时25分]"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 16时35分]"
         },
         {
           "title": "“拿地”的诱惑：格陵兰岛替代方案全否定，特朗普想要的是产权",
@@ -129,6 +129,21 @@
           "time_info": "[09时55分 ~ 12时47分]"
         },
         {
+          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
           "url": "https://news.ifeng.com/c/8q5VLcoKihU",
           "source": "凤凰网",
@@ -160,6 +175,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 18时32分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -222,20 +249,6 @@
           "time_info": "04时44分"
         },
         {
-          "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 16时35分]"
-        },
-        {
           "title": "特朗普重返白宫一周年，过半美国民众：表现失败",
           "url": "https://news.ifeng.com/c/8q4dfuUNG75",
           "source": "凤凰网",
@@ -268,6 +281,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时46分 ~ 14时39分]"
+        },
+        {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "美国总统特朗普：认为无需向国会寻求批准，即可向纳税人发放2000美元的退税支票。",
@@ -370,6 +394,17 @@
           "time_info": "11时46分"
         },
         {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "美国总统特朗普：我对挪威的尊重已经大打折扣。",
           "url": "https://flash.jin10.com/detail/20260121041343725800",
           "source": "金十数据",
@@ -420,18 +455,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -535,6 +559,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "瑞典表示不会签署特朗普和平委员会计划的现行版本",
+          "url": "https://wallstreetcn.com/livenews/3041184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "特朗普公开马克龙给他的私信",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -545,6 +580,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时39分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 18时32分]"
         },
         {
           "title": "特朗普发插旗图有何目的",
@@ -572,16 +620,16 @@
           "time_info": "[11时46分 ~ 14时39分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
           "ranks": [
             20,
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时47分 ~ 16时35分]"
+          "time_info": "[16时35分 ~ 18时32分]"
         },
         {
           "title": "暗示动武？特朗普：若关税工具受限 可采用其他手段夺取格陵兰岛！",
@@ -594,6 +642,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 14时39分]"
+        },
+        {
+          "title": "以色列罕见与特朗普公开叫板",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%95%E8%A7%81%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E5%8F%AB%E6%9D%BF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "立陶宛总统：希望在达沃斯听到美国总统特朗普就缓和格陵兰岛问题传来的令人鼓舞的消息。",
@@ -657,7 +716,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -671,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "埃及外交部：埃及接受美国总统特朗普的邀请，加入“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260121180923591800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
@@ -783,6 +853,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "克里姆林宫：（就特朗普关于“世界其他地区所不知的秘密武器”的言论）我们尚未收到美方就美国总统所指内容作出的说明。",
+          "url": "https://flash.jin10.com/detail/20260121180546914800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "美国总统特朗普：格陵兰将大大提高“金穹”系统的效能。 在达沃斯期间可能会与欧洲达成某种解决方案。",
           "url": "https://wallstreetcn.com/livenews/3040907",
           "source": "华尔街见闻-快讯",
@@ -847,17 +928,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        },
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：我们认为我们知道加沙最后一具人质尸体在哪里。",
@@ -935,6 +1005,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "土耳其总统埃尔多安：与美国总统特朗普就叙利亚问题进行了富有成效的通话，其中包括就与“伊斯兰国”的战斗进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260121175748272800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "特朗普：将很快开始打击陆路毒品走私",
@@ -1071,9 +1152,263 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 17,
+      "keyword_group": "AI 大模型",
+      "match_count": 21,
       "titles": [
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 18时32分]"
+        },
+        {
+          "title": "疑似AI玩家确认是Roamer",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时47分 ~ 18时32分]"
+        },
+        {
+          "title": "疑似AI玩家已确认是BRO Roamer",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E5%B7%B2%E7%A1%AE%E8%AE%A4%E6%98%AFBRO%20Roamer",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://wallstreetcn.com/livenews/3041189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "可灵AI MAU突破1200万，日均收入较12月提升约30%",
+          "url": "https://wallstreetcn.com/livenews/3041010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 04时44分]"
+        },
+        {
+          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3040928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时47分]"
+        },
+        {
+          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
+          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 18时32分]"
+        },
+        {
+          "title": "上海中小学开设AI课程",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 06时25分]"
+        },
+        {
+          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
+          "url": "https://www.cls.cn/detail/2264568",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "上海国际学校的孩子都在使用AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E4%BD%BF%E7%94%A8AI%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "Meta首席技术官：超智能实验室已于1月在内部交付了首批关键人工智能模型，新AI模型表现“非常出色”。",
+          "url": "https://wallstreetcn.com/livenews/3041173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
+          "url": "https://flash.jin10.com/detail/20260121014844232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
+          "url": "https://flash.jin10.com/detail/20260121113244610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "OpenAI公布数据中心能源成本控制计划",
+          "url": "https://flash.jin10.com/detail/20260121110335950800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/3040577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3040614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "沙特初创公司Humain：与Infra宣布达成人工智能和数字融资框架协议，同意探讨设立人工智能数据中心投资平台。",
+          "url": "https://flash.jin10.com/detail/20260121175829190800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://flash.jin10.com/detail/20260121175350755800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "郑钦文粉丝把AI天赋点满了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%B2%89%E4%B8%9D%E6%8A%8AAI%E5%A4%A9%E8%B5%8B%E7%82%B9%E6%BB%A1%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3763668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 18时32分]"
+        },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2264127",
@@ -1086,17 +1421,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时39分 ~ 11时46分]"
-        },
-        {
-          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
-          "url": "https://wallstreetcn.com/articles/3763668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 16时35分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -1186,9 +1510,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
@@ -1230,7 +1565,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1257,6 +1592,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "拼多多美股盘前涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3041149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "金十图示：2026年01月20日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260121050557571800",
           "source": "金十数据",
@@ -1270,195 +1616,31 @@
       ]
     },
     {
-      "keyword_group": "AI 大模型",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "疑似AI玩家确认是Roamer",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 16时35分]"
-        },
-        {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 16时35分]"
-        },
-        {
-          "title": "疑似AI玩家已确认是BRO Roamer",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E5%B7%B2%E7%A1%AE%E8%AE%A4%E6%98%AFBRO%20Roamer",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "可灵AI MAU突破1200万，日均收入较12月提升约30%",
-          "url": "https://wallstreetcn.com/livenews/3041010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3040636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 04时44分]"
-        },
-        {
-          "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3040928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时47分]"
-        },
-        {
-          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
-          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 16时35分]"
-        },
-        {
-          "title": "上海中小学开设AI课程",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 06时25分]"
-        },
-        {
-          "title": "马斯克高调“复活”特斯拉Dojo3芯片项目，再度剑指“太空AI”！",
-          "url": "https://www.cls.cn/detail/2264568",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "上海国际学校的孩子都在使用AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E4%BD%BF%E7%94%A8AI%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
-          "url": "https://flash.jin10.com/detail/20260121014844232800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
-          "url": "https://flash.jin10.com/detail/20260121113244610800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "OpenAI公布数据中心能源成本控制计划",
-          "url": "https://flash.jin10.com/detail/20260121110335950800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/3040577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
-          "url": "https://wallstreetcn.com/livenews/3040614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "郑钦文粉丝把AI天赋点满了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%B2%89%E4%B8%9D%E6%8A%8AAI%E5%A4%A9%E8%B5%8B%E7%82%B9%E6%BB%A1%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "苹果糖",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E7%B3%96&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "港交所文件显示：小米集团于1月21日回购700万股B类股，耗资2.477亿港元。",
+          "url": "https://flash.jin10.com/detail/20260121181905052800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
         {
           "title": "牢A最新力作!“糖霜苹果”太吓人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349346&amp;topic_name=%E7%89%A2A%E6%9C%80%E6%96%B0%E5%8A%9B%E4%BD%9C%21%E2%80%9C%E7%B3%96%E9%9C%9C%E8%8B%B9%E6%9E%9C%E2%80%9D%E5%A4%AA%E5%90%93%E4%BA%BA",
@@ -1530,6 +1712,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "中国贸促会副会长聂文慧会见三星（中国）投资有限公司首席副总裁张代君一行",
+          "url": "https://wallstreetcn.com/livenews/3041169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌1.45%，报7608.38点。 热门中概股里，小马智行初步收跌6.4%，小米跌5%，文远知行跌4.4%，比亚迪、小鹏、腾讯跌超3%，百度涨超0.3%。 ETF中，中国科技指数ETF（CQQQ）收跌2.87%，中概互联网指数ETF（KWEB）收跌2.07%。 XtrackersHarvest中证50（ASHS）收跌0.48%，德银嘉实沪深300指数ETF（ASHR）收跌0.24%。",
           "url": "https://wallstreetcn.com/livenews/3040678",
           "source": "华尔街见闻-快讯",
@@ -1571,6 +1764,17 @@
           "time_info": "[00时38分 ~ 09时55分]"
         },
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时32分]"
+        },
+        {
           "title": "金十图示：2026年01月21日（周三）上海金早盘价为1081.52元/克，较国际金价(1080.9元/克)，高0.62元/克",
           "url": "https://flash.jin10.com/detail/20260121112633290800",
           "source": "金十数据",
@@ -1580,17 +1784,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
@@ -1631,7 +1824,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "御诺乳业使用2.9亿扶贫基金到期未还，担保国企一同被诉",
@@ -1658,8 +1851,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[06时25分 ~ 18时32分]"
         },
         {
           "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
@@ -1704,12 +1897,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "交银投资等在成都成立股权投资基金，出资额10亿",
+          "url": "https://wallstreetcn.com/livenews/3041163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
@@ -1747,6 +1951,17 @@
           "time_info": "[09时55分 ~ 11时46分]"
         },
         {
+          "title": "瑞安航空首席执行官：欢迎马斯克投资瑞安航空，但非欧洲人不得持有欧盟航空公司多数股权。",
+          "url": "https://flash.jin10.com/detail/20260121180831045800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "欧盟委员会科技事务主管Virkkunen：正在分析社交媒体平台“X”的Grok政策变更是否仍然违反欧盟《数字服务法》（DSA）。",
           "url": "https://flash.jin10.com/detail/20260121002006764800",
           "source": "金十数据",
@@ -1756,6 +1971,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "马斯克：人工智能是一场超音速海啸。",
+          "url": "https://flash.jin10.com/detail/20260121175218510800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
@@ -1863,11 +2089,12 @@
           "ranks": [
             3,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 16时35分]"
+          "appearance_count": 6,
+          "time_info": "[11时46分 ~ 18时32分]"
         }
       ]
     },
