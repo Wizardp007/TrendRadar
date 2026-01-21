@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T20:54:44.181147+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2026-01-21T22:33:57.501868+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 112,
+      "match_count": 163,
       "titles": [
         {
           "title": "“格陵兰2026年成为美国领土”！特朗普“深夜”P图：加拿大、委内瑞拉都被划入美国版图",
@@ -33,6 +33,19 @@
           "time_info": "[00时39分 ~ 14时39分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 22时33分]"
+        },
+        {
           "title": "特朗普和马克龙，直接开干了",
           "url": "https://news.ifeng.com/c/8q5SVoWM0NJ",
           "source": "凤凰网",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时55分 ~ 16时35分]"
-        },
-        {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时46分 ~ 20时54分]"
         },
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -145,6 +146,18 @@
           "time_info": "[09时55分 ~ 12时47分]"
         },
         {
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 22时33分]"
+        },
+        {
           "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
           "url": "https://www.cls.cn/detail/2264936",
           "source": "财联社热门",
@@ -169,16 +182,15 @@
           "time_info": "[09时55分 ~ 12时47分]"
         },
         {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
           "source": "凤凰网",
           "ranks": [
-            4,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 22时33分]"
         },
         {
           "title": "美国总统特朗普：我们已经安排了很多关于格陵兰岛的会议。",
@@ -192,6 +204,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美国总统特朗普：上周我们从委内瑞拉获取了5000万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260121220752711800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：美国“可能会”“强行收回”巴拿马运河。",
           "url": "https://wallstreetcn.com/livenews/3040664",
           "source": "华尔街见闻-快讯",
@@ -201,17 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 20时54分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -263,6 +275,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "在美国总统特朗普演讲之后，美国国债收益率走低，10年期收益率最新微跌至4.293%。",
+          "url": "https://flash.jin10.com/detail/20260121220737849800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：（美国吞并）格陵兰的结果将让北约非常高兴。",
           "url": "https://wallstreetcn.com/livenews/3040663",
           "source": "华尔街见闻-快讯",
@@ -296,6 +319,28 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美国总统特朗普在达沃斯发表讲话后，美国股指期货跌幅收窄。",
+          "url": "https://flash.jin10.com/detail/20260121220648378800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美国总统特朗普攻击企业购买住房的做法。",
+          "url": "https://wallstreetcn.com/livenews/3041349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "特朗普晒马克龙私信",
           "url": "https://www.douyin.com/hot/2374658",
           "source": "抖音",
@@ -317,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美国总统特朗普：部分人很快将因2020年大选而被起诉。",
+          "url": "https://flash.jin10.com/detail/20260121220640142800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉石油将有助于降低美国油价。",
@@ -347,9 +403,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "美国总统特朗普：药品价格将大幅下降90%。",
+          "url": "https://wallstreetcn.com/livenews/3041348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
@@ -384,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "在美国总统特朗普讲话之际，欧洲斯托克600指数跌幅收窄至0.4%。",
+          "url": "https://flash.jin10.com/detail/20260121220625736800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：还没有与法国总统马克龙和英国首相斯塔默对话，但我们相处得很好。 我对挪威的尊重已经大打折扣。 我坚信，挪威控制着诺贝尔奖。 不会参加七国集团（G7）紧急会议。 新闻发布会后与土耳其总统埃尔多安通话。",
@@ -441,6 +519,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "美国总统特朗普：北约对美国极为不公。",
+          "url": "https://flash.jin10.com/detail/20260121220547170800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普谈“和平委员会”是否会取代联合国，声称：有可能。 我认为，你必须让联合国继续。",
           "url": "https://wallstreetcn.com/livenews/3040659",
           "source": "华尔街见闻-快讯",
@@ -458,9 +547,33 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "美国总统特朗普嘲笑法国总统马克龙佩戴太阳镜。",
+          "url": "https://wallstreetcn.com/livenews/3041346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 22时33分]"
         },
         {
           "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
@@ -483,7 +596,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -510,15 +623,37 @@
           "time_info": "16时35分"
         },
         {
+          "title": "美国总统特朗普：正寻求立即就收购格陵兰岛进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260121220538705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "摩根大通CEO戴蒙：我基本上不赞成关税。 特朗普的信用卡利率上限将是一场“经济灾难”。 信用卡利率上限对经济造成的痛苦最大，而非银行。 美国经济“状况良好”。",
           "url": "https://wallstreetcn.com/livenews/3041288",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "特朗普：美国受到北约不公平对待",
+          "url": "https://wallstreetcn.com/livenews/3041345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "雪佛龙在纠结：如何能迎合特朗普，又避免在委内瑞拉亏钱",
@@ -541,6 +676,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国总统特朗普：只有美国才能保护，开发并改善格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260121220457732800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美国总统特朗普：如果你们（格陵兰/丹麦）拒绝，我们会记住的。",
+          "url": "https://wallstreetcn.com/livenews/3041343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "这是在打货币战争？特朗普打击美元，高市早苗削弱日元",
@@ -587,15 +744,48 @@
           "time_info": "11时46分"
         },
         {
+          "title": "特朗普达沃斯讲话：赞赏自己的经济政策 抨击欧洲往不正确的方向发展",
+          "url": "https://flash.jin10.com/detail/20260121220449666800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "挪威财相斯托尔滕贝格：格陵兰危机是“严重的”。 将诺贝尔奖与政府挂钩是不公平的。 特朗普的目的是在格陵兰立场方面向我施压。 乌克兰不能被遗忘，这是极其重要的。 不认为俄罗斯经济会崩溃。 北极的战略重要性日益增强。 现在没有理由撤回对美国的投资。 NBIM在美国的存在就反映了美国市场的规模。",
           "url": "https://wallstreetcn.com/livenews/3041286",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "特朗普：不会武力夺取格陵兰岛，正寻求立即就收购格陵兰岛事宜展开谈判",
+          "url": "https://wallstreetcn.com/livenews/3041342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "欧盟首次回应特朗普关税威胁：欧洲议会冻结美欧贸易协议批准程序",
+          "url": "https://wallstreetcn.com/articles/3763744",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：（被问及是否希望和平委员会取代联合国时表示）我认为你得让联合国继续存在。",
@@ -607,6 +797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美国总统特朗普：美国本应在二战后保留格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260121220420475800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "特朗普：不排除以武力夺取格陵兰岛可能性",
@@ -642,6 +843,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "特朗普：格陵兰岛是美国的“核心国家安全利益”",
+          "url": "https://wallstreetcn.com/livenews/3041341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "特朗普公开马克龙给他的私信",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%99%E4%BB%96%E7%9A%84%E7%A7%81%E4%BF%A1%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -652,19 +864,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时39分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 20时54分]"
         },
         {
           "title": "特朗普发插旗图有何目的",
@@ -743,7 +942,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -776,9 +975,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "美国总统特朗普：出台新版防务制度之后，美国将按照超前的速度生产武器。 不会再允许国防公司回购股票。",
+          "url": "https://wallstreetcn.com/livenews/3041340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "摩根大通：市场抛售是对特朗普的警告",
@@ -809,9 +1019,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛是北美的一部分，这是我们的领土。",
+          "url": "https://flash.jin10.com/detail/20260121220346492800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
@@ -831,9 +1052,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "美国总统特朗普：股市昨天下跌是因为冰岛的缘故。",
+          "url": "https://wallstreetcn.com/livenews/3041339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普再提收购格陵兰岛 奈飞绩后大跌超7% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2265606",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "埃及外交部：埃及接受美国总统特朗普的邀请，加入“和平委员会”。",
@@ -847,6 +1090,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国总统特朗普：美国在战略国家安全方面需要丹麦。",
+          "url": "https://flash.jin10.com/detail/20260121220330428800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：美国下一年不会有贸易赤字/贸易逆差。",
           "url": "https://wallstreetcn.com/livenews/3040652",
           "source": "华尔街见闻-快讯",
@@ -856,6 +1110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美国总统特朗普：今天会见乌克兰总统泽连斯基。",
+          "url": "https://wallstreetcn.com/livenews/3041338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "特朗普：ICE执法人员“有时会犯错” 但总体仍有必要坚持执法",
@@ -869,6 +1134,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛位于关键战略位置，却毫无防备。",
+          "url": "https://flash.jin10.com/detail/20260121220302476800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "周二（1月20日），降息赢家指数跌2.89%，报104.40点。 “特朗普关税输家”指数跌3.08%，报114.88点，跳空低开之后平滑地持续走低。 “特朗普金融指数”跌2.89%，报171.02点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.69%，报15.55点。",
           "url": "https://wallstreetcn.com/livenews/3040687",
           "source": "华尔街见闻-快讯",
@@ -878,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "现货黄金十五分钟内走低约40美元，现报4842.42美元/盎司。此前特朗普称，不会武力夺取格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3041337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "特朗普警告称退还关税可能会很困难",
@@ -902,6 +1189,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "美国总统特朗普：丹麦对格陵兰岛一事忘恩负义。",
+          "url": "https://flash.jin10.com/detail/20260121220253826800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：我对北约的贡献比任何人都多。",
           "url": "https://flash.jin10.com/detail/20260121035224040800",
           "source": "金十数据",
@@ -911,6 +1209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美国总统特朗普：现在他们（格陵兰岛）竟然不知感恩。",
+          "url": "https://flash.jin10.com/detail/20260121220229186800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
@@ -946,6 +1255,28 @@
           "time_info": "12时47分"
         },
         {
+          "title": "美国总统特朗普：加拿大因为美国而存在，（总理）卡尼你记住这点。",
+          "url": "https://wallstreetcn.com/livenews/3041335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普称无意用武力获取格陵兰岛",
+          "url": "https://www.douyin.com/hot/2375599",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "诺贝尔奖章送出效果？特朗普：考虑让马查多以“某种方式”参与委内瑞拉事务",
           "url": "https://flash.jin10.com/detail/20260121035221029800",
           "source": "金十数据",
@@ -966,6 +1297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "美国总统特朗普：很难把格陵兰岛称为陆地，它只是“一块冰”。",
+          "url": "https://flash.jin10.com/detail/20260121220155585800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：格陵兰将大大提高“金穹”系统的效能。 在达沃斯期间可能会与欧洲达成某种解决方案。",
@@ -1001,6 +1343,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "美国总统特朗普：二战结束后我们把格陵兰岛还了回去，我们当时是多么愚蠢。",
+          "url": "https://flash.jin10.com/detail/20260121220149925800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：我目前非常喜欢委内瑞拉，他们一直都和我们配合得很好。 多家石油公司准备“大规模投资”委内瑞拉。",
           "url": "https://wallstreetcn.com/livenews/3040645",
           "source": "华尔街见闻-快讯",
@@ -1034,6 +1387,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美国总统特朗普：美国为丹麦在格陵兰岛建立了基地，我们曾为丹麦而战。",
+          "url": "https://flash.jin10.com/detail/20260121220113095800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：我们认为我们知道加沙最后一具人质尸体在哪里。",
           "url": "https://flash.jin10.com/detail/20260121035003544800",
           "source": "金十数据",
@@ -1045,6 +1409,28 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉证明了美国实力有多么强大。",
+          "url": "https://flash.jin10.com/detail/20260121220017590800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普称上周从委内瑞拉获取5000万桶原油",
+          "url": "https://wallstreetcn.com/livenews/3041331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：挪威掌控着诺贝尔奖的评选，这简直是个笑话。",
           "url": "https://flash.jin10.com/detail/20260121034918624800",
           "source": "金十数据",
@@ -1054,6 +1440,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美国总统特朗普：没有哪个国家能像我们一样确保格陵兰岛的安全。",
+          "url": "https://flash.jin10.com/detail/20260121220005265800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美国总统特朗普：北约对美国非常不公平。 我们从来没有（向北约）伸手索要任何东西，我们从来没有（从北约）得到过任何东西。 如果美国遭到打击，不确定北约是否会提供帮助。 北约向帮助乌克兰，美国也将那样做。",
+          "url": "https://wallstreetcn.com/livenews/3041330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "巴林外交部：巴林接受邀请，加入美国总统特朗普的和平委员会。",
@@ -1084,9 +1492,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "美国总统特朗普：我对格陵兰岛和丹麦人民充满敬意。",
+          "url": "https://flash.jin10.com/detail/20260121215952849800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "纽森怒批特朗普：他就是个破坏王",
@@ -1133,6 +1552,28 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛局势让这一问题更加清晰。",
+          "url": "https://flash.jin10.com/detail/20260121215933709800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "（丹麦）维斯塔斯风力技术集团跌幅扩大至约3%，美国总统特朗普正谈及美国对风电的需求。",
+          "url": "https://wallstreetcn.com/livenews/3041328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "特朗普：将很快开始打击陆路毒品走私",
           "url": "https://flash.jin10.com/detail/20260121034546306800",
           "source": "金十数据",
@@ -1142,6 +1583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美国总统特朗普：我们想要的是强大的盟友，而不是被严重削弱的盟友。",
+          "url": "https://flash.jin10.com/detail/20260121215929223800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "欧盟首次回应特朗普：欧洲议会冻结美欧贸易协议批准程序",
@@ -1161,7 +1613,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1188,6 +1640,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美国总统特朗普：经济增长、贸易和移民是强大而团结的西方的核心关切。",
+          "url": "https://flash.jin10.com/detail/20260121215923616800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "加拿大总理卡尼：我们支持格陵兰，呼吁（丹麦+格陵兰的）盟友们（针对特朗普的吞并野心）团结一致。 （特朗普主张的所谓）“和平委员会”应当用于解决加沙（实现和平的）需求。",
           "url": "https://wallstreetcn.com/livenews/3040571",
           "source": "华尔街见闻-快讯",
@@ -1208,6 +1671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普攻击丹麦“忘恩负义”，称格陵兰是美国的领土、美方寻求立即谈判获得它",
+          "url": "https://wallstreetcn.com/livenews/3041326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉领导人相处融洽。",
@@ -1232,6 +1706,50 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美国总统特朗普：我们深信我们与欧洲作为文明共同体所共享的纽带。",
+          "url": "https://flash.jin10.com/detail/20260121215856800800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普：德国总理默茨工作做得非常出色。 德国能源问题并非现任总理的过错。 我希望欧洲和英国“表现出色”。 默茨正在德国处理电力故障问题。 美国关心欧洲人民，我本人也源自欧洲。 能源、贸易、移民、经济增长是美国西部发展的关键因素。 我们想要的是实力强大的盟友，而不是实力严重削弱的盟友。 格陵兰岛的情况让这个问题更加清晰明了。 除了美国之外，没有哪个国家有能力掌控格陵兰岛。",
+          "url": "https://wallstreetcn.com/livenews/3041323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美国总统特朗普：美国关心欧洲人民，我源自欧洲。",
+          "url": "https://flash.jin10.com/detail/20260121215847932800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普再次抨击风力发电厂。 特朗普批评欧洲能源成本，并将矛头指向风力发电。",
+          "url": "https://wallstreetcn.com/livenews/3041322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：通过征收关税，我将贸易逆差削减了惊人的77%……我们与占美国贸易总额40%的国家达成了历史性的贸易协议，降低了美国出口壁垒。",
           "url": "https://flash.jin10.com/detail/20260121032620646800",
           "source": "金十数据",
@@ -1254,6 +1772,28 @@
           "time_info": "14时39分"
         },
         {
+          "title": "美国总统特朗普：德国总理默茨正在解决德国的电力问题。",
+          "url": "https://flash.jin10.com/detail/20260121215654203800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普：美国正在“大力发展”核能。 现在能够以合理的价格获得核能，并且使用起来也很安全。 汽油价格很快就会低于每加仑2美元。",
+          "url": "https://wallstreetcn.com/livenews/3041321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "特朗普好友是吞并格陵兰岛核心推动者",
           "url": "https://www.toutiao.com/trending/7597618682956615218/",
           "source": "今日头条",
@@ -1274,12 +1814,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美国总统特朗普：英国在北海拥有资源，但却没有加以利用，那里的能源供应水平已经达到了灾难性的程度。英国国电价飙升了139%。",
+          "url": "https://flash.jin10.com/detail/20260121215650847800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普称所有大型石油公司都将进入委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3041320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -1289,11 +1851,12 @@
             5,
             10,
             9,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时47分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时47分 ~ 22时33分]"
         },
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -1314,7 +1877,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1328,6 +1891,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 22时33分]"
         },
         {
           "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
@@ -1364,17 +1940,6 @@
           "time_info": "[02时39分 ~ 04时44分]"
         },
         {
-          "title": "咻咻满COS翻唱icantwait",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3040928",
           "source": "华尔街见闻-快讯",
@@ -1398,16 +1963,16 @@
           "time_info": "[12时47分 ~ 18时32分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            9
+            10,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时32分 ~ 20时54分]"
+          "time_info": "[20时54分 ~ 22时33分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -1475,6 +2040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "OpenAI公布数据中心能源成本控制计划",
@@ -1546,7 +2122,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -1556,8 +2132,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时55分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[09时55分 ~ 22时33分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -1624,11 +2200,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 22时33分]"
         },
         {
           "title": "美股存储概念股齐刷新高！闪迪暴涨10% 投行大幅上调目标价",
@@ -1661,7 +2238,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1727,9 +2304,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "纳斯达克100股指期货涨0.3%，标普股指期货涨0.4%，在美股盘前刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3041336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "拼多多美股夜盘涨超5%。",
@@ -1741,6 +2329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3041329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
@@ -1782,7 +2381,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1796,6 +2395,139 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "御诺乳业使用2.9亿扶贫基金到期未还，担保国企一同被诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32423066",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 14时39分]"
+        },
+        {
+          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
+          "url": "https://wallstreetcn.com/articles/3763734",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 20时54分]"
+        },
+        {
+          "title": "白银基金明日全天停牌",
+          "url": "https://www.douyin.com/hot/2375456",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
+          "url": "https://wallstreetcn.com/articles/3763691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 16时35分]"
+        },
+        {
+          "title": "哥伦比亚拟将养老基金海外持股比例上限设定为30%",
+          "url": "https://flash.jin10.com/detail/20260121110507578800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "文件显示，沙特公共投资基金美元基准10年期伊斯兰债券的初步价格指引约为较美国国债高出120个基点。",
+          "url": "https://flash.jin10.com/detail/20260121140028630800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "美国银行调查显示基金经理对股市极度看多，但对回调准备不足",
+          "url": "https://wallstreetcn.com/livenews/3040578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "交银投资等在成都成立股权投资基金，出资额10亿",
+          "url": "https://wallstreetcn.com/livenews/3041163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "瑞典养老基金Alecta已抛售其持有的绝大部分美国国债。（瑞典每日工业报）",
+          "url": "https://wallstreetcn.com/livenews/3041267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "挪威财政大臣：挪威主权财富基金在美国的存在，反映了美国市场的规模。",
+          "url": "https://flash.jin10.com/detail/20260121201330841800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（1月20日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3041324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
@@ -1920,117 +2652,6 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "御诺乳业使用2.9亿扶贫基金到期未还，担保国企一同被诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32423066",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 14时39分]"
-        },
-        {
-          "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
-          "url": "https://wallstreetcn.com/articles/3763734",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时25分 ~ 20时54分]"
-        },
-        {
-          "title": "极致贪婪时刻！美银基金经理调查：全球经济“不着陆”首次成共识，股票对冲比例降至八年最低",
-          "url": "https://wallstreetcn.com/articles/3763691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 16时35分]"
-        },
-        {
-          "title": "哥伦比亚拟将养老基金海外持股比例上限设定为30%",
-          "url": "https://flash.jin10.com/detail/20260121110507578800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "文件显示，沙特公共投资基金美元基准10年期伊斯兰债券的初步价格指引约为较美国国债高出120个基点。",
-          "url": "https://flash.jin10.com/detail/20260121140028630800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "美国银行调查显示基金经理对股市极度看多，但对回调准备不足",
-          "url": "https://wallstreetcn.com/livenews/3040578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "交银投资等在成都成立股权投资基金，出资额10亿",
-          "url": "https://wallstreetcn.com/livenews/3041163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时32分"
-        },
-        {
-          "title": "瑞典养老基金Alecta已抛售其持有的绝大部分美国国债。（瑞典每日工业报）",
-          "url": "https://wallstreetcn.com/livenews/3041267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "挪威财政大臣：挪威主权财富基金在美国的存在，反映了美国市场的规模。",
-          "url": "https://flash.jin10.com/detail/20260121201330841800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -2054,8 +2675,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 22时33分]"
         },
         {
           "title": "金价",
@@ -2193,6 +2814,37 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996233131175462349",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 06时25分]"
+        },
+        {
+          "title": "美股核电股盘前拉升，Oklo涨超8%，NANO Nuclear Energy涨超5%，NuScale Power涨超6%，此前特朗普称美国正在“大力发展”核能。",
+          "url": "https://wallstreetcn.com/livenews/3041334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai gpt codex",
       "match_count": 2,
       "titles": [
@@ -2249,26 +2901,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini nano",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/1996233131175462349",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "智谱AI GLM",
       "match_count": 1,
       "titles": [
@@ -2297,11 +2929,12 @@
             3,
             6,
             9,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[11时46分 ~ 22时33分]"
         }
       ]
     },
