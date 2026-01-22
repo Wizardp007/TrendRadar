@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T02:36:37.539322+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-01-23T04:31:15.964448+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -80,11 +80,45 @@
           "source": "抖音",
           "ranks": [
             8,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
+          "url": "https://news.ifeng.com/c/8q88cGpXCla",
+          "source": "凤凰网",
+          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "美国总统特朗普：美国将申办2035年世界博览会。",
+          "url": "https://wallstreetcn.com/livenews/3042278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普称将申办2035年世博会 身兼数职的鲁比奥再迎新头衔",
+          "url": "https://flash.jin10.com/detail/20260123040133988800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -98,17 +132,6 @@
           "time_info": "00时38分"
         },
         {
-          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
-          "url": "https://news.ifeng.com/c/8q88cGpXCla",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
-        },
-        {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
           "url": "https://wallstreetcn.com/articles/3763857",
           "source": "华尔街见闻",
@@ -120,15 +143,37 @@
           "time_info": "00时38分"
         },
         {
+          "title": "美国总统特朗普：美国将申办2035年世界博览会。",
+          "url": "https://flash.jin10.com/detail/20260123034227435800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "摩根大通声明：美国总统特朗普的指控“毫无根据”。",
           "url": "https://wallstreetcn.com/livenews/3042242",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "据国际文传电讯社：美国特朗普女婿库什纳、美国总统特使威特科夫抵达莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260123033743999800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -139,20 +184,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
-        },
-        {
-          "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32439660",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -160,11 +193,47 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            20
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32439660",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "time_info": "[02时36分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普撤回关税威胁后，欧洲议会拟重启美欧贸易协议表决",
+          "url": "https://wallstreetcn.com/livenews/3042266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "格陵兰岛总理：相信特朗普不会动用武力；可以谈谈如何在矿产资源方面加强伙伴关系。",
@@ -189,15 +258,26 @@
           "time_info": "00时38分"
         },
         {
-          "title": "释新闻｜特朗普“和平委员会”即将举行签约仪式，哪些国家已经拒绝？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440234",
-          "source": "澎湃新闻",
+          "title": "特朗普声称：格陵兰的“架构”正在打造中",
+          "url": "https://wallstreetcn.com/livenews/3042263",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "04时31分"
+        },
+        {
+          "title": "摩根大通：我们尊重美国总统特朗普起诉我们的权利。 然而，公司并没有因各种政治理由而关闭某些账户。",
+          "url": "https://wallstreetcn.com/livenews/3042262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "罗马尼亚总统丹：仍在分析罗马尼亚是否能够加入美国总统特朗普的和平委员会。",
@@ -206,7 +286,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -217,7 +297,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -228,7 +308,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -239,7 +319,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -250,7 +330,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -261,7 +341,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -277,13 +357,24 @@
           "time_info": "00时38分"
         },
         {
+          "title": "特朗普：启程返回华盛顿 达沃斯之行非常精彩",
+          "url": "https://flash.jin10.com/detail/20260123025152840800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "摩根大通声明：尽管我们对美国总统特朗普的起诉感到遗憾，但我们认为这起诉讼毫无依据。",
           "url": "https://flash.jin10.com/detail/20260123014546756800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -294,7 +385,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -310,13 +401,24 @@
           "time_info": "00时38分"
         },
         {
+          "title": "特朗普：正返回华盛顿特区，达沃斯之行令人难以置信。",
+          "url": "https://flash.jin10.com/detail/20260123024812573800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "摩根大通股价回吐部分涨幅，现涨1.3%，此前外媒报道特朗普将起诉摩根大通及CEO戴蒙。",
           "url": "https://flash.jin10.com/detail/20260123013230065800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         },
@@ -327,98 +429,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
-          "url": "https://wallstreetcn.com/livenews/3042252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "马斯克：特斯拉开始在美国得州尝试不配置安全监督员的RoboTaxi驾驶服务。",
-          "url": "https://wallstreetcn.com/livenews/3042250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：特斯拉Robotaxi在奥斯汀启动无人驾驶测试，车内无安全员。",
-          "url": "https://flash.jin10.com/detail/20260123020209881800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
-        },
-        {
-          "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
-          "url": "https://www.cls.cn/detail/2266699",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
-        },
-        {
-          "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已经选定四家银行为其IPO做准备。 美国银行、高盛、摩根大通、摩根士丹利将在其IPO中发挥高级作用。 最近数周，SpaceX的高管们已经与银行家门开会。 其他银行可能也会参与其IPO。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3042189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "马斯克：特斯拉将在今年底、或明年向公众销售人形机器人",
-          "url": "https://wallstreetcn.com/livenews/3042187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "据英国金融时报：埃隆·马斯克的太空探索技术公司为上市选定4家银行。",
-          "url": "https://flash.jin10.com/detail/20260123000320208800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "02时36分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -428,8 +447,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -440,8 +459,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "美国雷多斯与OpenAI合作，在人工智能领域开展部署，以支持国家优先事项。",
+          "url": "https://flash.jin10.com/detail/20260123040242165800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
+          "url": "https://wallstreetcn.com/livenews/3042270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
+          "url": "https://wallstreetcn.com/livenews/3042264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -466,6 +518,28 @@
           "time_info": "00时38分"
         },
         {
+          "title": "OpenAI的CEO Altman：12月份，从API业务获得大约10亿美元ARR（年度可重复性收入/年度经常性收入）。",
+          "url": "https://wallstreetcn.com/livenews/3042253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "OpenAI拟从客户AI辅助研发成果中分成",
+          "url": "https://flash.jin10.com/detail/20260123024532109800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "谷歌：即日起，谷歌AI Pro和AI Ultra订阅用户可选择安全地将Gmail和谷歌相册连接到AI模式。",
           "url": "https://flash.jin10.com/detail/20260123000407972800",
           "source": "金十数据",
@@ -479,8 +553,115 @@
       ]
     },
     {
+      "keyword_group": "grok 马斯克",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
+          "url": "https://wallstreetcn.com/livenews/3042252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：特斯拉Robotaxi在奥斯汀启动无人驾驶测试，车内无安全员。",
+          "url": "https://flash.jin10.com/detail/20260123020209881800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时36分"
+        },
+        {
+          "title": "马斯克：特斯拉开始在美国得州尝试不配置安全监督员的RoboTaxi驾驶服务。",
+          "url": "https://wallstreetcn.com/livenews/3042250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时31分]"
+        },
+        {
+          "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
+          "url": "https://www.cls.cn/detail/2266699",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
+        },
+        {
+          "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已经选定四家银行为其IPO做准备。 美国银行、高盛、摩根大通、摩根士丹利将在其IPO中发挥高级作用。 最近数周，SpaceX的高管们已经与银行家门开会。 其他银行可能也会参与其IPO。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3042189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "马斯克：特斯拉将在今年底、或明年向公众销售人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3042187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。 优步（Uber）、Lyft股价刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3042252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "据英国金融时报：埃隆·马斯克的太空探索技术公司为上市选定4家银行。",
+          "url": "https://flash.jin10.com/detail/20260123000320208800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "马斯克声称人工智能到2030-2031年将超越人类",
+          "url": "https://flash.jin10.com/detail/20260123023731211800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -490,8 +671,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -502,8 +683,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -514,8 +695,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 02时36分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -524,9 +705,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 04时31分]"
         },
         {
           "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
@@ -538,23 +719,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260123024054852800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年01月22日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260123024048159800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "小米用户称天冷前轮转向会发出「咯噔」声，官方称是正常现象，车企口中的「阿克曼角」现象到底是怎么回事？",
           "url": "https://www.zhihu.com/question/1997364733414696491",
           "source": "知乎",
           "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
+        },
+        {
+          "title": "苹果扩大硬件主管职权，释放CEO候选人信号",
+          "url": "https://wallstreetcn.com/livenews/3042267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "04时31分"
         },
         {
           "title": "苹果官网降价",
@@ -564,8 +779,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 04时31分]"
         }
       ]
     },
@@ -591,9 +806,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
+          "url": "https://wallstreetcn.com/livenews/3042255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -606,11 +838,29 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OPU开发商Neurophos融资1.1亿美元，盖茨的基金领投",
+          "url": "https://wallstreetcn.com/livenews/3042258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时36分"
+          "time_info": "04时31分"
         }
       ]
     }
