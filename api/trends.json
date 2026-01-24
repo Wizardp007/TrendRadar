@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T02:33:04.340440+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-01-25T04:25:06.074088+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美国财政部：特朗普将出席特朗普账户峰会",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "丹麦首相表示无法接受特朗普对盟国的质疑",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美国总统特朗普：美国已从被扣押的委内瑞拉油轮上获取了石油。委内瑞拉石油将运往休斯顿炼油厂。",
@@ -59,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "特朗普告诉《纽约邮报》，委内瑞拉石油将运往休斯敦炼油厂。",
@@ -70,8 +70,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "特朗普承认使用“秘密”武器",
@@ -81,8 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格兹表现极为出色。他与罗德里格兹关系非常好。”Discombobulator”（心智困惑器）武器在马杜罗抓捕行动中被使用。（纽约邮报）",
@@ -92,8 +92,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉临时领导人罗德里格斯表现非常出色。",
@@ -103,8 +103,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "大外交｜格陵兰岛、和平委员会与摇摆盟友：特朗普的达沃斯“个人秀”",
@@ -142,8 +142,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "苹果一个月内多次促销 iPhone Air大降2500元",
@@ -153,8 +153,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -162,11 +162,24 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            25
+            25,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.toutiao.com/trending/7598387695761588278/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 04时25分]"
         },
         {
           "title": "小米二手车价格崩盘了吗",
@@ -179,17 +192,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时33分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.toutiao.com/trending/7598387695761588278/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
         }
       ]
     },
@@ -206,8 +208,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -217,8 +219,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
+        },
+        {
+          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3043305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -230,17 +243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 02时33分]"
-        },
-        {
-          "title": "据知情人士透露，Databricks已经发行18亿美元新债务，现在拥有接触超过70亿美元债务融资的机会。 在12月份宣布的那一轮融资中，投资者们对这家数据分析软件开发商的估值为1340亿美元。 和Anthropic、Canva、OpenAI、Stripe一样，该公司也有望在2026年IPO。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3043305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
         }
       ]
     },
@@ -256,8 +258,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "乌克兰官员透露，美国、俄罗斯和乌克兰在阿布扎比举行的三方会谈“积极且富有建设性”。下周将在阿布扎比举行另一轮会谈。（Axios）",
@@ -267,8 +269,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "据AXIOS：乌克兰官员透露，下周将在阿布扎比举行另一轮会谈。",
@@ -278,8 +280,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         }
       ]
     },
@@ -295,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -306,8 +308,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -317,8 +319,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 04时25分]"
         }
       ]
     },
@@ -335,8 +337,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "金价疯涨的底层逻辑",
@@ -381,8 +383,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时25分]"
         }
       ]
     }
