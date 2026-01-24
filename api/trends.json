@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-24T18:24:34.048028+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-01-24T20:44:36.873831+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
+          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 20时44分]"
+        },
         {
           "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
           "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
@@ -17,6 +28,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 09时49分]"
+        },
+        {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 20时44分]"
         },
         {
           "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
@@ -88,17 +112,6 @@
           "time_info": "[11时29分 ~ 16时31分]"
         },
         {
-          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
-          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 18时24分]"
-        },
-        {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
           "url": "https://news.ifeng.com/c/8q9ns1tf1Fj",
           "source": "凤凰网",
@@ -122,17 +135,16 @@
           "time_info": "[09时49分 ~ 18时24分]"
         },
         {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            3
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时37分 ~ 18时24分]"
+          "time_info": "[14时35分 ~ 20时44分]"
         },
         {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
@@ -156,18 +168,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时37分 ~ 14时35分]"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 18时24分]"
         },
         {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
@@ -196,17 +196,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 09时49分]"
-        },
-        {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
@@ -245,17 +234,6 @@
           "time_info": "[11时28分 ~ 11时29分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
-          "url": "https://flash.jin10.com/detail/20260124175804687800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "特朗普政府正在考虑全面封锁古巴石油进口",
           "url": "https://wallstreetcn.com/livenews/3043145",
           "source": "华尔街见闻-快讯",
@@ -267,6 +245,18 @@
           "time_info": "06时20分"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 20时44分]"
+        },
+        {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
           "url": "https://wallstreetcn.com/livenews/3043143",
           "source": "华尔街见闻-快讯",
@@ -276,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
+          "url": "https://flash.jin10.com/detail/20260124191803265800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
@@ -311,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时49分 ~ 11时29分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
+          "url": "https://flash.jin10.com/detail/20260124175804687800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时44分]"
         },
         {
           "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
@@ -398,6 +411,18 @@
           "time_info": "[12时37分 ~ 14时35分]"
         },
         {
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时44分]"
+        },
+        {
           "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
           "url": "https://flash.jin10.com/detail/20260124031642233800",
           "source": "金十数据",
@@ -426,18 +451,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -492,7 +506,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -514,7 +528,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -533,8 +547,20 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
+          "url": "https://www.cls.cn/detail/2268544",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 20时44分]"
+        },
         {
           "title": "AI发展会降低创作者存在意义吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%91%E5%B1%95%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%88%9B%E4%BD%9C%E8%80%85%E5%AD%98%E5%9C%A8%E6%84%8F%E4%B9%89%E5%90%97",
@@ -550,18 +576,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 12时37分]"
-        },
-        {
-          "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
-          "url": "https://www.cls.cn/detail/2268544",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 18时24分]"
         },
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -588,17 +602,6 @@
           "time_info": "[00时33分 ~ 06时20分]"
         },
         {
-          "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
-          "url": "https://flash.jin10.com/detail/20260124180858943800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
           "url": "https://flash.jin10.com/detail/20260124113127622800",
           "source": "金十数据",
@@ -609,6 +612,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 14时35分]"
+        },
+        {
+          "title": "新加坡斥资10亿新元强化AI研究 力推主权AI战略",
+          "url": "https://flash.jin10.com/detail/20260124201216318800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -622,15 +636,53 @@
           "time_info": "00时33分"
         },
         {
-          "title": "嘉实基金方晗：2026年权益市场理性偏乐观，聚焦AI应用与内需板块",
-          "url": "https://wallstreetcn.com/livenews/3043261",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 20时44分]"
+        },
+        {
+          "title": "IMF总裁警示AI裁员潮 入门级岗位首当其冲",
+          "url": "https://flash.jin10.com/detail/20260124180858943800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时44分]"
+        },
+        {
+          "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
+          "url": "https://wallstreetcn.com/articles/3764072",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "20时44分"
+        },
+        {
+          "title": "嘉实基金方晗：2026年权益市场理性偏乐观，聚焦AI应用与内需板块",
+          "url": "https://wallstreetcn.com/livenews/3043261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时44分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -645,17 +697,16 @@
           "time_info": "[11时29分 ~ 12时37分]"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            14,
-            12
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时35分 ~ 18时24分]"
+          "time_info": "[16时31分 ~ 20时44分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
@@ -667,18 +718,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时37分 ~ 14时35分]"
-        },
-        {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 18时24分]"
         },
         {
           "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
@@ -768,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "EXO退场像AI一样诡异的消失了",
+          "url": "https://s.weibo.com/weibo?q=%23EXO%E9%80%80%E5%9C%BA%E5%83%8FAI%E4%B8%80%E6%A0%B7%E8%AF%A1%E5%BC%82%E7%9A%84%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
@@ -783,8 +833,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 20时44分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -792,11 +842,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 20时44分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -901,7 +952,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -926,17 +977,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 06时20分]"
-        },
-        {
-          "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
-          "url": "https://wallstreetcn.com/livenews/3043263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "苹果用户的天塌了",
@@ -964,6 +1004,31 @@
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 20时44分]"
+        },
+        {
+          "title": "最高优惠2500元！上市仅三个月iPhone Air开启苹果史上最大促销",
+          "url": "https://wallstreetcn.com/livenews/3043263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时44分]"
+        },
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://s.weibo.com/weibo?q=iPhone%20Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
@@ -975,16 +1040,26 @@
           "time_info": "[16时30分 ~ 18时24分]"
         },
         {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
-          "source": "百度热搜",
+          "title": "做小米主题设计三个月了，颗粒无收快要坚持不下去了，想请大佬分析下？",
+          "url": "https://www.zhihu.com/question/1997956102248218670",
+          "source": "知乎",
           "ranks": [
-            28,
-            13
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "iPhone17官方电池充电建议",
+          "url": "https://s.weibo.com/weibo?q=iPhone17%E5%AE%98%E6%96%B9%E7%94%B5%E6%B1%A0%E5%85%85%E7%94%B5%E5%BB%BA%E8%AE%AE&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
@@ -1069,6 +1144,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "UP主解读马斯克末日预言",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时34分 ~ 20时44分]"
+        },
+        {
           "title": "机器人、火箭、Robotaxi、光伏....马斯克在达沃斯“又画了很多饼”",
           "url": "https://wallstreetcn.com/articles/3763964",
           "source": "华尔街见闻",
@@ -1093,19 +1181,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时49分 ~ 16时31分]"
-        },
-        {
-          "title": "UP主解读马斯克末日预言",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%AB%E6%97%A5%E9%A2%84%E8%A8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时34分 ~ 18时24分]"
         },
         {
           "title": "医生反驳马斯克：医生永远无法被取代",
@@ -1187,6 +1262,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
+          "url": "https://www.zhihu.com/question/1997605038588129408",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 20时44分]"
+        },
+        {
           "title": "金价暴涨胖东来金店挤爆了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%83%96%E4%B8%9C%E6%9D%A5%E9%87%91%E5%BA%97%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1197,17 +1284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 06时20分]"
-        },
-        {
-          "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
-          "url": "https://www.zhihu.com/question/1997605038588129408",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         }
       ]
     },
