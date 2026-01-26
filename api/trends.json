@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T16:36:34.030664+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-01-26T18:31:31.619952+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 18时31分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
@@ -67,6 +67,19 @@
           "time_info": "[00时29分 ~ 06时22分]"
         },
         {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普威胁“100%关税”，加拿大总理卡尼号召民众“购买国货”",
           "url": "https://wallstreetcn.com/articles/3764088",
           "source": "华尔街见闻",
@@ -89,19 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时36分]"
         },
         {
           "title": "美国财长贝森特：特朗普很看重北约。",
@@ -151,6 +151,17 @@
           "time_info": "[00时29分 ~ 06时22分]"
         },
         {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "特朗普达沃斯演讲有何深意",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%BC%94%E8%AE%B2%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
           "source": "bilibili 热搜",
@@ -184,6 +195,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 18时31分]"
         },
         {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
@@ -243,17 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "特朗普承认使用“秘密”武器",
@@ -336,7 +348,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -362,6 +374,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 10时02分]"
+        },
+        {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            5,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 18时31分]"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.2%，深成指跌0.81%，半导体芯片、商业航天、机器人、AI应用等方向跌幅居前，沪深京三市下跌个股近4000只。",
@@ -400,6 +425,18 @@
           "time_info": "[12时57分 ~ 16时36分]"
         },
         {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 18时31分]"
+        },
+        {
           "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
           "url": "https://m.thepaper.cn/newsDetail_forward_31819507",
           "source": "澎湃新闻",
@@ -435,30 +472,6 @@
           "time_info": "14时40分"
         },
         {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 16时36分]"
-        },
-        {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 16时36分]"
-        },
-        {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
           "url": "https://www.cls.cn/detail/2268686",
           "source": "财联社热门",
@@ -483,6 +496,19 @@
           "time_info": "[10时02分 ~ 12时57分]"
         },
         {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 18时31分]"
+        },
+        {
           "title": "银河通用成为2026春晚指定具身大模型机器人",
           "url": "https://wallstreetcn.com/livenews/3043383",
           "source": "华尔街见闻-快讯",
@@ -494,25 +520,13 @@
           "time_info": "[00时29分 ~ 04时27分]"
         },
         {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 16时36分]"
-        },
-        {
           "title": "互联网大厂开启春节AI应用流量大战 AI应用全面加速",
           "url": "https://www.cls.cn/detail/2269055",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -523,9 +537,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3043872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "AI会如何发展",
@@ -542,7 +567,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -557,15 +582,18 @@
           "time_info": "[12时56分 ~ 14时40分]"
         },
         {
-          "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260126094037137800",
-          "source": "金十数据",
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
           "ranks": [
-            1
+            6,
+            13,
+            17,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 18时31分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -577,21 +605,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 18时31分]"
         },
         {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
+          "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260126094037137800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            13,
-            17
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 16时36分]"
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -603,6 +629,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 12时57分]"
+        },
+        {
+          "title": "金价破5000美元 短期投资者何去何从",
+          "url": "https://www.toutiao.com/trending/7599554910719315465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -627,6 +675,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "金十数据整理——金价“失控式”上涨 五大结构性力量全梳理",
+          "url": "https://flash.jin10.com/detail/20260126180034491800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "国际金价疯涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%96%AF%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -644,15 +703,144 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 14时40分]"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "ABRDN实物白银股票ETF美股盘前涨6.7%，Global X白银矿业ETF涨6.2%，iShares白银信托上涨6.6%。",
+          "url": "https://flash.jin10.com/detail/20260126181759623800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "美股银矿股盘前上涨，SILVERCORP METALS涨 5.5%, ENDEAVOUR SILVER涨5.4%，赫拉克矿业涨6.3%, 科尔黛伦矿业涨 4.7%。",
+          "url": "https://flash.jin10.com/detail/20260126181712395800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
+          "url": "https://flash.jin10.com/detail/20260125221344220800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘前下跌1.8%，此前一交易日暴跌17%。",
+          "url": "https://flash.jin10.com/detail/20260126180007441800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "Niocorp美股盘前涨10.9%，Trilogy Metals涨11.6%。",
+          "url": "https://flash.jin10.com/detail/20260126175458514800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "美股稀土矿商股价盘前上涨，MP Materials涨4.6%，United States Antimony涨10.2%，Critical Metals涨5%。",
+          "url": "https://flash.jin10.com/detail/20260126175411590800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3043857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3043852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "存储疯狂紧缺！韩媒：三星电子将一季度NAND价格上调100%，而此前DRAM上调了70%",
@@ -738,6 +926,28 @@
           "time_info": "[12时56分 ~ 12时57分]"
         },
         {
+          "title": "iPhone 4S在拼多多卖爆",
+          "url": "https://www.toutiao.com/trending/7599175124324237321/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
+          "title": "摩根大通(JPM.N)：将苹果(AAPL.O)目标价从305美元上调至315美元。",
+          "url": "https://flash.jin10.com/detail/20260126180721642800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约大面积飘红，沪银涨超14%，铂涨超9%，钯涨超7%，集运欧线涨超5%，沪锡涨近5%，合成橡胶、燃油涨超4%，液化石油气（LPG）、沪金涨近4%，沪镍涨超3%。跌幅方面，碳酸锂跌超2%，纸浆跌1%，生猪、苹果跌近1%。",
           "url": "https://flash.jin10.com/detail/20260126113119340800",
           "source": "金十数据",
@@ -751,49 +961,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 14时40分]"
-        },
-        {
-          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
-          "url": "https://flash.jin10.com/detail/20260125221344220800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 06时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "基金",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "涨幅远超芯片和Mag 7，全球矿业股成为基金经理“头号配置目标”",
@@ -815,9 +984,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "韩国国民养老基金拟削减海外股票敞口 上调本土配置",
+          "url": "https://flash.jin10.com/detail/20260126181235855800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "上海三大先导产业母基金公示第三批17只子基金",
+          "url": "https://wallstreetcn.com/livenews/3043871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "本周43只新基金启动募集，权益类仍为主力军",
@@ -834,8 +1025,19 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "市场消息：欧洲立法者表示，欧盟委员会已就Grok的性暗示图像对X展开调查。",
+          "url": "https://flash.jin10.com/detail/20260126180339411800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
         {
           "title": "光伏概念股延续涨势，钧达股份3连板，协鑫集成、双良节能2连板，东方日升涨超15%，消息面上，马斯克表示，SpaceX与特斯拉正同步推进太阳能产能提升，目标在未来三年内实现每年100GW的太阳能制造能力。",
           "url": "https://wallstreetcn.com/livenews/3043540",
