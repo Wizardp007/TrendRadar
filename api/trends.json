@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T02:41:07.084735+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-01-29T04:34:57.201609+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -38,19 +38,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -61,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -71,9 +72,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "特朗普：一支庞大的舰队正前往伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
@@ -107,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普的美联储主席人选可能会在一周左右浮出水面。（雅虎财经）",
+          "url": "https://wallstreetcn.com/livenews/3045806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
@@ -143,27 +168,26 @@
           "time_info": "[00时40分 ~ 02时41分]"
         },
         {
-          "title": "特朗普：一支庞大的舰队正前往伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32482780",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
-        },
-        {
           "title": "报道：特朗普司法部针对鲍威尔的调查仍在继续，美联储尚未履行传票要求",
           "url": "https://wallstreetcn.com/livenews/3045725",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "鲍威尔：（鉴于特朗普的司法部发起刑事调查）拒绝置评国会山关键共和党人Thom Tillis发誓要阻挠美联储主席提名人的立场。 美联储独立性这种立法安排已经让美联储很好地服务于美国。 不相信美联储会（因为特朗普而）丧失独立性。 我的同僚们和我本人都强烈致力于维护独立性。",
+          "url": "https://wallstreetcn.com/livenews/3045799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "Rieder曾向特朗普对手和民主党高层捐款，恐给竞逐美联储主席添波折",
@@ -183,7 +207,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -194,7 +218,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -205,7 +229,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -216,7 +240,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -227,7 +251,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -238,7 +262,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -268,7 +292,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -279,8 +303,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -290,8 +314,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -301,8 +325,33 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
+        },
+        {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
+        },
+        {
+          "title": "马云谈AI时代教育",
+          "url": "https://www.toutiao.com/trending/7600274916425351187/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "前高盛贵金属业务主管Binet-Laisne加盟Mercuria。",
@@ -311,21 +360,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
-        },
-        {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
         },
         {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
@@ -339,15 +376,15 @@
           "time_info": "00时40分"
         },
         {
-          "title": "马云谈AI时代教育",
-          "url": "https://www.toutiao.com/trending/7600274916425351187/",
-          "source": "今日头条",
+          "title": "鲍威尔：短期内可能会看到人工智能（AI）消除就业岗位/AI导致岗位被淘汰。",
+          "url": "https://wallstreetcn.com/livenews/3045805",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            9
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "刘强东给老家建了间AI教室",
@@ -357,14 +394,14 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -374,8 +411,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -386,8 +423,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -398,8 +435,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
+        },
+        {
+          "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
+          "url": "https://flash.jin10.com/detail/20260129041316561800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -409,8 +457,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -420,19 +468,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时34分]"
         }
       ]
     },
@@ -449,8 +498,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
@@ -459,7 +508,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -472,8 +521,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
@@ -510,7 +559,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         }
@@ -527,7 +576,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -557,8 +606,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -566,11 +615,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 04时34分]"
         }
       ]
     },
@@ -585,7 +635,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         }
