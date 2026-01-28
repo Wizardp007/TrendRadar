@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-28T11:48:04.381177+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-01-28T12:46:59.132633+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
+          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
+        },
         {
           "title": "美媒：特朗普一周内两次妥协",
           "url": "https://news.ifeng.com/c/8qG16xqtXtH",
@@ -19,18 +31,6 @@
           "time_info": "[00时33分 ~ 06时25分]"
         },
         {
-          "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
-          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时48分]"
-        },
-        {
           "title": "特朗普：将很快宣布新的美联储主席人选",
           "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
           "source": "凤凰网",
@@ -38,19 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时48分]"
-        },
-        {
-          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
-          "url": "https://flash.jin10.com/detail/20260128113831950800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -61,8 +50,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
+        },
+        {
+          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
+          "url": "https://wallstreetcn.com/articles/3764299",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时48分]"
+          "time_info": "[11时48分 ~ 12时46分]"
+        },
+        {
+          "title": "特朗普放狠话：若民主党赢得中期选举 后果会很糟糕",
+          "url": "https://flash.jin10.com/detail/20260128123413943800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
@@ -76,15 +87,26 @@
           "time_info": "04时26分"
         },
         {
-          "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
-          "url": "https://wallstreetcn.com/articles/3764299",
-          "source": "华尔街见闻",
+          "title": "特朗普放狠话：若民主党赢得中期选举，后果会很糟糕",
+          "url": "https://wallstreetcn.com/livenews/3045261",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时46分"
+        },
+        {
+          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
+          "url": "https://www.cls.cn/detail/2271977",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时46分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -98,15 +120,27 @@
           "time_info": "02时41分"
         },
         {
-          "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
-          "url": "https://www.cls.cn/detail/2271977",
-          "source": "财联社热门",
+          "title": "特朗普称还有一支舰队正驶向伊朗",
+          "url": "https://www.douyin.com/hot/2381636",
+          "source": "抖音",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时46分"
+        },
+        {
+          "title": "外媒：特朗普声称自己没有阿尔茨海默病，但忘了这个病名",
+          "url": "https://flash.jin10.com/detail/20260128113831950800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时46分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -379,7 +413,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -392,8 +426,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 12时46分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -405,8 +439,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 12时46分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -421,6 +455,17 @@
           "time_info": "[00时33分 ~ 06时25分]"
         },
         {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
+        },
+        {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
           "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
@@ -433,15 +478,26 @@
           "time_info": "[00时33分 ~ 06时25分]"
         },
         {
-          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
-          "url": "https://www.cls.cn/detail/2271840",
-          "source": "财联社热门",
+          "title": "马云：AI时代不要再犹豫用不用AI 而是怎么教我们的孩子去用好AI",
+          "url": "https://wallstreetcn.com/livenews/3045264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "AirPods实时翻译实用吗",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%AE%9E%E7%94%A8%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -518,8 +574,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
         },
         {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
@@ -529,8 +585,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 12时46分]"
+        },
+        {
+          "title": "火力全开！2026开年泰康平安新华等超10亿险资南下，狂扫港股AI、生物医药IPO",
+          "url": "https://www.cls.cn/detail/2272264",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -550,9 +617,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "马云：孩子不应和AI比拼计算和记忆",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E4%BA%91%EF%BC%9A%E5%AD%A9%E5%AD%90%E4%B8%8D%E5%BA%94%E5%92%8CAI%E6%AF%94%E6%8B%BC%E8%AE%A1%E7%AE%97%E5%92%8C%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
@@ -579,8 +657,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -685,7 +763,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -697,8 +775,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时41分 ~ 11时48分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 12时46分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -710,8 +788,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 12时46分]"
         },
         {
           "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
@@ -721,8 +799,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -732,8 +810,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 12时46分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -753,7 +842,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         },
@@ -764,7 +853,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
@@ -783,8 +872,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 12时46分]"
         },
         {
           "title": "小米店员展示手机防摔功能：真碎了",
@@ -853,7 +942,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -882,11 +971,23 @@
           "url": "https://www.cls.cn/detail/2271889",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时46分]"
+        },
+        {
+          "title": "美元指数跌至近4年来低点",
+          "url": "https://wallstreetcn.com/livenews/3045248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时46分"
         },
         {
           "title": "美国两年期国债收益率走低，最新数据显示，美国1月谘商会消费者信心指数降低至84.5，创2014年5月以来新低。 美元指数跌0.70%，报96.37点，为2025年9月以来最低。",
@@ -925,8 +1026,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 12时46分]"
         },
         {
           "title": "传奇选股人Will Danoff将退休，掌管富达反向基金期间斩获10,500%回报",
@@ -953,8 +1054,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时46分]"
         },
         {
           "title": "谷歌、亚马逊宣布云服务涨价！打破20年来行业惯例 第一块多米诺骨牌已推倒？",
@@ -963,7 +1064,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
         }
@@ -981,11 +1082,12 @@
             5,
             4,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 11时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 12时46分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -1009,11 +1111,12 @@
           "url": "https://www.zhihu.com/question/1999186592472986900",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 11时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 12时46分]"
         }
       ]
     },
