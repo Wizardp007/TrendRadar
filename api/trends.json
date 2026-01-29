@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T04:34:17.190200+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-30T06:31:06.999962+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普：普京同意停火一周",
+          "url": "https://news.ifeng.com/c/8qJyCJGSi1K",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "金十数据1月30日讯，美国总统特朗普结束内阁会议。",
@@ -80,7 +91,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -95,6 +106,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 04时34分]"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "美国总统特朗普：（谈及发电站）我们不需要电网。",
@@ -120,6 +142,18 @@
           "time_info": "[02时52分 ~ 04时34分]"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
+        },
+        {
           "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
           "url": "https://wallstreetcn.com/livenews/3046641",
           "source": "华尔街见闻-快讯",
@@ -130,17 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 04时34分]"
-        },
-        {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
         },
         {
           "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
@@ -172,7 +195,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -205,7 +228,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -227,7 +250,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -249,7 +272,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -410,8 +433,278 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "华为手机全系降价 最高降4000元",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%85%A8%E7%B3%BB%E9%99%8D%E4%BB%B7+%E6%9C%80%E9%AB%98%E9%99%8D4000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
+        },
+        {
+          "title": "华为手机春节最高降价4000元",
+          "url": "https://www.toutiao.com/trending/7600076124156067859/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
+        },
+        {
+          "title": "苹果首席财务官：预计3月当季运营支出将在184亿至187亿美元之间。",
+          "url": "https://flash.jin10.com/detail/20260130062708345800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)预计在三月当季的毛利率将在48%至49%之间。",
+          "url": "https://flash.jin10.com/detail/20260130062623856800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果公司首席财务官预计，公司3月当季营收将增长13%至16%。",
+          "url": "https://flash.jin10.com/detail/20260130062557370800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "提醒：苹果第一财季电话会开始。",
+          "url": "https://wallstreetcn.com/livenews/3046717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "iPhone创纪录季度助力苹果营收远超预期",
+          "url": "https://wallstreetcn.com/livenews/3046713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：客户对AirPods Pro 3反应积极。",
+          "url": "https://flash.jin10.com/detail/20260130061125267800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "葛荟婕曝汪峰女儿小苹果身高1.78米",
+          "url": "https://www.toutiao.com/trending/7600452026468319278/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时31分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：第一财季iPhone系列产品深受客户追捧，热情“非同寻常”。",
+          "url": "https://flash.jin10.com/detail/20260130061124613800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130013359793800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3046630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q1净利润420.97亿美元，市场预期393.31亿美元，去年同期363.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130054610900800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果业绩超预期，EPS创历史新高，大中华区收入超预期，股价盘后涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3046702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)第一财季服务业务净销售额为300.1亿美元，低于市场预期的300.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130053649077800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)第一财季iPad净销售额为86亿美元，高于市场预期的81.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130053632155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果公司第一季度每股派息0.26美元。",
+          "url": "https://flash.jin10.com/detail/20260130053523276800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：苹果设备装机量已超过25亿台。",
+          "url": "https://flash.jin10.com/detail/20260130053425950800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：如果不是因为供应限制，可穿戴设备业务在第一财季本应实现增长。",
+          "url": "https://flash.jin10.com/detail/20260130053410464800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：AirPods Pro 3第一季度供应受限。",
+          "url": "https://flash.jin10.com/detail/20260130053408045800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：谷歌技术将改进Siri，今年晚些时候将推出更新。",
+          "url": "https://flash.jin10.com/detail/20260130053331911800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：因中国的安卓用户转投苹果阵营，iPhone 17销售实现了两位数的增长。",
+          "url": "https://flash.jin10.com/detail/20260130053314245800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "苹果(AAPL.O)2026财年Q1可穿戴设备收入为114.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130053200516800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "发布财报后，苹果(AAPL.O)股价在盘后交易中上涨2%。",
+          "url": "https://flash.jin10.com/detail/20260130053138970800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -421,19 +714,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
           "url": "https://wallstreetcn.com/articles/3764410",
           "source": "华尔街见闻",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
+        },
+        {
+          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+          "url": "https://wallstreetcn.com/articles/3764497",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -444,20 +751,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
-        },
-        {
-          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
-          "url": "https://wallstreetcn.com/articles/3764497",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "一图看懂 | 金属涨价+AI扩张，芯片产业链“涨”声不停…",
@@ -468,8 +763,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
+        },
+        {
+          "title": "据知情人士透露，马斯克旗下SpaceX考虑与特斯拉合并，或者与xAI合并。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3046720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "据知情人士透露，SpaceX正与xAI就合并事宜进行谈判，以期在今年推进计划中的IPO。 根据该协议，xAI股票将转换为SpaceX股票。（路透）",
@@ -478,7 +784,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -489,7 +795,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -505,13 +811,24 @@
           "time_info": "02时52分"
         },
         {
+          "title": "铠侠（Kioxia）与Sandisk将Yokkaichi合资协议延长至2034年。",
+          "url": "https://wallstreetcn.com/livenews/3046700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
           "title": "据悉SpaceX正与xAI就合并事宜进行谈判",
           "url": "https://flash.jin10.com/detail/20260130024543915800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -522,7 +839,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -536,6 +853,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     },
@@ -552,21 +891,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -578,8 +904,22 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -590,8 +930,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -601,8 +941,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -612,8 +952,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
+        },
+        {
+          "title": "一口气看懂金价涨跌的底层逻辑",
+          "url": "https://www.douyin.com/hot/2383551",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 06时31分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -625,24 +978,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "一口气看懂金价涨跌的底层逻辑",
-          "url": "https://www.douyin.com/hot/2383551",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时52分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -652,8 +993,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -664,8 +1005,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -677,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "航空业ETF收涨超2.6%，领跑美股行业ETF，标普科技板块跌超1.8%",
+          "url": "https://wallstreetcn.com/livenews/3046710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         },
         {
           "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览（美股盘中）",
@@ -714,69 +1066,8 @@
       ]
     },
     {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "华为手机全系降价 最高降4000元",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%85%A8%E7%B3%BB%E9%99%8D%E4%BB%B7+%E6%9C%80%E9%AB%98%E9%99%8D4000%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
-        },
-        {
-          "title": "华为手机春节最高降价4000元",
-          "url": "https://www.toutiao.com/trending/7600076124156067859/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
-        },
-        {
-          "title": "据英国《金融时报》：苹果收购以色列初创公司Q.AI，交易估值接近20亿美元。",
-          "url": "https://flash.jin10.com/detail/20260130013359793800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3046630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "葛荟婕曝汪峰女儿小苹果身高1.78米",
-          "url": "https://www.toutiao.com/trending/7600452026468319278/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "基金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "二级市场溢价超60%，白银基金再度全天停牌",
@@ -786,8 +1077,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "事关石油基金LOF，4家基金公司集体公告：明起停牌1小时",
@@ -797,19 +1088,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时47分 ~ 04时34分]"
-        },
-        {
-          "title": "伦交所-理柏（LSEG Lipper）：1月28日当周，美国高评级债券 基金资金流入创最近五年来最大。 短期、中期投资级债券基金流入54亿美元，创2021年2月份以来最大，之前一周流入30.9亿美元。 高收益率债券基金流入2.327亿美元，美国国债基金流入5.009亿美元，美国杠杆贷款基金流入2.342亿美元，抵押贷款相关基金流入2.131亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3046665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -819,8 +1099,41 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
+        },
+        {
+          "title": "周期基金押注有色迎狂欢，极致收益还需极致“清醒”",
+          "url": "https://wallstreetcn.com/livenews/3046719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "伦交所-理柏（LSEG Lipper）：1月28日当周，美国高评级债券 基金资金流入创最近五年来最大。 短期、中期投资级债券基金流入54亿美元，创2021年2月份以来最大，之前一周流入30.9亿美元。 高收益率债券基金流入2.327亿美元，美国国债基金流入5.009亿美元，美国杠杆贷款基金流入2.342亿美元，抵押贷款相关基金流入2.131亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "李国庆宣布出资5000万成立公益基金",
+          "url": "https://www.toutiao.com/trending/7599833469530685483/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 06时31分]"
         }
       ]
     },
@@ -835,11 +1148,12 @@
           "ranks": [
             6,
             1,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
         }
       ]
     },
@@ -857,8 +1171,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时31分]"
         }
       ]
     },
@@ -876,6 +1190,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数29日下跌",
+          "url": "https://flash.jin10.com/detail/20260130061735359800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时31分"
         }
       ]
     }
