@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T16:36:04.531836+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-02-01T18:29:05.119367+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 06时25分]"
+        },
+        {
+          "title": "沃什的三大挑战：美联储、通胀和特朗普",
+          "url": "https://wallstreetcn.com/articles/3764667",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时29分]"
         },
         {
           "title": "特朗普：明尼苏达州州长要么是腐败之人，要么能力不足",
@@ -55,19 +68,6 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时36分]"
-        },
-        {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
           "url": "https://wallstreetcn.com/livenews/3047706",
           "source": "华尔街见闻-快讯",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 16时36分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列总参谋长与美国官员举行会谈，讨论了有关对伊朗进行潜在打击的军事协调问题。以色列方面尚不清楚特朗普对伊朗的意图，但他们正在为各种可能性做好准备。",
+          "url": "https://flash.jin10.com/detail/20260201181510875800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -163,16 +174,39 @@
           "time_info": "[06时25分 ~ 13时23分]"
         },
         {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "特朗普：已下令国土安全部，暂不介入民主党主政城市的抗议",
+          "url": "https://news.ifeng.com/c/8qOQkr7NPBx",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "特朗普：美委将“分享”石油收益",
           "url": "https://wallstreetcn.com/livenews/3047762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 16时36分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 18时29分]"
         },
         {
           "title": "特朗普称就格陵兰岛的谈判即将达成一致",
@@ -210,6 +244,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时36分 ~ 10时34分]"
+        },
+        {
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时29分]"
         },
         {
           "title": "特朗普谈及古巴 称将达成协议",
@@ -251,26 +297,15 @@
           "time_info": "[10时34分 ~ 14时53分]"
         },
         {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
-        },
-        {
           "title": "特朗普：正与伊朗进行对话",
           "url": "https://www.cls.cn/detail/2276668",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
@@ -323,7 +358,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -397,7 +432,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -420,8 +455,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -430,11 +465,26 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时29分]"
+        },
+        {
+          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
+          "url": "https://wallstreetcn.com/articles/3764665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时29分]"
         },
         {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
@@ -449,19 +499,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时34分 ~ 16时36分]"
-        },
-        {
-          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
-          "url": "https://wallstreetcn.com/articles/3764665",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时36分]"
         },
         {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
@@ -489,6 +526,39 @@
           "time_info": "[00时31分 ~ 06时25分]"
         },
         {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
+          "url": "https://www.zhihu.com/question/2000826715941904620",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
+          "title": "黄仁勋：英伟达向OpenAI的投资从来不是一项承诺",
+          "url": "https://flash.jin10.com/detail/20260201180928077800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "《王牌》沈腾不方便的话全让AI说了",
           "url": "https://www.toutiao.com/trending/7601537421318324230/",
           "source": "今日头条",
@@ -498,6 +568,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
+          "url": "https://wallstreetcn.com/livenews/3047799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "SpaceX 申请发射百万颗卫星，建太空 AI 数据中心，为何硅谷巨头都热衷建太空 AI 数据中心？",
@@ -607,7 +699,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "一纸提名引爆史诗级抛售：现货白银一度跌36% 金价失守5000大关",
@@ -627,11 +719,12 @@
           "source": "今日头条",
           "ranks": [
             1,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时34分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[10时34分 ~ 18时29分]"
         },
         {
           "title": "金价大跌男子斥资20多万买入200克",
@@ -761,6 +854,17 @@
           "time_info": "[10时34分 ~ 13时23分]"
         },
         {
+          "title": "金价暴跌后顾客排长队出售黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E9%A1%BE%E5%AE%A2%E6%8E%92%E9%95%BF%E9%98%9F%E5%87%BA%E5%94%AE%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        },
+        {
           "title": "金价暴跌有柜姐放话退单扣500元",
           "url": "https://www.toutiao.com/trending/7601368996558127146/",
           "source": "今日头条",
@@ -843,19 +947,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 16时36分]"
-        },
-        {
-          "title": "特斯拉CEO埃隆·马斯克：我们为阻止俄罗斯未经授权使用星链所采取的措施已奏效。",
-          "url": "https://flash.jin10.com/detail/20260201155521308800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 18时29分]"
         },
         {
           "title": "印尼解除禁令，允许马斯克旗下Grok恢复服务",
@@ -868,6 +961,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时53分 ~ 16时36分]"
+        },
+        {
+          "title": "特斯拉CEO埃隆·马斯克：我们为阻止俄罗斯未经授权使用星链所采取的措施已奏效。",
+          "url": "https://flash.jin10.com/detail/20260201155521308800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
@@ -928,11 +1033,12 @@
           "ranks": [
             4,
             8,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时36分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 18时29分]"
         },
         {
           "title": "小米否认与福特探索成立电车合资企业",
@@ -953,11 +1059,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 16时36分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 18时29分]"
         },
         {
           "title": "小米汽车：2026年1月，小米汽车交付量超过39000台。",
@@ -982,6 +1089,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "石油基金LOF：2月2日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3047805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "国投白银LOF：本基金将于2月2日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3047793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "印度预算案：资本支出达12.2万亿卢比。拟设立基础设施风险担保基金。",
+          "url": "https://flash.jin10.com/detail/20260201135143002800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "印度预算案：拟振兴200个传统工业集群，将采取三管齐下的举措助力中小微企业成长。将向中小企业基金拨款1000亿卢比，向自力更生印度（SRI）基金追加200亿卢比资金。",
+          "url": "https://flash.jin10.com/detail/20260201134923638800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         }
       ]
     },
@@ -1016,34 +1173,6 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "印度预算案：资本支出达12.2万亿卢比。拟设立基础设施风险担保基金。",
-          "url": "https://flash.jin10.com/detail/20260201135143002800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
-          "title": "印度预算案：拟振兴200个传统工业集群，将采取三管齐下的举措助力中小微企业成长。将向中小企业基金拨款1000亿卢比，向自力更生印度（SRI）基金追加200亿卢比资金。",
-          "url": "https://flash.jin10.com/detail/20260201134923638800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini nano",
       "match_count": 1,
       "titles": [
@@ -1073,11 +1202,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32509647",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 18时29分]"
         }
       ]
     },
