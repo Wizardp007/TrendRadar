@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-06T00:53:33.554809+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T02:53:08.792330+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
+          "url": "https://wallstreetcn.com/livenews/3050842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
+          "url": "https://flash.jin10.com/detail/20260206022526998800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于美东时间19:00揭晓TrumpRX。",
           "url": "https://wallstreetcn.com/livenews/3050787",
@@ -26,8 +48,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 02时53分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 02时53分]"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -41,6 +74,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美国总统特朗普：与英国首相斯塔默讨论（印度洋）Diego Garcia岛屿问题，磋商富有成效。 美方保留在Diego Garcia动用武力来保持美国存在感的权利。 不会允许岛上的军事基地遭到破坏。 我理解，首相斯塔默（面对我的威胁）竭尽所能地达成了一份协议。 如果协议失败，美国可能会“保护”Diago Garcia。",
+          "url": "https://wallstreetcn.com/livenews/3050825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
           "url": "https://wallstreetcn.com/livenews/3050778",
           "source": "华尔街见闻-快讯",
@@ -50,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "特朗普：完全支持欧尔班再次担任匈牙利总理",
+          "url": "https://flash.jin10.com/detail/20260206021727047800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "美国财长贝森特：特朗普已提议设定为期一年的信用卡利率上限。",
@@ -83,13 +138,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
+          "url": "https://flash.jin10.com/detail/20260206020251009800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
+          "url": "https://flash.jin10.com/detail/20260206020145026800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
+        },
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
           "url": "https://wallstreetcn.com/articles/3764901",
@@ -98,19 +187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -120,19 +198,64 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
           "url": "https://wallstreetcn.com/articles/3765006",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 02时53分]"
+        },
+        {
+          "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
+          "url": "https://wallstreetcn.com/livenews/3050836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "02时53分"
+        },
+        {
+          "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
+          "url": "https://wallstreetcn.com/livenews/3050826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "OpenAI：GPT-5.3-Codex正式发布",
+          "url": "https://flash.jin10.com/detail/20260206022204665800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "FactSec下跌10%，创2020年3月份以来盘中新低，投资者关注Anthropic对AI模型进行升级。",
+          "url": "https://wallstreetcn.com/livenews/3050824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
@@ -144,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
+          "url": "https://wallstreetcn.com/livenews/3050813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
@@ -159,41 +293,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
           "url": "https://www.zhihu.com/question/2002675555208803379",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
         }
       ]
     },
@@ -209,19 +346,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
-        },
-        {
-          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
-          "url": "https://www.cls.cn/detail/2281879",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 02时53分]"
         },
         {
           "title": "小米首次进入中国500强前十",
@@ -231,8 +357,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时53分]"
+        },
+        {
+          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
+          "url": "https://www.cls.cn/detail/2281879",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 02时53分]"
         }
       ]
     },
@@ -265,8 +403,25 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 02时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：Spacex并没有开发手机产品。",
+          "url": "https://wallstreetcn.com/livenews/3050840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "02时53分"
         }
       ]
     },
