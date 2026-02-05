@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:43:18.357891+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-02-05T21:07:01.764145+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 18时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 21时07分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时55分 ~ 18时43分]"
+          "appearance_count": 9,
+          "time_info": "[02时55分 ~ 21时07分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -125,6 +125,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://flash.jin10.com/detail/20260205021201236800",
           "source": "金十数据",
@@ -212,7 +223,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -316,6 +327,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3050656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -325,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "摩根大通仍认为，美国总统特朗普政府最有可能推行分阶段实施的精炼铜进口关税。",
+          "url": "https://flash.jin10.com/detail/20260205202422263800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
@@ -341,7 +374,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -366,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 21时07分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -378,8 +411,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 18时43分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 21时07分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -418,6 +451,18 @@
           "time_info": "[00时53分 ~ 10时11分]"
         },
         {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 21时07分]"
+        },
+        {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
           "url": "https://wallstreetcn.com/articles/3764882",
           "source": "华尔街见闻",
@@ -443,6 +488,17 @@
           "time_info": "[10时11分 ~ 16时45分]"
         },
         {
+          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
+          "url": "https://www.cls.cn/detail/2281407",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 21时07分]"
+        },
+        {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
           "url": "https://news.ifeng.com/c/8qTccGGdcdv",
           "source": "凤凰网",
@@ -454,16 +510,15 @@
           "time_info": "[00时53分 ~ 06时31分]"
         },
         {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时45分 ~ 18时43分]"
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -477,17 +532,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时11分 ~ 16时45分]"
-        },
-        {
-          "title": "比DeepSeek风暴还惨烈！一文读懂：华尔街“抛AI”妖风祸从何来？",
-          "url": "https://www.cls.cn/detail/2281407",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 18时43分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -547,6 +591,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 21时07分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
           "url": "https://wallstreetcn.com/livenews/3050117",
           "source": "华尔街见闻-快讯",
@@ -564,7 +619,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -602,24 +657,13 @@
           "time_info": "06时31分"
         },
         {
-          "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32532785",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
           "title": "腾讯游戏发布寒假限玩日历，推出3款AI工具降低家长管控门槛",
           "url": "https://wallstreetcn.com/livenews/3050550",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -671,7 +715,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -726,7 +770,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -770,7 +814,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -781,7 +825,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -796,6 +840,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时45分 ~ 18时43分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
@@ -867,7 +922,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "小米回应营口一SU7起火：所谓“烟花”系安全气囊引爆所致，与电池无关",
@@ -922,17 +977,6 @@
           "time_info": "[00时53分 ~ 06时31分]"
         },
         {
-          "title": "小米汽车将辅助驾驶安全里程门槛降至300公里",
-          "url": "https://wallstreetcn.com/livenews/3050579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
@@ -941,8 +985,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时45分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 21时07分]"
+        },
+        {
+          "title": "小米汽车将辅助驾驶安全里程门槛降至300公里",
+          "url": "https://wallstreetcn.com/livenews/3050579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "恒生科技指数午后转涨，此前一度跌超1.8%，联想集团涨超3%，地平线机器人、小米集团涨超2%。",
@@ -960,11 +1015,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E4%B9%8B%E5%AD%90%E8%A2%AB%E9%A6%96%E5%B0%94%E5%A4%A7%E5%AD%A6%E7%BB%8F%E6%B5%8E%E7%B3%BB%E5%BD%95%E5%8F%96%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时43分 ~ 21时07分]"
         },
         {
           "title": "小米回应辽宁营口SU7起火",
@@ -976,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 02时55分]"
+        },
+        {
+          "title": "华为MateX7微博之夜生图直出",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMateX7%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%94%9F%E5%9B%BE%E7%9B%B4%E5%87%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "三星电子股价延续跌势，跌幅扩大至5.9%，报15.91万韩元。",
@@ -1100,7 +1167,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         }
@@ -1167,8 +1234,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 21时07分]"
         },
         {
           "title": "报道：马斯克的SpaceX向非美银行开启IPO宣讲",
@@ -1249,7 +1316,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -1268,7 +1335,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -1293,6 +1360,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "摩根大通：预计今年官方净购金量将达到800吨，仍比2022年前高出70%。 今年央行和投资者的需求足以最终在2026年底将金价推高至每盎司6300美元。 预计近期银价有更高的底部（未来几个季度约为每盎司75-80美元）。 到明年初，银价最终将平均回升至每盎司90美元左右。",
+          "url": "https://wallstreetcn.com/livenews/3050662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "摩根大通表示，今年来自各国央行和投资者的需求足以在2026年底将金价最终推高至每盎司6300美元。",
+          "url": "https://flash.jin10.com/detail/20260205202220477800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
@@ -1321,6 +1410,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "字节豆包：今年除夕将为大家带来“硬核”好礼",
+          "url": "https://wallstreetcn.com/livenews/3050665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     }
