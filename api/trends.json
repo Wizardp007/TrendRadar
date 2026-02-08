@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T13:25:32.238307+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-02-08T14:54:18.804356+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普宣布取消对印度商品25%关税",
@@ -33,6 +33,20 @@
           "time_info": "[00时33分 ~ 13时25分]"
         },
         {
+          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
+          "url": "https://www.cls.cn/detail/2283610",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 14时54分]"
+        },
+        {
           "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
           "url": "https://news.ifeng.com/c/8qY8hiEtDth",
           "source": "凤凰网",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 06时29分]"
-        },
-        {
-          "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
-          "url": "https://www.cls.cn/detail/2283610",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普称，促成像Nexstar-Tegna这样的良性交易，将有助于打击假新闻。",
@@ -94,6 +95,36 @@
           "time_info": "[00时33分 ~ 02时38分]"
         },
         {
+          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
+          "url": "https://wallstreetcn.com/livenews/3051751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            13,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 14时54分]"
+        },
+        {
+          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
+          "url": "https://wallstreetcn.com/livenews/3051747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            16,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时31分 ~ 14时54分]"
+        },
+        {
           "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
           "url": "https://wallstreetcn.com/articles/3765201",
           "source": "华尔街见闻",
@@ -105,32 +136,28 @@
           "time_info": "[00时33分 ~ 04时31分]"
         },
         {
-          "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
-          "url": "https://wallstreetcn.com/livenews/3051751",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
+          "url": "https://flash.jin10.com/detail/20260208105958137800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            2,
-            13,
-            23
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 13时25分]"
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时54分]"
         },
         {
-          "title": "特朗普态度“大转变”：支持电视广播巨头Nexstar收购Tegna",
-          "url": "https://wallstreetcn.com/livenews/3051747",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
+          "url": "https://flash.jin10.com/detail/20260208105726564800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            5,
-            16,
-            26
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 13时25分]"
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时54分]"
         },
         {
           "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
@@ -145,37 +172,29 @@
           "time_info": "[00时33分 ~ 06时29分]"
         },
         {
-          "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
-          "url": "https://flash.jin10.com/detail/20260208105958137800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "美国总统特朗普：期待洪都拉斯总统阿斯富拉再次访问美国。",
-          "url": "https://flash.jin10.com/detail/20260208105726564800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
           "title": "美国总统特朗普：与我的朋友、洪都拉斯总统举行了一次非常重要的会晤。讨论了许多其他问题，包括我们两国之间的投资和贸易。",
           "url": "https://flash.jin10.com/detail/20260208105717509800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时54分]"
+        },
+        {
+          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
+          "url": "https://wallstreetcn.com/livenews/3051756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时54分]"
         },
         {
           "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
@@ -225,18 +244,6 @@
           "time_info": "[00时33分 ~ 06时29分]"
         },
         {
-          "title": "加拿大央行行长：若失去特朗普的CUSMA准入，加拿大经济将面临衰退",
-          "url": "https://wallstreetcn.com/livenews/3051756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时25分]"
-        },
-        {
           "title": "特朗普：需要通过竞争来打击散播虚假新闻的电视网络",
           "url": "https://flash.jin10.com/detail/20260207233303917800",
           "source": "金十数据",
@@ -249,13 +256,24 @@
           "time_info": "[10时40分 ~ 13时25分]"
         },
         {
+          "title": "学者：特朗普羞辱奥巴马引众怒",
+          "url": "https://www.toutiao.com/trending/7604317625304223283/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "民主党高层对特朗普爆粗口",
           "url": "https://www.toutiao.com/trending/7603988391726317587/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         }
@@ -263,7 +281,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -273,8 +291,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 14时54分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -286,8 +304,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 14时54分]"
         },
         {
           "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
@@ -298,11 +316,12 @@
             3,
             4,
             15,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时38分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[02时38分 ~ 14时54分]"
         },
         {
           "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
@@ -311,11 +330,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 14时54分]"
         },
         {
           "title": "巨头砸钱6500亿加剧担忧，黄仁勋“灭火”：AI需求火爆，庞大支出合理、可持续",
@@ -333,11 +353,24 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时54分]"
+        },
+        {
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时54分]"
         },
         {
           "title": "你认为AI会替代软件开发吗",
@@ -352,17 +385,6 @@
           "time_info": "[02时38分 ~ 06时29分]"
         },
         {
-          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
-          "url": "https://wallstreetcn.com/articles/3765241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
           "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
           "url": "https://wallstreetcn.com/articles/3765210",
           "source": "华尔街见闻",
@@ -372,6 +394,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "百年康宁华丽转身：光纤终结二十年亏损，抱上Meta大腿成AI新贵！",
+          "url": "https://wallstreetcn.com/articles/3765225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时54分]"
         },
         {
           "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
@@ -388,18 +434,6 @@
           "time_info": "[00时33分 ~ 06时29分]"
         },
         {
-          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
-          "url": "https://flash.jin10.com/detail/20260208081050471800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 13时25分]"
-        },
-        {
           "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
           "url": "https://www.cls.cn/detail/2283686",
           "source": "财联社热门",
@@ -411,6 +445,17 @@
           "time_info": "10时40分"
         },
         {
+          "title": "人民日报：孩子用AI写作业，你怎么看？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
           "title": "从“AI红包大战”透视互联网流量重构：留存才是真正的考验",
           "url": "https://m.thepaper.cn/newsDetail_forward_32556126",
           "source": "澎湃新闻",
@@ -420,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "“AI.com”域名卖出7000万美元",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CAI.com%E2%80%9D%E5%9F%9F%E5%90%8D%E5%8D%96%E5%87%BA7000%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         }
       ]
     },
@@ -432,11 +488,12 @@
           "url": "https://wallstreetcn.com/articles/3765230",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时54分]"
         },
         {
           "title": "小米推出触觉驱动的机器人精细抓取微调模型TacRefineNet",
@@ -470,9 +527,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时54分]"
         }
       ]
     },
@@ -490,8 +547,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 14时54分]"
         },
         {
           "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
@@ -538,11 +595,12 @@
           "url": "https://www.zhihu.com/question/2003305831391785957",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时54分]"
         }
       ]
     },
