@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:07:45.843984+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-02-09T16:56:49.773435+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 06时30分]"
+        },
+        {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 16时56分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -90,17 +101,6 @@
           "time_info": "[00时35分 ~ 06时30分]"
         },
         {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 15时07分]"
-        },
-        {
           "title": "人民日报：孩子用AI写作业，你怎么看？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32561384",
           "source": "澎湃新闻",
@@ -113,6 +113,18 @@
           "time_info": "[00时35分 ~ 06时30分]"
         },
         {
+          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
+          "url": "https://www.cls.cn/detail/2284177",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 16时56分]"
+        },
+        {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
           "url": "https://wallstreetcn.com/articles/3765259",
           "source": "华尔街见闻",
@@ -121,8 +133,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 16时56分]"
+        },
+        {
+          "title": "OpenClaw走红，个人AI代理时代真的来了",
+          "url": "https://wallstreetcn.com/articles/3765254",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 16时56分]"
         },
         {
           "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
@@ -151,27 +175,15 @@
           "time_info": "[00时35分 ~ 10时27分]"
         },
         {
-          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
-          "url": "https://www.cls.cn/detail/2284177",
-          "source": "财联社热门",
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时07分]"
-        },
-        {
-          "title": "OpenClaw走红，个人AI代理时代真的来了",
-          "url": "https://wallstreetcn.com/articles/3765254",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 15时07分]"
+          "time_info": "[15时07分 ~ 16时56分]"
         },
         {
           "title": "这会是改变视频行业的AI吗",
@@ -204,7 +216,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -220,15 +232,15 @@
           "time_info": "[00时34分 ~ 00时35分]"
         },
         {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时07分"
+          "time_info": "16时56分"
         },
         {
           "title": "澳大利亚AI初创公司Firmus获黑石领投100亿美元融资",
@@ -237,7 +249,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -252,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 15时07分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 16时56分]"
         },
         {
           "title": "AI“吞噬”软件行业？分析师：市场反应过度 逢低买入良机已至",
@@ -276,24 +300,13 @@
           "time_info": "10时27分"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
-        },
-        {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
           "url": "https://wallstreetcn.com/livenews/3052101",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         },
@@ -345,7 +358,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -420,6 +433,18 @@
           "time_info": "[00时35分 ~ 06时30分]"
         },
         {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 16时56分]"
+        },
+        {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
           "url": "https://flash.jin10.com/detail/20260208215651951800",
           "source": "金十数据",
@@ -430,17 +455,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 04时31分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时07分]"
         },
         {
           "title": "特朗普大骂美国冬奥运动员",
@@ -486,12 +500,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3052163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "秘密照片曝光！爱泼斯坦曾与马斯克、扎克伯格等共进晚餐(图)",
@@ -519,6 +544,19 @@
           "time_info": "[00时34分 ~ 10时27分]"
         },
         {
+          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
+          "url": "https://www.cls.cn/detail/2284254",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 16时56分]"
+        },
+        {
           "title": "“长沙马斯克”新公司估值2个亿",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%95%BF%E6%B2%99%E9%A9%AC%E6%96%AF%E5%85%8B%E2%80%9D%E6%96%B0%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC2%E4%B8%AA%E4%BA%BF",
           "source": "百度热搜",
@@ -533,16 +571,15 @@
           "time_info": "[00时34分 ~ 10时27分]"
         },
         {
-          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
-          "url": "https://www.cls.cn/detail/2284254",
-          "source": "财联社热门",
+          "title": "萝莉岛去不成,马斯克改奔月球",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350442&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%8E%BB%E4%B8%8D%E6%88%90%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B9%E5%A5%94%E6%9C%88%E7%90%83",
+          "source": "贴吧",
           "ranks": [
-            9,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "马斯克称 SpaceX 已将重心转移至在月球建城市，10 年内有望实现，他为何将重心从火星转向月球？",
@@ -608,15 +645,26 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "马斯克愿为爱泼斯坦案爆料者出律师费",
+          "url": "https://www.toutiao.com/trending/7604639551495258131/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "报道：苹果计划于2月23日当周向开发者发布iOS 26.4测试版",
@@ -628,6 +676,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 04时31分]"
+        },
+        {
+          "title": "工信部发布《减免车辆购置税的新能源汽车车型目录》（第二十七批），小米SU7、比亚迪方程豹钛3等多款车型在列。",
+          "url": "https://wallstreetcn.com/livenews/3052204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "苹果最便宜新机要来了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%96%B0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 16时56分]"
+        },
+        {
+          "title": "风险偏好回归！“高市交易”助推日股大涨6%，韩股涨近4%、三星涨6%，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "知名科技记者古尔曼：料新款iPhone 17e搭载A19芯片和MagSafe充电功能，还将采用苹果最新的自研蜂窝网络和无线芯片。苹果计划将售价维持在599美元不变。",
@@ -654,18 +737,6 @@
           "time_info": "[00时35分 ~ 04时31分]"
         },
         {
-          "title": "苹果最便宜新机要来了",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%9C%80%E4%BE%BF%E5%AE%9C%E6%96%B0%E6%9C%BA%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时07分]"
-        },
-        {
           "title": "华为哈勃入股大模型推理服务商趋境科技",
           "url": "https://wallstreetcn.com/livenews/3052055",
           "source": "华尔街见闻-快讯",
@@ -683,15 +754,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "除夕夜iPhone降价",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%A4%95%E5%A4%9CiPhone%E9%99%8D%E4%BB%B7%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "本周美国市场大波动背后：对冲基金\"做空一切\"、周四软件股开始有买盘、周五\"残酷逼空\"",
@@ -706,6 +788,17 @@
           "time_info": "[00时35分 ~ 13时28分]"
         },
         {
+          "title": "对冲基金加大英镑看跌押注 英国首相面临的政治危机加剧",
+          "url": "https://wallstreetcn.com/livenews/3052208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
           "title": "新华保险、北京政府引导基金等新设运营管理公司",
           "url": "https://wallstreetcn.com/livenews/3051983",
           "source": "华尔街见闻-快讯",
@@ -715,6 +808,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "如果给你 600 元「整活基金」，你最想实现哪个荒诞愿望或验证什么奇怪猜想？",
+          "url": "https://www.zhihu.com/question/2002041079084577104",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "从亏钱到新年排名第一，这只基金终于调对了仓？",
+          "url": "https://www.cls.cn/detail/2284356",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
           "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃在在第二届新兴市场经济体埃尔奥拉会议致辞中强调，在当前背景下，两项政策重点尤为重要。 一是通过简化程序、深化金融市场、加强制度建设和改善治理，释放私营部门主导的增长潜力。 二是加强区域和跨区域一体化，把握合作新机遇，通过降低贸易壁垒和深化一体化，巩固贸易对经济增长的推动作用。",
@@ -741,6 +856,86 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
+          "url": "https://flash.jin10.com/detail/20260209161349055800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
+          "url": "https://wallstreetcn.com/livenews/3052196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
+          "url": "https://wallstreetcn.com/livenews/3052107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "高盛交易员警告：美股抛售尚未结束",
+          "url": "https://flash.jin10.com/detail/20260209002129268800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 06时30分]"
+        },
+        {
+          "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
+          "url": "https://www.cls.cn/detail/2284121",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
+          "url": "https://wallstreetcn.com/livenews/3051846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -763,39 +958,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高盛交易员警告：美股抛售尚未结束",
-          "url": "https://flash.jin10.com/detail/20260209002129268800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 06时30分]"
-        },
-        {
-          "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
-          "url": "https://wallstreetcn.com/livenews/3051846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
         }
       ]
     },
@@ -821,24 +986,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
-          "url": "https://wallstreetcn.com/livenews/3052107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         }
