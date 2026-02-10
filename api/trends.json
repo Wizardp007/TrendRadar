@@ -1,11 +1,218 @@
 {
-  "generated_at": "2026-02-11T03:08:04.945861+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-02-11T04:47:18.126984+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
+          "url": "https://news.ifeng.com/c/8qdRnTGCb87",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
+        },
+        {
+          "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
+          "url": "https://flash.jin10.com/detail/20260211023104811800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
+          "url": "https://wallstreetcn.com/livenews/3053222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
+          "url": "https://wallstreetcn.com/livenews/3053209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时47分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
+          "url": "https://wallstreetcn.com/livenews/3053221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
+          "url": "https://flash.jin10.com/detail/20260211022808666800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
+          "url": "https://flash.jin10.com/detail/20260211034403957800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
+          "url": "https://wallstreetcn.com/livenews/3053206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时47分]"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器或导弹",
+          "url": "https://wallstreetcn.com/livenews/3053205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时47分]"
+        },
+        {
+          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
+          "url": "https://flash.jin10.com/detail/20260211022551688800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "特朗普称若美伊谈判失败，可能再派一个航母打击群前往中东",
+          "url": "https://flash.jin10.com/detail/20260211022239268800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
+          "url": "https://wallstreetcn.com/livenews/3053211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
+          "url": "https://flash.jin10.com/detail/20260211030702917800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
+          "url": "https://flash.jin10.com/detail/20260211030331166800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
+          "url": "https://flash.jin10.com/detail/20260211030322937800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
+          "url": "https://wallstreetcn.com/livenews/3053180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
+          "url": "https://flash.jin10.com/detail/20260211025108837800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -15,8 +222,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -24,22 +231,47 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 04时47分]"
+        },
+        {
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
           "url": "https://www.zhihu.com/question/2004524090598323141",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 04时47分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 04时47分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -50,8 +282,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -61,30 +293,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
-        },
-        {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
           "url": "https://wallstreetcn.com/livenews/3053195",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时47分]"
+        },
+        {
+          "title": "AI制图骗局",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 04时47分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -93,7 +326,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -104,7 +337,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -122,118 +355,64 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
-          "url": "https://news.ifeng.com/c/8qdRnTGCb87",
-          "source": "凤凰网",
+          "title": "雷军宣布初代小米SU7正式停产",
+          "url": "https://www.toutiao.com/trending/7605232752681553414/",
+          "source": "今日头条",
           "ranks": [
-            4
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
-          "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
-          "url": "https://wallstreetcn.com/livenews/3053209",
-          "source": "华尔街见闻-快讯",
+          "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
+          "url": "https://www.zhihu.com/question/2002714528765457419",
+          "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            8
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
-          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
-          "url": "https://wallstreetcn.com/livenews/3053206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国总统特朗普：（就伊朗问题）要么我们达成协议，要么我们将不得不采取非常强硬的措施。",
-          "url": "https://flash.jin10.com/detail/20260211023104811800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普：伊朗不会拥有核武器或导弹",
-          "url": "https://wallstreetcn.com/livenews/3053205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
-          "url": "https://flash.jin10.com/detail/20260211022808666800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
-          "url": "https://flash.jin10.com/detail/20260211022551688800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普称若美伊谈判失败，可能再派一个航母打击群前往中东",
-          "url": "https://flash.jin10.com/detail/20260211022239268800",
-          "source": "金十数据",
+          "title": "员工获得特等奖苹果手机后，发现盒子里只有发票和砖头，这种情况是你会如何处理？",
+          "url": "https://www.zhihu.com/question/2003343394425022402",
+          "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
-          "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
-          "url": "https://wallstreetcn.com/livenews/3053180",
-          "source": "华尔街见闻-快讯",
+          "title": "斯泰兰蒂斯拟退出与三星的美国电池合资项目",
+          "url": "https://flash.jin10.com/detail/20260211031356899800",
+          "source": "金十数据",
           "ranks": [
-            25
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "04时47分"
+        },
+        {
+          "title": "消息人士：随着电动汽车亏损加剧，斯泰兰蒂斯(STLA.N)寻求退出与三星的电池合资企业。",
+          "url": "https://flash.jin10.com/detail/20260211030806295800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
@@ -249,8 +428,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -261,8 +440,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -272,8 +451,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
           "title": "美股1月日均成交额突破1万亿美元",
@@ -289,41 +468,41 @@
       ]
     },
     {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "keyword_group": "美元",
       "match_count": 3,
       "titles": [
         {
-          "title": "雷军宣布初代小米SU7正式停产",
-          "url": "https://www.toutiao.com/trending/7605232752681553414/",
-          "source": "今日头条",
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20260211041812167800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
-          "title": "2025 胡润中国 500 强发布，台积电、腾讯、字节位列前三，小米新进前十，如何评价上榜企业表现？",
-          "url": "https://www.zhihu.com/question/2002714528765457419",
-          "source": "知乎",
+          "title": "周二（2月10日）纽约尾盘，ICE美元指数大致持平，报96.814点，日内交投区间为97.007-96.609点。 彭博美元指数跌0.09%，报1181.94点，日内交投区间为1184.46-1180.25点。",
+          "url": "https://wallstreetcn.com/livenews/3053226",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
-          "title": "员工获得特等奖苹果手机后，发现盒子里只有发票和砖头，这种情况是你会如何处理？",
-          "url": "https://www.zhihu.com/question/2003343394425022402",
-          "source": "知乎",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
+          "url": "https://wallstreetcn.com/livenews/3053171",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
@@ -336,11 +515,12 @@
           "url": "https://wallstreetcn.com/livenews/3053203",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时47分]"
         },
         {
           "title": "据AXIOS网站：特朗普称，如果谈判失败，他可能会派遣第二艘航母打击伊朗。",
@@ -349,7 +529,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -368,8 +548,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         },
         {
           "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
@@ -378,7 +558,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -397,8 +577,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         }
       ]
     },
@@ -431,25 +611,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
-          "url": "https://wallstreetcn.com/livenews/3053171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         }
       ]
     },
@@ -465,8 +628,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时04分 ~ 04时47分]"
         }
       ]
     }
