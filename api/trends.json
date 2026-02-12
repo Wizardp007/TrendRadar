@@ -1,11 +1,736 @@
 {
-  "generated_at": "2026-02-12T21:12:43.388101+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-02-12T22:50:35.806262+08:00",
+  "total_titles_processed": 1568,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 63,
+      "titles": [
+        {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时06分 ~ 21时12分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 22时50分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 22时50分]"
+        },
+        {
+          "title": "特朗普将于4月初访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8qgc1cfon19",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 22时50分]"
+        },
+        {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 22时50分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 06时31分]"
+        },
+        {
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 22时50分]"
+        },
+        {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 18时51分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时04分 ~ 18时51分]"
+        },
+        {
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 22时50分]"
+        },
+        {
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 18时51分]"
+        },
+        {
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://www.toutiao.com/trending/7605620935953956906/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 21时12分]"
+        },
+        {
+          "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
+          "url": "https://flash.jin10.com/detail/20260212055211838800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "煤炭概念股上涨，特朗普政府支持这种化石燃料，并提供资金支持。 Peabody Energy涨2.8%，Core Natural Resources涨3.1%，Hallador Energy涨2.9%，Alliance Resources涨2.5%，Alpha Metallurgical Resources涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3054591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 22时50分]"
+        },
+        {
+          "title": "俄内部文件曝光：拟以“重返美元体系”为筹码构建对特朗普政府经济合作",
+          "url": "https://flash.jin10.com/detail/20260212223845081800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "监狱概念股GEO惩教集团（GEO Group Inc.，GEO）跌14%，完全回吐特朗普在2024年11月赢得第二任期以来的所有涨幅。 白宫边境事务主管Homan宣称，特朗普政府将结束再明尼苏达的移民行动。",
+          "url": "https://wallstreetcn.com/livenews/3054590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212055115912800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
+          "url": "https://wallstreetcn.com/livenews/3053939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
+          "url": "https://flash.jin10.com/detail/20260212025734183800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
+          "url": "https://wallstreetcn.com/livenews/3053938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：如果能够达成协议，我已告知内塔尼亚胡那将是优先选择。如果无法达成协议，我们只能拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260212025718088800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212054736263800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
+          "url": "https://wallstreetcn.com/livenews/3053985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国总统特朗普：除了我坚决要求与伊朗的谈判继续进行，看看是否能够达成协议外，与内塔尼亚胡的会晤没有达成任何决定。",
+          "url": "https://flash.jin10.com/detail/20260212025646659800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
+          "url": "https://flash.jin10.com/detail/20260212054735155800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
+          "url": "https://flash.jin10.com/detail/20260212025541001800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
+          "url": "https://wallstreetcn.com/livenews/3053933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
+          "url": "https://flash.jin10.com/detail/20260212054446683800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普针对英国广播公司（BBC）的100亿美元诉讼定于2027年2月开庭审理。",
+          "url": "https://flash.jin10.com/detail/20260212222330010800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 22时50分]"
+        },
+        {
+          "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3053922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时41分]"
+        },
+        {
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 06时31分]"
+        },
+        {
+          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
+          "url": "https://wallstreetcn.com/livenews/3053918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时41分]"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
+          "url": "https://wallstreetcn.com/livenews/3053917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时41分]"
+        },
+        {
+          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
+          "url": "https://wallstreetcn.com/livenews/3053914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时41分]"
+        },
+        {
+          "title": "白宫边境沙皇汤姆·霍曼：特朗普已同意结束对明尼苏达州的执法增援。",
+          "url": "https://flash.jin10.com/detail/20260212222136299800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国总统特朗普兜售标普和道指创新高。",
+          "url": "https://wallstreetcn.com/livenews/3053981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
+          "url": "https://flash.jin10.com/detail/20260212024236323800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
+          "url": "https://flash.jin10.com/detail/20260212032551630800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
+          "url": "https://wallstreetcn.com/livenews/3053980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国总统特朗普100亿美元起诉英国媒体BBC的案件将于2027年2月份进入庭审。",
+          "url": "https://wallstreetcn.com/livenews/3054578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国总统特朗普：向世界各地出口煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260212032206474800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
+          "url": "https://flash.jin10.com/detail/20260212054108494800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普关税政策正迎来新的挑战",
+          "url": "https://www.toutiao.com/trending/7605755745048464905/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "美国总统特朗普：煤炭是我们拥有的最可靠的能源形式。田纳西河谷管理局已采取行动，拯救田纳西州的两座主要燃煤电厂。",
+          "url": "https://flash.jin10.com/detail/20260212054016228800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
+          "url": "https://wallstreetcn.com/livenews/3053975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
+          "url": "https://flash.jin10.com/detail/20260212032127249800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
+          "url": "https://wallstreetcn.com/livenews/3053974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国总统特朗普将两名民主党州长排除在州长会议邀请之外",
+          "url": "https://wallstreetcn.com/livenews/3054430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "美国总统特朗普：股市刚刚“创历史新高”。",
+          "url": "https://wallstreetcn.com/livenews/3053971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "俄罗斯备忘录提议重返美元体系：向特朗普抛出橄榄枝",
+          "url": "https://wallstreetcn.com/livenews/3054572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
+          "url": "https://flash.jin10.com/detail/20260212053407550800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
+          "url": "https://wallstreetcn.com/livenews/3053969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
+          "url": "https://flash.jin10.com/detail/20260212052606935800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
+          "url": "https://flash.jin10.com/detail/20260212030900400800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
+        },
+        {
+          "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
+          "url": "https://flash.jin10.com/detail/20260212002408203800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "美国总统特朗普发布了指向《华尔街日报》关于第二艘航空母舰部署的报道链接。（此前该报报道，美国防部已指示第二个航空母舰打击群做好部署到中东的准备）",
+          "url": "https://flash.jin10.com/detail/20260212214800072800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "据华盛顿邮报：特朗普政府从洛杉矶、芝加哥和波特兰撤回国民警卫队。",
+          "url": "https://flash.jin10.com/detail/20260212002128389800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "美国反对特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 大模型",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "最癫的AI赛博榨菜",
@@ -19,8 +744,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 21时12分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 22时50分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -30,8 +755,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 21时12分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 22时50分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -42,8 +767,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 21时12分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 22时50分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -58,8 +783,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 21时12分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 22时50分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -72,6 +797,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 06时31分]"
+        },
+        {
+          "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
+          "url": "https://www.cls.cn/detail/2288596",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 22时50分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -134,6 +872,29 @@
           "time_info": "[10时27分 ~ 13时26分]"
         },
         {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://www.cls.cn/detail/2288655",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时50分]"
+        },
+        {
+          "title": "从严整治传播无AI标识虚假信息问题",
+          "url": "https://www.toutiao.com/trending/7605939603580898867/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时50分]"
+        },
+        {
           "title": "美食博主手搓对抗AI",
           "url": "https://www.douyin.com/hot/2398176",
           "source": "抖音",
@@ -143,18 +904,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时51分 ~ 16时52分]"
-        },
-        {
-          "title": "全球首颗！“港中大一号”卫星把大模型搬上太空",
-          "url": "https://www.cls.cn/detail/2288596",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时12分]"
         },
         {
           "title": "男子用AI一夜赚够一线房首付",
@@ -238,26 +987,16 @@
           "time_info": "18时51分"
         },
         {
-          "title": "从严整治传播无AI标识虚假信息问题",
-          "url": "https://www.toutiao.com/trending/7605939603580898867/",
-          "source": "今日头条",
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://www.cls.cn/detail/2288655",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时50分]"
         },
         {
           "title": "即梦AI正式接入最新视频生成模型Seedance 2.0与图片生成模型Seedream 5.0 Lite。",
@@ -381,17 +1120,6 @@
           "time_info": "01时06分"
         },
         {
-          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
-          "url": "https://wallstreetcn.com/articles/3765558",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
           "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
           "source": "澎湃新闻",
@@ -416,6 +1144,30 @@
           "time_info": "[15时04分 ~ 18时51分]"
         },
         {
+          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
+          "url": "https://www.cls.cn/detail/2288560",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时50分]"
+        },
+        {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 22时50分]"
+        },
+        {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
           "url": "https://wallstreetcn.com/livenews/3053915",
           "source": "华尔街见闻-快讯",
@@ -428,18 +1180,6 @@
           "time_info": "[03时06分 ~ 04时41分]"
         },
         {
-          "title": "哈尔滨小哥为早回家过年找AI替班",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时12分]"
-        },
-        {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
           "url": "https://wallstreetcn.com/livenews/3053910",
           "source": "华尔街见闻-快讯",
@@ -450,6 +1190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时06分 ~ 04时41分]"
+        },
+        {
+          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
+          "url": "https://www.zhihu.com/question/2004603319558042744",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时50分]"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -472,17 +1223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
-        },
-        {
-          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
-          "url": "https://www.cls.cn/detail/2288560",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
         },
         {
           "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
@@ -562,24 +1302,13 @@
           "time_info": "13时26分"
         },
         {
-          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
-          "url": "https://www.zhihu.com/question/2004603319558042744",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
           "title": "整治传播无AI标识的虚假不实信息",
           "url": "https://www.baidu.com/s?wd=%E6%95%B4%E6%B2%BB%E4%BC%A0%E6%92%AD%E6%97%A0AI%E6%A0%87%E8%AF%86%E7%9A%84%E8%99%9A%E5%81%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF",
           "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -606,6 +1335,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "新加坡发布2026财政预算案：启动AI扶持计划与税务减免",
+          "url": "https://wallstreetcn.com/livenews/3054568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "全国首单“AI+人形机器人”研发领域科创债发行",
           "url": "https://wallstreetcn.com/livenews/3054410",
           "source": "华尔街见闻-快讯",
@@ -626,6 +1366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "NuScale Power与Oak Ridge Nat. Lab围绕AI燃料解决方案构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3054564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "智谱盘中持续拉升，日内涨超30%，公司上调AI编程订阅套餐价格并将推出新模型。",
@@ -663,641 +1414,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 55,
-      "titles": [
-        {
-          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
-          "url": "https://wallstreetcn.com/articles/3765521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时06分 ~ 21时12分]"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 21时12分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 21时12分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普将于4月初访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8qgc1cfon19",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 21时12分]"
-        },
-        {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 18时51分]"
-        },
-        {
-          "title": "特朗普否认了，仅拒邀两人",
-          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 18时51分]"
-        },
-        {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://www.cls.cn/detail/2288372",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 21时12分]"
-        },
-        {
-          "title": "中方回应特朗普预计4月初访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时51分]"
-        },
-        {
-          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
-          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时12分]"
-        },
-        {
-          "title": "中方回应特朗普预计4月初访华",
-          "url": "https://www.toutiao.com/trending/7605620935953956906/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 21时12分]"
-        },
-        {
-          "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
-          "url": "https://flash.jin10.com/detail/20260212055211838800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时12分]"
-        },
-        {
-          "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
-          "url": "https://flash.jin10.com/detail/20260212055115912800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
-          "url": "https://wallstreetcn.com/livenews/3053939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普：上次伊朗认为不达成协议对他们更有利，结果他们遭遇了午夜铁锤，这对他们并不好。希望这次他们会更加理性和负责任。",
-          "url": "https://flash.jin10.com/detail/20260212025734183800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
-          "url": "https://wallstreetcn.com/livenews/3053938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 21时12分]"
-        },
-        {
-          "title": "美国总统特朗普：如果能够达成协议，我已告知内塔尼亚胡那将是优先选择。如果无法达成协议，我们只能拭目以待。",
-          "url": "https://flash.jin10.com/detail/20260212025718088800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
-          "url": "https://flash.jin10.com/detail/20260212054736263800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
-          "url": "https://wallstreetcn.com/livenews/3053985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国总统特朗普：除了我坚决要求与伊朗的谈判继续进行，看看是否能够达成协议外，与内塔尼亚胡的会晤没有达成任何决定。",
-          "url": "https://flash.jin10.com/detail/20260212025646659800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
-          "url": "https://flash.jin10.com/detail/20260212054735155800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
-          "url": "https://www.cls.cn/detail/2287759",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
-          "url": "https://flash.jin10.com/detail/20260212025541001800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国财长贝森特：2025年GDP增速可能达到3%。 预计制造业就业人口将在未来几个月回升。 总统特朗普专注于住房市场。 抵押贷款利率和10年期美债收益率都在下跌。",
-          "url": "https://wallstreetcn.com/livenews/3053933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
-          "url": "https://www.cls.cn/detail/2287874",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
-          "url": "https://flash.jin10.com/detail/20260212054446683800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3053922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时41分]"
-        },
-        {
-          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
-          "url": "https://www.zhihu.com/question/2004862099634016476",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 06时31分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时12分]"
-        },
-        {
-          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
-          "url": "https://wallstreetcn.com/livenews/3053918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时41分]"
-        },
-        {
-          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：预计（特朗普政府）很快将宣布住房消息。",
-          "url": "https://wallstreetcn.com/livenews/3053917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时41分]"
-        },
-        {
-          "title": "加拿大央行披露1月份管委会货币政策会议讨论的摘要：在担忧食品价格之际，消费者CPI预期偏高。 当前的不可预见性“几乎是空前的”。 美联储独立性面临的（来自美国总统特朗普的）威胁也（给加拿大）带来不确定性。 重申“北美重新评估美国墨西哥加拿大贸易协议（USMCA）”对前景构成重大风险。 委内瑞拉、伊朗、格陵兰相关事件造成波动。",
-          "url": "https://wallstreetcn.com/livenews/3053914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时41分]"
-        },
-        {
-          "title": "美国总统特朗普兜售标普和道指创新高。",
-          "url": "https://wallstreetcn.com/livenews/3053981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
-          "url": "https://flash.jin10.com/detail/20260212024236323800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
-          "url": "https://flash.jin10.com/detail/20260212032551630800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
-          "url": "https://wallstreetcn.com/livenews/3053980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国总统特朗普：向世界各地出口煤炭。",
-          "url": "https://wallstreetcn.com/livenews/3053979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
-          "url": "https://flash.jin10.com/detail/20260212032206474800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
-          "url": "https://flash.jin10.com/detail/20260212054108494800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "特朗普关税政策正迎来新的挑战",
-          "url": "https://www.toutiao.com/trending/7605755745048464905/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美国总统特朗普：煤炭是我们拥有的最可靠的能源形式。田纳西河谷管理局已采取行动，拯救田纳西州的两座主要燃煤电厂。",
-          "url": "https://flash.jin10.com/detail/20260212054016228800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
-          "url": "https://wallstreetcn.com/livenews/3053975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
-          "url": "https://flash.jin10.com/detail/20260212032127249800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
-          "url": "https://wallstreetcn.com/livenews/3053974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国总统特朗普将两名民主党州长排除在州长会议邀请之外",
-          "url": "https://wallstreetcn.com/livenews/3054430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
-          "title": "美国总统特朗普：股市刚刚“创历史新高”。",
-          "url": "https://wallstreetcn.com/livenews/3053971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
-          "url": "https://flash.jin10.com/detail/20260212053407550800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
-          "url": "https://wallstreetcn.com/livenews/3053969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
-          "url": "https://flash.jin10.com/detail/20260212052606935800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
-          "url": "https://flash.jin10.com/detail/20260212030900400800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        },
-        {
-          "title": "市场消息：内塔尼亚胡在会见特朗普之前会见了美国国务卿鲁比奥。",
-          "url": "https://flash.jin10.com/detail/20260212002408203800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "据华盛顿邮报：特朗普政府从洛杉矶、芝加哥和波特兰撤回国民警卫队。",
-          "url": "https://flash.jin10.com/detail/20260212002128389800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "美国反对特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
@@ -1305,11 +1423,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时27分 ~ 21时12分]"
+          "appearance_count": 8,
+          "time_info": "[10时27分 ~ 22时50分]"
         },
         {
           "title": "古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布",
@@ -1463,6 +1582,19 @@
           "time_info": "[01时06分 ~ 06时31分]"
         },
         {
+          "title": "男子结婚“摇”来约200台小米汽车",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时51分 ~ 22时50分]"
+        },
+        {
           "title": "一线实探！华为小米已成新“年货” 后国补时代市场热度几何？|传真",
           "url": "https://www.cls.cn/detail/2287992",
           "source": "财联社热门",
@@ -1486,16 +1618,15 @@
           "time_info": "[16时52分 ~ 18时51分]"
         },
         {
-          "title": "男子结婚“摇”来约200台小米汽车",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A%E2%80%9C%E6%91%87%E2%80%9D%E6%9D%A5%E7%BA%A6200%E5%8F%B0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
+          "url": "https://www.cls.cn/detail/2288733",
+          "source": "财联社热门",
           "ranks": [
-            29,
-            19
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 21时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "小米汽车：支持《汽车行业价格行为合规指南》，坚决杜绝价格欺诈及不正当竞争行为",
@@ -1529,6 +1660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "小米汽车：第一代SU7停产后仍会提供全部维修及保养服务，备件保障能力在10年以上",
+          "url": "https://wallstreetcn.com/livenews/3054575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "三星公告称开始量产并交付HBM4存储芯片",
@@ -1578,7 +1720,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -1642,6 +1784,61 @@
           "time_info": "01时06分"
         },
         {
+          "title": "思科美股盘初跌7.4%，创2023年以来最大盘中跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3054587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "强劲财报提振，美股指期货集体上扬，煤炭股盘前上涨，全球存储概念股集体走高，现货黄金小幅下跌",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260212223643275800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "可选消费ETF涨1.02%，在美股盘初领跑行业ETF，银行业ETF涨0.9%，半导体ETF涨0.84%，能源业ETF跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3054586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美股开盘，道指涨0.1%，标普500指数涨0.3%，纳指涨0.38%。存储概念股走强，美光科技(MU.O)涨3.1%，闪迪(SNDK.O)涨6.2%。皮博迪能源(BTU.N)涨2.5%，此前特朗普指示能源部拨付资金维持燃煤电厂运营。",
+          "url": "https://flash.jin10.com/detail/20260212223025630800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
           "url": "https://wallstreetcn.com/livenews/3053983",
           "source": "华尔街见闻-快讯",
@@ -1657,11 +1854,12 @@
           "url": "https://www.cls.cn/detail/2288812",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时50分]"
         },
         {
           "title": "美股煤炭股盘前上涨，Peabody Energy上涨5.2%，公司表示正与特朗普政府合作，探讨新建燃煤电厂的可能性。Core自然资源涨3.1%，Warrior冶金煤股份涨3.4%。",
@@ -1670,16 +1868,38 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3054558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "国际货币基金组织：德国的经常账户余额预计会随着时间的推移逐渐减少，但仍会保持为正。",
+          "url": "https://flash.jin10.com/detail/20260212224151976800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
         {
           "title": "国投白银LOF：本基金将于2026年2月13日开市起至当日10:30停牌，自2026年2月13日10:30复牌，停牌期间本基金赎回业务照常办理。",
           "url": "https://wallstreetcn.com/livenews/3054459",
@@ -1690,6 +1910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "国际货币基金组织：近年来，德国经济遭受了重大冲击，而这种不利影响又因基础生产率增长乏力而进一步加剧。",
+          "url": "https://flash.jin10.com/detail/20260212223835589800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "软银集团第三季度净利润2,485.9亿日元，市场预估8,570.1亿日元。 第三季度愿景基金利润7,354.9亿日元，愿景基金投资收益3,749.9亿日元。 第三季度销售净额1.98万亿日元，市场预估1.96万亿日元。",
@@ -1747,6 +1978,17 @@
           "time_info": "18时51分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（2月11日，非农发布日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3054562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "软银集团第三季度愿景基金利润7,354.9亿日元，愿景基金投资收益3,749.9亿日元。",
           "url": "https://flash.jin10.com/detail/20260212143325626800",
           "source": "金十数据",
@@ -1764,20 +2006,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 21时12分]"
-        },
-        {
           "title": "UP主实测DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -1792,6 +2020,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时06分 ~ 18时51分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            9,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 22时50分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -1846,60 +2089,20 @@
       ]
     },
     {
-      "keyword_group": "grok 马斯克",
-      "match_count": 4,
+      "keyword_group": "智谱AI GLM",
+      "match_count": 5,
       "titles": [
         {
-          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
-          "url": "https://www.cls.cn/detail/2288275",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 21时12分]"
-        },
-        {
-          "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
-          "url": "https://wallstreetcn.com/livenews/3054200",
+          "title": "智谱：GLM Coding Pro用户已可正常使用GLM-5",
+          "url": "https://wallstreetcn.com/livenews/3054581",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "马斯克感慨Seedance2.0发展快",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%9F%E6%85%A8Seedance2.0%E5%8F%91%E5%B1%95%E5%BF%AB%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
-          "url": "https://wallstreetcn.com/articles/3765571",
-          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "智谱AI GLM",
-      "match_count": 4,
-      "titles": [
+          "time_info": "22时50分"
+        },
         {
           "title": "智谱：对GLM Coding Plan套餐价格进行结构性调整 整体涨幅30%起",
           "url": "https://www.cls.cn/detail/2287882",
@@ -1941,9 +2144,61 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
+          "url": "https://www.cls.cn/detail/2288275",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 21时12分]"
+        },
+        {
+          "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
+          "url": "https://wallstreetcn.com/livenews/3054200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
+          "url": "https://wallstreetcn.com/articles/3765571",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时50分]"
+        },
+        {
+          "title": "马斯克感慨Seedance2.0发展快",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%9F%E6%85%A8Seedance2.0%E5%8F%91%E5%B1%95%E5%BF%AB%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         }
       ]
     },
@@ -1960,8 +2215,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时04分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[15时04分 ~ 22时50分]"
         },
         {
           "title": "豆包视频生成模型Seedance 2.0 上线",
@@ -2036,11 +2291,12 @@
           "url": "https://www.zhihu.com/question/1964981998281036870",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时50分]"
         }
       ]
     },
@@ -2075,6 +2331,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线波动暂不大，最新报96.78。",
+          "url": "https://flash.jin10.com/detail/20260212221550445800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     }
