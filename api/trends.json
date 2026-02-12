@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-12T10:27:36.874446+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2026-02-12T13:26:26.666444+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时06分 ~ 13时26分]"
+        },
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
           "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 06时31分]"
-        },
-        {
-          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
-          "url": "https://wallstreetcn.com/articles/3765521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时06分 ~ 10时27分]"
         },
         {
           "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
@@ -142,6 +143,28 @@
           "time_info": "06时31分"
         },
         {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "美国总统特朗普：已结束与以色列总理内塔尼亚胡的会晤，这是一次非常成功的会晤。与内塔尼亚胡讨论了加沙以及整个地区正在取得的巨大进展。",
           "url": "https://flash.jin10.com/detail/20260212025541001800",
           "source": "金十数据",
@@ -162,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
@@ -317,7 +351,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -449,7 +483,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -457,8 +491,22 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 22,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            8,
+            26,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 13时26分]"
+        },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
           "url": "https://wallstreetcn.com/articles/3765455",
@@ -470,19 +518,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 06时31分]"
-        },
-        {
-          "title": "最癫的AI赛博榨菜",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 10时27分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -502,9 +537,70 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
+        },
+        {
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
+        },
+        {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
+        },
+        {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 13时26分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 13时26分]"
+        },
+        {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时26分"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -518,6 +614,18 @@
           "time_info": "04时41分"
         },
         {
+          "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
+          "url": "https://wallstreetcn.com/articles/3765478",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
+        },
+        {
           "title": "马斯克旗下xAI披露全体会议的视频。",
           "url": "https://wallstreetcn.com/livenews/3053940",
           "source": "华尔街见闻-快讯",
@@ -529,37 +637,15 @@
           "time_info": "04时41分"
         },
         {
-          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
-          "url": "https://www.cls.cn/detail/2287778",
-          "source": "财联社热门",
+          "title": "即梦AI正式接入最新视频生成模型Seedance 2.0与图片生成模型Seedream 5.0 Lite。",
+          "url": "https://wallstreetcn.com/livenews/3054196",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "让AI集体翻车的洗车难题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时26分"
         },
         {
           "title": "德国总理默茨：由于复杂监管制度的缘故，欧盟（辖区内）公司在AI问题上落后。",
@@ -573,28 +659,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
+          "title": "男子用AI一夜赚够一线房首付",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            16,
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 10时27分]"
-        },
-        {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 10时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -608,13 +681,24 @@
           "time_info": "[01时06分 ~ 10时27分]"
         },
         {
+          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
+          "url": "https://wallstreetcn.com/livenews/3054194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "智谱最新大模型 GLM-5 官网上线，有哪些值得关注的亮点？使用感受如何？",
           "url": "https://www.zhihu.com/question/2005023983209242784",
           "source": "知乎",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -625,18 +709,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
-          "url": "https://wallstreetcn.com/articles/3765478",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -650,6 +723,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
+        },
+        {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -687,15 +784,26 @@
           "time_info": "01时06分"
         },
         {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
+          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
+          "url": "https://wallstreetcn.com/livenews/3054185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "支付宝AI付笔数超1.2亿",
+          "url": "https://wallstreetcn.com/livenews/3054179",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时26分"
         },
         {
           "title": "中美AI“隔空开打”",
@@ -707,12 +815,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "马斯克xAI全员大会宣布裁员",
+          "url": "https://www.toutiao.com/trending/7605774882411908671/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "机械开发设计岗会不会被 ai 取代?",
+          "url": "https://www.zhihu.com/question/1892919652683850639",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "智谱盘中持续拉升，日内涨超30%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "豆包大模型2.0将于2月14日发布",
+          "url": "https://wallstreetcn.com/livenews/3054159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布",
@@ -737,13 +889,24 @@
           "time_info": "04时41分"
         },
         {
+          "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
+          "url": "https://www.zhihu.com/question/2004679465389749940",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
+        },
+        {
           "title": "三星电子股价涨幅扩大至6%。",
           "url": "https://flash.jin10.com/detail/20260212095440145800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -768,17 +931,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "雷军宣布初代小米 SU7 停产，交付量近 37 万，如何评价其作为「初代车」的生命周期与市场表现？",
-          "url": "https://www.zhihu.com/question/2004679465389749940",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)推迟已久的新版Siri发布计划遭遇阻碍。",
@@ -809,7 +961,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -832,11 +984,23 @@
           "url": "https://www.cls.cn/detail/2287806",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
+        },
+        {
+          "title": "小米发布并开源机器人VLA大模型Xiaomi-Robotics-0。该VLA模型规模为47亿参数，支持视觉语言理解，可进行实时动作执行。",
+          "url": "https://wallstreetcn.com/livenews/3054181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "13时26分"
         },
         {
           "title": "iPhone安卓无缝换机",
@@ -845,7 +1009,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -856,27 +1020,17 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
-          "url": "https://www.cls.cn/detail/2287578",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 10时27分]"
-        },
-        {
           "title": "UP主实测DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 10时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 13时26分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -884,7 +1038,19 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时06分 ~ 13时26分]"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -921,11 +1087,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 13时26分]"
         }
       ]
     },
@@ -958,6 +1125,18 @@
           "time_info": "[03时06分 ~ 06时31分]"
         },
         {
+          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2287796",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
+        },
+        {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -967,17 +1146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "美股收盘：非农提振昙花一现 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2287796",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
@@ -995,11 +1163,12 @@
           "url": "https://www.cls.cn/detail/2287918",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 13时26分]"
         }
       ]
     },
@@ -1014,7 +1183,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -1039,6 +1208,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "智谱AI GLM",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "智谱：对GLM Coding Plan套餐价格进行结构性调整 整体涨幅30%起",
+          "url": "https://www.cls.cn/detail/2287882",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "智谱确认神秘模型为GLM-5",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%E7%A1%AE%E8%AE%A4%E7%A5%9E%E7%A7%98%E6%A8%A1%E5%9E%8B%E4%B8%BAGLM-5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
@@ -1070,9 +1267,43 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok 马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克谈Seedance2.0，感慨模型发展速度快",
+          "url": "https://wallstreetcn.com/livenews/3054200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包视频生成模型Seedance 2.0 上线",
+          "url": "https://wallstreetcn.com/livenews/3054190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
