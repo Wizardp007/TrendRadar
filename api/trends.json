@@ -1,45 +1,36 @@
 {
-  "generated_at": "2026-02-14T10:09:45.107708+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-02-14T13:10:49.961643+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 13时10分]"
+        },
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
           "url": "https://news.ifeng.com/c/8qis4CFCUkf",
           "source": "凤凰网",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 10时09分]"
-        },
-        {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 10时09分]"
-        },
-        {
-          "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
-          "url": "https://flash.jin10.com/detail/20260214094023773800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 13时10分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -49,11 +40,23 @@
             25,
             20,
             19,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 10时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 13时10分]"
+        },
+        {
+          "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
+          "url": "https://flash.jin10.com/detail/20260214094023773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "特朗普证实美军将向中东地区派出第二艘航母",
@@ -73,7 +76,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -98,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 02时53分]"
+        },
+        {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时10分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -148,15 +163,15 @@
           "time_info": "[02时53分 ~ 06时36分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "13时10分"
         },
         {
           "title": "美国总统特朗普重申：与北约关系良好。",
@@ -168,6 +183,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时10分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -227,6 +254,17 @@
           "time_info": "[02时53分 ~ 04时41分]"
         },
         {
+          "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
+          "url": "https://www.cls.cn/detail/2290112",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
           "url": "https://wallstreetcn.com/livenews/3055338",
           "source": "华尔街见闻-快讯",
@@ -236,17 +274,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
         },
         {
           "title": "美国法官下令特朗普政府协助一名因违反法院命令而被驱逐至洪都拉斯的大学生返美。",
@@ -343,9 +370,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "日媒披露特朗普拒绝在中日间力挺日本",
+          "url": "https://www.toutiao.com/trending/7605283067519008810/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
@@ -431,7 +469,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -450,20 +488,8 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 10时09分]"
-        },
         {
           "title": "小伙5个月用AI做120多个App",
           "url": "https://www.toutiao.com/trending/7605526928975659054/",
@@ -489,16 +515,30 @@
           "time_info": "[00时51分 ~ 06时36分]"
         },
         {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 13时10分]"
+        },
+        {
           "title": "AI整活无底线,赛文演员急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 10时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 13时10分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -513,6 +553,18 @@
           "time_info": "[00时51分 ~ 06时36分]"
         },
         {
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时10分]"
+        },
+        {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
           "url": "https://www.zhihu.com/question/2005579925827130176",
           "source": "知乎",
@@ -522,17 +574,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 04时41分]"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -548,15 +589,15 @@
           "time_info": "[00时51分 ~ 06时36分]"
         },
         {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
-          "source": "百度热搜",
+          "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
+          "url": "https://flash.jin10.com/detail/20260214122124232800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "13时10分"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -583,6 +624,20 @@
           "time_info": "[02时53分 ~ 04时41分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            15,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 13时10分]"
+        },
+        {
           "title": "Seedance2.0展示中国AI潜力",
           "url": "https://www.douyin.com/hot/2398167",
           "source": "抖音",
@@ -594,6 +649,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 04时41分]"
+        },
+        {
+          "title": "小伙5个月用AI做120多个App",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%995%E4%B8%AA%E6%9C%88%E7%94%A8AI%E5%81%9A120%E5%A4%9A%E4%B8%AAApp",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时10分]"
         },
         {
           "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
@@ -608,17 +675,26 @@
           "time_info": "[02时53分 ~ 04时41分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
+          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
+          "url": "https://www.zhihu.com/question/2005725246167147371",
+          "source": "知乎",
           "ranks": [
-            12,
-            15,
-            19
+            11
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 10时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
+          "title": "我国大模型密集落地，新技术加速普惠应用",
+          "url": "https://wallstreetcn.com/livenews/3055454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
@@ -660,7 +736,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -698,6 +774,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "桥水Q4增持英伟达、亚马逊等AI热门股 同时加重黄金股持仓",
+          "url": "https://flash.jin10.com/detail/20260214113020245800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "FTC升级对微软反垄断调查，向竞争对手质询云与AI业务",
           "url": "https://flash.jin10.com/detail/20260213233520438800",
           "source": "金十数据",
@@ -707,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "我国大模型密集落地 新技术加速普惠应用",
+          "url": "https://flash.jin10.com/detail/20260214110014773800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
@@ -732,11 +830,12 @@
           "ranks": [
             7,
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 10时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 13时10分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -748,8 +847,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 10时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 13时10分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -793,9 +892,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时10分]"
         },
         {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
@@ -878,8 +977,21 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "广发百亿基金经理卸任高管，离高管还是另有打算？",
+          "url": "https://www.cls.cn/detail/2289955",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 13时10分]"
+        },
         {
           "title": "国际货币基金组织：巴基斯坦电力部门改革进展顺利；配电和发电公司私有化稳步推进；输电重组正在推进。",
           "url": "https://flash.jin10.com/detail/20260214034738696800",
@@ -959,6 +1071,17 @@
           "time_info": "[04时41分 ~ 10时09分]"
         },
         {
+          "title": "长三角创投引导基金增资至551亿元 新增工银投资等为合伙人",
+          "url": "https://wallstreetcn.com/livenews/3055463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "湖北通报部分精神院违规收治患者、涉嫌套取医保基金，多名公职人员被立案调查，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2005753468204315145",
           "source": "知乎",
@@ -970,16 +1093,15 @@
           "time_info": "00时51分"
         },
         {
-          "title": "广发百亿基金经理卸任高管，离高管还是另有打算？",
-          "url": "https://www.cls.cn/detail/2289955",
-          "source": "财联社热门",
+          "title": "上海未来产业基金拟参与投资9只子基金",
+          "url": "https://wallstreetcn.com/livenews/3055462",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            7
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 10时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "德国财政部长：德国正考虑豁免“债务刹车”机制，以扩充原材料基金规模。。",
@@ -996,7 +1118,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -1020,6 +1142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "华为内部反腐通报，原终端 BG 多媒体技术部部长被批准逮捕，具体情况如何？他将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2005702991718605355",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "华为内部反腐通报",
@@ -1052,15 +1185,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "给iPhone7配二手苹果表担心来路不正",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99iPhone7%E9%85%8D%E4%BA%8C%E6%89%8B%E8%8B%B9%E6%9E%9C%E8%A1%A8%E6%8B%85%E5%BF%83%E6%9D%A5%E8%B7%AF%E4%B8%8D%E6%AD%A3%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -1083,6 +1227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
@@ -1110,7 +1265,7 @@
     },
     {
       "keyword_group": "grok 马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX拟在IPO中采用双重股权结构 强化马斯克控制权",
@@ -1137,6 +1292,17 @@
           "time_info": "[02时53分 ~ 06时36分]"
         },
         {
+          "title": "SpaceX据悉拟采用双重股权结构进行IPO 马斯克或掌“超级投票权”",
+          "url": "https://www.cls.cn/detail/2290089",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "报道：SpaceX拟在IPO中采用双重股权结构，以强化马斯克的控制权",
           "url": "https://wallstreetcn.com/livenews/3055337",
           "source": "华尔街见闻-快讯",
@@ -1151,7 +1317,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -1171,11 +1337,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 13时10分]"
+        },
+        {
+          "title": "一年了 美国还在追着DeepSeek抹黑",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%B9%B4%E4%BA%86+%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%9C%A8%E8%BF%BD%E7%9D%80DeepSeek%E6%8A%B9%E9%BB%91",
+          "source": "百度热搜",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时09分"
+          "time_info": "13时10分"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/livenews/3055437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         }
       ]
     },
@@ -1190,7 +1379,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
