@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T21:08:11.698410+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-02-16T22:43:02.254982+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 21时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 22时43分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 21时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 22时43分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -92,6 +92,19 @@
           "time_info": "[00时33分 ~ 15时06分]"
         },
         {
+          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
+          "url": "https://www.cls.cn/detail/2290650",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 22时43分]"
+        },
+        {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
           "url": "https://wallstreetcn.com/articles/3765753",
           "source": "华尔街见闻",
@@ -101,6 +114,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 10时24分]"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 22时43分]"
         },
         {
           "title": "AI女副总因反色情被炒鱿鱼",
@@ -120,33 +148,6 @@
           "time_info": "[00时33分 ~ 21时08分]"
         },
         {
-          "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
-          "url": "https://www.cls.cn/detail/2290650",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 21时08分]"
-        },
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 21时08分]"
-        },
-        {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
           "source": "澎湃新闻",
@@ -157,6 +158,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 06时27分]"
+        },
+        {
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 22时43分]"
+        },
+        {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 22时43分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -182,28 +207,16 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
-          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
+          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
+          "url": "https://www.zhihu.com/question/2004174915692172333",
+          "source": "知乎",
           "ranks": [
-            3,
-            2
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 21时08分]"
-        },
-        {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 21时08分]"
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 22时43分]"
         },
         {
           "title": "如何看待字节跳动也开始做 AI 芯片？",
@@ -291,17 +304,6 @@
           "time_info": "10时24分"
         },
         {
-          "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
-          "url": "https://www.zhihu.com/question/2004174915692172333",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
-        },
-        {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
           "url": "https://wallstreetcn.com/livenews/3055681",
           "source": "华尔街见闻-快讯",
@@ -326,15 +328,17 @@
           "time_info": "10时24分"
         },
         {
-          "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
-          "url": "https://flash.jin10.com/detail/20260216045621525800",
-          "source": "金十数据",
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
           "ranks": [
-            7
+            12,
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 22时43分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -347,8 +351,44 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时06分 ~ 22时43分]"
+        },
+        {
+          "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
+          "url": "https://flash.jin10.com/detail/20260216045621525800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时06分 ~ 21时08分]"
+          "time_info": "[16时52分 ~ 22时43分]"
+        },
+        {
+          "title": "这波三角洲AI春晚真该留到今晚看",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 22时43分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -363,42 +403,6 @@
           "time_info": "[00时33分 ~ 06时27分]"
         },
         {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 21时08分]"
-        },
-        {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 21时08分]"
-        },
-        {
-          "title": "这波三角洲AI春晚真该留到今晚看",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
-        },
-        {
           "title": "千问3.5成本仅为谷歌大模型5%",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -408,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
+          "url": "https://wallstreetcn.com/livenews/3055756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "市场消息：OpenAI正就聘请OpenClaw创始人进行深入谈判。",
@@ -454,6 +469,17 @@
           "time_info": "18时53分"
         },
         {
+          "title": "德银：AI“输家”惨遭抛售的种子早在2022年就已种下",
+          "url": "https://wallstreetcn.com/livenews/3055751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "仅凭 AI 真的能做好复杂项目吗？",
           "url": "https://www.zhihu.com/question/1999041081275355787",
           "source": "知乎",
@@ -482,7 +508,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -714,7 +740,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -725,7 +751,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -736,7 +762,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         },
@@ -747,9 +773,92 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "豆包抽奖",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%8A%BD%E5%A5%96&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "豆包暂停视频通话功能",
+          "url": "https://wallstreetcn.com/livenews/3055712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "被豆包Seedance2.0版贺花神美到了",
+          "url": "https://www.douyin.com/hot/2403271",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
+          "title": "豆包春晚科技礼包抽奖攻略",
+          "url": "https://www.douyin.com/hot/2403149",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "豆包红包",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%BA%A2%E5%8C%85&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "春晚贺花神用的是豆包Seedance",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%B4%BA%E8%8A%B1%E7%A5%9E%E7%94%A8%E7%9A%84%E6%98%AF%E8%B1%86%E5%8C%85Seedance%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "豆包科技好礼有春晚同款机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E7%A7%91%E6%8A%80%E5%A5%BD%E7%A4%BC%E6%9C%89%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         }
       ]
     },
@@ -765,8 +874,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 21时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 22时43分]"
         },
         {
           "title": "慕安会上，鲁比奥给了欧洲一个“糖霜苹果”",
@@ -837,11 +946,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 21时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 22时43分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -863,9 +973,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 22时43分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -924,59 +1034,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "豆包暂停视频通话功能",
-          "url": "https://wallstreetcn.com/livenews/3055712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "被豆包Seedance2.0版贺花神美到了",
-          "url": "https://www.douyin.com/hot/2403271",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
-        },
-        {
-          "title": "豆包春晚科技礼包抽奖攻略",
-          "url": "https://www.douyin.com/hot/2403149",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
-        },
-        {
-          "title": "豆包科技好礼有春晚同款机器人",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E7%A7%91%E6%8A%80%E5%A5%BD%E7%A4%BC%E6%9C%89%E6%98%A5%E6%99%9A%E5%90%8C%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         }
       ]
     },
@@ -992,8 +1052,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 21时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 22时43分]"
         },
         {
           "title": "真的有人坚持了 10 年或者 20 年定投基金吗？有什么结果呢？",
@@ -1047,6 +1107,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "macOS ios",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国防长海格塞斯“接近”切断五角大楼与Anthropic的商业联系。海格塞斯接近将Anthropic列为“供应链风险”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3055750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
@@ -1115,7 +1192,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时08分"
         }
