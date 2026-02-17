@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-17T15:02:21.223163+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-02-17T16:51:03.817374+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
+          "url": "https://www.cls.cn/detail/2290959",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 16时51分]"
+        },
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
           "url": "https://wallstreetcn.com/articles/3765773",
@@ -26,19 +40,6 @@
           "ranks": [
             3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 15时02分]"
-        },
-        {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -191,6 +192,17 @@
           "time_info": "[06时31分 ~ 13时23分]"
         },
         {
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
           "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
           "source": "澎湃新闻",
@@ -263,6 +275,17 @@
           "time_info": "[00时47分 ~ 02时47分]"
         },
         {
+          "title": "从模型到算力再到场景 AI点亮上海年味|2026新春走基层",
+          "url": "https://www.cls.cn/detail/2290743",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
           "url": "https://flash.jin10.com/detail/20260217053748212800",
           "source": "金十数据",
@@ -272,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -329,6 +363,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "当高定遇上AI，“上海定制”的变与不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
           "title": "华尔街女股神：卖出AI的人都会后悔",
           "url": "https://www.toutiao.com/trending/7607622242041613865/",
           "source": "今日头条",
@@ -338,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "阿达尼计划投资千亿美元建数据中心 瞄准印度AI领域的崛起机遇",
+          "url": "https://wallstreetcn.com/livenews/3055895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
@@ -365,7 +421,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -375,8 +431,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 16时51分]"
         },
         {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
@@ -511,6 +567,17 @@
           "time_info": "[13时23分 ~ 15时02分]"
         },
         {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
+        },
+        {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3055802",
           "source": "华尔街见闻-快讯",
@@ -529,7 +596,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -602,6 +669,91 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "荷兰国防官员：F-35战机或可像iPhone手机一样“越狱”",
+          "url": "https://news.ifeng.com/c/8qnEVl9tHXs",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时47分 ~ 06时31分]"
+        },
+        {
+          "title": "苹果革新视频播客功能，顺应行业视觉化浪潮",
+          "url": "https://flash.jin10.com/detail/20260217035221574800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "苹果春季发布会落地上海",
+          "url": "https://www.douyin.com/hot/2403646",
+          "source": "抖音",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时51分]"
+        },
+        {
+          "title": "苹果发力视频播客：正面挑战YouTube和Spotify",
+          "url": "https://wallstreetcn.com/livenews/3055825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 06时31分]"
+        },
+        {
+          "title": "iPhone18ProMax或无重大更新",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E6%88%96%E6%97%A0%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "苹果将于3月4日举行发布会，Mac系列更新即将登场",
+          "url": "https://wallstreetcn.com/livenews/3055769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "豆包",
       "match_count": 6,
       "titles": [
@@ -658,7 +810,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -676,70 +828,8 @@
       ]
     },
     {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "荷兰国防官员：F-35战机或可像iPhone手机一样“越狱”",
-          "url": "https://news.ifeng.com/c/8qnEVl9tHXs",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 06时31分]"
-        },
-        {
-          "title": "苹果革新视频播客功能，顺应行业视觉化浪潮",
-          "url": "https://flash.jin10.com/detail/20260217035221574800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "苹果发力视频播客：正面挑战YouTube和Spotify",
-          "url": "https://wallstreetcn.com/livenews/3055825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 06时31分]"
-        },
-        {
-          "title": "苹果春季发布会落地上海",
-          "url": "https://www.douyin.com/hot/2403646",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "苹果将于3月4日举行发布会，Mac系列更新即将登场",
-          "url": "https://wallstreetcn.com/livenews/3055769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "grok 马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
@@ -778,6 +868,17 @@
           "time_info": "[04时35分 ~ 06时31分]"
         },
         {
+          "title": "马斯克母亲发视频拜年",
+          "url": "https://www.toutiao.com/trending/7607606769153589275/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
+        },
+        {
           "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
           "url": "https://wallstreetcn.com/livenews/3055872",
           "source": "华尔街见闻-快讯",
@@ -808,6 +909,18 @@
         },
         {
           "title": "高盛：对冲基金正以十年来最快的速度抄底亚洲市场",
+          "url": "https://wallstreetcn.com/articles/3765794",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时51分]"
+        },
+        {
+          "title": "高盛：对冲基金正以十年来最快的速度抄底亚洲市场",
           "url": "https://wallstreetcn.com/livenews/3055801",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -818,17 +931,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 04时35分]"
-        },
-        {
-          "title": "高盛：对冲基金正以十年来最快的速度抄底亚洲市场",
-          "url": "https://wallstreetcn.com/articles/3765794",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
         },
         {
           "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
@@ -844,6 +946,53 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini nano",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 16时51分]"
+        },
+        {
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时47分 ~ 16时51分]"
+        },
+        {
+          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
+          "url": "https://flash.jin10.com/detail/20260217160309287800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -853,11 +1002,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时14分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[10时14分 ~ 16时51分]"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
@@ -880,41 +1030,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini nano",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 15时02分]"
-        },
-        {
-          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时47分 ~ 15时02分]"
         }
       ]
     },
