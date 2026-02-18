@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-19T02:58:18.953927+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-02-19T04:42:20.222462+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
           "url": "https://www.cls.cn/detail/2290959",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -36,22 +37,24 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -62,30 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
-        },
-        {
-          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
-          "url": "https://wallstreetcn.com/livenews/3056438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
-          "url": "https://wallstreetcn.com/livenews/3056433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -94,20 +75,44 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时42分]"
+        },
+        {
+          "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
+          "url": "https://wallstreetcn.com/livenews/3056433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
+          "url": "https://wallstreetcn.com/livenews/3056438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时42分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
           "url": "https://wallstreetcn.com/livenews/3056432",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时42分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -118,8 +123,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "目前大模型与人类意识的差别在哪里?",
@@ -130,19 +135,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
           "url": "https://www.zhihu.com/question/1960623371101398549",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时42分]"
         },
         {
           "title": "印度AI峰会2月18日要点总结",
@@ -151,7 +157,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -162,7 +168,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -184,7 +190,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -195,9 +201,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国宣布网络安全与AI风险管理倡议",
+          "url": "https://wallstreetcn.com/livenews/3056433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "美国财政部宣布关于加强AI网络安全和风险管理的倡议",
@@ -206,7 +223,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -214,19 +231,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
-          "url": "https://wallstreetcn.com/livenews/3056442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
           "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
@@ -245,7 +251,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -256,7 +262,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -267,9 +273,21 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
+          "url": "https://wallstreetcn.com/livenews/3056442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时42分]"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默正失去对迪戈加西亚的控制权。",
@@ -278,7 +296,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -289,7 +307,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -300,7 +318,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -311,7 +329,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -322,9 +340,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
+          "url": "https://wallstreetcn.com/livenews/3056449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "美国白宫：外交是美国总统特朗普的首选方案。",
@@ -333,9 +362,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
+          "url": "https://wallstreetcn.com/livenews/3056447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：外交是美国总统特朗普对伊朗问题的首选方案。",
+          "url": "https://wallstreetcn.com/livenews/3056445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
         },
         {
           "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
@@ -344,7 +395,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -385,8 +436,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -397,19 +448,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
           "url": "https://www.cls.cn/detail/2291376",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "谷歌推出499美元Pixel 10a，在iPhone 17e发布前登场",
@@ -418,7 +470,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -487,65 +539,50 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
           "url": "https://www.cls.cn/detail/2291354",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 02时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网友称引导豆包完整证明了黎曼猜想，这个证明思路可信度如何？",
-          "url": "https://www.zhihu.com/question/2005989142379663699",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "豆包声称已完整证明了黎曼猜想，可信度如何？",
-          "url": "https://www.zhihu.com/question/2005989142379663699",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时42分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3056464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
           "url": "https://wallstreetcn.com/livenews/3056412",
@@ -565,9 +602,38 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网友称引导豆包完整证明了黎曼猜想，这个证明思路可信度如何？",
+          "url": "https://www.zhihu.com/question/2005989142379663699",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时42分]"
+        },
+        {
+          "title": "豆包声称已完整证明了黎曼猜想，可信度如何？",
+          "url": "https://www.zhihu.com/question/2005989142379663699",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
@@ -582,7 +648,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
