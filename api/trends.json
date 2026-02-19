@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-19T15:03:13.259245+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-02-19T16:49:42.958597+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时49分]"
+        },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
           "url": "https://www.cls.cn/detail/2290959",
@@ -20,16 +33,19 @@
           "time_info": "[01时06分 ~ 15时03分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
           "ranks": [
-            7,
-            6
+            8,
+            9,
+            14,
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 15时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时49分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -58,18 +74,43 @@
           "time_info": "[01时06分 ~ 06时36分]"
         },
         {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
           "source": "贴吧",
           "ranks": [
-            8,
-            9,
-            14,
-            17
+            2,
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 15时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 16时49分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 16时49分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            20,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时49分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -82,43 +123,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时58分 ~ 10时24分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 15时03分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时03分]"
-        },
-        {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 15时03分]"
         },
         {
           "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
@@ -166,6 +170,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
           "url": "https://wallstreetcn.com/livenews/3056505",
           "source": "华尔街见闻-快讯",
@@ -188,6 +203,19 @@
           "time_info": "02时58分"
         },
         {
+          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
+          "url": "https://wallstreetcn.com/livenews/3056572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 16时49分]"
+        },
+        {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
           "url": "https://wallstreetcn.com/livenews/3056438",
           "source": "华尔街见闻-快讯",
@@ -198,18 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 04时42分]"
-        },
-        {
-          "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
-          "url": "https://wallstreetcn.com/livenews/3056572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时03分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -249,6 +265,18 @@
           "time_info": "[01时06分 ~ 04时42分]"
         },
         {
+          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
+          "url": "https://wallstreetcn.com/livenews/3056579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时49分]"
+        },
+        {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3056559",
           "source": "华尔街见闻-快讯",
@@ -270,17 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
-          "url": "https://wallstreetcn.com/livenews/3056579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
         },
         {
           "title": "印度AI峰会2月18日要点总结",
@@ -417,8 +434,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 15时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 16时49分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -428,8 +445,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 16时49分]"
+        },
+        {
+          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
+          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 16时49分]"
         },
         {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
@@ -441,17 +469,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
-          "url": "https://news.ifeng.com/c/8qrt27zMNrI",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 15时03分]"
         },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -520,17 +537,6 @@
           "time_info": "02时58分"
         },
         {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将前往佐治亚州，讨论经适性（经济承受能力）问题。",
           "url": "https://wallstreetcn.com/livenews/3056442",
           "source": "华尔街见闻-快讯",
@@ -563,6 +569,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 16时49分]"
         },
         {
           "title": "美国总统特朗普：这片土地不应从英国手中夺走，如果允许这种情况发生，这将是我们伟大盟友身上的一大污点。",
@@ -736,7 +754,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -787,11 +805,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 15时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时49分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -834,7 +853,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -845,7 +864,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -875,7 +894,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -886,8 +905,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 15时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时49分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -897,8 +916,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时36分 ~ 15时03分]"
+          "appearance_count": 5,
+          "time_info": "[06时36分 ~ 16时49分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 16时49分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -913,16 +945,15 @@
           "time_info": "[01时06分 ~ 04时42分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11
+            10
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 15时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -1050,6 +1081,34 @@
       ]
     },
     {
+      "keyword_group": "grok 马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克官宣Grok4.2公测版上线",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3Grok4.2%E5%85%AC%E6%B5%8B%E7%89%88%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "马斯克：“Ask Grok”功能尚未在4.20 版本中上线，应该会在一两天内上线。",
+          "url": "https://flash.jin10.com/detail/20260219155031833800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "豆包",
       "match_count": 2,
       "titles": [
@@ -1062,11 +1121,12 @@
             4,
             11,
             12,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时58分 ~ 15时03分]"
+          "appearance_count": 10,
+          "time_info": "[02时58分 ~ 16时49分]"
         },
         {
           "title": "豆包声称已完整证明了黎曼猜想，可信度如何？",
@@ -1078,23 +1138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok 马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克官宣Grok4.2公测版上线",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3Grok4.2%E5%85%AC%E6%B5%8B%E7%89%88%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
         }
       ]
     },
