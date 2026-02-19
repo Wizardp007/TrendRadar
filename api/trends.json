@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:10:32.676889+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-02-19T22:51:00.001797+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 21时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 22时50分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -42,11 +42,25 @@
             14,
             17,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 21时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 22时50分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 22时50分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -58,23 +72,27 @@
             20,
             23,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 21时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 22时50分]"
         },
         {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
           "source": "贴吧",
           "ranks": [
-            1,
-            8
+            2,
+            6,
+            9,
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 21时10分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 22时50分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -89,20 +107,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时06分 ~ 10时24分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 21时10分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -140,6 +144,17 @@
           "time_info": "[10时24分 ~ 15时03分]"
         },
         {
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "印度AI峰会大学展示泡沫塑料版无人机",
           "url": "https://www.toutiao.com/trending/7608301157190156351/",
           "source": "今日头条",
@@ -163,6 +178,17 @@
           "time_info": "13时23分"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时50分]"
+        },
+        {
           "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
@@ -172,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2002102277314454310",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
@@ -191,7 +228,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -218,17 +255,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 16时49分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -415,6 +441,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "中美AI科技转向",
+          "url": "https://www.toutiao.com/trending/7608548446047309375/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "Meta启动两份超级协议，来帮助应对人工智能（AI）勒索。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3056483",
           "source": "华尔街见闻-快讯",
@@ -424,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "美国大模型“双雄”当众拒绝握手",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E2%80%9C%E5%8F%8C%E9%9B%84%E2%80%9D%E5%BD%93%E4%BC%97%E6%8B%92%E7%BB%9D%E6%8F%A1%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
@@ -457,12 +505,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "北京大学陈江教授讲AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%99%88%E6%B1%9F%E6%95%99%E6%8E%88%E8%AE%B2AI&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -509,6 +568,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "美国总统特朗普：和平委员会成员在捐款方面非常慷慨。",
+          "url": "https://flash.jin10.com/detail/20260219224254310800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
           "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
           "source": "凤凰网",
@@ -531,6 +601,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "美国总统特朗普：加沙局势非常复杂。",
+          "url": "https://flash.jin10.com/detail/20260219223828467800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美媒：美军最早本周末打击伊朗，特朗普尚未决定",
           "url": "https://news.ifeng.com/c/8qraTXTgXgI",
           "source": "凤凰网",
@@ -548,9 +629,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3056653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -629,6 +721,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普在“和平委员会”召开的首次会议上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260219223603423800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美多家团体起诉特朗普政府撤销气候危害认定",
@@ -855,7 +958,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -866,8 +969,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 21时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 22时50分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时36分 ~ 22时50分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -880,20 +995,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 21时10分]"
-        },
-        {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时36分 ~ 21时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 22时50分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -912,22 +1015,35 @@
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时50分]"
         },
         {
-          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3056638",
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056655",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时10分"
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 22时50分]"
         },
         {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
@@ -941,16 +1057,27 @@
           "time_info": "18时45分"
         },
         {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
+          "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260219223647819800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            11
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时49分 ~ 21时10分]"
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 22时50分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -973,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "美股开盘，道指跌0.31%、标普500指数跌0.37%、纳指跌0.53%。沃尔玛百货(WMT.N)绩后涨1.33%。DoorDash(DASH.N)涨6%，公司上季营收增长37.7%至39.6亿美元。纳斯达克中国金龙指数跌0.43%。",
+          "url": "https://flash.jin10.com/detail/20260219223041250800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -1000,7 +1138,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
@@ -1013,8 +1151,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 21时10分]"
+          "appearance_count": 11,
+          "time_info": "[01时06分 ~ 22时50分]"
         },
         {
           "title": "巴菲特“收山之作”：Q4再抛苹果美银，猛砍亚马逊，首次新进纽约时报",
@@ -1041,6 +1179,18 @@
           "time_info": "[01时06分 ~ 06时36分]"
         },
         {
+          "title": "三星、海力士“调整战略”：新存储工厂生产计划提前",
+          "url": "https://wallstreetcn.com/articles/3765866",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时50分]"
+        },
+        {
           "title": "苹果考虑引入长鑫和长江存储",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%80%83%E8%99%91%E5%BC%95%E5%85%A5%E9%95%BF%E9%91%AB%E5%92%8C%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8",
           "source": "bilibili 热搜",
@@ -1050,18 +1200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "三星、海力士“调整战略”：新存储工厂生产计划提前",
-          "url": "https://wallstreetcn.com/articles/3765866",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 21时10分]"
         },
         {
           "title": "科技股担忧暂缓，日韩股市上涨，韩股创新高，三星电子涨5%，日元走弱至154，地缘局势升温推高金银油价",
@@ -1104,9 +1242,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
+        },
+        {
+          "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
+          "url": "https://www.cls.cn/detail/2291781",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "韩国首尔综指涨3%，创下历史新高。三星电子涨超4%，消息称其正就HBM4的700美元单价进行谈判。",
@@ -1184,7 +1333,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数涨约0.6%",
@@ -1196,6 +1345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美元指数站上98，为2月6日以来首次，日内涨近0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
@@ -1233,7 +1393,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -1246,8 +1406,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 21时10分]"
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 22时50分]"
         },
         {
           "title": "美国财政部文件：与委内瑞拉石油业务合作的公司必须向外国政府存款基金缴纳特许权使用费和联邦税。",
@@ -1354,6 +1514,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Deepseek神回复",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "通义千问 qwen",
       "match_count": 1,
       "titles": [
@@ -1364,7 +1541,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         }
