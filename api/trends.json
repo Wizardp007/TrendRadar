@@ -1,66 +1,148 @@
 {
-  "generated_at": "2026-02-20T02:54:37.127560+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-02-20T04:40:10.720075+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
-          "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
-          "url": "https://wallstreetcn.com/livenews/3056738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
-          "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
-          "url": "https://flash.jin10.com/detail/20260220021610767800",
+          "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
+          "url": "https://flash.jin10.com/detail/20260220034308215800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时40分"
         },
         {
-          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
-          "url": "https://flash.jin10.com/detail/20260220021119038800",
+          "title": "美国总统特朗普：无论如何都会拿下“拯救美国法案”（The Save America Act）。",
+          "url": "https://wallstreetcn.com/livenews/3056754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
+          "url": "https://flash.jin10.com/detail/20260220034222845800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260220034153793800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时40分"
         },
         {
-          "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
-          "url": "https://flash.jin10.com/detail/20260220021016649800",
+          "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
+          "url": "https://flash.jin10.com/detail/20260220034121662800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时40分"
         },
         {
-          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
-          "url": "https://flash.jin10.com/detail/20260220020836905800",
+          "title": "美国总统特朗普：并不知道外星人是否真实存在。",
+          "url": "https://flash.jin10.com/detail/20260220034054475800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时40分"
+        },
+        {
+          "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
+          "url": "https://wallstreetcn.com/livenews/3056738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
+        },
+        {
+          "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
+          "url": "https://wallstreetcn.com/livenews/3056746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
+          "url": "https://flash.jin10.com/detail/20260220021610767800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
+        },
+        {
+          "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
+          "url": "https://flash.jin10.com/detail/20260220021119038800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
+        },
+        {
+          "title": "美国总统特朗普：我很乐意让俄罗斯参与（伊朗谈判的）外交事务。",
+          "url": "https://flash.jin10.com/detail/20260220021016649800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
+        },
+        {
+          "title": "美国总统特朗普：无论如何都会就伊朗问题达成协议。如果未能达成伊朗协议，将会发生非常糟糕的事情。",
+          "url": "https://flash.jin10.com/detail/20260220020836905800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
         },
         {
           "title": "特朗普称对台军售要跟中国商量",
@@ -79,22 +161,48 @@
           "url": "https://flash.jin10.com/detail/20260220015619763800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
         },
         {
           "title": "特朗普会见印尼总统普拉博沃，签经济安全协议",
           "url": "https://wallstreetcn.com/livenews/3056728",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
+        },
+        {
+          "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
+          "url": "https://wallstreetcn.com/livenews/3056724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
+        },
+        {
+          "title": "特朗普主题ETF管理公司收购MAGA基金",
+          "url": "https://wallstreetcn.com/livenews/3056722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
         },
         {
           "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
@@ -119,17 +227,6 @@
           "time_info": "00时56分"
         },
         {
-          "title": "特朗普宣称：和平委员会获170亿美元加沙援助承诺，多国拟派员参与稳定部队",
-          "url": "https://wallstreetcn.com/livenews/3056724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
-        },
-        {
           "title": "特朗普：联合国潜力巨大但未充分发挥，美国将提供资金并加强监督",
           "url": "https://flash.jin10.com/detail/20260220001430719800",
           "source": "金十数据",
@@ -152,15 +249,15 @@
           "time_info": "00时56分"
         },
         {
-          "title": "特朗普主题ETF管理公司收购MAGA基金",
-          "url": "https://wallstreetcn.com/livenews/3056722",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普将因乌克兰问题对俄罗斯所实施的制裁延长一年",
+          "url": "https://flash.jin10.com/detail/20260220030505008800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时40分"
         },
         {
           "title": "美国总统特朗普：“和平委员会”可能会有助于化解世界上的“（那些）热点”问题。",
@@ -169,7 +266,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -191,7 +288,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -232,7 +329,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -242,19 +339,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -264,8 +362,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -275,30 +373,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
           "url": "https://flash.jin10.com/detail/20260220020324756800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
         },
         {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
           "url": "https://wallstreetcn.com/livenews/3056737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -308,8 +408,42 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
+        },
+        {
+          "title": "AI大战:鹅厂阿里双双出局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
+        },
+        {
+          "title": "疑似ai?鹰角整活六指琴魔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
+        },
+        {
+          "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
+          "url": "https://wallstreetcn.com/livenews/3056721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "time_info": "[02时54分 ~ 04时40分]"
         },
         {
           "title": "美国大模型“双雄”当众拒绝握手",
@@ -323,54 +457,77 @@
           "time_info": "[00时55分 ~ 00时56分]"
         },
         {
-          "title": "AI大战:鹅厂阿里双双出局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
-          "source": "贴吧",
+          "title": "中美AI科技转向",
+          "url": "https://www.toutiao.com/trending/7608548446047309375/",
+          "source": "今日头条",
           "ranks": [
-            23
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "time_info": "[04时39分 ~ 04时40分]"
         },
         {
-          "title": "疑似ai?鹰角整活六指琴魔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
-        },
-        {
-          "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
-          "url": "https://wallstreetcn.com/livenews/3056721",
+          "title": "印度AI影响力峰会2月19日要点总结",
+          "url": "https://wallstreetcn.com/livenews/3056741",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时40分"
+        },
+        {
+          "title": "据The Information：AMD(AMD.O)将为AI基础设施公司Crusoe的3亿美元贷款提供担保，如果该公司缺乏客户，AMD将向其租用芯片。",
+          "url": "https://flash.jin10.com/detail/20260220025038360800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     },
     {
       "keyword_group": "基金",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
-          "title": "Nadeem旗下对冲基金Deem资产规模达30亿，宣布停止吸收新资金",
-          "url": "https://wallstreetcn.com/livenews/3056735",
+          "title": "文件显示，巴西正考虑放宽与国家航空基金FNAC贷款挂钩的区域航空要求，拟将FNAC融资上限从飞机价值的10%提高至30%，并考虑放宽航空公司从FNAC基金获取补贴贷款的条件。",
+          "url": "https://flash.jin10.com/detail/20260220035152122800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "LSEG理柏：垃圾债券基金流出加剧，美国国债需求降温",
+          "url": "https://wallstreetcn.com/livenews/3056753",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时54分"
+          "time_info": "04时40分"
+        },
+        {
+          "title": "Nadeem旗下对冲基金Deem资产规模达30亿，宣布停止吸收新资金",
+          "url": "https://wallstreetcn.com/livenews/3056735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时54分 ~ 04时40分]"
         },
         {
           "title": "首席展望｜融通基金李进：股市上行逻辑未破，三大驱动变量是观察核心",
@@ -381,8 +538,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "国际货币基金组织：董事会将于2月25日举行会议，审议对埃及EFF贷款计划和EFF、RSF计划下23亿美元支出的综合审查。",
@@ -442,19 +599,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -465,8 +623,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -476,8 +634,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -497,26 +655,28 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
-          "url": "https://www.cls.cn/detail/2291376",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
-        },
-        {
           "title": "三星、海力士“调整战略”：新存储工厂生产计划提前",
           "url": "https://wallstreetcn.com/articles/3765866",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
+        },
+        {
+          "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
+          "url": "https://www.cls.cn/detail/2291376",
+          "source": "财联社热门",
+          "ranks": [
+            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         },
         {
           "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
@@ -524,11 +684,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时40分]"
         }
       ]
     },
@@ -555,7 +716,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -566,7 +727,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
@@ -586,6 +747,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（2月19日）纽约尾盘，ICE美元指数涨0.20%，报97.894点，北京时间17:08跌至97.572点刷新日低，随后逐步上扬，22:25刷新日高至98.074点。 彭博美元指数涨0.16%，报1191.07点，日内交投区间为1188.01-1192.71点。",
+          "url": "https://wallstreetcn.com/livenews/3056755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时40分"
         }
       ]
     }
