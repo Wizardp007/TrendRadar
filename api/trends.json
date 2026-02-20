@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-02-20T10:12:53.865300+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-02-20T13:17:38.821435+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
           "url": "https://news.ifeng.com/c/8qt5v4Gxsqm",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
+        },
+        {
+          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
+          "url": "https://wallstreetcn.com/articles/3765876",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
         },
         {
           "title": "特朗普称在“可负担性”问题上赢得了胜利",
@@ -30,6 +43,17 @@
           "time_info": "07时00分"
         },
         {
+          "title": "特朗普开了前所未有的一个会",
+          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
+        },
+        {
           "title": "特朗普批评健康保险公司，并表示有关其股票上涨的报道让他感到不满。",
           "url": "https://flash.jin10.com/detail/20260220064053130800",
           "source": "金十数据",
@@ -39,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
-        },
-        {
-          "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
-          "url": "https://wallstreetcn.com/articles/3765876",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
@@ -74,6 +87,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "特朗普：高市早苗“特别喜欢我”",
+          "url": "https://news.ifeng.com/c/8qtWnv1ctZC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "美国总统特朗普：伊朗谈判达成协议的时间窗口最多为10到15天。",
           "url": "https://flash.jin10.com/detail/20260220034222845800",
           "source": "金十数据",
@@ -85,15 +109,15 @@
           "time_info": "04时40分"
         },
         {
-          "title": "特朗普开了前所未有的一个会",
-          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
           "source": "凤凰网",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：乐意让俄罗斯加入“和平委员会”。",
@@ -107,6 +131,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "美国总统特朗普：前英国王子安德鲁被捕对王室来说非常糟糕。",
           "url": "https://flash.jin10.com/detail/20260220034121662800",
           "source": "金十数据",
@@ -116,6 +151,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
+        },
+        {
+          "title": "特朗普赞叹中国仪仗队",
+          "url": "https://www.toutiao.com/trending/7607775152985899059/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国总统特朗普：并不知道外星人是否真实存在。",
@@ -129,6 +175,17 @@
           "time_info": "04时40分"
         },
         {
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "美国总统特朗普谈及住房经适性，宣称：我们已经解决了这个问题。 正在终结华尔街公司购买住房这个“骗局”。",
           "url": "https://wallstreetcn.com/livenews/3056813",
           "source": "华尔街见闻-快讯",
@@ -138,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
-        },
-        {
-          "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
-          "url": "https://wallstreetcn.com/livenews/3056840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
@@ -161,17 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 04时40分]"
-        },
-        {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "摩根大通聘请世达律师事务所，应对特朗普迈阿密“销户案”诉讼",
@@ -231,6 +266,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 04时40分]"
+        },
+        {
+          "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
+          "url": "https://wallstreetcn.com/livenews/3056840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
         },
         {
           "title": "特朗普称对台军售要跟中国商量",
@@ -294,12 +341,23 @@
         },
         {
           "title": "特朗普称奥巴马涉外星人言论泄密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "特朗普称奥巴马涉外星人言论泄密",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%A5%E5%B7%B4%E9%A9%AC%E6%B6%89%E5%A4%96%E6%98%9F%E4%BA%BA%E8%A8%80%E8%AE%BA%E6%B3%84%E5%AF%86%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -310,7 +368,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -321,7 +379,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -409,7 +467,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -423,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "特朗普主持加沙“和平委员会”首次会议 美国承诺出资100亿",
@@ -486,7 +555,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -511,6 +580,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "市场消息：特朗普将于美东时间周五上午9:30（北京时间22:30）会见各州州长。",
+          "url": "https://flash.jin10.com/detail/20260220112236461800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "美佛州棕榈滩机场将更名为“唐纳德·特朗普国际机场”",
+          "url": "https://flash.jin10.com/detail/20260220112156259800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国总统特朗普赞赏私人行业的就业增长。",
@@ -552,7 +643,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -604,7 +695,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -649,11 +740,36 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 13时17分]"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 13时17分]"
+        },
+        {
+          "title": "港股马年首个交易日：恒科指跌超2%，大模型和存储逆势大涨，机器人延续涨势",
+          "url": "https://wallstreetcn.com/articles/3765892",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "什么样的软件会被AI淘汰？",
@@ -666,18 +782,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 10时12分]"
-        },
-        {
-          "title": "终末地建模,AI偷偷加料",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 10时12分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -703,15 +807,27 @@
           "time_info": "[00时56分 ~ 10时12分]"
         },
         {
+          "title": "港股午评：恒指收跌0.61% AI应用、机器人概念股逆势走强",
+          "url": "https://flash.jin10.com/detail/20260220121721108800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -738,6 +854,18 @@
           "time_info": "[02时54分 ~ 04时40分]"
         },
         {
+          "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
+          "url": "https://wallstreetcn.com/livenews/3056838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
+        },
+        {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
           "url": "https://wallstreetcn.com/livenews/3056721",
           "source": "华尔街见闻-快讯",
@@ -748,6 +876,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 04时40分]"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
         },
         {
           "title": "美国大模型“双雄”当众拒绝握手",
@@ -772,17 +912,6 @@
           "time_info": "[04时39分 ~ 04时40分]"
         },
         {
-          "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
-          "url": "https://wallstreetcn.com/livenews/3056838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
           "title": "印度AI影响力峰会2月19日要点总结",
           "url": "https://wallstreetcn.com/livenews/3056741",
           "source": "华尔街见闻-快讯",
@@ -794,15 +923,15 @@
           "time_info": "04时40分"
         },
         {
-          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3056832",
-          "source": "华尔街见闻-快讯",
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时17分"
         },
         {
           "title": "据The Information：AMD(AMD.O)将为AI基础设施公司Crusoe的3亿美元贷款提供担保，如果该公司缺乏客户，AMD将向其租用芯片。",
@@ -822,9 +951,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
+          "url": "https://flash.jin10.com/detail/20260220114803176800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
@@ -833,7 +973,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -852,8 +992,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 13时17分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -869,6 +1009,18 @@
           "time_info": "[00时56分 ~ 07时00分]"
         },
         {
+          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时00分 ~ 13时17分]"
+        },
+        {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
@@ -880,18 +1032,6 @@
           "time_info": "[00时56分 ~ 04时40分]"
         },
         {
-          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 10时12分]"
-        },
-        {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
           "url": "https://www.cls.cn/detail/2291660",
           "source": "财联社热门",
@@ -900,8 +1040,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 13时17分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -911,19 +1063,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 02时54分]"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 13时17分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
@@ -1071,8 +1212,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini nano",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "Google 发布 Gemini3.1Pro 模型，它在技术上有哪些亮点和突破？",
+          "url": "https://www.zhihu.com/question/2007991688078045862",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
         {
           "title": "Gemini3.1 Pro上线",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.1%20Pro%E4%B8%8A%E7%BA%BF",
@@ -1080,7 +1232,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -1132,11 +1284,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 13时17分]"
         },
         {
           "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
@@ -1149,8 +1302,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 13时17分]"
         },
         {
           "title": "巴菲特交棒前最后一份13F：减持苹果和美银 加仓能源与保险",
@@ -1161,8 +1314,36 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 13时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛：综合来看，各国央行的购金行为和私人投资者为应对美联储降息而增加的黄金敞口，将推动金价在2026年底前缓慢攀升至每盎司5400美元。",
+          "url": "https://flash.jin10.com/detail/20260220093444077800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "高盛：央行购金叠加私人投资 金价年底前将缓慢攀升至5400美元",
+          "url": "https://flash.jin10.com/detail/20260220113143576800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -1175,11 +1356,12 @@
           "url": "https://www.douyin.com/hot/2406034",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时17分]"
         }
       ]
     },
@@ -1197,23 +1379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛：综合来看，各国央行的购金行为和私人投资者为应对美联储降息而增加的黄金敞口，将推动金价在2026年底前缓慢攀升至每盎司5400美元。",
-          "url": "https://flash.jin10.com/detail/20260220093444077800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         }
       ]
     },
