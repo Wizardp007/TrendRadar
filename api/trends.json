@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T18:53:27.502647+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-02-23T21:10:54.178942+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 18时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 21时10分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -113,6 +113,19 @@
           "time_info": "[13时27分 ~ 16时54分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 21时10分]"
+        },
+        {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
           "url": "https://wallstreetcn.com/livenews/3057287",
           "source": "华尔街见闻-快讯",
@@ -138,16 +151,17 @@
           "time_info": "[00时33分 ~ 04时30分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
+            10,
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 21时10分]"
         },
         {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
@@ -170,7 +184,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -181,21 +195,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
         {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            7
+            14,
+            13,
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 21时10分]"
         },
         {
           "title": "市场消息：在美国最高法院推翻特朗普征收关税的决定后，印度正研究此举对与美国双边贸易协定的影响。",
@@ -204,9 +220,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
+        },
+        {
+          "title": "特朗普：我可以用许可证向外国收费。 可以利用许可证对外国采取绝对严厉的措施。",
+          "url": "https://wallstreetcn.com/livenews/3057463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "美媒：特朗普倾向未来几天对伊实施初步打击 未来数月可能发动更大规模攻击",
@@ -257,19 +284,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 06时28分]"
-        },
-        {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 18时53分]"
         },
         {
           "title": "男子持枪闯入特朗普住所被击毙",
@@ -366,6 +380,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
           "url": "https://flash.jin10.com/detail/20260223084819049800",
           "source": "金十数据",
@@ -388,6 +413,17 @@
           "time_info": "15时07分"
         },
         {
+          "title": "英国首相发言人：不认为美国总统特朗普最新发布的关税公告会影响去年宣布的英美多数经济协议。",
+          "url": "https://flash.jin10.com/detail/20260223203204446800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
           "url": "https://flash.jin10.com/detail/20260223081143529800",
           "source": "金十数据",
@@ -399,6 +435,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "特朗普：最高法在无意间给予了我更多的权力",
+          "url": "https://flash.jin10.com/detail/20260223201801511800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
           "url": "https://wallstreetcn.com/livenews/3057256",
           "source": "华尔街见闻-快讯",
@@ -408,6 +455,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以利用许可证对外国采取绝对严厉的措施。",
+          "url": "https://flash.jin10.com/detail/20260223200904902800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "美国总统特朗普：（谈关税）其他关税“完全可以以一种更具威力且更为蛮横的方式加以使用”。",
+          "url": "https://flash.jin10.com/detail/20260223200733570800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "美国总统特朗普：（谈关税）美国最高法院“在无意中且未察觉的情况下”赋予总统比裁决前“强大得多的权力”。",
+          "url": "https://flash.jin10.com/detail/20260223200557720800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "Netflix董事会成员警告“向特朗普屈膝”企业将自食其果，特朗普怒了",
@@ -435,7 +515,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -446,8 +526,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 18时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 21时10分]"
         },
         {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
@@ -456,11 +536,24 @@
           "ranks": [
             10,
             13,
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 21时10分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时33分 ~ 18时53分]"
+          "time_info": "[00时33分 ~ 21时10分]"
         },
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -472,6 +565,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 10时25分]"
+        },
+        {
+          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
+          "url": "https://wallstreetcn.com/articles/3765968",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 21时10分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -486,6 +594,21 @@
           "time_info": "[00时33分 ~ 10时25分]"
         },
         {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 21时10分]"
+        },
+        {
           "title": "表面风光之下，OpenAI的“四大困境”",
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
@@ -495,20 +618,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 10时25分]"
-        },
-        {
-          "title": "恒生科技大涨超3%，美团涨超5%，“大模型双雄”智谱、MINIMAX明显回调",
-          "url": "https://wallstreetcn.com/articles/3765968",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 18时53分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -534,29 +643,16 @@
           "time_info": "[10时25分 ~ 16时54分]"
         },
         {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 18时53分]"
-        },
-        {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8,
-            6,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 18时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 21时10分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -571,18 +667,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时33分 ~ 06时28分]"
-        },
-        {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 18时53分]"
         },
         {
           "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
@@ -632,6 +716,17 @@
           "time_info": "[15时07分 ~ 16时54分]"
         },
         {
+          "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2008557531367224108",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
           "url": "https://flash.jin10.com/detail/20260223125210171800",
           "source": "金十数据",
@@ -641,6 +736,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "AI骗局三件套涌入老年机",
@@ -678,6 +784,113 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2292233",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 16时54分]"
+        },
+        {
+          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
+          "url": "https://wallstreetcn.com/articles/3765941",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时28分]"
+        },
+        {
+          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 21时10分]"
+        },
+        {
+          "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
+          "url": "https://wallstreetcn.com/livenews/3057431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "特朗普关税被判违法 华尔街投行：哪些美股公司最受益？",
+          "url": "https://www.cls.cn/detail/2292391",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3057423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "礼来(LLY.N)美股盘前上涨2.1%。",
+          "url": "https://flash.jin10.com/detail/20260223174523816800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时53分"
+        },
+        {
+          "title": "达美乐比萨第四季度营收15.4亿美元，预估15.2亿美元。 第四季度调整后每股收益5.35美元，预估5.37美元。 达美乐比萨美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3057447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "Arcellx美股盘前涨超76%，吉利德科学将以每股115美元的价格收购Arcellx。",
+          "url": "https://wallstreetcn.com/livenews/3057446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
       "match_count": 6,
       "titles": [
@@ -687,11 +900,12 @@
           "source": "微博",
           "ranks": [
             4,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 18时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时07分 ~ 21时10分]"
         },
         {
           "title": "曝iPhone18Pro正测试深红色",
@@ -758,79 +972,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2292233",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 16时54分]"
-        },
-        {
-          "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
-          "url": "https://wallstreetcn.com/articles/3765941",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
-        },
-        {
-          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
-          "url": "https://wallstreetcn.com/livenews/3057431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
-          "url": "https://wallstreetcn.com/livenews/3057423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        },
-        {
-          "title": "礼来(LLY.N)美股盘前上涨2.1%。",
-          "url": "https://flash.jin10.com/detail/20260223174523816800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "macOS ios",
       "match_count": 3,
       "titles": [
@@ -841,7 +982,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         },
@@ -864,7 +1005,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
@@ -903,7 +1044,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时53分"
         }
@@ -955,11 +1096,12 @@
           "ranks": [
             13,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时39分 ~ 18时53分]"
+          "appearance_count": 9,
+          "time_info": "[02时39分 ~ 21时10分]"
         }
       ]
     }
