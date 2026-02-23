@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T06:28:18.527416+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-02-23T10:25:29.756459+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -15,31 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
-        },
-        {
-          "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
-          "url": "https://wallstreetcn.com/articles/3765942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "美国前商务部长：其他关税方案，都会削弱特朗普对华谈判筹码",
           "url": "https://news.ifeng.com/c/8qxAuTEgS6q",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "美州长向特朗普发账单，要求退回87亿美元关税",
@@ -49,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "日方批特朗普再加征关税：混乱环境或致日企撤离美国",
@@ -60,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "特朗普宣布签署行政令 加征10%全球进口关税",
@@ -69,6 +58,18 @@
           "source": "财联社热门",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
+        },
+        {
+          "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
+          "url": "https://wallstreetcn.com/articles/3765942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -100,6 +101,17 @@
           "time_info": "[00时33分 ~ 04时30分]"
         },
         {
+          "title": "连锁反应来了，印度打脸特朗普",
+          "url": "https://news.ifeng.com/c/8qyEs3M9n4D",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "一名试图闯入特朗普海湖庄园的男子被枪击身亡",
           "url": "https://wallstreetcn.com/livenews/3057279",
           "source": "华尔街见闻-快讯",
@@ -120,7 +132,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -170,9 +182,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "韩国产业部长：芯片不受美国总统特朗普最新关税的影响。",
+          "url": "https://flash.jin10.com/detail/20260223085113118800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
@@ -184,6 +207,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "行业机构：澳大利亚将维持特朗普牛肉关税豁免待遇",
+          "url": "https://flash.jin10.com/detail/20260223084819049800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "连锁反应来了 印度打脸特朗普",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "男子持枪闯入特朗普住所被击毙",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "美国官员警告说，如果特朗普下令打击伊朗，伊朗可能会通过真主党或基地组织等代理人对美国在海外的目标进行报复。",
+          "url": "https://flash.jin10.com/detail/20260223081143529800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "美国总统特使：特朗普感到“好奇”，“伊朗为何还没有屈服”",
@@ -211,7 +278,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -221,8 +288,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -232,8 +299,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -244,8 +311,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -255,8 +322,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -266,19 +333,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
-        },
-        {
-          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
-          "url": "https://www.cls.cn/detail/2292342",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
@@ -295,13 +351,36 @@
           "time_info": "[00时33分 ~ 06时28分]"
         },
         {
+          "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
+          "url": "https://www.cls.cn/detail/2292342",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，美团涨超5%，华虹半导体、中芯国际涨超4%。 港股大模型概念跌幅扩大，智谱跌超17%，MINIMAX跌超11%。",
+          "url": "https://wallstreetcn.com/livenews/3057331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "在你的专业领域，大模型目前最难跨越的一道「门坎」是什么？",
           "url": "https://www.zhihu.com/question/2003062708547843506",
           "source": "知乎",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         },
@@ -319,6 +398,17 @@
           "time_info": "[00时33分 ~ 06时28分]"
         },
         {
+          "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
+          "url": "https://wallstreetcn.com/articles/3765955",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
           "url": "https://www.cls.cn/detail/2292422",
           "source": "财联社热门",
@@ -328,6 +418,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 06时28分]"
+        },
+        {
+          "title": "博主：《飞驰人生3》韩寒沈腾战胜AI焦虑",
+          "url": "https://www.toutiao.com/trending/7609833127870991881/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
@@ -369,7 +470,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
         }
@@ -385,11 +486,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "智谱发布GLM-5技术报告，技术细节全公开",
@@ -419,8 +521,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 06时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 10时25分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -462,11 +564,29 @@
           "url": "https://www.cls.cn/detail/2292521",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 06时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 10时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国主权财富基金KIC报告称，2025年的投资回报率为13.9%。",
+          "url": "https://wallstreetcn.com/livenews/3057322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     }
