@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T21:09:33.466164+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-02-25T22:52:09.457735+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -54,6 +54,17 @@
           "time_info": "[01时47分 ~ 06时37分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 22时52分]"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -78,6 +89,19 @@
           "time_info": "[15时05分 ~ 16时53分]"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 22时52分]"
+        },
+        {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
           "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
           "source": "凤凰网",
@@ -99,17 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时24分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 21时09分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -145,16 +158,15 @@
           "time_info": "04时38分"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
+          "title": "墨西哥总统：曾与美国总统特朗普通话，“让其了解针对墨西哥的情况”。",
+          "url": "https://flash.jin10.com/detail/20260225223331337800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 21时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -188,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
@@ -431,7 +454,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -508,7 +531,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -670,8 +693,21 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时05分 ~ 22时52分]"
+        },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
           "url": "https://wallstreetcn.com/articles/3766081",
@@ -689,19 +725,6 @@
           "time_info": "[01时47分 ~ 21时09分]"
         },
         {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时05分 ~ 21时09分]"
-        },
-        {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
@@ -709,8 +732,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 22时52分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时24分 ~ 21时09分]"
+          "time_info": "[13时24分 ~ 22时52分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -735,19 +771,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时24分 ~ 18时54分]"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 21时09分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -960,6 +983,29 @@
           "time_info": "04时38分"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 22时52分]"
+        },
+        {
+          "title": "戴尔(DELL.N)推出PowerEdge XR9700服务器，面向云无线接入网 (Cloud RAN) 和边缘人工智能 (Edge AI) 。",
+          "url": "https://flash.jin10.com/detail/20260225222134762800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
           "url": "https://flash.jin10.com/detail/20260225024214208800",
           "source": "金十数据",
@@ -984,17 +1030,6 @@
           "time_info": "[03时05分 ~ 04时38分]"
         },
         {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
           "title": "Mosaic预计2026年资本开支大约15亿美元。",
           "url": "https://wallstreetcn.com/livenews/3058359",
           "source": "华尔街见闻-快讯",
@@ -1012,9 +1047,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "SoundHound AI Inc.在Bengaluru（印度班加罗尔）成立新的创新中心。",
+          "url": "https://wallstreetcn.com/livenews/3058919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -1222,7 +1268,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
@@ -1244,11 +1290,12 @@
             10,
             8,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时04分 ~ 21时09分]"
+          "appearance_count": 8,
+          "time_info": "[15时04分 ~ 22时52分]"
         },
         {
           "title": "小米法拉利保时捷纽北对决",
@@ -1264,6 +1311,19 @@
           "time_info": "[13时24分 ~ 16时53分]"
         },
         {
+          "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
+          "url": "https://www.zhihu.com/question/2009592449786474884",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 22时52分]"
+        },
+        {
           "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
           "url": "https://www.cls.cn/detail/2294110",
           "source": "财联社热门",
@@ -1273,6 +1333,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时24分 ~ 15时05分]"
+        },
+        {
+          "title": "华为将首发阔折叠屏",
+          "url": "https://www.toutiao.com/trending/7610249379961897002/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "小米起诉自媒体侵权，获赔500万",
@@ -1321,18 +1392,6 @@
           "time_info": "18时54分"
         },
         {
-          "title": "华为 2025 年销售收入超过 8800 亿元，如何解读此业绩？2026 年能破万亿吗？",
-          "url": "https://www.zhihu.com/question/2009592449786474884",
-          "source": "知乎",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时53分 ~ 21时09分]"
-        },
-        {
           "title": "网友称苹果手机深夜自动外拨电话",
           "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%B7%B1%E5%A4%9C%E8%87%AA%E5%8A%A8%E5%A4%96%E6%8B%A8%E7%94%B5%E8%AF%9D",
           "source": "百度热搜",
@@ -1352,7 +1411,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1393,6 +1452,17 @@
           "time_info": "[01时47分 ~ 03时05分]"
         },
         {
+          "title": "雷军揭幕新一代小米 SU7「赤霞红」，新车预计 2026 年 4 月上市，你对这款车有哪些期待？",
+          "url": "https://www.zhihu.com/question/2009569124448232152",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
+        },
+        {
           "title": "iPhone18Pro深红色",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E8%89%B2%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1402,6 +1472,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "iPhone可添加门禁卡可写入加密",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E5%8F%AF%E6%B7%BB%E5%8A%A0%E9%97%A8%E7%A6%81%E5%8D%A1%E5%8F%AF%E5%86%99%E5%85%A5%E5%8A%A0%E5%AF%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "小米新一代SU7赤霞红亮相",
@@ -1463,7 +1544,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
@@ -1488,6 +1569,50 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 10时24分]"
+        },
+        {
+          "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
+          "url": "https://wallstreetcn.com/livenews/3058936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美股锂矿概念股走强，Sigma Lithium大涨27%，美国雅保涨9.91%，Lithium Argentina AG涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260225223210838800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美股开盘，道指涨0.35%、标普500指数涨0.43%、纳指涨0.67%，英伟达(NVDA.O)开涨1%，公司将于盘后公布四季度财报，甲骨文涨2.5%，此前奥本海默将其评级上调至“跑赢大盘”。",
+          "url": "https://flash.jin10.com/detail/20260225223043019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -1525,6 +1650,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225220210090800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -1534,6 +1670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3058910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
@@ -1564,9 +1711,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
+        },
+        {
+          "title": "美股期货短线波动不大，美国贸易代表格里尔：正在研究如何实施15%的关税",
+          "url": "https://wallstreetcn.com/livenews/3058905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -1630,7 +1788,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         }
@@ -1638,7 +1796,7 @@
     },
     {
       "keyword_group": "基金",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国开发贷款机构寻求转型：向主权财富基金模式看齐",
@@ -1653,6 +1811,17 @@
           "time_info": "[01时47分 ~ 03时05分]"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（2月24日）担保隔夜融资利率（SOFR）报3.67%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3058916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "春节热闹的题材怎么没火？美国关税调整如何影响A股？基金公司一线解读",
           "url": "https://www.cls.cn/detail/2294205",
           "source": "财联社热门",
@@ -1664,13 +1833,24 @@
           "time_info": "16时53分"
         },
         {
+          "title": "基金会主席竟是爱泼斯坦的常客！普利兹克建筑奖被迫推迟公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653585",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "俄罗斯财长：今年实施更严格的预算规则将有助于保住国家财富基金，缓解汇市压力。",
           "url": "https://flash.jin10.com/detail/20260225205602970800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时09分"
         },
@@ -1781,7 +1961,7 @@
     },
     {
       "keyword_group": "Claude Claude-code",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
@@ -1809,6 +1989,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 06时37分]"
+        },
+        {
+          "title": "黑客利用Anthropic的Claude窃取敏感的墨西哥数据。",
+          "url": "https://wallstreetcn.com/livenews/3058914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
@@ -1920,11 +2111,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时09分 ~ 22时52分]"
         }
       ]
     }
