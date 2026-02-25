@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T10:24:05.483353+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-02-25T13:24:59.885375+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 10时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 13时24分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -58,11 +58,35 @@
           "url": "https://news.ifeng.com/c/8r1UTBsOox0",
           "source": "凤凰网",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "13时24分"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -74,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "特朗普打还是不打，只是时间问题了",
-          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -109,6 +122,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "特朗普：伊朗正研制很快打到美国的导弹",
+          "url": "https://www.toutiao.com/trending/7610645788871364115/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
           "url": "https://flash.jin10.com/detail/20260225011033725800",
           "source": "金十数据",
@@ -126,7 +150,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -140,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "特朗普：北约国家向美国全额购买武器并交付乌克兰",
+          "url": "https://flash.jin10.com/detail/20260225124552182800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
@@ -164,13 +199,24 @@
           "time_info": "04时38分"
         },
         {
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普的政策只利于他本人及其圈子。",
+          "url": "https://flash.jin10.com/detail/20260225124021948800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "市场消息：美国首席大法官约翰·罗伯茨，大法官艾米·科尼·巴雷特、布雷特·卡瓦诺以及埃琳娜·卡根正在出席特朗普的国情咨文演讲。",
           "url": "https://flash.jin10.com/detail/20260225095755783800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -249,7 +295,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -260,9 +306,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "特朗普国情咨文演讲大骂：这些人疯了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AE%B2%E5%A4%A7%E9%AA%82%EF%BC%9A%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
+          "url": "https://flash.jin10.com/detail/20260225121648684800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "特朗普将要求国会禁止投资公司购买独栋住宅",
@@ -271,7 +339,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -282,9 +350,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "弗吉尼亚州州长斯潘伯格：美国民众正在为美国总统特朗普的贸易政策埋单。",
+          "url": "https://flash.jin10.com/detail/20260225121629384800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国总统特朗普抵达国会山发表国情咨文。",
@@ -293,9 +372,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "美国总统特朗普：美国“没有需要征服的疆界”。",
+          "url": "https://flash.jin10.com/detail/20260225120152923800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "白宫：特朗普对伊朗首选方案是外交",
@@ -307,6 +397,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普的国情咨文演讲持续1小时48分钟后结束，创历史之最。",
+          "url": "https://flash.jin10.com/detail/20260225120035789800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
@@ -326,7 +438,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -337,7 +449,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -348,7 +460,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -381,9 +493,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "超100分钟，特朗普打破国情咨文演讲时长纪录",
+          "url": "https://wallstreetcn.com/livenews/3058584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "特朗普政府被1000多家企业起诉",
@@ -411,20 +534,8 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 06时37分]"
-        },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
           "url": "https://wallstreetcn.com/articles/3766081",
@@ -437,8 +548,33 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 13时24分]"
+        },
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时47分 ~ 10时24分]"
+          "time_info": "[03时05分 ~ 13时24分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时37分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -466,19 +602,6 @@
           "time_info": "[01时47分 ~ 10时24分]"
         },
         {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时05分 ~ 10时24分]"
-        },
-        {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
           "url": "https://wallstreetcn.com/articles/3766006",
           "source": "华尔街见闻",
@@ -488,6 +611,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 04时38分]"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -504,35 +649,13 @@
           "time_info": "[01时47分 ~ 06时37分]"
         },
         {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
           "title": "AI热潮推动韩国股市市值超越法国 跃升至全球第九",
           "url": "https://flash.jin10.com/detail/20260225100845851800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -548,15 +671,50 @@
           "time_info": "06时37分"
         },
         {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "港股大模型概念股跌幅扩大，MINIMAX-WP跌超16%，智谱跌超8%。",
           "url": "https://wallstreetcn.com/livenews/3058469",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
+        },
+        {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
         },
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -616,17 +774,6 @@
           "time_info": "06时37分"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
           "url": "https://flash.jin10.com/detail/20260225033807828800",
           "source": "金十数据",
@@ -638,15 +785,15 @@
           "time_info": "04时38分"
         },
         {
-          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
-          "url": "https://wallstreetcn.com/articles/3766046",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "13时24分"
         },
         {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
@@ -708,6 +855,17 @@
           "time_info": "[01时47分 ~ 03时05分]"
         },
         {
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
+        },
+        {
           "title": "西安一市民除夕夜被AI给骂了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -720,15 +878,15 @@
           "time_info": "[04时38分 ~ 06时37分]"
         },
         {
-          "title": "印度AI峰会，国际媒体给差评",
-          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
-          "source": "凤凰网",
+          "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
+          "url": "https://www.cls.cn/detail/2294083",
+          "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "13时24分"
         },
         {
           "title": "“官方辟谣”：白宫经济学家声称Citrini的AI风险报告纯属“科幻小说”",
@@ -740,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "AI抢饭碗，美联储也没招？理事库克警告：传统降息恐难应对失业潮",
+          "url": "https://www.cls.cn/detail/2294054",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
@@ -788,6 +957,149 @@
       ]
     },
     {
+      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
+          "url": "https://www.zhihu.com/question/2009733369261466626",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时23分 ~ 13时24分]"
+        },
+        {
+          "title": "小米起诉自媒体侵权，获赔500万",
+          "url": "https://www.cls.cn/detail/2293852",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 10时24分]"
+        },
+        {
+          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
+          "url": "https://www.cls.cn/detail/2294110",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
+        },
+        {
+          "title": "小米法拉利保时捷纽北对决",
+          "url": "https://www.douyin.com/hot/2410935",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：公司仍计划每年提高股息。",
+          "url": "https://flash.jin10.com/detail/20260225004633886800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "iPhone 18 Pro小批量试产",
+          "url": "https://www.douyin.com/hot/2410005",
+          "source": "抖音",
+          "ranks": [
+            27,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 06时37分]"
+        },
+        {
+          "title": "苹果股东批准高管薪酬方案",
+          "url": "https://wallstreetcn.com/livenews/3058265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时05分]"
+        },
+        {
+          "title": "iPhone18Pro深红色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E8%89%B2%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
+        },
+        {
+          "title": "小米新一代SU7赤霞红亮相",
+          "url": "https://www.douyin.com/hot/2410023",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时37分]"
+        },
+        {
+          "title": "苹果市值一夜增超6000亿",
+          "url": "https://www.douyin.com/hot/2410917",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "苹果公司配备触摸屏的MacBook Pro机型将于今年秋季推出",
+          "url": "https://wallstreetcn.com/livenews/3058337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "苹果(AAPL.O)：公司股东在年度股东大会上批准了公司所有提案，其中包括对高管薪酬的表决。",
+          "url": "https://flash.jin10.com/detail/20260225001613858800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -811,9 +1123,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -930,127 +1242,6 @@
       ]
     },
     {
-      "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
-          "url": "https://www.zhihu.com/question/2009733369261466626",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "小米起诉自媒体侵权，获赔500万",
-          "url": "https://www.cls.cn/detail/2293852",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 10时24分]"
-        },
-        {
-          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
-          "url": "https://www.cls.cn/detail/2294110",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "苹果(AAPL.O)CEO库克：公司仍计划每年提高股息。",
-          "url": "https://flash.jin10.com/detail/20260225004633886800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "iPhone 18 Pro小批量试产",
-          "url": "https://www.douyin.com/hot/2410005",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 06时37分]"
-        },
-        {
-          "title": "苹果股东批准高管薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/3058265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 03时05分]"
-        },
-        {
-          "title": "iPhone18Pro深红色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E8%89%B2%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "小米新一代SU7赤霞红亮相",
-          "url": "https://www.douyin.com/hot/2410023",
-          "source": "抖音",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 06时37分]"
-        },
-        {
-          "title": "苹果公司配备触摸屏的MacBook Pro机型将于今年秋季推出",
-          "url": "https://wallstreetcn.com/livenews/3058337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "苹果(AAPL.O)：公司股东在年度股东大会上批准了公司所有提案，其中包括对高管薪酬的表决。",
-          "url": "https://flash.jin10.com/detail/20260225001613858800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "macOS ios",
       "match_count": 3,
       "titles": [
@@ -1103,9 +1294,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
         },
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
@@ -1165,6 +1356,63 @@
       ]
     },
     {
+      "keyword_group": "通义千问 qwen",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里通义千问推出Qwen 3.5中型模型系列",
+          "url": "https://flash.jin10.com/detail/20260225010938233800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "阿里云上线Qwen3.5等四大开源模型",
+          "url": "https://wallstreetcn.com/livenews/3058586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国开发贷款机构寻求转型：向主权财富基金模式看齐",
+          "url": "https://wallstreetcn.com/livenews/3058267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时05分]"
+        },
+        {
+          "title": "陈茂波：港府将于年内提交条例修订草案，便利房托基金进行私有化或重组",
+          "url": "https://wallstreetcn.com/livenews/3058582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "grok 马斯克",
       "match_count": 1,
       "titles": [
@@ -1173,11 +1421,12 @@
           "url": "https://www.cls.cn/detail/2294211",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 13时24分]"
         }
       ]
     },
@@ -1213,41 +1462,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "通义千问 qwen",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里通义千问推出Qwen 3.5中型模型系列",
-          "url": "https://flash.jin10.com/detail/20260225010938233800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "基金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国开发贷款机构寻求转型：向主权财富基金模式看齐",
-          "url": "https://wallstreetcn.com/livenews/3058267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 03时05分]"
         }
       ]
     }
