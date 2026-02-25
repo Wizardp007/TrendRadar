@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T13:24:59.885375+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-02-25T15:05:00.490425+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 15时05分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -41,6 +41,19 @@
           "time_info": "[01时47分 ~ 06时37分]"
         },
         {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时05分]"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普：100%错误",
-          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时24分]"
         },
         {
           "title": "特朗普打还是不打，只是时间问题了",
@@ -84,9 +85,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，一议员举横幅被带离(图)",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -98,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -128,7 +151,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -172,7 +195,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -205,7 +228,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -243,6 +266,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 06时37分]"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时05分]"
+        },
+        {
+          "title": "多数美国人称特朗普愈发反复无常",
+          "url": "https://www.toutiao.com/trending/7609682757731647524/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
+        },
+        {
+          "title": "美议员称宁愿瞎也不想听特朗普演说",
+          "url": "https://www.toutiao.com/trending/7610278765754794003/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
@@ -317,7 +373,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -328,9 +384,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "特朗普国情咨文演讲点名讽刺佩洛西",
+          "url": "https://flash.jin10.com/detail/20260225140645916800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "特朗普将要求国会禁止投资公司购买独栋住宅",
@@ -361,7 +428,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -383,7 +450,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -405,18 +472,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -504,7 +560,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -534,7 +590,7 @@
     },
     {
       "keyword_group": "AI 大模型",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -548,8 +604,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 15时05分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -561,8 +617,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时05分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[03时05分 ~ 15时05分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -620,8 +676,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时05分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -631,8 +687,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时05分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -647,6 +703,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 06时37分]"
+        },
+        {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时05分]"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时05分]"
         },
         {
           "title": "AI热潮推动韩国股市市值超越法国 跃升至全球第九",
@@ -671,15 +751,16 @@
           "time_info": "06时37分"
         },
         {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 15时05分]"
         },
         {
           "title": "港股大模型概念股跌幅扩大，MINIMAX-WP跌超16%，智谱跌超8%。",
@@ -691,18 +772,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        },
-        {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时24分]"
         },
         {
           "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
@@ -783,17 +852,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
@@ -878,13 +936,57 @@
           "time_info": "[04时38分 ~ 06时37分]"
         },
         {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
+        },
+        {
+          "title": "AI如果让90%的人都失业会怎样",
+          "url": "https://www.toutiao.com/trending/7610619092361285139/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
+        },
+        {
+          "title": "AI开始雇佣人类",
+          "url": "https://www.toutiao.com/trending/7609867693969178633/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
+        },
+        {
+          "title": "AI助盲眼镜成出行神器",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
+        },
+        {
           "title": "“AI灭霸”Anthropic与“受害股”合作推出智能体 软件板块集体回血",
           "url": "https://www.cls.cn/detail/2294083",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -906,7 +1008,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -958,7 +1060,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "如何评价懂车帝发布的视频「小米纽北遭法拉利保时捷围剿？冠军车手为何沉默」？",
@@ -968,8 +1070,31 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 15时05分]"
+        },
+        {
+          "title": "小米法拉利保时捷纽北对决",
+          "url": "https://www.douyin.com/hot/2410935",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时24分]"
+          "time_info": "[13时24分 ~ 15时05分]"
+        },
+        {
+          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
+          "url": "https://www.cls.cn/detail/2294110",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时05分]"
         },
         {
           "title": "小米起诉自媒体侵权，获赔500万",
@@ -984,26 +1109,26 @@
           "time_info": "[01时47分 ~ 10时24分]"
         },
         {
-          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
-          "url": "https://www.cls.cn/detail/2294110",
-          "source": "财联社热门",
+          "title": "iPhone 自动打电话",
+          "url": "https://s.weibo.com/weibo?q=iPhone%20%E8%87%AA%E5%8A%A8%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时24分]"
+          "time_info": "[15时04分 ~ 15时05分]"
         },
         {
-          "title": "小米法拉利保时捷纽北对决",
-          "url": "https://www.douyin.com/hot/2410935",
-          "source": "抖音",
+          "title": "默茨访华为何要去杭州",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%98%E8%8C%A8%E8%AE%BF%E5%8D%8E%E4%B8%BA%E4%BD%95%E8%A6%81%E5%8E%BB%E6%9D%AD%E5%B7%9E",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：公司仍计划每年提高股息。",
@@ -1053,6 +1178,17 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
+          "title": "网友称苹果手机深夜自动外拨电话",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E5%8F%8B%E7%A7%B0%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E6%B7%B1%E5%A4%9C%E8%87%AA%E5%8A%A8%E5%A4%96%E6%8B%A8%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
+        },
+        {
           "title": "小米新一代SU7赤霞红亮相",
           "url": "https://www.douyin.com/hot/2410023",
           "source": "抖音",
@@ -1065,13 +1201,24 @@
           "time_info": "[01时47分 ~ 06时37分]"
         },
         {
+          "title": "凌晨2点iPhone自动拨电话",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A82%E7%82%B9iPhone%E8%87%AA%E5%8A%A8%E6%8B%A8%E7%94%B5%E8%AF%9D%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时04分 ~ 15时05分]"
+        },
+        {
           "title": "苹果市值一夜增超6000亿",
           "url": "https://www.douyin.com/hot/2410917",
           "source": "抖音",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1104,6 +1251,17 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时05分]"
+        },
+        {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
           "url": "https://www.cls.cn/detail/2293967",
           "source": "财联社热门",
@@ -1115,17 +1273,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 10时24分]"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时24分]"
         },
         {
           "title": "德债收益率在美股盘初短暂地拉升",
@@ -1295,8 +1442,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时05分]"
         },
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
@@ -1377,7 +1524,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -1406,7 +1553,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -1425,8 +1572,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 15时05分]"
         }
       ]
     },
