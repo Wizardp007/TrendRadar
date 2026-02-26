@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T10:12:04.989006+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-02-26T13:21:45.914906+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 10时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 13时21分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -68,6 +68,30 @@
           "time_info": "06时36分"
         },
         {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时21分]"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时21分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
           "url": "https://flash.jin10.com/detail/20260226062302497800",
           "source": "金十数据",
@@ -79,15 +103,37 @@
           "time_info": "06时36分"
         },
         {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时12分"
+          "time_info": "13时21分"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -109,7 +155,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -120,18 +166,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -140,11 +175,12 @@
           "url": "https://www.douyin.com/hot/2411301",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时21分]"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -175,9 +211,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "黄仁勋：市场“错读”了AI对软件公司的威胁",
+          "url": "https://wallstreetcn.com/livenews/3059270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -202,6 +249,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
+          "url": "https://flash.jin10.com/detail/20260226115757387800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
           "url": "https://wallstreetcn.com/livenews/3058977",
           "source": "华尔街见闻-快讯",
@@ -222,6 +280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
+          "url": "https://www.zhihu.com/question/2009656278029456894",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "英伟达CEO黄仁勋：客户竞相投资AI计算。 计算需求迅猛增长。 企业对代理的应用飙升。 Grace Blackwell搭配NVLink是推理的王者。",
@@ -277,12 +346,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "AI圈爆火的FARS是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -293,8 +373,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 10时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 13时21分]"
         },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -319,6 +399,17 @@
           "time_info": "[01时10分 ~ 06时36分]"
         },
         {
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时21分]"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：我们未对最高法院推翻特朗普部分关税政策的裁决发表意见。",
           "url": "https://flash.jin10.com/detail/20260226062305910800",
           "source": "金十数据",
@@ -328,17 +419,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
-        },
-        {
-          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
-          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -358,7 +438,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -441,6 +521,28 @@
           "time_info": "03时09分"
         },
         {
+          "title": "特朗普把国情咨文演讲开成吹牛大会",
+          "url": "https://www.toutiao.com/trending/7611003629566168602/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
+          "url": "https://wallstreetcn.com/livenews/3059242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "据福克斯新闻：乌克兰将在与俄罗斯举行日内瓦会谈前夕会见特朗普特使。",
           "url": "https://flash.jin10.com/detail/20260226003354542800",
           "source": "金十数据",
@@ -480,11 +582,12 @@
             8,
             10,
             12,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 10时12分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 13时21分]"
         },
         {
           "title": "华为将首发阔折叠屏",
@@ -517,11 +620,12 @@
           "url": "https://www.zhihu.com/question/1915356529403598538",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时21分]"
         },
         {
           "title": "iPhone可添加门禁卡可写入加密",
@@ -544,7 +648,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
@@ -566,6 +670,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 13时21分]"
+        },
+        {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -578,27 +694,15 @@
           "time_info": "[01时10分 ~ 06时36分]"
         },
         {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 10时12分]"
-        },
-        {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时21分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
@@ -607,9 +711,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时21分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -632,6 +736,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "基金",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "基金会主席竟是爱泼斯坦的常客！普利兹克建筑奖被迫推迟公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653585",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 13时21分]"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：将联邦基金利率降至3.25%至3.5%的水平，与美国经济回归充分就业的目标相一致。",
+          "url": "https://flash.jin10.com/detail/20260226061847847800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时36分"
+        },
+        {
+          "title": "消息人士：国际货币基金组织执行董事会将于周四审议针对乌克兰的81亿美元贷款协议。",
+          "url": "https://flash.jin10.com/detail/20260226003928992800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "韩国央行行长李昌镛：IT行业净出口将贡献今年GDP增幅约0.7个百分点。 本地投资者购买美元资产对韩元造成的下行压力正在减小。 已就国民年金公团发行美元债券的利弊进行分析，该基金是否发行外汇债券最终由政府决定。 现行前瞻指引体系能否维持或完善，将由新一届韩国央行货币政策委员会成员决定。",
+          "url": "https://wallstreetcn.com/livenews/3059235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -677,43 +833,31 @@
       ]
     },
     {
-      "keyword_group": "基金",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "基金会主席竟是爱泼斯坦的常客！普利兹克建筑奖被迫推迟公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32653585",
-          "source": "澎湃新闻",
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            11,
-            5
+            25,
+            24
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时10分 ~ 10时12分]"
+          "time_info": "[01时09分 ~ 06时36分]"
         },
         {
-          "title": "IMF总裁格奥尔基耶娃：将联邦基金利率降至3.25%至3.5%的水平，与美国经济回归充分就业的目标相一致。",
-          "url": "https://flash.jin10.com/detail/20260226061847847800",
-          "source": "金十数据",
+          "title": "女子泰国机场1110元金价买了周大福",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "消息人士：国际货币基金组织执行董事会将于周四审议针对乌克兰的81亿美元贷款协议。",
-          "url": "https://flash.jin10.com/detail/20260226003928992800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "13时21分"
         }
       ]
     },
@@ -753,24 +897,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价高的已经推出红绳戒指了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 06时36分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -779,11 +905,12 @@
           "url": "https://www.cls.cn/detail/2295242",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时12分 ~ 13时21分]"
         }
       ]
     },
