@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-27T18:40:35.201991+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-02-27T21:03:19.538699+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 大模型",
       "match_count": 39,
       "titles": [
+        {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 21时03分]"
+        },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3766259",
@@ -19,18 +31,6 @@
           "time_info": "[01时01分 ~ 16时43分]"
         },
         {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 18时40分]"
-        },
-        {
           "title": "椭圆变速版see you again",
           "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
           "source": "bilibili 热搜",
@@ -40,11 +40,25 @@
             14,
             19,
             15,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 21时03分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 21时03分]"
         },
         {
           "title": "强劲财报难解AI担忧，英伟达跌超5%，纳指跌幅扩大至2%，芯片股承压，金涨银跌，油价反弹",
@@ -59,6 +73,19 @@
           "time_info": "[01时01分 ~ 06时36分]"
         },
         {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 21时03分]"
+        },
+        {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
           "url": "https://wallstreetcn.com/articles/3766208",
           "source": "华尔街见闻",
@@ -71,30 +98,15 @@
           "time_info": "[01时01分 ~ 06时36分]"
         },
         {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            10
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 18时40分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 21时03分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -107,17 +119,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时10分 ~ 16时43分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 18时40分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -137,9 +138,24 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 21时03分]"
         },
         {
           "title": "阿里回应：夸克AI眼镜和千问AI眼镜是同一个团队推出的不同系列",
@@ -174,20 +190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 18时40分]"
         },
         {
           "title": "科技巨头2万亿美元豪赌AI",
@@ -461,7 +463,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -511,6 +513,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "德国总理默茨将寻求特朗普在华盛顿会谈中就关税问题给出明确答复",
+          "url": "https://flash.jin10.com/detail/20260227203739625800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
           "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
           "source": "凤凰网",
@@ -551,9 +564,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "德国总理默茨将赴美会晤特朗普 寻求澄清关税政策",
+          "url": "https://wallstreetcn.com/livenews/3060300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
@@ -576,6 +600,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 21时03分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -624,6 +660,19 @@
           "time_info": "[02时55分 ~ 04时40分]"
         },
         {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 21时03分]"
+        },
+        {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
           "url": "https://www.zhihu.com/question/2009941400440025198",
           "source": "知乎",
@@ -635,30 +684,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 06时36分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 18时40分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 18时40分]"
         },
         {
           "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
@@ -818,7 +843,7 @@
     },
     {
       "keyword_group": "iPhone 华为 三星 OPPO VIVO 小米 苹果",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -853,6 +878,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时10分 ~ 14时57分]"
+        },
+        {
+          "title": "小米汽车：将重建安全顾问委员会及公众安全沟通机制",
+          "url": "https://wallstreetcn.com/livenews/3060301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "苹果新品来了",
@@ -943,7 +979,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -954,7 +990,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -962,7 +998,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -1030,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "2025年沙特投资者大幅增加美股交易量，国内交易额近乎减半",
+          "url": "https://flash.jin10.com/detail/20260227200350341800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -1194,7 +1241,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1256,7 +1303,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1265,11 +1312,12 @@
           "url": "https://www.cls.cn/detail/2297257",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 21时03分]"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：2月25日当周，美国杠杆贷款基金流出15.4亿美元，创2025年4月份以来最大。",
@@ -1319,6 +1367,34 @@
       ]
     },
     {
+      "keyword_group": "grok 马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：星舰V3 SN1正前往地面测试。我非常有信心V3设计将实现完全可重复使用。",
+          "url": "https://flash.jin10.com/detail/20260227094707692800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "马斯克：特斯拉将在20年内上月球建厂 建议投资者长期持股",
+          "url": "https://wallstreetcn.com/livenews/3060282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1364,23 +1440,6 @@
       ]
     },
     {
-      "keyword_group": "grok 马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：星舰V3 SN1正前往地面测试。我非常有信心V3设计将实现完全可重复使用。",
-          "url": "https://flash.jin10.com/detail/20260227094707692800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "豆包",
       "match_count": 1,
       "titles": [
@@ -1394,6 +1453,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "钛动科技递表港交所 冲刺“Multi-Agent第一股”",
+          "url": "https://wallstreetcn.com/livenews/3060262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         }
       ]
     }
